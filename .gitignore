@@ -1,0 +1,6 @@
+# Mac
+.DS_Store
+
+# 备份/临时
+*.bak
+*.tmp
