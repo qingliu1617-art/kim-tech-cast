@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 05 Jun 2026 23:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 01:05:03 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -29,21 +29,23 @@
       <description>📋 今日要闻 · 2026-06-06
 
 【💰 财经动态】
-• Google will pay SpaceX $920M per month for compute
-  techcrunch-ai · 2026-06-05 · https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
-• AI巨头发出警告：AI系统正迅速进步，它们可能很快能够自我改进
-  36氪 · 2026-06-05 · https://www.36kr.com/p/3839972948855045
-• “中国最会烧钱的4个男人，坐上了同一张牌桌”
-  36氪 · 2026-05-31 · https://www.36kr.com/p/3831900268865157
-• 高盛预计xAI营收5年增长约100倍
-  36kr-newsflash · 2026-06-05 · https://36kr.com/newsflashes/3840204240931080?f=rss
-• Sharpa：不甘心做灵巧手界的宇树
-  jtks-jushen-jiyuan · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=Mzk2NDg4MDcwNA==&amp;mid=2247494430&amp;idx=1&amp;sn=7e3b4cc8185761a114e975cfd1d8d22f&amp;chksm=c5101da9c7db2f1d279be93675416dddddd854896bd11716b0139e1a91dc43cf13532c769152&amp;scene=0#rd
+• RT by @elonmusk: SpaceX just quietly amended its S-1 announcing another mega dea
+  x-elonmusk · 2026-06-05 · https://www.x.com/shaunmmaguire/status/2062971446843015595
+• Anthropic President Sees High Computing Costs as Driver for IPOs
+  bloomberg-tech · 2026-06-04 · https://www.bloomberg.com/news/articles/2026-06-04/anthropic-president-cites-high-computing-costs-as-driver-for-ipo
+• 具身生意经 IPO特辑 01｜6月1日宇树上会：42亿募资背后，具身智能开始补哪四门课？
+  jtks-jushen-xingqiu · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzcwMDIwMTAzNA==&amp;mid=2247484268&amp;idx=1&amp;sn=7da53eefaf5987023e909c2ab77a01e3&amp;chksm=f4b22249c3c5ab5fa68ef9aff7dce650b3ac2513f79eb2b6d9cb2eba014ba30640464ae203dd#rd
+• Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion
+  bloomberg-tech · 2026-06-04 · https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion
+• Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’
+  wired-ai · 2026-06-04 · https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/
+• RT by @Figure_robot: Today, we're announcing the completion of a $100 million em
+  x-figure · 2026-05-29 · https://www.x.com/adcock_brett/status/2060431765572096052
 </description>
       <pubDate>Sat, 06 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-06</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-06.mp3" length="2390769" type="audio/mpeg"/>
-      <itunes:duration>02:29</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-06.mp3" length="1640532" type="audio/mpeg"/>
+      <itunes:duration>01:42</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
