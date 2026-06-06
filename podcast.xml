@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 06 Jun 2026 03:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 06:16:52 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -29,17 +29,19 @@
       <description>📋 今日要闻 · 2026-06-06
 
 【💰 财经动态】
-• 刚刚！腾讯拟100亿投资DeepSeek，加上宁德时代共融资超500亿
-  jtks-zhinengjiyuanagi · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzcwMTIxNjgwMA==&amp;mid=2247487759&amp;idx=1&amp;sn=efd55141e3c165962a27a0030b965c34&amp;chksm=f4a2b040c3d539562c99d28f21946dc2678b1047c19bc5b76996bd88e244f08691ebc97284ad#rd
-• 月付 9.2 亿美元：谷歌租赁马斯克 SpaceX 的 AI 算力，约 11 万英伟达 GPU、CPU 等
-  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/770.htm
-• Anthropic冲刺IPO：Claude一个月烧掉客户5亿美元，却成了上市前最强广告
-  36氪 · 2026-06-02 · https://www.36kr.com/p/3835777925510535
+• SpaceX与谷歌达成每月9.2亿美元的云服务协议
+  36kr-newsflash · 2026-06-06 · https://36kr.com/newsflashes/3841028145236227?f=rss
+• OpenAI给每家YC初创公司送200万美元
+  36氪 · 2026-06-05 · https://www.36kr.com/p/3840087458826503
+• 速递｜AI推理服务商Fireworks AI拟定新一轮融资，估值150亿美元
+  jtks-zpotentials · 2026-05-29 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515914&amp;idx=4&amp;sn=9c4d47708430dc062de53c53c950bd40&amp;chksm=ea51105586ea8fe38ad7292abb6f789f423d6c436f1ad7c958d11bfaf1614878ae1281d7287f&amp;scene=0#rd
+• AI Music Startup Suno Raises Capital at $5.4 Billion Valuation
+  bloomberg-tech · 2026-06-03 · https://www.bloomberg.com/news/articles/2026-06-03/ai-music-startup-suno-raises-capital-at-5-4-billion-valuation
 </description>
       <pubDate>Sat, 06 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-06</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-06.mp3" length="1671043" type="audio/mpeg"/>
-      <itunes:duration>01:44</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-06.mp3" length="1730812" type="audio/mpeg"/>
+      <itunes:duration>01:48</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
