@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 06 Jun 2026 09:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 22:10:45 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,91 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/07 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-07
+
+【AI 基础设施】
+• These are the first Nvidia RTX Spark laptops
+  theverge · 2026-06-01 · https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026
+• Nvidia Is Taking On Intel and AMD With New AI Chip for Computers
+  bloomberg-tech · 2026-06-01 · https://www.bloomberg.com/news/articles/2026-06-01/nvidia-enters-windows-laptop-market-taking-on-intel-and-amd
+• Necessity is the mother of innovation. In one fell swoop, Huawei overtakes all i
+  x-semianalysis · 2026-05-31 · https://www.x.com/SemiAnalysis_/status/2060889110932308316
+• Our work shows AI taking roughly 60% of N3 family wafers in 2026 and stepping up
+  x-semianalysis · 2026-05-30 · https://www.x.com/SemiAnalysis_/status/2060828706055094734
+
+【大模型】
+• 软银孙正义：OpenAI 正用 AI 设计 AI 模型，比人类聪明 1 万倍的 ASI 未来 2 年到来
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/852.htm
+• DeepSeek V4做数学证明，500倍成本优势：智能体系统刷新多项纪录
+  jtks-jiqizhixin · 2026-06-06 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651037518&amp;idx=2&amp;sn=2d6012bcb8a495b818fce4458626480d&amp;chksm=859ebf6fa65db6ce43cd78be9529ce98f62c2a68075e22150ddd5535b19b3a17101e06fc9e72&amp;scene=0#rd
+
+【具身智能模型】
+• 大晓机器人联合南洋理工打通Physical AI全链路！PhysX-Omni补齐物理AI基建
+  jtks-jiqizhixin · 2026-06-06 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651037518&amp;idx=3&amp;sn=59f355e1dc3f88caf44be217a4474af5&amp;chksm=8599672563c3ce359ecd9bc9580f8c4f35ee52deec48ffed8cd631854e48fa07d953f024d6bd&amp;scene=0#rd
+• 1X All in世界模型：你无法通过微调实现AGI
+  jtks-jushen-jiyuan · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=Mzk2NDg4MDcwNA==&amp;mid=2247494444&amp;idx=1&amp;sn=ba2e7ddd987ba80200b2b3bb7c888356&amp;chksm=c588ff00a2c464a23dac71bdcb05311351630bf5623aa455e1e6cc30e24d08623a3d8588f9ff&amp;scene=0#rd
+• 对话它石智航丁文超：具身智能，如何迈进「2.0时代」？丨ICRA 2026
+  jtks-leifengwang · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750091&amp;idx=1&amp;sn=dd78d7b3faabab48fc4260fda5ac3b3f&amp;chksm=63871278a85a41e3181285bc4683aa0fe9d1cecf5530dadaa2ec69005449addaa2b1d3ccb252&amp;scene=0#rd
+• 李飞飞最新长文：当视频生成、机器人和NVIDIA都自称世界模型，我们需要一个分类法
+  jtks-yanzhi · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzU5ODQ5ODQ1Mw==&amp;mid=2247668076&amp;idx=1&amp;sn=8e1ef23e7512f953bfefb0f800e528f3&amp;chksm=fe4f5c96c938d5801b29865369fc95f04087ed67d1003e6a548db61dc747ed9e974cc93e8d2b#rd
+
+【智能驾驶】
+• 东风发布无人物流车品牌 OpenVAN：载重最大 13.6 吨，预计 8 月交付
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/965.htm
+• 高通宣布车端人工智能 Claw 生态计划，将智能体 AI 引入智能座舱
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/695.htm
+• BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start
+  electrek · 2026-06-05 · https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/
+
+【机器人硬件】
+• Harbinger gears up for war with autonomous military truck program
+  electrek · 2026-06-06 · https://electrek.co/2026/06/06/harbinger-gears-up-for-war-with-autonomous-military-truck-program/
+• 实拍ICRA的友商们，没想到都选了同一家人形臂。
+  jtks-tiannan-jushen · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MzcwMzAxMDE0MA==&amp;mid=2247485389&amp;idx=1&amp;sn=575da5bf6bdeea945ec30faed3d80cbb&amp;chksm=f489c3fec3fe4ae897c828c501e2550eb1bac35e585452c97b98fa4a4588fecdc8001bc3b900#rd
+• The skeptic’s guide to humanoid robots going viral on the Internet
+  arstechnica · 2026-06-04 · https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/
+
+【AI 消费硬件与脑机】
+• 蚂蚁这场AI眼镜生态闭门会，半个AI眼镜圈都来了
+  jtks-xrvision · 2026-06-06 · http://mp.weixin.qq.com/s?__biz=MjM5OTY1ODgxMg==&amp;mid=2257490962&amp;idx=1&amp;sn=ea269099ad4b67bb38fd3d774d1c1147&amp;chksm=a5f46624d89eb83f079d11c9b5d2f42a5c8c5bcce6c8259b9128fe35debb5a06047170e8a8d3&amp;scene=0#rd
+• 荣耀影像实验室官宣对标阿莱 ARRI 标准，正式升级为电影工业影像实验室
+  IT之家 · 2026-05-24 · https://www.ithome.com/0/954/510.htm
+• 华为官网信息公布：MatePad Pro Max 悦享款搭载麒麟 T93 处理器
+  IT之家 · 2026-06-01 · https://www.ithome.com/0/958/363.htm
+• This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark
+  theverge · 2026-06-01 · https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures
+
+【AI Agent】
+• Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底
+  jtks-aifrontline · 2026-06-06 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663236&amp;idx=1&amp;sn=4ad39378e7fc17454c2194a8167496b6&amp;chksm=fadb337dedb6d284f5bed1d90393e1592512f971ace96fdce630773f095e126f636ec21bc435&amp;scene=0#rd
+• 微软想让用户对自家智能体 Scout 上瘾？CEO 纳德拉否认
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/975.htm
+
+【💰 财经动态】
+• Google will pay SpaceX $920M per month for compute
+  techcrunch-ai · 2026-06-05 · https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
+• SpaceX Inks $30 Billion Computing Power Deal With Google
+  bloomberg-tech · 2026-06-05 · https://www.bloomberg.com/news/articles/2026-06-05/google-buying-computing-from-spacex-in-920-million-a-month-deal
+• RT by @elonmusk: SpaceX just quietly amended its S-1 announcing another mega dea
+  x-elonmusk · 2026-06-05 · https://www.x.com/shaunmmaguire/status/2062971446843015595
+• SpaceX与谷歌达成每月9.2亿美元的云服务协议
+  36kr-newsflash · 2026-06-06 · https://36kr.com/newsflashes/3841028145236227?f=rss
+• 英伟达 Rubin 机架内存缩水一半？市场误读导致美光市值蒸发逾 1000 亿美元
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/901.htm
+• 分析师：到 2030 年前，英伟达在 AI 数据中心芯片领域的地位仍难撼动
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/950.htm
+• RT by @Figure_robot: Today, we're announcing the completion of a $100 million em
+  x-figure · 2026-05-29 · https://www.x.com/adcock_brett/status/2060431765572096052
+</description>
+      <pubDate>Sun, 07 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-07</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-07.mp3" length="10755386" type="audio/mpeg"/>
+      <itunes:duration>11:12</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/06 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-06
