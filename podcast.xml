@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 06 Jun 2026 08:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 09:10:27 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -28,6 +28,64 @@
       <title>06/06 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-06
 
+【AI 基础设施】
+• BREAKING NEWS: NVIDIA HAS JUST OPEN SOURCED THEIR RUBIN NVSWITCH TRAY BoM &amp; DIAG
+  x-semianalysis · 2026-06-05 · https://www.x.com/SemiAnalysis_/status/2062720812042371558
+• 黄仁勋谈未来计算：收敛为面向 AI 智能体的统一架构，覆盖云端到机器人
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/844.htm
+
+【大模型】
+• Anthropic紧急叫停，Mythos被内鬼偷卖API
+  36氪 · 2026-06-05 · https://www.36kr.com/p/3840185187010824
+• Anthropic万字长文：当AI开始构建自己，人类该何去何从？
+  jtks-shuzishengmingkazi · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647682995&amp;idx=1&amp;sn=dfb17dcc572d5d2f4e980859973f3992&amp;chksm=f1caa5cf81ac72ec1ed0168ef76718ea37f765449e0b077e12a2bf8b4603d0d013caa0b5325b&amp;scene=0#rd
+• Anthropic与OpenAI同周预警：AI开始自己造自己！Anthropic却带头呼吁“愿意暂停AI研究”，网友：奇点已来还是IPO造势？
+  jtks-51cto · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655940416&amp;idx=1&amp;sn=6937d87f607e1ba7c211360ac8765ab5&amp;chksm=bcb8354c749cc5bdf968820adea7705106ad0b244fe4e06293235068a28b45caa55df3281e91&amp;scene=0#rd
+• ChatGPT的“失忆症”终于被治好了！Dreaming V3让大模型拥有长期记忆，从聊天工具迈向真正的个人助手
+  jtks-51cto · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655940425&amp;idx=1&amp;sn=b3d4baca25a0b767e2cb1566ecf76583&amp;chksm=bc707d0f2095fae2bfc31976df9865639735008a8e2dc852648bebdf9885fd3195549443e42b&amp;scene=0#rd
+• 苹果 iOS 27 版 Siri 前瞻：AI 感知屏幕、跨 App 操作，新增独立应用
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/782.htm
+
+【具身智能模型】
+• 别再碰瓷100 亿美元“身价”的世界模型了，李飞飞这次手把手教你分辨
+  36氪 · 2026-06-05 · https://www.36kr.com/p/3839685302241536
+• Index Ventures' Achadjian on Backing Ex-SpaceX Workers
+  bloomberg-tech · 2026-06-05 · https://www.bloomberg.com/news/videos/2026-06-05/index-ventures-achadjian-on-backing-ex-spacex-workers-video
+• 下一个Anthropic不写代码，它在搬箱子！
+  jtks-xinzhiyuan · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652705191&amp;idx=1&amp;sn=8896271a48e289d4d1b5b4583db49796&amp;chksm=f06209f82d6375328496e9575e03d8bf2406cd6cd65a872fcc92c0abb9ecced7b2511a6539b3&amp;scene=0#rd
+
+【智能驾驶】
+• 东风汽车无人运力品牌 OpenVAN 公布，四款 L4 级无人物流新车明日发布
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/744.htm
+• RT by @elonmusk: Tesla Cybercab will change the look of roads forever.  The futu
+  x-elonmusk · 2026-06-05 · https://www.x.com/cb_doge/status/2062955283610218847
+• GOOD NEWS 🚨 Tesla Robotaxi LLC has officially taken a massive regulatory step by
+  x-ming-tesla · 2026-06-06 · https://www.x.com/tslaming/status/2063067273271951656
+
+【机器人硬件】
+• 小鹏机器人核心产品一号位施晓鑫6月初主动离职
+  36kr-newsflash · 2026-06-05 · https://36kr.com/newsflashes/3839618628192773?f=rss
+• 小鹏被传机器人核心人物离职，内部人士称业务进展顺利
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/890.htm
+• 自动驾驶最能打的一批人，悄悄成了中国具身智能的「黄埔军校」......
+  jtks-autodrive-heart · 2026-06-06 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695200&amp;idx=1&amp;sn=af5c9c12ed958ff1691d0b144e2c61c5&amp;chksm=cf65b4d4c979bf6c95089fb34ed509f75a34585849b684ff088913ae2c14a11347dd36d7e100&amp;scene=0#rd
+• 谁先跑进10万个家庭，谁就赢了机器人第一局
+  jtks-xinzhiyuan · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652705143&amp;idx=1&amp;sn=534f8382db0274fc125ff0de5a532640&amp;chksm=f0ec955f7383bb70523ab6725fb831a994219da7e8cb4c4367c442b9b4de938ce00355c28f5d&amp;scene=0#rd
+
+【AI 消费硬件与脑机】
+• 全国首例：侵入式脑机接口让失明 20 年患者重见光明
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/883.htm
+• Meta 智能眼镜 App 被曝暗藏 AI 人脸识别功能相关代码：影响超 5000 万设备，公司回应称仅为探索而已
+  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/735.htm
+
+【AI Agent】
+• Claude的双面人生：在Anthropic内部卷生卷死，在用户面前躺平摆烂
+  jtks-jiqizhixin · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651037437&amp;idx=1&amp;sn=2d66ba718403b70eb617e8e9bd382329&amp;chksm=8520b1f2c81baf779ba3a387772f6d396ca47cffdebc89f2b8ab4699081b87169ae0866651a6&amp;scene=0#rd
+• OpenAI曝光「自进化」AI！6周准确率翻三倍，Bug全自己修
+  jtks-xinzhiyuan · 2026-06-06 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652705195&amp;idx=1&amp;sn=2469ec9a534e7f63fae5a3cb794b3e91&amp;chksm=f0c7a6d6994fb58d30b7259ac9df81510e6c800bccbeb3bfe1d13b678276efa466b55941a3a1&amp;scene=0#rd
+• Anthropic 被曝雇 1000 名人类工程师训练 Claude Code，每项任务 280 美元
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/907.htm
+
 【💰 财经动态】
 • Apollo Wraps Up $35 Billion Debt to Buy AI Chips for Anthropic
   bloomberg-tech · 2026-06-05 · https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic
@@ -40,8 +98,8 @@
 </description>
       <pubDate>Sat, 06 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-06</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-06.mp3" length="1746276" type="audio/mpeg"/>
-      <itunes:duration>01:49</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-06.mp3" length="10688931" type="audio/mpeg"/>
+      <itunes:duration>11:08</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
