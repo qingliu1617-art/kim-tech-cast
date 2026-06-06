@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 06 Jun 2026 01:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 03:06:32 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -29,23 +29,17 @@
       <description>📋 今日要闻 · 2026-06-06
 
 【💰 财经动态】
-• RT by @elonmusk: SpaceX just quietly amended its S-1 announcing another mega dea
-  x-elonmusk · 2026-06-05 · https://www.x.com/shaunmmaguire/status/2062971446843015595
-• Anthropic President Sees High Computing Costs as Driver for IPOs
-  bloomberg-tech · 2026-06-04 · https://www.bloomberg.com/news/articles/2026-06-04/anthropic-president-cites-high-computing-costs-as-driver-for-ipo
-• 具身生意经 IPO特辑 01｜6月1日宇树上会：42亿募资背后，具身智能开始补哪四门课？
-  jtks-jushen-xingqiu · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzcwMDIwMTAzNA==&amp;mid=2247484268&amp;idx=1&amp;sn=7da53eefaf5987023e909c2ab77a01e3&amp;chksm=f4b22249c3c5ab5fa68ef9aff7dce650b3ac2513f79eb2b6d9cb2eba014ba30640464ae203dd#rd
-• Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion
-  bloomberg-tech · 2026-06-04 · https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion
-• Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’
-  wired-ai · 2026-06-04 · https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/
-• RT by @Figure_robot: Today, we're announcing the completion of a $100 million em
-  x-figure · 2026-05-29 · https://www.x.com/adcock_brett/status/2060431765572096052
+• 刚刚！腾讯拟100亿投资DeepSeek，加上宁德时代共融资超500亿
+  jtks-zhinengjiyuanagi · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzcwMTIxNjgwMA==&amp;mid=2247487759&amp;idx=1&amp;sn=efd55141e3c165962a27a0030b965c34&amp;chksm=f4a2b040c3d539562c99d28f21946dc2678b1047c19bc5b76996bd88e244f08691ebc97284ad#rd
+• 月付 9.2 亿美元：谷歌租赁马斯克 SpaceX 的 AI 算力，约 11 万英伟达 GPU、CPU 等
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/770.htm
+• Anthropic冲刺IPO：Claude一个月烧掉客户5亿美元，却成了上市前最强广告
+  36氪 · 2026-06-02 · https://www.36kr.com/p/3835777925510535
 </description>
       <pubDate>Sat, 06 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-06</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-06.mp3" length="1640532" type="audio/mpeg"/>
-      <itunes:duration>01:42</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-06.mp3" length="1671043" type="audio/mpeg"/>
+      <itunes:duration>01:44</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
