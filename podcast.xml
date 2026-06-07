@@ -5,11 +5,11 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI 行业日报</title>
-    <link>https://qingliu1617-art.github.io/kim-tech-cast/</link>
+    <link>https://qingliu1617-art.github.io/kim-tech-cast</link>
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 07 Jun 2026 12:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 22:13:52 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,86 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover-blue.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/08 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-08
+
+【AI 基础设施】
+• Nvidia to Debut New Chip for Laptops, Desktop Computers
+  bloomberg-tech · 2026-06-01 · https://www.bloomberg.com/news/videos/2026-06-01/nvidia-to-debut-new-chip-for-laptops-desktop-computers-video
+• 光源权力转移  EML 到 CW/ELS  源杰跟索尔思的位置在哪？
+  jtks-zihaotanxin · 2026-05-31 · http://mp.weixin.qq.com/s?__biz=Mzk0ODUzNzI4OQ==&amp;mid=2247488224&amp;idx=1&amp;sn=7b6cf1ec8839ed991cbb86d590f2fc6c&amp;chksm=c3674046f410c95081c860af194a7d5f06f48d63c920fafe63554a394fbf7e5c09e78111410d#rd
+• ▌最新的供應鏈調查顯示，舜宇光學迎來數個新正向趨勢： 1. 利用既有光學技術優勢，準備進入 ...
+  x-mingchi-kuo · 2026-05-29 · https://www.x.com/mingchikuo/status/2060241869158985783
+
+【大模型】
+• 突发，字节AI大将顾全全离职
+  36氪 · 2026-06-02 · https://www.36kr.com/p/3836085319103619
+• MiniMax 低调发布 M3 和 MiniMax Code，我们测完后有几点感受
+  jtks-crossing · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&amp;mid=2649108856&amp;idx=1&amp;sn=cc5d8fd02bf7f9d7a494bca00ba092cb&amp;chksm=82a7b1384e4ee6ba9dba17e70cff5840f9fb7dccaa3350a23055cbe98b45f7e076ec2bc45a91&amp;scene=0#rd
+• Florida Sues OpenAI, Sam Altman Over Chatbot Safety Concerns
+  bloomberg-tech · 2026-06-01 · https://www.bloomberg.com/news/articles/2026-06-01/florida-sues-openai-sam-altman-over-chatbot-safety-concerns
+• Microsoft to unveil new AI models and Windows improvements at Build
+  theverge · 2026-06-01 · https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect
+
+【具身智能模型】
+• 完了，Sharpa和宇树、英伟达准备穿一条裤子。
+  jtks-tiannan-jushen · 2026-06-02 · http://mp.weixin.qq.com/s?__biz=MzcwMzAxMDE0MA==&amp;mid=2247485328&amp;idx=1&amp;sn=2a6d4da838c9b2e3b488142a9b28842e&amp;chksm=f489c3a3c3fe4ab54e0e2e7b9c236f4fd77ad8d7b4b8c74473b5f9636bd98e40b25745d2ab63#rd
+• 云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路
+  jtks-qbitai · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247894090&amp;idx=2&amp;sn=e505746db4e72c7d97d75fa113db3932&amp;chksm=e958d8278725805812a7c87bf3c7cdd0ef65038dcf7f71c989e4238c4f56cd102c17e90ab166&amp;scene=0#rd
+
+【AI 消费硬件与脑机】
+• The Surface Laptop Ultra is the most powerful Surface yet, thanks to NVIDIA's RT
+  engadget · 2026-06-01 · https://www.engadget.com/2184570/microsoft-surface-laptop-ultra/
+• Dell's new XPS 13 is a MacBook Neo rival that costs $599 and retains premium fea
+  zdnet · 2026-05-31 · https://www.zdnet.com/article/dell-xps-13-2026-macbook-neo-competitor/
+• Dell XPS 13 (2026) vs. MacBook Neo: I compared both budget laptops, here's which
+  zdnet · 2026-05-31 · https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/
+
+【AI Agent】
+• 月之暗面 Kimi Work Beta 版开启内测：面向知识工作者的通用型本地 Agent
+  IT之家 · 2026-06-03 · https://www.ithome.com/0/959/547.htm
+• Kimi发布桌面端产品Kimi Work，定位通用型本地Agent
+  36kr-newsflash · 2026-06-03 · https://36kr.com/newsflashes/3837454258391555?f=rss
+• Meta’s AI agent for WhatsApp Business is now available globally
+  techcrunch-ai · 2026-06-03 · https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/
+• 英伟达与微软达成合作：推出统一技术栈，用于部署Agentic AI
+  36kr-newsflash · 2026-06-02 · https://36kr.com/newsflashes/3836623180101001?f=rss
+
+【💰 财经动态】
+• “中国最会烧钱的4个男人，坐上了同一张牌桌”
+  36氪 · 2026-05-31 · https://www.36kr.com/p/3831900268865157
+• Anthropic President Sees High Computing Costs as Driver for IPOs
+  bloomberg-tech · 2026-06-04 · https://www.bloomberg.com/news/articles/2026-06-04/anthropic-president-cites-high-computing-costs-as-driver-for-ipo
+• 万亿美元 AI 公司，面试时禁止使用 AI
+  jtks-geekpark · 2026-06-07 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653108308&amp;idx=1&amp;sn=3b76dff039b08e8ec5aa4d0b040bcb98&amp;chksm=7fc8f0a2461c67b44fd1d40b0cb0278b28825a5d9bca67d9665ad711369898af881da4ff0093&amp;scene=0#rd
+• AI巨头发出警告：AI系统正迅速进步，它们可能很快能够自我改进
+  36氪 · 2026-06-05 · https://www.36kr.com/p/3839972948855045
+• 消息称美国政府与 OpenAI 谈持股方案，磋商已超 1 年且仍在推进
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/847.htm
+• Sharpa：不甘心做灵巧手界的宇树
+  jtks-jushen-jiyuan · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=Mzk2NDg4MDcwNA==&amp;mid=2247494430&amp;idx=1&amp;sn=7e3b4cc8185761a114e975cfd1d8d22f&amp;chksm=c5101da9c7db2f1d279be93675416dddddd854896bd11716b0139e1a91dc43cf13532c769152&amp;scene=0#rd
+• This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t 
+  techcrunch-ai · 2026-05-29 · https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/
+• Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion
+  bloomberg-tech · 2026-06-04 · https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion
+• Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’
+  wired-ai · 2026-06-04 · https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/
+• 速递｜AI推理服务商Fireworks AI拟定新一轮融资，估值150亿美元
+  jtks-zpotentials · 2026-05-29 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247515914&amp;idx=4&amp;sn=9c4d47708430dc062de53c53c950bd40&amp;chksm=ea51105586ea8fe38ad7292abb6f789f423d6c436f1ad7c958d11bfaf1614878ae1281d7287f&amp;scene=0#rd
+</description>
+      <pubDate>Mon, 08 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-08</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-08.mp3" length="9144154" type="audio/mpeg"/>
+      <itunes:duration>09:31</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/07 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-07
