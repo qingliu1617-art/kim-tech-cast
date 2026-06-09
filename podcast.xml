@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 09 Jun 2026 15:39:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:35:31 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,104 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/10 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-10
+
+【AI 基础设施】
+• Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options
+  arstechnica · 2026-06-01 · https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/
+• Computex 2026: All the news and announcements
+  theverge · 2026-06-01 · https://www.theverge.com/tech/940844/computex-2026
+• Intel Foundry's EMIB plus 18A-P/T is positioned as a multi-billion-dollar extern
+  x-semianalysis · 2026-06-01 · https://www.x.com/SemiAnalysis_/status/2061433005298655704
+
+【大模型】
+• 一文读懂WWDC26：苹果把Siri彻底重做了
+  jtks-aihambri · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515498&amp;idx=1&amp;sn=c4dc2bb1f2ffa65e2a833149facee1ba&amp;chksm=cf65b152c1d2d6117c51a53ab12f3ae50868e332ea8bd2e1a92ff0d74f71566fb5b37c785941&amp;scene=0#rd
+• 3B小模型，把图像视频“看画改”全打通了，字节Lance开源即冲上抱抱脸第一
+  jtks-qbitai · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247896365&amp;idx=3&amp;sn=e12711bc2012bf7690c5815c1e2348d5&amp;chksm=e918d357fd6e8949537ead341a651911e4985e610ad4392c28168748595a3c8ef7fd4af90ba6&amp;scene=0#rd
+• 苹果发布下一代 Siri AI 和 Apple Intelligence，暂不支持中国；微信 AI 官宣内测；传月之暗面寻求 20 亿美元新融资 | 极客早知道
+  jtks-geekpark · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653108377&amp;idx=1&amp;sn=60e0281a0fc603fa4857fc1266faf048&amp;chksm=7f9dc48e61b7a42438915e3dc3f37ef40ff8a9979ba2621948f6ce1f6d0d33a2e5b7719192d3&amp;scene=0#rd
+• Anthropic releases its first Mythos-class model Claude Fable
+  theverge · 2026-06-09 · https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos
+
+【具身智能模型】
+• 一个GPT Plus会员的钱，够机器人跑一个月世界模型了
+  jtks-qbitai · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247894871&amp;idx=1&amp;sn=4512dff6f39d29df30348a6ebfe870b4&amp;chksm=e9f7a1fadb91a289a52ada3d59ff4e464fc32b104f00d7884557bdc89502c004b5fa9c6594ba&amp;scene=0#rd
+• Hadamard thought in image space
+  x-elonmusk · 2026-06-04 · https://www.x.com/elonmusk/status/2062423834217898323
+• 机器人启蒙，需要一所能“犯错”的幼儿园
+  jtks-zhinengyongxian · 2026-05-26 · http://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&amp;mid=2247516626&amp;idx=1&amp;sn=63a55f552460dc70aeedc7a655781127&amp;chksm=c12563022bae7d6bee3955f91715fca4d31cf66a8af9123387d345a11d5548aceef02241b3b5&amp;scene=0#rd
+• 真机数据居然能做到6毛，和UMI、Ego一个价了。
+  jtks-tiannan-jushen · 2026-05-25 · http://mp.weixin.qq.com/s/7wBjo83QtspypZdoNSaFuQ
+• 具身数据生意经 08｜从数据采集到训练基建： 发改委这次，把后台生意推到了台前
+  jtks-jushen-xingqiu · 2026-05-25 · http://mp.weixin.qq.com/s/jxr1flBLfny4sV8-8-60nQ
+
+【智能驾驶】
+• 李弘扬在 CVPR 上分享的 World Engine，可能就是华为说的WE
+  jtks-autodrive-heart · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695264&amp;idx=1&amp;sn=d364cfcf4fae4c191c12f67dc3dbecd7&amp;chksm=cfae30629e6070020403bc1e8916b8513a21bf6005a607fd39c06cb437f4219c3b5019455d04&amp;scene=0#rd
+• ICE car sales continue to plummet in China, the top 16 cars are now EVs
+  electrek · 2026-06-09 · https://electrek.co/2026/06/09/ice-car-sales-continue-to-plummet-in-china-the-top-16-cars-are-now-evs/
+• 独家丨赛力斯旗下新品牌即将推出，元戎、弋途分别提供驾舱能力
+  jtks-leifengwang · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750174&amp;idx=2&amp;sn=ba619300d2c157b304b23ced5a509698&amp;chksm=63b9e45be321087bbac5c6d19bcdabc349f004edc80bce28273673dfed2778021de675b61739&amp;scene=0#rd
+• 阿维塔 07L 中大型 SUV 设计手稿公布，新车确认首搭华为乾崑智驾 ADS 5
+  IT之家 · 2026-06-08 · https://www.ithome.com/0/961/641.htm
+
+【机器人硬件】
+• Robots May Help Defuse US-China Tensions
+  bloomberg-tech · 2026-06-09 · https://www.bloomberg.com/news/newsletters/2026-06-09/as-ai-moves-into-robots-nvidia-may-be-bridging-a-us-china-divide
+• Powering the future of robotics in Europe
+  google-blog · 2026-06-09 · https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/
+• 维也纳 ICRA 现场观察：全球各国技术路线对比与“中国同质化”
+  jtks-shenlan-ai · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247601779&amp;idx=1&amp;sn=03b7f684e8fc97c23d934d2a8a363018&amp;chksm=f21a30a7df78c34f3b5846865db548f9159b9b8f4539c3439b16fe1a85cef4537ea9a837d337&amp;scene=0#rd
+• We just published a deep dive on why Unitree is going to dominate global robotic
+  x-semianalysis · 2026-06-08 · https://www.x.com/SemiAnalysis_/status/2064106984538771700
+
+【AI 消费硬件与脑机】
+• 独家对话OPPO姜昱辰：基模不是手机厂商的生意，目标是个人Agent
+  jtks-leifengwang · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750238&amp;idx=2&amp;sn=b7cc073a92c19030a7ac146299a15a0f&amp;chksm=6306d31c1dd2ac4b645ac132f541ad3b15d2e09688fa9cdd1c19ce3b7742ab7a196a0df0c404&amp;scene=0#rd
+• Apple announces watchOS 27, now with Siri AI
+  theverge · 2026-06-08 · https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026
+• Siri AI for iPhones and iPads will be delayed indefinitely in the EU
+  engadget · 2026-06-08 · https://www.engadget.com/2189932/siri-ai-for-iphones-and-ipads-will-be-delayed-indefinitely-in-the-eu/
+
+【AI Agent】
+• 老黄也来养马了！英伟达版Hermes Agent发布
+  jtks-qbitai · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247894633&amp;idx=2&amp;sn=c4912f79406b3b0ea7fcfa5d15adc804&amp;chksm=e9ee35426f5ba6576c5d9171198f16ab37f7d9c071b8f7c54971fe36df235eca6880dd6519b2&amp;scene=0#rd
+• 继OpenClaw养虾爆火后，Hermes Agent迎来史诗级进化！开箱即用+自我进化，上线即爆火！GUI已成Agent的主流界面？
+  jtks-51cto · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655940324&amp;idx=1&amp;sn=01b804d8d9585279174562bf1a35441f&amp;chksm=bcad2b02f8ce9ddcbab5e48e59336920b575943df2033be47470988715e02d0b9f5870440d52&amp;scene=0#rd
+• ChatGPT与Codex彻底并轨：“想”和“写”的边界正在消失 ，第一个属于开发者的“桌面超级应用”真的来了
+  jtks-51cto · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655940327&amp;idx=1&amp;sn=8e49b1621fdd32a5cce4a3fa20e9d573&amp;chksm=bccc0b5076ec812e333a25d759cea8587fada7a2b3084be6280c166d2a31f6e25b9df9be72c8&amp;scene=0#rd
+• 定制动态Harness！Claude Opus 4.8 Dynamic Workflows深度拆解：专治Claude任务摆烂，附构建Workflows实用模式
+  jtks-51cto · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655940326&amp;idx=1&amp;sn=66ef952c487110371f5af20d9bbfeecc&amp;chksm=bca37f3bdeef0f3f24a21ceb384bcd9503c6344f884ab9ac3dc00a8599c08d733959c8e998c1&amp;scene=0#rd
+
+【💰 财经动态】
+• Following Anthropic, OpenAI files confidentially for IPO
+  techcrunch-ai · 2026-06-08 · https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/
+• OpenAI秘密递表！三巨头一起“抢钱”：AI史上最贵一轮融资要来了
+  jtks-aifrontline · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663354&amp;idx=1&amp;sn=790908fd7886a2e14c2d29dbe764ef59&amp;chksm=fa9680f31f77736f41524ddb73479d430264d535c2e823407dc67b15d0576a42d32f467d8432&amp;scene=0#rd
+• “国产 GPU 四小龙”之一燧原科技科创板 IPO 将于 6 月 15 日上会，拟募资 60 亿元
+  IT之家 · 2026-06-08 · https://www.ithome.com/0/961/547.htm
+• 消息称谷歌向英特尔下单超 300 万颗 TPU 芯片
+  IT之家 · 2026-06-08 · https://www.ithome.com/0/961/626.htm
+• 赶在kimi们A股上市前，智谱要拿到更多“救命钱”
+  36氪 · 2026-06-08 · https://www.36kr.com/p/3844369007475587
+• 重磅！Kimi拟融资 136 亿，估值冲刺 2000 亿！
+  jtks-shenlan-ai · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247601742&amp;idx=1&amp;sn=405003f6cc1b6e184c1384e96ee45e72&amp;chksm=f246af22c305821ddffa57c00b8c4cc56af3fe7ac290723b28f2cb71910efaac0472cd080fb7&amp;scene=0#rd
+</description>
+      <pubDate>Wed, 10 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-10</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-10.mp3" length="10071605" type="audio/mpeg"/>
+      <itunes:duration>10:29</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>宇树会成为机器人时代的「大疆 + 比亚迪」么？—— SemiAnalysis 拆解</title>
       <description>深度拆解 · SemiAnalysis 2026/01/09 发表的长文 《China's Unitree Will Dominate Global Robotics》(《中国的宇树将主导全球机器人》)。
