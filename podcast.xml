@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 08 Jun 2026 22:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 12:29:04 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,7 +19,7 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover-blue.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -49,22 +49,18 @@
 【具身智能模型】
 • 一张卡，10分钟，这家公司把地球玩成了《我的世界》！
   jtks-xinzhiyuan · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652705710&amp;idx=1&amp;sn=fb9ea859fb5a487acaba36b7ac8680af&amp;chksm=f00c0a818d70576de0a6bd5c7841e3ef060497b7cdd35e07f31a721a45743bc614ac51085e14&amp;scene=0#rd
-• 具身投资人醒醒，RoboArena已经被刷臭了
-  obsidian-raw · 2026-06-08 · obsidian://vault/Obsidian Vault/raw/微信/V2/20260608_RoboArena被刷臭了_V2.md
 
 【智能驾驶】
 • 理想汽车 CVPR 2026 入选论文解读
-  obsidian-raw · 2026-06-08 · obsidian://vault/Obsidian Vault/raw/微信/V2/20260608_理想汽车CVPR2026入选论文解读_V2.md
+  知识库精读 · 2026-06-08
 • Uber tells London to get ready for robotaxis
   theverge · 2026-06-08 · https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london
 • Uber Opens London Waitlist for Wayve Robotaxis Ahead of Launch
   bloomberg-tech · 2026-06-08 · https://www.bloomberg.com/news/articles/2026-06-08/uber-opens-london-waitlist-for-wayve-robotaxis-ahead-of-launch
-• 理想公关负责人被曝将离职，入职仅半年
-  obsidian-raw · 2026-06-09 · https://mp.weixin.qq.com/s/h_48-earKnQTwMNsUfH5Ug
 
 【机器人硬件】
 • 当第N个VC来问苏度科技后，我好奇和疑惑被拉满了
-  obsidian-raw · 2026-06-08 · obsidian://vault/Obsidian Vault/raw/微信/V2/20260608_苏度科技深度分析_V2.md
+  知识库精读 · 2026-06-08
 • Nvidia, Hyundai Deepen Joint Push Into AI-Powered Robotics
   bloomberg-tech · 2026-06-08 · https://www.bloomberg.com/news/articles/2026-06-08/nvidia-hyundai-deepen-joint-push-into-ai-powered-robotics
 • 人形机器人天工 3.0 将于下半年开启规模化量产，搭载地瓜机器人旭日 S600 芯片
@@ -86,9 +82,9 @@
 
 【AI Agent】
 • 大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？
-  obsidian-raw · 2026-06-08 · obsidian://vault/Obsidian Vault/raw/微信/V2/20260608_AI编程新范式LoopEngineering_V2.md
+  知识库精读 · 2026-06-08
 • Kimi Work不是中国版Codex
-  obsidian-raw · 2026-06-08 · obsidian://vault/Obsidian Vault/raw/微信/V2/20260608_KimiWork不是中国版Codex_V2.md
+  知识库精读 · 2026-06-08
 • 9天Claude Code重写100万行代码、6755次提交，Bun完成史上最大AI重构后，开发者质疑：99.8%测试通过率，真的代表安全？
   36氪 · 2026-06-08 · https://www.36kr.com/p/3844285021047304
 • 集成 Coding 和 Agent 工具，ChatGPT 打造超级应用；两部门出台《规范》整治网络测评活动；京东、腾讯围绕 AI Agent 合作 | 极客早知
@@ -98,7 +94,7 @@
 
 【💰 财经动态】
 • 博通CEO陈福阳彭博专访：死磕技术客户就不会跑，看好"博通-谷歌-Anthropic"铁三角
-  obsidian-raw · 2026-06-05 · obsidian://vault/Obsidian Vault/raw/微信/V2/20260608_博通CEO彭博专访_V2.md
+  知识库精读 · 2026-06-05
 • 速递｜SpaceX IPO前再签算力大单，Google月付9.2亿美元租11万块GPU
   jtks-zpotentials · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247516114&amp;idx=2&amp;sn=dc71291670c3f5ecfe73686f4b3bb733&amp;chksm=eac6aa37efe75b7297a8dc4488d33fdb01faf185d0f26f75701557ec76dd92d07121b6b2c9aa&amp;scene=0#rd
 • OpenAI 已提交 S-1 草案，释放潜在 IPO 上市信号
