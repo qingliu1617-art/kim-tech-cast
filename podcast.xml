@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 09 Jun 2026 23:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 23:59:37 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -29,81 +29,81 @@
       <description>📋 今日要闻 · 2026-06-10
 
 【AI 基础设施】
-• 全球首条 S+C+L 三波段超低损多芯光缆线路在我国青岛建成开通
-  IT之家 · 2026-06-02 · https://www.ithome.com/0/958/959.htm
-• NVIDIA Jetson Brings Agentic AI to the Physical World
-  NVIDIA Blog · 2026-06-02 · https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/
+• SK Hynix Plans to Double Capacity to Ease Memory Chip Crunch
+  bloomberg-tech · 2026-06-02 · https://www.bloomberg.com/news/articles/2026-06-02/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch
+• Nvidia Is Bigger, Stronger, and Trying to Slay the Laptop Dragon Again
+  bloomberg-tech · 2026-06-02 · https://www.bloomberg.com/news/newsletters/2026-06-02/nvidia-rtx-spark-superchip-marks-start-of-new-era-for-pcs
+• 黄仁勋GTC：算力就是收入，PC迎四十年最大变革，CPU要为AI Agent重新设计
+  jtks-aihambri · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515259&amp;idx=1&amp;sn=2a8d7ed60de3f053ebd212d37d333e89&amp;chksm=cfcff7218007d923dfc20279a1140654e95bd91383567d1176e6f0f009bedcb062af6f14395f&amp;scene=0#rd
 
 【大模型】
-• 号称「最强模型」的 Mythos 正式发布，但 Anthropic 还给它装了个「护栏」
-  jtks-geekpark · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653108467&amp;idx=1&amp;sn=863b39fe0ad84f4808e698aca6172c26&amp;chksm=7fbe0343f8941cd0b43036c75fbc8a27937e305054b3e7287050197080b6e1c1e3127e401e0a&amp;scene=0#rd
-• 最强 Claude 模型：Anthropic 推出 Fable 5/Mythos 5，书写 AI 神话
-  IT之家 · 2026-06-09 · https://www.ithome.com/0/962/152.htm
-• 突发！Anthropic深夜发布Claude Fable 5/Mythos 5，屠榜所有基准测试
-  jtks-aihambri · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515549&amp;idx=1&amp;sn=04511fb247a696ba1239ba20a21acea8&amp;chksm=cf613b4323ca1dc9eabf6da7052920a8cb96df4893fc9a2c03c0b421163c6a2dd2cf43c2441d&amp;scene=0#rd
-• Apple’s Revamped AI Smashes Against Down Market
-  bloomberg-tech · 2026-06-08 · https://www.bloomberg.com/news/videos/2026-06-08/apple-s-revamped-ai-smashes-against-down-market-video
+• 谷歌推出Gemini 3.5实时翻译模型
+  36kr-newsflash · 2026-06-09 · https://36kr.com/newsflashes/3846107948796421?f=rss
+• Anthropic’s Fable 5 can make weirdly fun video games with the click of a button
+  techcrunch-ai · 2026-06-09 · https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/
+• RT by @AnthropicAI: Introducing Claude Fable 5: a Mythos-class model that we’ve 
+  x-anthropic · 2026-06-09 · https://www.x.com/claudeai/status/2064394146916229443
+• Fable 5 is state-of-the-art on nearly all tested benchmarks, with exceptional pe
+  x-claude · 2026-06-09 · https://www.x.com/claudeai/status/2064394151441863006
+• This is a super exciting release - Claude Fable 5 is the same underlying model a
+  x-karpathy · 2026-06-09 · https://www.x.com/karpathy/status/2064409694761054332
 
 【具身智能模型】
-• 国内首例具身数据合规出海：帕西尼何以成为行业发展的破局者？
-  36氪 · 2026-06-05 · https://www.36kr.com/p/3839650756037122
-• 开源鸿蒙 OpenHarmony 具身智能版本 EmbodiedAI 1.0.1 发布
-  IT之家 · 2026-06-05 · https://www.ithome.com/0/960/722.htm
-• 超越Figure！全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住
-  jtks-qbitai · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247895414&amp;idx=1&amp;sn=cbef811d85e977f0d5a69bf26f590332&amp;chksm=e96f92251cdc124bc6951345b491984b0fea678664f7b884560d4d7b345e9f11d38369891e06&amp;scene=0#rd
-• 刺破成功率幻象，直面具身智能的「真灵巧」，机器人精细操作评测新范式来了！
-  jtks-jiqizhixin · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651037190&amp;idx=3&amp;sn=53e0adcbf4b30f3515ff236734530c0c&amp;chksm=85814c9b606882d382c0f63d561799f3c13d0605637092f3a8dfb6bea109568ac11fb42b0988&amp;scene=0#rd
-• CVPR 2026现场直击：CV与机器人的物理结界被彻底打破
-  jtks-leifengwang · 2026-06-05 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750102&amp;idx=1&amp;sn=8923785c80018f886f16fccabf5fed5e&amp;chksm=630ccb29a41d64839edee0ed13d6e1cf66e8fda200adb20fb142de768cd90dd03f68884d773c&amp;scene=0#rd
+• LLM做不到的事，世界模型可以！李飞飞：模拟器是解锁空间智能的关键枢纽
+  jtks-51cto · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655940551&amp;idx=1&amp;sn=018d18601e675db7141557a8acac6ff7&amp;chksm=bcd5c6eff09dc6c32841ad995db12616502d2b1944d54c85dae82e3e3e4aa9edea1c817b5610&amp;scene=0#rd
+• 当第N个VC来问苏度科技后，我好奇和疑惑被拉满了。
+  jtks-tiannan-jushen · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzcwMzAxMDE0MA==&amp;mid=2247485427&amp;idx=1&amp;sn=5121d4b5370cd0bb3ebc2f1cacb175f9&amp;chksm=f489c3c0c3fe4ad6d0eb97d66eb676c3ff97d78b22298530e9e1d25f03665c77c64ecb80778f#rd
+• 一年过去了，许华哲和周博宇的那场争论正在具身领域验证......
+  jtks-autodrive-heart · 2026-06-07 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695205&amp;idx=1&amp;sn=aa9cdcc44de67a494532003c4bffc48a&amp;chksm=cf073a499cf59c540e31a01d988eb20f008ffd0e48f8c60404e44d1f5c1ff31c04c62360e769&amp;scene=0#rd
 
 【智能驾驶】
-• 从高精地图到无图，智驾企业为什么要这么做？为什么敢这么做？
-  jtks-zhijia-front · 2026-05-26 · http://mp.weixin.qq.com/s?__biz=MzUyODY1NDE1NA==&amp;mid=2247577427&amp;idx=1&amp;sn=27d337bca5292c962483d56032b65b64&amp;chksm=fa6ee576cd196c60a600a3bbe8e05fcc191e90bef2f3ffdc51d466a94fe1be0c16d982bbebb8#rd
-• 比亚迪方程豹个性轿车“方程 S GT”官图发布，S 系列新车第三季度上市
-  IT之家 · 2026-05-31 · https://www.ithome.com/0/957/737.htm
-• I've used Gemini in Android Auto for 2 months now, and it's transformed my daily
-  zdnet · 2026-05-29 · https://www.zdnet.com/article/how-gemini-in-android-auto-is-changing-my-daily-drive/
-• Hyundai is testing a new high-tech SDV setup in the IONIQ 6 EV [Images]
-  electrek · 2026-05-27 · https://electrek.co/2026/05/27/hyundai-testing-new-sdv-setup-in-ioniq-6-ev-images/
-
-【机器人硬件】
-• 独家 | 揭秘临界点ICRA扭气球背后，这事比你想的难。
-  jtks-tiannan-jushen · 2026-06-07 · http://mp.weixin.qq.com/s?__biz=MzcwMzAxMDE0MA==&amp;mid=2247485411&amp;idx=1&amp;sn=8966206ab47f91a0a2a65dd73dd7f289&amp;chksm=f489c3d0c3fe4ac609a9401d2c16f4f5b11626359a8468ee2c11753a5526de66c7f46a50d6a1#rd
+• 再下一城：特斯拉 FSD 监督版获丹麦上路许可
+  IT之家 · 2026-06-09 · https://www.ithome.com/0/962/164.htm
+• 美国造车新势力 Rivian 交付 R2 纯电 SUV，剑指大众市场与自动驾驶
+  IT之家 · 2026-06-09 · https://www.ithome.com/0/962/154.htm
 
 【AI 消费硬件与脑机】
-• WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intell
-  techcrunch-ai · 2026-06-08 · https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/
-• アップルが次に狙うは眼鏡市場、スマートグラスで既存業界を切り崩せるか－Power On
-  bloomberg-tech · 2026-06-01 · https://www.bloomberg.com/jp/news/newsletters/2026-06-01/TFXN01KIUPS400
-• 华为 nova 16 系列独占：小艺照相馆代言人专区“拍立得”“播放器”模板公开，可生成专属打卡照
-  IT之家 · 2026-06-01 · https://www.ithome.com/0/958/431.htm
+• visionOS 27 扩展苹果 Vision Pro 头显交互：新增物理对象追踪、扩展空间配件支持
+  IT之家 · 2026-06-09 · https://www.ithome.com/0/962/156.htm
+• 为星闪音频规模化铺路：华为 nova 16 系列手机（含 z）全系支持星闪 E2.0 功能
+  IT之家 · 2026-06-01 · https://www.ithome.com/0/958/421.htm
+• Asus gives the ROX Xbox Ally the OLED screen it deserves
+  arstechnica · 2026-06-01 · https://arstechnica.com/gaming/2026/06/asus-gives-the-rox-xbox-ally-the-oled-screen-it-deserves/
 
 【AI Agent】
-• Anthropic内部95%业务分析交给Claude，秘诀竟然不在更强模型
-  36氪 · 2026-06-04 · https://www.36kr.com/p/3838727903201797
-• 不满足于 Copilot，微软给你捏了个24 小时在线的「虾同事」
-  jtks-geekpark · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653108055&amp;idx=1&amp;sn=2ed8cff7a867d059c6aacb711c030ac2&amp;chksm=7f64aa312f78192a1723cc271db4eef3b33481d34344144afa11da1074c3f792970b5656a726&amp;scene=0#rd
-• AI Agent 的门票，MiniMax 想先打下来
-  jtks-geekpark · 2026-06-03 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653108109&amp;idx=1&amp;sn=ff1f65ed9d003253f306990a0df538fd&amp;chksm=7f27e675b072a1964b7e51ab555fff2d178faf833194fc92fc4371b2d13124db506078916aa7&amp;scene=0#rd
-• As AI gets better, it reveals an empty promise
-  theverge · 2026-06-03 · https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise
+• OpenAI 奥尔特曼预测：“主动式 AI”将成为聊天机器人和智能体之后的下一阶段
+  IT之家 · 2026-06-04 · https://www.ithome.com/0/960/168.htm
+• 微软内部文件曝光，声称希望用户对新智能体 Scout“上瘾”
+  IT之家 · 2026-06-04 · https://www.ithome.com/0/960/130.htm
+• 花1500美元，让AI“黑”自己的App：GPT-5.5成功率70%，部分模型0分交卷
+  36氪 · 2026-06-04 · https://www.36kr.com/p/3838545648797961
 
 【💰 财经动态】
-• OpenAI files for IPO, following Anthropic
-  theverge · 2026-06-08 · https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential
-• 半年估值暴涨近7倍，月之暗面再启20亿美元融资
-  36氪 · 2026-06-09 · https://www.36kr.com/p/3845696736131721
-• Super Micro Seeks $7 Billion in Equity Deal for AI Equipment
-  bloomberg-tech · 2026-06-09 · https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment
-• China Preps $295 Billion Plan to Fund Nationwide AI Buildout
-  bloomberg-tech · 2026-06-09 · https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout
-• 速递｜黑石旗下AirTrunk押注印度AI基建，拟投300亿美元建设5GW数据中心
-  jtks-zpotentials · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247516114&amp;idx=3&amp;sn=d7f4d2871bca83c1d1a0baea4d02a539&amp;chksm=ea7062f7485786c3da52bd416211e534799ae3651625b2fa08fd4fbfa27a35c1b54abbefb50b&amp;scene=0#rd
+• OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic
+  wired-ai · 2026-06-08 · https://www.wired.com/story/openai-confidentially-files-for-ipo/
+• OpenAI files SEC paperwork to go public
+  engadget · 2026-06-08 · https://www.engadget.com/2190079/openai-files-sec-paperwork-to-go-public/
+• OpenAI Filed Confidentially for IPO as Rivals Race to Market
+  bloomberg-tech · 2026-06-08 · https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market
+• 美股超级IPO，改变MiniMax和智谱的估值锚
+  36氪 · 2026-06-09 · https://www.36kr.com/p/3845847971858696
+• 博通联合阿波罗与黑石设立AI XPV平台，首期350亿美元支持Anthropic算力扩张
+  36kr-newsflash · 2026-06-09 · https://36kr.com/newsflashes/3846100167313667?f=rss
+• Apollo, Blackstone Fund AI Boom
+  bloomberg-tech · 2026-06-09 · https://www.bloomberg.com/news/videos/2026-06-09/apollo-blackstone-fund-ai-boom-video
+• 博通联合阿波罗与黑石设立AI XPV平台，首期350亿美元支持Anthropic算力扩张
+  36kr-newsflash · 2026-06-09 · https://36kr.com/newsflashes/3846100167313667?f=rss
+• Databricks洽谈新一轮融资，目标估值超1650亿美元
+  36kr-newsflash · 2026-06-09 · https://36kr.com/newsflashes/3845855179835656?f=rss
+• 佰维存储签订 18.61 亿美元企业级闪存大单，锁量锁价锁定 24 个月产能
+  IT之家 · 2026-06-09 · https://www.ithome.com/0/962/099.htm
+• 佰维存储：与某存储原厂签订采购合同，总承诺采购金额18.61亿美元
+  36kr-newsflash · 2026-06-09 · https://36kr.com/newsflashes/3845908032686338?f=rss
 </description>
       <pubDate>Wed, 10 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-10</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-10.mp3" length="10390508" type="audio/mpeg"/>
-      <itunes:duration>10:49</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-10.mp3" length="8874152" type="audio/mpeg"/>
+      <itunes:duration>09:15</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
