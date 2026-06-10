@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 09 Jun 2026 23:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 06:41:27 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -29,81 +29,87 @@
       <description>📋 今日要闻 · 2026-06-10
 
 【AI 基础设施】
-• SK Hynix Plans to Double Capacity to Ease Memory Chip Crunch
-  bloomberg-tech · 2026-06-02 · https://www.bloomberg.com/news/articles/2026-06-02/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch
-• Nvidia Is Bigger, Stronger, and Trying to Slay the Laptop Dragon Again
-  bloomberg-tech · 2026-06-02 · https://www.bloomberg.com/news/newsletters/2026-06-02/nvidia-rtx-spark-superchip-marks-start-of-new-era-for-pcs
-• 黄仁勋GTC：算力就是收入，PC迎四十年最大变革，CPU要为AI Agent重新设计
-  jtks-aihambri · 2026-06-01 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515259&amp;idx=1&amp;sn=2a8d7ed60de3f053ebd212d37d333e89&amp;chksm=cfcff7218007d923dfc20279a1140654e95bd91383567d1176e6f0f009bedcb062af6f14395f&amp;scene=0#rd
+• 伯恩斯坦：全面拆解英伟达Rubin机架，存储内存价值远超预期
+  知识库精读 · 2026-06-10 · https://m.163.com/dy/article/KUUH1IHA05568W0A.html
+• $NVDA Networking Senior Vice President refuting recent analyst reports on delays
+  x-serenity · 2026-06-10 · https://www.x.com/aleabitoreddit/status/2064554061253451815
+• CPO scale out earlier than expected:  &gt; Foxconn: est. units register upward and 
+  x-serenity · 2026-06-10 · https://www.x.com/aleabitoreddit/status/2064521404859719681
 
 【大模型】
-• 谷歌推出Gemini 3.5实时翻译模型
-  36kr-newsflash · 2026-06-09 · https://36kr.com/newsflashes/3846107948796421?f=rss
-• Anthropic’s Fable 5 can make weirdly fun video games with the click of a button
-  techcrunch-ai · 2026-06-09 · https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/
-• RT by @AnthropicAI: Introducing Claude Fable 5: a Mythos-class model that we’ve 
-  x-anthropic · 2026-06-09 · https://www.x.com/claudeai/status/2064394146916229443
-• Fable 5 is state-of-the-art on nearly all tested benchmarks, with exceptional pe
-  x-claude · 2026-06-09 · https://www.x.com/claudeai/status/2064394151441863006
-• This is a super exciting release - Claude Fable 5 is the same underlying model a
-  x-karpathy · 2026-06-09 · https://www.x.com/karpathy/status/2064409694761054332
+• 刚刚，Anthropic首个神话级Claude 5正式解禁！
+  知识库精读 · 2026-06-10 · https://mp.weixin.qq.com/s/jqBsN_2UDie47GVQj8L5MQ
+• 帮大家总结了一下凌晨的苹果WWDC26
+  知识库精读 · 2026-06-10 · https://mp.weixin.qq.com/s/pLxDKH_WnW5J3LvZGZ52IA
+• Claude 最强模型 Fable 5 全解析：Mythos 级别的怪物
+  知识库精读 · 2026-06-10 · https://mp.weixin.qq.com/s/v_G9KaCnjkPHeMCJ5E9VPA
+• 实测Claude史上最强模型Fable 5，普通人慎用
+  36氪 · 2026-06-10 · https://www.36kr.com/p/3846643252365827
+• “神话级”AI走向大众，但Anthropic给它装了个安全阀门
+  36氪 · 2026-06-10 · https://www.36kr.com/p/3846645148666372
 
 【具身智能模型】
-• LLM做不到的事，世界模型可以！李飞飞：模拟器是解锁空间智能的关键枢纽
-  jtks-51cto · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655940551&amp;idx=1&amp;sn=018d18601e675db7141557a8acac6ff7&amp;chksm=bcd5c6eff09dc6c32841ad995db12616502d2b1944d54c85dae82e3e3e4aa9edea1c817b5610&amp;scene=0#rd
-• 当第N个VC来问苏度科技后，我好奇和疑惑被拉满了。
-  jtks-tiannan-jushen · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzcwMzAxMDE0MA==&amp;mid=2247485427&amp;idx=1&amp;sn=5121d4b5370cd0bb3ebc2f1cacb175f9&amp;chksm=f489c3c0c3fe4ad6d0eb97d66eb676c3ff97d78b22298530e9e1d25f03665c77c64ecb80778f#rd
-• 一年过去了，许华哲和周博宇的那场争论正在具身领域验证......
-  jtks-autodrive-heart · 2026-06-07 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695205&amp;idx=1&amp;sn=aa9cdcc44de67a494532003c4bffc48a&amp;chksm=cf073a499cf59c540e31a01d988eb20f008ffd0e48f8c60404e44d1f5c1ff31c04c62360e769&amp;scene=0#rd
+• 机器人学视频数据，到底应该学什么？
+  jtks-jushen-jiyuan · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=Mzk2NDg4MDcwNA==&amp;mid=2247494522&amp;idx=1&amp;sn=190e63740eadb649d21090e70177f723&amp;chksm=c5b916d23637f90af073ec7b8d4f91cfe5b5c729a6317b6c7fca50a1d0e26934876681c6c1d7&amp;scene=0#rd
+• 对话 HumanEgo 王治：人类数据，比遥操作数据更好
+  jtks-jushen-jiyuan · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=Mzk2NDg4MDcwNA==&amp;mid=2247494522&amp;idx=2&amp;sn=57f06fa1a9db02c06073ba55bbb4e566&amp;chksm=c55076da046f9a12aea92a621ffcbad7e6a9f27be110aab35f39e823d7804fc4884decf4d598&amp;scene=0#rd
+• Z Potentials｜CVPR 现场对话苏度科技团队：没有遥控器，没有隔离带，只有真实世界随机的考卷
+  jtks-zpotentials · 2026-06-06 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247516062&amp;idx=1&amp;sn=85780a4c00a0487be416de3a13e4f97b&amp;chksm=eadb0e029141d8fd240f9d906b400cbd112d977905fa06b0ad0e2f47dc1542cf400a2d0762d4&amp;scene=0#rd
 
 【智能驾驶】
-• 再下一城：特斯拉 FSD 监督版获丹麦上路许可
-  IT之家 · 2026-06-09 · https://www.ithome.com/0/962/164.htm
-• 美国造车新势力 Rivian 交付 R2 纯电 SUV，剑指大众市场与自动驾驶
-  IT之家 · 2026-06-09 · https://www.ithome.com/0/962/154.htm
+• 全新10万级"赛豆汽车"来了！赛力斯真正野心曝光
+  知识库精读 · 2026-06-10 · https://mp.weixin.qq.com/s/lgXtn5mrTN7xOTplGjYH3g
+• GOOD NEWS 🇩🇰 Denmark just greenlit FSD, making it the fourth country in Europe t
+  x-ming-tesla · 2026-06-09 · https://www.x.com/tslaming/status/2064354092252831931
+• Major improvement in safety statistics with FSD turned on in the Netherlands!
+  x-elonmusk · 2026-06-09 · https://www.x.com/elonmusk/status/2064457520748339647
+• GOOD NEWS 🚨 Tesla's FSD (Supervised) has officially crossed the 11-billion-mile 
+  x-ming-tesla · 2026-06-10 · https://www.x.com/tslaming/status/2064533638008684704
+• 纯视觉的上限真的比激光雷达更高吗？
+  知识库精读 · 2026-06-10 · https://mp.weixin.qq.com/s/eaiy9D1sntKIZC1eqPUaUA
+
+【机器人硬件】
+• 人形机器人价格大跳水，比iPhone还便宜：一场关于生产力而非形态的产业竞速
+  知识库精读 · 2026-06-10 · https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663370&amp;idx=1&amp;sn=3bcd990c15055c195cfdaf6b5336a1fd
+• 何小鹏发内部信：亲自下场直管机器人业务，迎来量产和商业化前夜
+  IT之家 · 2026-06-10 · https://www.ithome.com/0/962/374.htm
 
 【AI 消费硬件与脑机】
-• visionOS 27 扩展苹果 Vision Pro 头显交互：新增物理对象追踪、扩展空间配件支持
-  IT之家 · 2026-06-09 · https://www.ithome.com/0/962/156.htm
-• 为星闪音频规模化铺路：华为 nova 16 系列手机（含 z）全系支持星闪 E2.0 功能
-  IT之家 · 2026-06-01 · https://www.ithome.com/0/958/421.htm
-• Asus gives the ROX Xbox Ally the OLED screen it deserves
-  arstechnica · 2026-06-01 · https://arstechnica.com/gaming/2026/06/asus-gives-the-rox-xbox-ally-the-oled-screen-it-deserves/
+• 容量增幅 50%：消息称 MacBook Neo 2 配 12GB 内存，支持苹果最强本地 AI 模型
+  IT之家 · 2026-06-10 · https://www.ithome.com/0/962/377.htm
+• 华为 nova 16 系列手机星闪能力公布，Pro / Ultra 还能连手写笔
+  IT之家 · 2026-06-02 · https://www.ithome.com/0/958/992.htm
+• 索尼发布 SRG-AS10/XS10 摄像机：AI 自动追踪构图，4K60P 画质 + 10 倍光学变焦
+  IT之家 · 2026-06-02 · https://www.ithome.com/0/958/990.htm
 
 【AI Agent】
-• OpenAI 奥尔特曼预测：“主动式 AI”将成为聊天机器人和智能体之后的下一阶段
-  IT之家 · 2026-06-04 · https://www.ithome.com/0/960/168.htm
-• 微软内部文件曝光，声称希望用户对新智能体 Scout“上瘾”
-  IT之家 · 2026-06-04 · https://www.ithome.com/0/960/130.htm
-• 花1500美元，让AI“黑”自己的App：GPT-5.5成功率70%，部分模型0分交卷
-  36氪 · 2026-06-04 · https://www.36kr.com/p/3838545648797961
+• Claude Code爆火背后的Agent Harness底层逻辑，UIUC、Meta、斯坦福深度解读
+  36氪 · 2026-06-10 · https://www.36kr.com/p/3846617333664264
+• Apple approves Poke as the first AI agent on its Messages for Business platform
+  techcrunch-ai · 2026-06-04 · https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/
 
 【💰 财经动态】
-• OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic
-  wired-ai · 2026-06-08 · https://www.wired.com/story/openai-confidentially-files-for-ipo/
-• OpenAI files SEC paperwork to go public
-  engadget · 2026-06-08 · https://www.engadget.com/2190079/openai-files-sec-paperwork-to-go-public/
-• OpenAI Filed Confidentially for IPO as Rivals Race to Market
-  bloomberg-tech · 2026-06-08 · https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market
-• 美股超级IPO，改变MiniMax和智谱的估值锚
-  36氪 · 2026-06-09 · https://www.36kr.com/p/3845847971858696
-• 博通联合阿波罗与黑石设立AI XPV平台，首期350亿美元支持Anthropic算力扩张
-  36kr-newsflash · 2026-06-09 · https://36kr.com/newsflashes/3846100167313667?f=rss
-• Apollo, Blackstone Fund AI Boom
-  bloomberg-tech · 2026-06-09 · https://www.bloomberg.com/news/videos/2026-06-09/apollo-blackstone-fund-ai-boom-video
-• 博通联合阿波罗与黑石设立AI XPV平台，首期350亿美元支持Anthropic算力扩张
-  36kr-newsflash · 2026-06-09 · https://36kr.com/newsflashes/3846100167313667?f=rss
-• Databricks洽谈新一轮融资，目标估值超1650亿美元
-  36kr-newsflash · 2026-06-09 · https://36kr.com/newsflashes/3845855179835656?f=rss
-• 佰维存储签订 18.61 亿美元企业级闪存大单，锁量锁价锁定 24 个月产能
-  IT之家 · 2026-06-09 · https://www.ithome.com/0/962/099.htm
-• 佰维存储：与某存储原厂签订采购合同，总承诺采购金额18.61亿美元
-  36kr-newsflash · 2026-06-09 · https://36kr.com/newsflashes/3845908032686338?f=rss
+• OpenAI Files Confidentially for IPO
+  bloomberg-tech · 2026-06-08 · https://www.bloomberg.com/news/videos/2026-06-08/openai-files-confidentially-for-ipo-video
+• OpenAI Joins Race for Public Market Cash
+  bloomberg-tech · 2026-06-09 · https://www.bloomberg.com/news/videos/2026-06-09/openai-joins-race-for-public-market-cash-video
+• Google's Backstops Underpin $35 Billion Anthropic Chip Deal
+  bloomberg-tech · 2026-06-10 · https://www.bloomberg.com/news/videos/2026-06-10/google-s-backstops-underpin-35-bln-anthropic-chip-deal-video
+• 独家：伯牙智能获数千万元天使轮融资，阿里前高管打造灵巧操作系统
+  知识库精读 · 2026-06-10 · https://mp.weixin.qq.com/s/VRxvcyJk5NswzJtwWi0xvQ
+• OpenAI秘密IPO，首日估值冲1.5万亿美元；苹果推出AI版Siri，推理能力弱于Gemini云端方案；谷歌向英特尔下单超300万颗TPU芯片丨硅谷大事件
+  jtks-leifengwang · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750209&amp;idx=2&amp;sn=90059e8e5079cb694f0b285f665d26f1&amp;chksm=63f3d61b8116eb20b8fc3a6301d2ce0a3ba23fc33fc2643eb341ea1232de7f66aabe66a87dba&amp;scene=0#rd
+• Google Orders More Than 3 Million Chips From Intel: Information
+  bloomberg-tech · 2026-06-08 · https://www.bloomberg.com/news/videos/2026-06-08/google-orders-more-than-3m-chips-from-intel-information-video
+• 台积电 2026 财年 5 月营收 4169.75 亿元新台币，同比增长 30.10%
+  IT之家 · 2026-06-10 · https://www.ithome.com/0/962/383.htm
+• TSMC’s Monthly Sales Rise 30% Thanks to Sustained AI Chip Demand
+  bloomberg-tech · 2026-06-10 · https://www.bloomberg.com/news/articles/2026-06-10/tsmc-s-monthly-sales-rise-30-thanks-to-sustained-ai-chip-demand
 </description>
       <pubDate>Wed, 10 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-10</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-10.mp3" length="8874152" type="audio/mpeg"/>
-      <itunes:duration>09:15</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-10.mp3" length="11672807" type="audio/mpeg"/>
+      <itunes:duration>12:09</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
