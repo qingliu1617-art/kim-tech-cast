@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 06:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 16:24:04 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,41 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>David Senra：屏蔽世界，打造自我 | 400 本传记提炼的创始人真相</title>
+      <description>David Senra（Founders Podcast 主持人）做客红杉资本，与 Brian Halligan 对谈。他过去十年读了 400 多位伟大创始人的传记——从耶稣到黄仁勋——本期分享这些人究竟有什么共同点。
+
+🎙 嘉宾：David Senra（Founders Podcast）
+🎙 主持：Brian Halligan（红杉资本）
+📺 原始视频：Sequoia Capital · 约 1 小时
+🔗 https://www.youtube.com/watch?v=xXsleu4-kd8
+⏱ 本期为精华压缩版（6 分 19 秒）
+
+💎 核心金句
+  · "屏蔽世界，打造自我"——Dana White 从未读过商业书，只听从一个本能：做自己想看的东西
+  · "留在游戏中足够久，等到运气来"——Elon 25 年前创立 SpaceX，从未放手
+  · "我不认为小 ego 能建成大公司"——驱动创始人的不是钱，是控制
+
+🔥 五个反共识观点
+  1. 庆祝胜利只给一天——顶级创始人的默认思维是"还有什么没做好"
+  2. 冒名顶替综合征在顶级创始人中几乎不存在——他们天然缺乏"我不配"的心理回路
+  3. 负面自我对话是早期燃料，但必须更换——同一种心理机制，早期是推进器，后期是自毁按钮
+  4. 动机不是钱，是控制——维持控制 + 做出好产品 = 钱自然来
+  5. 第二次创始人被严重高估——卖掉最佳想法后，往往只能在二流项目上复刻魔法
+
+🏷 #创始人 #创业 #红杉资本 #DavidSenra #商业思维 #FoundersPodcast</description>
+      <pubDate>Thu, 11 Jun 2026 00:24:04 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-11-david-senra</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-11-david-senra.mp3" length="2276444" type="audio/mpeg"/>
+      <itunes:duration>06:19</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/2026-06-11-david-senra.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/10 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-10
