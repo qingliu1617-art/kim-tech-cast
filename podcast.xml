@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 23:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 22:32:55 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,79 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/12 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-12
+
+【AI 基础设施】
+• 台积电 3nm 月产能增至 17.5 万片仍无法满足 AI 芯片需求，考虑涨价最高 15%
+  IT之家 · 2026-06-11 · https://www.ithome.com/0/963/182.htm
+• 關於台積電的次世代先進封裝 CoPoS 的幾個關鍵（省略可查詢到的技術細節）：  1. 預計 2H28 量產...
+  x-mingchi-kuo · 2026-06-11 · https://www.x.com/mingchikuo/status/2064896061051928623
+
+【大模型】
+• 库克最后一届WWDC，把苹果AI九年的地基掀了
+  jtks-xinzhiyuan · 2026-06-10 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652706158&amp;idx=2&amp;sn=49470a753816d20991085cc6ae035179&amp;chksm=f0d08539a09ef585cb2d7334293a48cef03c72c7ca07fb10de58b8b268724016a7cdb7e858a8&amp;scene=0#rd
+• 做AI研究时Claude会偷偷变笨，Anthropic被研究界围攻
+  36氪 · 2026-06-10 · https://www.36kr.com/p/3846955809114626
+• 刚刚，Claude Mythos 5发布！5000万行代码1天搞定
+  jtks-qbitai · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247896445&amp;idx=1&amp;sn=4c69eaa929b4816e6073ce4d5e261574&amp;chksm=e90be562f1526facddb041b12650e0a4581e3f4ee3a58397868ee495b84dab5d7d27d9c11007&amp;scene=0#rd
+• 刚刚，Anthropic首个神话级Claude 5正式解禁！
+  jtks-xinzhiyuan · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652706141&amp;idx=1&amp;sn=c1c37912c46a8b1e38de77d5eb46158d&amp;chksm=f0667b84a89ca328479ff2a4640c2a87c8942f94d3b0abeefa17ea05f1c81ac46deaa17fe10d&amp;scene=0#rd
+• 危险！Anthropic自曝：Mythos已把「N天漏洞」压缩成N小时
+  jtks-xinzhiyuan · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652706141&amp;idx=2&amp;sn=3c9ce7fcf05acb9e8a662c59edd8e9c7&amp;chksm=f0b06a1cac2486fef77ec6e269bb9f2f03a67547b3e21b4cedfb73f665e85f9e628563a85747&amp;scene=0#rd
+
+【具身智能模型】
+• 盘点｜李飞飞团队2026上半年研究：具身智能的五个关键落子
+  jtks-shenlan-ai · 2026-06-11 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247601941&amp;idx=1&amp;sn=4bea986d1dc4c19075df515c86747c84&amp;chksm=f216345b36c8af6bb41507295b15f2f8d12b6ec0593f9cbb92d7e01f44a1e5c441d0e1c33ad2&amp;scene=0#rd
+
+【智能驾驶】
+• Waymo introduces $30-a-month premium tier for riders who want faster pickups
+  theverge · 2026-06-11 · https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back
+• Tesla promotes FSD misuse in its own videos — undermining its legal defense
+  electrek · 2026-06-11 · https://electrek.co/2026/06/11/tesla-promotes-fsd-misuse-official-videos-lawsuits/
+• 东风奕派 EP7 将搭载华为乾崑智能技术，官方透露是双方联合打造的第二款车型
+  IT之家 · 2026-06-11 · https://www.ithome.com/0/963/209.htm
+• 独家丨智己人事变动：李微萌卸任CMO，继任者来自上汽系
+  jtks-leifengwang · 2026-06-10 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750338&amp;idx=1&amp;sn=3e804b7101098bd16ac5a83c3ec4d7ea&amp;chksm=63de6ee26012fcc1a7ccf770e5b62ff10fac6928a387f8f79e0efbdba4a9368fd44c9817c417&amp;scene=0#rd
+
+【机器人硬件】
+• 具身生态观察03｜80%的公司在抢20%的生存空间，人形机器人腰部困境开始显影
+  jtks-jushen-xingqiu · 2026-06-10 · http://mp.weixin.qq.com/s?__biz=MzcwMDIwMTAzNA==&amp;mid=2247484310&amp;idx=1&amp;sn=fb0cab167d3d7cff99da475199228a7d&amp;chksm=f4b222b3c3c5aba5009388f59cba62a6ce09222984b76e349a0c360fa260229fd9f8a7e40fa4#rd
+
+【AI 消费硬件与脑机】
+• 对话安克阳萌：AI 硬件的真门槛，是推翻计算机 80 年的「祖宗家法」
+  jtks-geekpark · 2026-06-11 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653108618&amp;idx=1&amp;sn=6aa30e0c4a3fa21d9d4dbc64b3402931&amp;chksm=7fbe18f424351a913f45c655039328df76624c93ddbdf28d8624cfa5cfe67c39ac30094c05b7&amp;scene=0#rd
+• 讯飞AI眼镜核心供应商一览
+  jtks-xrvision · 2026-06-11 · http://mp.weixin.qq.com/s?__biz=MjM5OTY1ODgxMg==&amp;mid=2257491002&amp;idx=1&amp;sn=2adf1f38f0752ff4fad551d5eade778f&amp;chksm=a5cf2911b8b4028f6a3d4b352ce06c511e5267c00ad521d8673fb4f129661440a139649c8181&amp;scene=0#rd
+• 独家｜字节豆包手机硬件负责人林夕离职
+  jtks-zfinance · 2026-06-11 · http://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ==&amp;mid=2453899207&amp;idx=1&amp;sn=ef51cc93ab02402623ae7c18099b99e6&amp;chksm=89a2bb73decb999140996c18b0768481483cbaadd2cc04355f6884c55aa021d1dc76ac1f94d7&amp;scene=0#rd
+
+【AI Agent】
+• Claude Code 引入动态工作流，用于并行代理协调
+  jtks-aifrontline · 2026-06-11 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663446&amp;idx=2&amp;sn=f9d1366846aa4fe7623e4d9e8665d2c2&amp;chksm=fa899ca649548ea651303e3bb91f545b45247238160ff50a63a6d393869cf9f0e7c3b7fedb94&amp;scene=0#rd
+• Anthropic宣告「递归自我提升」时代到来，LLM如何实现自我进化？全景综述带你一探究竟
+  jtks-jiqizhixin · 2026-06-11 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651038535&amp;idx=2&amp;sn=323e51c8ef2a437297b87bc8fc4acf59&amp;chksm=8526ce8ba5222f646ded35ec50e2543814bc67b926d1d68a6162effe1bc87d3bc06f14b368f6&amp;scene=0#rd
+• 百度智能云与FluxA达成战略合作
+  36kr-newsflash · 2026-06-05 · https://36kr.com/newsflashes/3839673465866498?f=rss
+• Claude Code团队成员亲述：动态工作流该怎么用
+  36氪 · 2026-06-05 · https://www.36kr.com/p/3839611362658569
+
+【💰 财经动态】
+• KKR联合多方设新公司，专攻大型云服务商基建
+  36kr-newsflash · 2026-06-11 · https://36kr.com/newsflashes/3848736954635268?f=rss
+• Jeff Bezos’ AI Startup Valued at $41 Billion in Funding Round
+  bloomberg-tech · 2026-06-11 · https://www.bloomberg.com/news/articles/2026-06-11/jeff-bezos-ai-startup-valued-at-41-billion-in-funding-round
+• 芯联集成：拟出资30.12亿元投资12英寸车规级芯片制造项目
+  36kr-newsflash · 2026-06-11 · https://36kr.com/newsflashes/3848681317127433?f=rss
+</description>
+      <pubDate>Fri, 12 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-12</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-12.mp3" length="12146772" type="audio/mpeg"/>
+      <itunes:duration>02:36</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>David Senra：屏蔽世界，打造自我 | 400 本传记提炼的创始人真相</title>
       <description>David Senra（Founders Podcast 主持人）做客红杉资本，与 Brian Halligan 对谈。他过去十年读了 400 多位伟大创始人的传记——从耶稣到黄仁勋——本期分享这些人究竟有什么共同点。
