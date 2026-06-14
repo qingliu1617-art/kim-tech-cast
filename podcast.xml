@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 14 Jun 2026 10:56:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 18:17:40 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,73 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/15 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-15
+
+【AI 基础设施】
+• 继三星之后，消息称 SK 海力士准备向主要客户提供 HBM4E 样品、最早本月发货
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/164.htm
+
+【大模型】
+• 突发！Anthropic全球停用Claude 5
+  36氪 · 2026-06-13 · https://www.36kr.com/p/3851015329027336
+• 让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊
+  IT之家 · 2026-06-13 · https://www.ithome.com/0/963/991.htm
+• Anthropic’s safety warnings may have just backfired — the government has pulled 
+  techcrunch-ai · 2026-06-13 · https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/
+• Amazon security research reportedly led to the White House’s Anthropic Fable ban
+  theverge · 2026-06-13 · https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
+• Anthropic cuts off Fable 5 and Mythos 5 access following government order
+  theverge · 2026-06-13 · https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security
+
+【具身智能模型】
+• 李弘扬智源大会告别演讲：具身智能的"另一半"被严重低估了
+  知识库精读 · 2026-06-14
+• Generalist CTO 访谈：最难的问题，是让机器人真正"碰到"这个世界
+  知识库精读 · 2026-06-14 · https://www.youtube.com/watch?v=-TTAOxVN2eo
+• 北京周三｜ICRA/CVPR后，聊聊具身最新判断
+  jtks-qbitai · 2026-06-14 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247897366&amp;idx=1&amp;sn=b4f6624b617756d9d6f2f83515c87eb3&amp;chksm=e918065f959be38e90a50e852e15a5a5381e8e5fe7d9701d6d0e49cd8e1858b1ecd0bdb5e56a&amp;scene=0#rd
+
+【智能驾驶】
+• 明日重磅开讲｜AI智驾、智能底盘、智车安全日程一键解锁
+  jtks-yanzhi · 2026-05-28 · http://mp.weixin.qq.com/s?__biz=MzU5ODQ5ODQ1Mw==&amp;mid=2247667849&amp;idx=1&amp;sn=f0ca63b66be3491ab6105053076f1d3c&amp;chksm=fe4f5d73c938d465a9233964470ff21a62298f24d0dfbbb73404dd41235021a702e27d378fbd#rd
+• 何小鹏说。现在的L4是高级的缝合怪，17年都没做明白。。。
+  jtks-autodrive-heart · 2026-05-29 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695099&amp;idx=1&amp;sn=d487154df48f3afd481d4967ee4a8143&amp;chksm=cf463fb8d8fb5d6f4cae6da6582f96da193e8104eb0930a723f6cf7614b2c6c41c68f30f4803&amp;scene=0#rd
+• 从堆算力到求高效，智驾算力真的越高越好吗？
+  jtks-zhijia-front · 2026-05-29 · http://mp.weixin.qq.com/s?__biz=MzUyODY1NDE1NA==&amp;mid=2247577565&amp;idx=1&amp;sn=2ad5d11877695ad27b0c52f3b99fdd23&amp;chksm=fa6ee5f8cd196cee5be08b3dda3f16f55ad45c9834b45cb948e9f8c0a2934015346071f9175e#rd
+
+【机器人硬件】
+• 28000Pa 吸力 + 越障高度 40mm：小米米家扫拖机器人 6 上下水版 1888 元新低
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/180.htm
+
+【AI 消费硬件与脑机】
+• 华为鸿蒙商用台式机官宣 9 月登场
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/170.htm
+
+【AI Agent】
+• 腾讯的Agent底牌，这次全摊开了
+  jtks-xinzhiyuan · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652705710&amp;idx=2&amp;sn=685ae137fb8811ec76d5591be5a594d4&amp;chksm=f0e11dc521fb60a14bbec8349252fbfca17f9ddeaa39ec4ab3c683a7b563050b62de92788198&amp;scene=0#rd
+• 微信正在变成Agent时代的操作系统。
+  jtks-shuzishengmingkazi · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647683054&amp;idx=1&amp;sn=dcaa25bd4fdfc9bd5c0211532021bf7c&amp;chksm=f13607d174372566ad8a57c3332e51ed62d30800cd1ec42b1ec2ca9496a7ec84fa18bc37d694&amp;scene=0#rd
+• 腾讯打出企业Agent新底牌：WorkBuddy企业版抢占AI办公统一入口
+  jtks-jiqizhixin · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651037813&amp;idx=1&amp;sn=d798c1232176fe196917e2417f3ca298&amp;chksm=85df27c265d8a2e6e0d57b45d9f0ea7f5b0fdfbc53f2d635f47e84e66c82276e85ecbdaf8462&amp;scene=0#rd
+• Xcode 27 Beta 发布：苹果称其是构建 AI 智能体应用的“最佳场所”
+  IT之家 · 2026-06-08 · https://www.ithome.com/0/961/694.htm
+
+【💰 财经动态】
+• 孙正义、奥特曼，凭什么给AI定“天价”？
+  36氪 · 2026-06-11 · https://www.36kr.com/p/3848566383023362
+• OpenAI Weighs Significant Price Cuts in Rivalry With Anthropic
+  bloomberg-tech · 2026-06-11 · https://www.bloomberg.com/news/articles/2026-06-11/openai-weighs-major-price-cuts-to-win-anthropic-users-wsj-says
+</description>
+      <pubDate>Mon, 15 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-15</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-15.mp3" length="11750965" type="audio/mpeg"/>
+      <itunes:duration>12:14</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/14 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-14
