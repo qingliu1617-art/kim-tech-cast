@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 02:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 10:56:19 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,75 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/14 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-14
+
+【AI 基础设施】
+• 特锐德：推出算力中心供电站“算电岛” Token成本可降低30%
+  36kr-newsflash · 2026-06-06 · https://36kr.com/newsflashes/3841455348746496?f=rss
+• 马斯克将出席阿斯麦 ASML 闭门技术研讨会，讨论 TeraFab 项目
+  IT之家 · 2026-06-06 · https://www.ithome.com/0/960/988.htm
+• Elon Musk to Attend ASML’s Private Tech Event to Discuss Terafab
+  bloomberg-tech · 2026-06-06 · https://www.bloomberg.com/news/articles/2026-06-06/elon-musk-to-attend-asml-s-private-tech-event-to-discuss-terafab
+
+【大模型】
+• 谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！
+  36氪 · 2026-06-14 · https://www.36kr.com/p/3852349905900544
+• 美多州总检察长联合调查OpenAI
+  36kr-newsflash · 2026-06-13 · https://36kr.com/newsflashes/3850885678306561?f=rss
+• 通义团队再失核心？阿里首席科学家周靖人被曝离职
+  36氪 · 2026-06-13 · https://www.36kr.com/p/3850978776759176
+• 谷歌开源26B文本扩散MoE，劈柴：生成速度像赛马一样快
+  36氪 · 2026-06-11 · https://www.36kr.com/p/3848435250550021
+• Anthropic CEO发万字檄文！指数级AI不可逆，不安全必封杀
+  jtks-xinzhiyuan · 2026-06-11 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652706552&amp;idx=1&amp;sn=5af66bb8e1e1287aebe5ab587cfbd046&amp;chksm=f0355930e50a2b2e5991a9fdb024c138fb17ceb6c0cd50e7222d1aa11f034879ed471ea32e81&amp;scene=0#rd
+
+【具身智能模型】
+• 深度｜对话 WorldVac 高森泉：当 AI 开始模拟社会，我们离「基地」里的心理史学还有多远？
+  jtks-zfinance · 2026-06-14 · http://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ==&amp;mid=2453899285&amp;idx=1&amp;sn=7bf4954b56fa57448daf8c1d097a6299&amp;chksm=89afb81e063ab2618aeb129afa63daed0452f648185f8d2b032efadf9b0bb07708f258997c7e&amp;scene=0#rd
+
+【智能驾驶】
+• CVPR 2026 | GaussianDWM：用3D高斯表示统一自动驾驶场景理解与多模态生成
+  jtks-jiqizhixin · 2026-06-14 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651038961&amp;idx=2&amp;sn=6cec715df102f8b6c3869339d4bd4ac1&amp;chksm=85a8db712499a2ae3abf62cf0ffef85ad0a0bfc08c7bd42a40b371e0e7dc98cb222459baf5e7&amp;scene=0#rd
+
+【机器人硬件】
+• 我国首批自研海洋工程柔性智能焊接机器人投用
+  36kr-newsflash · 2026-06-14 · https://36kr.com/newsflashes/3852643642053897?f=rss
+
+【AI 消费硬件与脑机】
+• 神基推出全强固 WoA 工业平板电脑 ZX80W 系列，基于高通 QCS6490
+  IT之家 · 2026-06-04 · https://www.ithome.com/0/960/119.htm
+• VR exercise platform Supernatural is getting a second chance as an independent c
+  engadget · 2026-06-03 · https://www.engadget.com/2186789/vr-exercise-platform-supernatural-is-getting-a-second-chance-as-an-independent-company/
+
+【AI Agent】
+• 从吴恩达的信号看Agent：中国AI的机会在执行权，不在模型
+  36氪 · 2026-06-08 · https://www.36kr.com/p/3842692739054215
+• 大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？
+  jtks-aifrontline · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663284&amp;idx=1&amp;sn=b40a7085e26e87bf4484173d3099c8e5&amp;chksm=fa2278cab31b68e3eae9991aeda6c3d54c031a3bf8558ede49dc90ec5ad58eca15d3c62d94ad&amp;scene=0#rd
+• 准确率狂飙34%！谷歌全新Agentic RAG来了：揪出缺失盲点，AI不搜出真相绝不停手
+  jtks-aihambri · 2026-06-06 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515441&amp;idx=1&amp;sn=ca9c60890d9f5f403f67461cdabd758f&amp;chksm=cfa32e0b57e19e4724edcc3ea44682eebdbd5a095c80f00b6bd64e7e7852fdb6360d569dc1d0&amp;scene=0#rd
+• 国产版Codex来了！AI跳出代码内卷，正式接管全工种生产
+  jtks-zhinengjiyuanagi · 2026-06-04 · http://mp.weixin.qq.com/s?__biz=MzcwMTIxNjgwMA==&amp;mid=2247487786&amp;idx=1&amp;sn=79caca2bac7774e5bd963e77c4248394&amp;chksm=f4a2b065c3d53973e93cc2bd6480309616ce1ee08ec230361bcdd11b400dbfbd0a851ab25703#rd
+
+【💰 财经动态】
+• AI Music Startup Suno Raises Capital at $5.4 Billion Valuation
+  bloomberg-tech · 2026-06-03 · https://www.bloomberg.com/news/articles/2026-06-03/ai-music-startup-suno-raises-capital-at-5-4-billion-valuation
+• Iceye Valuation Jumps to €10 Billion in Funding Round Led by General Atlantic
+  bloomberg-tech · 2026-06-09 · https://www.bloomberg.com/news/articles/2026-06-09/iceye-valuation-jumps-to-10-billion-in-funding-round-led-by-general-atlantic
+• SoftBank in Early Talks to Back $800 Million Agile Robots Round
+  bloomberg-tech · 2026-06-02 · https://www.bloomberg.com/news/articles/2026-06-02/softbank-in-early-talks-to-back-800-million-agile-robots-round
+• Standard Bots Raises $200 Million to Manufacture Robots in US
+  bloomberg-tech · 2026-06-09 · https://www.bloomberg.com/news/articles/2026-06-09/standard-bots-raises-200-million-to-manufacture-robots-in-us
+</description>
+      <pubDate>Sun, 14 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-14</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-14.mp3" length="10675556" type="audio/mpeg"/>
+      <itunes:duration>11:07</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/13 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-13
