@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 14 Jun 2026 18:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:27:36 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -29,65 +29,87 @@
       <description>📋 今日要闻 · 2026-06-15
 
 【AI 基础设施】
-• 继三星之后，消息称 SK 海力士准备向主要客户提供 HBM4E 样品、最早本月发货
-  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/164.htm
+• “全球首款动态数据流 AI 芯片”理想马赫 M100 发布：5nm 车规级工艺、单芯算力 1280 TOPS
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/513.htm
 
 【大模型】
-• 突发！Anthropic全球停用Claude 5
-  36氪 · 2026-06-13 · https://www.36kr.com/p/3851015329027336
-• 让 Anthropic Fable 5 模型下架的“幕后黑手”，竟是自家股东亚马逊
-  IT之家 · 2026-06-13 · https://www.ithome.com/0/963/991.htm
-• Anthropic’s safety warnings may have just backfired — the government has pulled 
-  techcrunch-ai · 2026-06-13 · https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/
-• Amazon security research reportedly led to the White House’s Anthropic Fable ban
-  theverge · 2026-06-13 · https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
-• Anthropic cuts off Fable 5 and Mythos 5 access following government order
-  theverge · 2026-06-13 · https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security
+• Greg Brockman：OpenAI通往AGI——GPT-5、GPT-OSS与AGI愿景
+  知识库精读 · 2026-06-15 · https://mp.weixin.qq.com/s/xHLJ-MaRxQgmqaQsv4NG6g
+• DeepMind震撼报告：四条通往超级人工智能之路
+  36氪 · 2026-06-15 · https://www.36kr.com/p/3851379175822341
+• Anthropic shuts down Fable, Mythos models following Trump admin directive
+  arstechnica · 2026-06-13 · https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/
+• Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government O
+  wired-ai · 2026-06-13 · https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/
+• 谷歌DeepMind重磅报告：从AGI到ASI,世界可能进入"连续爆炸"时代
+  jtks-aihambri · 2026-06-13 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515608&amp;idx=1&amp;sn=50046af2e21373b588b7bea78e329734&amp;chksm=cf6df3c81c8653abf77255ae225dc59bb8af72fe5b4ea3c6bd1de7b5ec19b0169d8c79d5f2c2&amp;scene=0#rd
 
 【具身智能模型】
-• 李弘扬智源大会告别演讲：具身智能的"另一半"被严重低估了
-  知识库精读 · 2026-06-14
-• Generalist CTO 访谈：最难的问题，是让机器人真正"碰到"这个世界
-  知识库精读 · 2026-06-14 · https://www.youtube.com/watch?v=-TTAOxVN2eo
-• 北京周三｜ICRA/CVPR后，聊聊具身最新判断
-  jtks-qbitai · 2026-06-14 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247897366&amp;idx=1&amp;sn=b4f6624b617756d9d6f2f83515c87eb3&amp;chksm=e918065f959be38e90a50e852e15a5a5381e8e5fe7d9701d6d0e49cd8e1858b1ecd0bdb5e56a&amp;scene=0#rd
+• 致敬李弘扬老师最后一次学术演讲：具身智能的"另一半"被严重低估了
+  知识库精读 · 2026-06-15 · https://mp.weixin.qq.com/s/Lh3mPxHqPGExmOEIAsLUwg
+• 70分钟深度对话黄铁军：AI已有类意识行为，未来人与AI将理性共存
+  36氪 · 2026-06-15 · https://www.36kr.com/p/3852206259934211
+• 硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来
+  36氪 · 2026-06-15 · https://www.36kr.com/p/3853016586359817
+• 场景泛化能力反超主流VLA模型？大晓机器人开源新世界模型，以极小代价直达家庭
+  jtks-aifrontline · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663587&amp;idx=2&amp;sn=d8b5658ad1412a5c19d8413afc620795&amp;chksm=fa7cc70377ba2e489c61e4c4870ee28bd8f9756a0f9827c7ce46a700ce08d431bd2aeb0579b2&amp;scene=0#rd
 
 【智能驾驶】
-• 明日重磅开讲｜AI智驾、智能底盘、智车安全日程一键解锁
-  jtks-yanzhi · 2026-05-28 · http://mp.weixin.qq.com/s?__biz=MzU5ODQ5ODQ1Mw==&amp;mid=2247667849&amp;idx=1&amp;sn=f0ca63b66be3491ab6105053076f1d3c&amp;chksm=fe4f5d73c938d465a9233964470ff21a62298f24d0dfbbb73404dd41235021a702e27d378fbd#rd
-• 何小鹏说。现在的L4是高级的缝合怪，17年都没做明白。。。
-  jtks-autodrive-heart · 2026-05-29 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695099&amp;idx=1&amp;sn=d487154df48f3afd481d4967ee4a8143&amp;chksm=cf463fb8d8fb5d6f4cae6da6582f96da193e8104eb0930a723f6cf7614b2c6c41c68f30f4803&amp;scene=0#rd
-• 从堆算力到求高效，智驾算力真的越高越好吗？
-  jtks-zhijia-front · 2026-05-29 · http://mp.weixin.qq.com/s?__biz=MzUyODY1NDE1NA==&amp;mid=2247577565&amp;idx=1&amp;sn=2ad5d11877695ad27b0c52f3b99fdd23&amp;chksm=fa6ee5f8cd196cee5be08b3dda3f16f55ad45c9834b45cb948e9f8c0a2934015346071f9175e#rd
+• 理想汽车宣布下半年马赫 VLA 能力持续进化，第四季度对齐特斯拉 FSD V14 能力
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/508.htm
+• 理想：马赫 Mind-Pro 模型已全面落地赋能 L9 Livis 车载智能
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/510.htm
+• 奔驰纯电 CLA 获推 OTA 升级：领航辅助驾驶系统覆盖全国城区及高速
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/490.htm
+• 北汽极狐全新阿尔法 S5 首次 OTA：新增 HUD AR、HUD 红绿灯读秒等功能
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/415.htm
+• 博世BLUE：让VLA不再被语言拖累，拿下自动驾驶双榜SOTA
+  jtks-autodrive-heart · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695386&amp;idx=1&amp;sn=e3d163edb7d6f04e835be7c8b64a0434&amp;chksm=cf275b322ac8c49fdebb8e6a87cb3fec94f13c038a21e9b742ae9db555f39cd59c30af73ef4b&amp;scene=0#rd
 
 【机器人硬件】
-• 28000Pa 吸力 + 越障高度 40mm：小米米家扫拖机器人 6 上下水版 1888 元新低
-  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/180.htm
+• 赛力斯人形机器人首次亮相，副总裁康波透露还有更多种类今年亮相
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/484.htm
+• 新石器无人车等在重庆成立新公司
+  36kr-newsflash · 2026-06-15 · https://36kr.com/newsflashes/3854201548854272?f=rss
+• 供应链权力地图04｜3亿机器人业务背后，金力永磁们在争什么？
+  jtks-jushen-xingqiu · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MzcwMDIwMTAzNA==&amp;mid=2247484366&amp;idx=1&amp;sn=4f8aed0ffc7b2cfbe27566e0dc30e368&amp;chksm=f4b222ebc3c5abfd9831b90bb86f39b670cce55c498d846c6fca498ac7d8df045c7c531f7c1e#rd
 
 【AI 消费硬件与脑机】
-• 华为鸿蒙商用台式机官宣 9 月登场
-  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/170.htm
+• 对话夏勇峰：做了 6 年，我亲手按下 AI 眼镜的暂停键
+  知识库精读 · 2026-06-15 · https://mp.weixin.qq.com/s/zpl-Bt5n-oiXoEiVuhiTbQ
+• 消息称三星晶圆代工首获埃隆 · 马斯克 Neuralink 芯片制造订单
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/516.htm
+• 国内企业研发出全球首款脑控“人工膀胱”系统，未来还有人工括约肌、人工肾脏
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/424.htm
+• 联想 Yoga Pro 7 15ASH11 笔记本发布：锐龙 AI Max+ 388 处理器、15 寸 1100 尼特 OLED 屏幕
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/400.htm
+• Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses
+  wired-ai · 2026-06-15 · https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/
 
 【AI Agent】
-• 腾讯的Agent底牌，这次全摊开了
-  jtks-xinzhiyuan · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652705710&amp;idx=2&amp;sn=685ae137fb8811ec76d5591be5a594d4&amp;chksm=f0e11dc521fb60a14bbec8349252fbfca17f9ddeaa39ec4ab3c683a7b563050b62de92788198&amp;scene=0#rd
-• 微信正在变成Agent时代的操作系统。
-  jtks-shuzishengmingkazi · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647683054&amp;idx=1&amp;sn=dcaa25bd4fdfc9bd5c0211532021bf7c&amp;chksm=f13607d174372566ad8a57c3332e51ed62d30800cd1ec42b1ec2ca9496a7ec84fa18bc37d694&amp;scene=0#rd
-• 腾讯打出企业Agent新底牌：WorkBuddy企业版抢占AI办公统一入口
-  jtks-jiqizhixin · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651037813&amp;idx=1&amp;sn=d798c1232176fe196917e2417f3ca298&amp;chksm=85df27c265d8a2e6e0d57b45d9f0ea7f5b0fdfbc53f2d635f47e84e66c82276e85ecbdaf8462&amp;scene=0#rd
-• Xcode 27 Beta 发布：苹果称其是构建 AI 智能体应用的“最佳场所”
-  IT之家 · 2026-06-08 · https://www.ithome.com/0/961/694.htm
+• Anthropic最新博客：生物学Agent的瓶颈不在模型，而在数据基础设施
+  36氪 · 2026-06-09 · https://www.36kr.com/p/3845426259511816
+• 登顶GitHub Hacker News，这个开源项目让AI编程的成本降低98%｜涌现新项目
+  jtks-zhinengyongxian · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&amp;mid=2247516733&amp;idx=2&amp;sn=0a266e4562672243d2cd9d8b89065af0&amp;chksm=c15193a8b6d76ec0d7ab05f83651d948f7584c1f7ddcfc1c0307c6950002451abce0183badcf&amp;scene=0#rd
+• AI时代，一种新经济正在长出来
+  36氪 · 2026-06-09 · https://www.36kr.com/p/3845715638913286
+• 首发丨美团官宣率先接入微信Agent生态
+  jtks-leifengwang · 2026-06-08 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750189&amp;idx=1&amp;sn=677b3b5a7cb3f38675d757cbd9d8ec47&amp;chksm=636bf3fa36cf5ef64704eeda119c3deefd664a5870280a90ac941cdc53186e0f2a47fa65cba2&amp;scene=0#rd
 
 【💰 财经动态】
-• 孙正义、奥特曼，凭什么给AI定“天价”？
-  36氪 · 2026-06-11 · https://www.36kr.com/p/3848566383023362
-• OpenAI Weighs Significant Price Cuts in Rivalry With Anthropic
-  bloomberg-tech · 2026-06-11 · https://www.bloomberg.com/news/articles/2026-06-11/openai-weighs-major-price-cuts-to-win-anthropic-users-wsj-says
+• “国产 GPU 四小龙”之一燧原科技科创板 IPO 获上市委会议通过，公司拟融资金额 60 亿元
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/505.htm
+• Tencent-Backed Enflame Heads to IPO as China AI Chip Wave Grows
+  bloomberg-tech · 2026-06-15 · https://www.bloomberg.com/news/articles/2026-06-15/tencent-backed-enflame-heads-to-ipo-as-china-ai-chip-wave-grows
+• Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support
+  bloomberg-tech · 2026-06-15 · https://www.bloomberg.com/news/articles/2026-06-15/kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support
+• 速递｜KKR携手英伟达成立Helix，斥资100亿美元押注AI数据中心
+  jtks-zpotentials · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247516245&amp;idx=3&amp;sn=b8ae97d1b5d3f033c2fdef9b733f3afd&amp;chksm=ea3786a7e703a3fb267594164d9d1a712b1cd50ab4638dee3b9a2b396592013687fe038101e6&amp;scene=0#rd
 </description>
       <pubDate>Mon, 15 Jun 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-15</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-15.mp3" length="11750965" type="audio/mpeg"/>
-      <itunes:duration>12:14</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-15.mp3" length="16918612" type="audio/mpeg"/>
+      <itunes:duration>17:37</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
