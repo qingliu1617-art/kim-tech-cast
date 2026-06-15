@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 10:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 18:23:42 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,91 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/16 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-16
+
+【AI 基础设施】
+• 英伟达黄仁勋：新款 Vera 芯片将采用 SK 海力士的内存产品
+  IT之家 · 2026-06-07 · https://www.ithome.com/0/961/187.htm
+• 为服务器设计，富士康展示液冷版 RTX Pro 6000 Server Edition GPU
+  IT之家 · 2026-06-07 · https://www.ithome.com/0/961/163.htm
+• 突发：OpenAI芯片元老加入Anthropic
+  36氪 · 2026-06-07 · https://www.36kr.com/p/3842475940268552
+
+【大模型】
+• 从发布到被消失的72小时，Fable 5暴露了最强AI模型的安全困境
+  36氪 · 2026-06-15 · https://www.36kr.com/p/3854177104040960
+• 实测GLM-5.2，国产Coding模型的又一座新高峰。
+  jtks-shuzishengmingkazi · 2026-06-13 · http://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647683547&amp;idx=1&amp;sn=7bf34faa81ecee90ae2dd048298cbea2&amp;chksm=f16a12b466ced1f93ad52081bda82087a7ffc462d81a636923853b2aabedd0b01503f3f11d08&amp;scene=0#rd
+• 最强模型 Fable 5，四天就被「拔了网线」
+  jtks-geekpark · 2026-06-13 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653108773&amp;idx=1&amp;sn=cfe6623deb31402e588687b2735d50df&amp;chksm=7f6091b4f735b6d30d982ad1a76981f1d0b0ae55f5f71ac6cc6571aad9be47f3e7ef6c291c4e&amp;scene=0#rd
+
+【具身智能模型】
+• 独家丨穹彻智能副总裁毛崇兆离职创业，目标海外家庭具身方向
+  jtks-leifengwang · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750513&amp;idx=2&amp;sn=7a62d713dd138ff9822fbbb3ac656c68&amp;chksm=638880ec59c4fc241083dc644ab20e5967c4fba12e18725f529dd13f6fadc6e3530c4927b2c4&amp;scene=0#rd
+• 融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面
+  jtks-zhinengyongxian · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&amp;mid=2247516792&amp;idx=1&amp;sn=d1d5ee7a58c1d409281689db213cf850&amp;chksm=c14e6b2dfdc571d13c5c58a7db66083565a467729301444c8bad657f7c7b3c6cd981fe9370f1&amp;scene=0#rd
+• 世界模型与世界的距离：数据、技术路线和落地预期
+  36氪 · 2026-06-15 · https://www.36kr.com/p/3854299683165448
+
+【智能驾驶】
+• 理想新一代旗舰座舱公布：高通 8797 Elite 芯片、90Hz 高刷宽屏，支持苹果 CarPlay 等互联
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/597.htm
+• 华为余承东详解全新一代问界 M9 融合感知方案，全车 40 个传感器做到 360° 无死角
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/562.htm
+• Tesla’s self-driving safeguards fooled by $30 doll heads
+  electrek · 2026-06-15 · https://electrek.co/2026/06/15/chinese-drivers-plastic-heads-fool-tesla-autopilot-camera/
+• Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh
+  electrek · 2026-06-15 · https://electrek.co/2026/06/15/tesla-cybercab-epa-specs-curb-weight-battery-motor-power/
+• 车规芯片涨价，新能源汽车开吃AI的苦
+  jtks-bandaoti-zongheng · 2026-06-14 · http://mp.weixin.qq.com/s?__biz=MzkxMjIyNzU0MA==&amp;mid=2247813199&amp;idx=1&amp;sn=71f12f13113dfbde53057d231892d780&amp;chksm=c11e65f4f669ece2baf3de9e1ae4aa3ed14a74480ff8d09c0962e0ef0761fc227db1ffef0522#rd
+
+【机器人硬件】
+• 波士顿动力拆解Atlas足部设计，机器人落地能力成决胜点
+  知识库精读 · 2026-06-15
+• 中国人形机器人又创世界纪录，银河通用机器人街边小店自主工作超 1 年
+  知识库精读 · 2026-06-11 · https://www.ithome.com/0/963/007.htm
+
+【AI 消费硬件与脑机】
+• Meta在50多个百思买店开智能眼镜专区
+  jtks-xrvision · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MjM5OTY1ODgxMg==&amp;mid=2257491047&amp;idx=1&amp;sn=da921aaa2271bd8a418ad44cf82deb92&amp;chksm=a512b5b69dfe0101a1133b33e37a17b1ed1e7e2a22c449e3ed26f725a64c85c066cfcd3d61fa&amp;scene=0#rd
+
+【AI Agent】
+• 别再亲自写Prompt了！OpenClaw与Claude Code创始人已经用“循环”让一堆Agent自动打工了
+  jtks-51cto · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655940606&amp;idx=1&amp;sn=a9d182b9a738dbc5022dbe5e10820c6f&amp;chksm=bcea4cb585f71898c64a30fea4a6a835f6359cdc265e5ec8cb274787afa81b677d0ca1eca56d&amp;scene=0#rd
+• Claude Code 之父一周年回顾：下一年的形态，一定跟现在完全不同
+  jtks-agihunt · 2026-06-09 · http://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&amp;mid=2453485945&amp;idx=1&amp;sn=5fdba4a1ea28fd8fbecd7bc3e0ebe876&amp;chksm=863fa5029bae41d38c960a638941ff12571036a25b6539b2e6c632c87c1d8a325bd1164e4bfc&amp;scene=0#rd
+• How engineers at Nextdoor use Codex to build without limits
+  OpenAI Blog · 2026-06-09 · https://openai.com/index/nextdoor
+
+【💰 财经动态】
+• Nvidia Set to Sell $25 Billion of Bonds, Joining AI Debt Boom
+  bloomberg-tech · 2026-06-15 · https://www.bloomberg.com/news/articles/2026-06-15/nvidia-kicks-off-first-high-grade-bond-offering-since-2021
+• 消息称英伟达时隔五年重返债市：拟发债筹集 200 亿美元
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/602.htm
+• 英伟达计划通过发行高等级债券筹资至少200亿美元
+  36kr-newsflash · 2026-06-15 · https://36kr.com/newsflashes/3854398462759941?f=rss
+• Nvidia Looks to Raise $20 Billion in First Bond Sale Since 2021
+  bloomberg-tech · 2026-06-15 · https://www.bloomberg.com/news/videos/2026-06-15/nvidia-looks-to-raise-20b-in-first-bond-sale-since-2021-video
+• 消息称腾讯出资 2000 万美元，入股阿里通义千问大模型前负责人林俊旸的 AI 实验室
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/572.htm
+• 美媒：腾讯参投林俊旸AI公司2000万美元
+  jtks-leifengwang · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750532&amp;idx=1&amp;sn=f9bac0a3b0374a2196d50d082b55d141&amp;chksm=631770399b343e9f986b98923d7ca9a954a752d4c267d2914560a570ead4ab034a60218ea239&amp;scene=0#rd
+• 独家｜林俊旸公司新一轮估值或超50亿美元，方向或为Agent专用模型
+  jtks-zfinance · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ==&amp;mid=2453899301&amp;idx=1&amp;sn=bcee3ec6ddc1d22f774b7a40bb2c41b5&amp;chksm=89bc0e8069041d69c74eb2d0fa0d51917b3a72691376fb2422753cbbfd9ae9cb76c6328dbd81&amp;scene=0#rd
+• Salesforce acquires AI customer service platform Fin for $3.6 billion
+  techcrunch-ai · 2026-06-15 · https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/
+• Salesforce to Buy AI Firm That Handles Customer Service
+  bloomberg-tech · 2026-06-15 · https://www.bloomberg.com/news/videos/2026-06-15/salesforce-to-buy-ai-customer-service-firm-fin-video
+</description>
+      <pubDate>Tue, 16 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-16</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-16.mp3" length="14323922" type="audio/mpeg"/>
+      <itunes:duration>14:55</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/15 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-15
