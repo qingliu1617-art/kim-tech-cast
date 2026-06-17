@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 10:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:59:29 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,87 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/17 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-17
+
+【AI 基础设施】
+• 曝字节跳动加码国产算力：洽谈采购天数智芯 5 万颗推理芯片，互联网大厂竞速算力基建
+  IT之家 · 2026-06-17 · https://www.ithome.com/0/965/642.htm
+• Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0
+  NVIDIA Blog · 2026-06-16 · https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/
+
+【大模型】
+• 最强Claude，卡在上市前夜
+  36氪 · 2026-06-14 · https://www.36kr.com/p/3852759269980800
+• 大反转！Anthropic CEO拒修漏洞才被封，举报Claude新模型是自家大股东
+  36氪 · 2026-06-14 · https://www.36kr.com/p/3852376401220868
+• 谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！
+  jtks-xinzhiyuan · 2026-06-14 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652707058&amp;idx=1&amp;sn=e43fa7ec4f057c17c460a56a48189e4e&amp;chksm=f0ff0b5690d59f079506488e060d1442784273852bb45e624c13c6cc6a7e984b2f1bae32e834&amp;scene=0#rd
+
+【具身智能模型】
+• 约CEO聊技术只能深夜11点，磕具身真上头了
+  知识库精读 · 2026-06-17
+• 阿里发布世界模型 HappyOyster 快乐生蚝 1.0：一句话生成可实时交互的数字世界
+  IT之家 · 2026-06-17 · https://www.ithome.com/0/965/652.htm
+• 1.2B 参数跑出 98.6%成功率：星源智发布全球首个具身交互世界模型
+  jtks-aifrontline · 2026-06-16 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663613&amp;idx=1&amp;sn=cba6991c1795258c1ecd6943b5ae38c2&amp;chksm=fa64e94bf8812482231638701c1cfa8a7f64d61cc9e326a0a9cc7779dd8bb295ce798b6883b0&amp;scene=0#rd
+• 阿里又放大招！一句话，造一个能走进去的世界
+  jtks-xinzhiyuan · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652707788&amp;idx=1&amp;sn=03b7dcefc8139d182e9dccc2add85cdb&amp;chksm=f072830686d67e813b3a82e15f8c00b5f7f8ef99da6bb3dd2218249716b36984fdff0725bd90&amp;scene=0#rd
+• 国内22家具身智能公司大模型拆解及分析总结
+  知识库精读 · 2026-06-17
+
+【智能驾驶】
+• Uber to Offer Robotaxis in Houston With Lucid and Nuro, Posing Challenge to Waym
+  bloomberg-tech · 2026-06-17 · https://www.bloomberg.com/news/articles/2026-06-17/uber-lucid-and-nuro-plan-robotaxis-in-houston-taking-on-waymo-in-no-4-us-city
+• Uber’s Lucid-powered robotaxis are heading to Houston next
+  electrek · 2026-06-17 · https://electrek.co/2026/06/17/uber-lucid-robotaxi-houston/
+• 1.55亿 vs 30亿：理想和小鹏，在车端模型这件事上背道而驰
+  jtks-shenlan-ai · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247602111&amp;idx=1&amp;sn=ff3c61d7b2672e33fa95fb3673e6428f&amp;chksm=f2273328c5aadd025ac1c457f953f0353dec097fd4807c56320c53eb318958758c7a21e97db3&amp;scene=0#rd
+• Mobileye is entering the US robotaxi market with standalone service
+  arstechnica · 2026-06-16 · https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/
+• Baidu Apollo Go wins Level 4 robotaxi approval in Switzerland as AmiGo
+  electrek · 2026-06-16 · https://electrek.co/2026/06/16/baidu-apollo-go-amigo-switzerland-level-4-approval/
+
+【机器人硬件】
+• Genesis AI 发布首款通用机器人 Eno：身体与「大脑」GENE 一体设计，年底交付客户
+  jtks-jushen-jiyuan · 2026-06-16 · http://mp.weixin.qq.com/s?__biz=Mzk2NDg4MDcwNA==&amp;mid=2247495205&amp;idx=1&amp;sn=e18675ff457401661ee8fa1b7cb5cbee&amp;chksm=c5c1899932ddeedbaf9998f4068b35c5d4ecc0f187e2818c01b375ac6a054f4dde839d2224a6&amp;scene=0#rd
+• 预计 2030 年产能达 50 万台套：京津冀首个万台级具身智能机器人超级工厂规模投用
+  IT之家 · 2026-06-17 · https://www.ithome.com/0/965/666.htm
+
+【AI 消费硬件与脑机】
+• Qualcomm unveils its Snapdragon Reality Elite chip for next-gen AR headsets
+  engadget · 2026-06-16 · https://www.engadget.com/2194353/qualcomm-unveils-its-snapdragon-reality-elite-chip-for-next-gen-ar-headsets/
+• 2999 元：联想 AI 主机 MINI 开售，号称“AI 原生个人家庭边缘设备”、预装天禧 Claw
+  IT之家 · 2026-06-17 · https://www.ithome.com/0/965/662.htm
+• Android 17 launches with new multitasking tools as Google expands Gemini feature
+  techcrunch-ai · 2026-06-16 · https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/
+• The Gemini-Powered Google Home Speaker Is Finally Here
+  wired-ai · 2026-06-17 · https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/
+• Wear OS 7 arrives to Pixel watches with Gemini AI and live updates
+  engadget · 2026-06-16 · https://www.engadget.com/2195052/wear-os-7-comes-to-pixel-watches/
+
+【AI Agent】
+• Fable 5榜单第一靠作弊？代码泄露，模型真实身份曝光
+  36氪 · 2026-06-17 · https://www.36kr.com/p/3857125518972165
+• NVIDIA团队让编程Agent接管真实机器人实验，成功率达99%
+  jtks-jiqizhixin · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651039842&amp;idx=2&amp;sn=62eb052b9f906ad8cd44199a8c63b0cb&amp;chksm=8562abbf4568edaf43db553d2678a061570afdc96c9244306963fb07a6a23cfbdd440fbeafb7&amp;scene=0#rd
+
+【💰 财经动态】
+• DeepSeek 以 4000 亿元估值完成首轮外部融资：510 亿元到账，投资方含梁文锋、腾讯、宁德时代、京东、网易等
+  IT之家 · 2026-06-17 · https://www.ithome.com/0/965/686.htm
+• 一年亏掉约 2600 亿，OpenAI 的“烧钱机器”停不下来了
+  jtks-aifrontline · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663646&amp;idx=1&amp;sn=b7a1ca2ceded75b3e0672636d23c2ef2&amp;chksm=fa6ff23a93c3fe08eaec4102c2d95231fcb8d69abdc2d7485fe37b28fe731c9881f1561c72f2&amp;scene=0#rd
+• 马斯克SpaceX正式以600亿美金收购Cursor
+  jtks-aihambri · 2026-06-16 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515671&amp;idx=1&amp;sn=23efc4219e0d24d8c1a215c091bf0ed1&amp;chksm=cfa4c77a879801c2e1d150970f4d77ea9cc22de418995849b0ae9790947c36cee4b452a3c5c9&amp;scene=0#rd
+</description>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-17</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-17.mp3" length="12798789" type="audio/mpeg"/>
+      <itunes:duration>13:20</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/16 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-16
