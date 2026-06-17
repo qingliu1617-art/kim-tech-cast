@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 17 Jun 2026 15:59:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 22:49:04 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,81 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/18 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-18
+
+【AI 基础设施】
+• 黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够
+  36kr-newsflash · 2026-06-08 · https://36kr.com/newsflashes/3844471670671619?f=rss
+• 我国科研人员研制新型高频晶体管刷新全球纪录
+  36kr-newsflash · 2026-06-08 · https://36kr.com/newsflashes/3844487652116994?f=rss
+
+【大模型】
+• MiniMax M3 模型正式开源：原生多模态、百万上下文
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/598.htm
+• Fable 5被禁3天后Anthropic认怂，连夜急派员工赴华盛顿谈判：GPT 5.5有同款漏洞
+  36氪 · 2026-06-15 · https://www.36kr.com/p/3854350752617737
+• 受Fable 5封禁影响，GPT-5.6或将延迟发布！
+  jtks-xinzhiyuan · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652707307&amp;idx=2&amp;sn=c4a92a8d203882fd613462df1185ccc9&amp;chksm=f0e5468191efea5bc8e1f0dd2a1ede8c02126fa0c20323752b66b4eb42ff961a68587d487376&amp;scene=0#rd
+
+【具身智能模型】
+• 达摩院发布世界模型评测基准，自家模型一个都没上榜......
+  jtks-shenlan-ai · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247602101&amp;idx=1&amp;sn=17d61d291b571407ba4f78c2c7c8bb7d&amp;chksm=f204e3a869353c714593a636efb2e8461076706bdddfc2e37a2632fd8ab66476080044d4b23c&amp;scene=0#rd
+• 10 万小时人类数据，一座富矿，与中国具身大脑的另一种叙事｜与灵初王启斌聊「灵巧操作」
+  jtks-weishijie · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MzU0NTE1OTUzNg==&amp;mid=2247484533&amp;idx=1&amp;sn=3c611270f2071fa721ed1da552531b38&amp;chksm=fb70646acc07ed7c231310e71c32f12ac4567315ecc0a5368cedfbc424868ac55db54994b866#rd
+
+【智能驾驶】
+• Rivian CEO signals self-driving prices, like Tesla’s, will fall
+  electrek · 2026-06-17 · https://electrek.co/2026/06/17/rivian-ceo-self-driving-prices-fall-tesla-fsd/
+• The Dutch vehicle authority (RDW) has released an official statement addressing 
+  x-ming-tesla · 2026-06-17 · https://www.x.com/tslaming/status/2067267120183091590
+• 2026年自动驾驶开源工作盘点：端到端、世界模型与VLA的最新进展
+  jtks-shenlan-ai · 2026-06-16 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247602077&amp;idx=1&amp;sn=76cd742e8781602558df5cbe78a90a63&amp;chksm=f2c3e66461de5e5ad96a0f22ee6242d23397cb2355a4364d513b44ba073ebe9f33810bb36a27&amp;scene=0#rd
+
+【机器人硬件】
+• Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital
+  wired-ai · 2026-06-17 · https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/
+
+【AI 消费硬件与脑机】
+• Meet the new Google Home Speaker, built for Gemini
+  google-blog · 2026-06-17 · https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features/
+• VITURE 推出首款基于 NVIDIA XR AI 解决方案的AI安全眼镜
+  jtks-xrvision · 2026-06-16 · http://mp.weixin.qq.com/s?__biz=MjM5OTY1ODgxMg==&amp;mid=2257491100&amp;idx=1&amp;sn=bc2adfa95e10b43dfecb3b57f7165fb5&amp;chksm=a5c4e33f5295e933cdccf8e55677d8c4a88ab5789d3ea87971cde52bec037d59819de8b2c0c1&amp;scene=0#rd
+• June Pixel Drop: New features for creators, Gemini upgrades and more
+  google-blog · 2026-06-16 · https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/
+
+【AI Agent】
+• “Agent的最后一场考试”来了：最强模型得分率仅8.6%，Claude Code直接挂零
+  36氪 · 2026-06-10 · https://www.36kr.com/p/3847188569639169
+• Fable 5一天干完两个月，这类工程师更值钱了
+  jtks-xinzhiyuan · 2026-06-10 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652706261&amp;idx=2&amp;sn=8774557f152ac945d0e157da37ee70bf&amp;chksm=f0590d7de47ac5cf587ffd9e79e97bdf58bdac2b582ff79cc0d99ec97ccdd058dae8f233ae91&amp;scene=0#rd
+• 当行业还在卷模型，腾讯在谈怎么让 Agent 上班
+  jtks-geekpark · 2026-06-10 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653108537&amp;idx=1&amp;sn=5ee3d0a5e3ae9e19c4a823106bee1415&amp;chksm=7faaa518ab643b7f7835bb6a78e9cae42114163047c903f56b95df9cf2e55253d6df5f8c9f48&amp;scene=0#rd
+• Michael Truell (@mntruell) fell in love with coding at 12. The company he co-fou
+  x-claude · 2026-06-10 · https://www.x.com/claudeai/status/2064757537992249734
+
+【💰 财经动态】
+• 小米「龙虾」上线，每天免费 4 小时；DeepSeek 完成首轮融资，梁文锋个人出资 200 亿；英伟达员工「考公上岸」引热议 | 极客早知道
+  jtks-geekpark · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653108942&amp;idx=1&amp;sn=83a51f46185dde0ead80d3e74b4f938e&amp;chksm=7f3372198ba032e5c58d9fef783c1df51e256c1fc18bffc423910428913f85765fded1c887f2&amp;scene=0#rd
+• 百亿换AI，高通拟收Tenstorrent
+  jtks-bandaoti-zongheng · 2026-06-16 · http://mp.weixin.qq.com/s/W57hG6Y9PKXrxIi2bCZ_TQ
+• DeepSeek 融资交易曝光：腾讯、宁德时代等被锁5年，且没投票权，梁文锋绝对控制
+  jtks-aifrontline · 2026-06-16 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663606&amp;idx=1&amp;sn=4c7dde7e59232a928de71bede6428fb1&amp;chksm=fafe8f241577dc59a6674e5b5946a0ce2a97340cd60c407aa33d7ae11668bc1a8404dc4dfeee&amp;scene=0#rd
+• Sarvam becomes India’s newest AI unicorn with $234 million funding round led by 
+  techcrunch-ai · 2026-06-15 · https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/
+• 「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至 18 个月
+  jtks-zhinengyongxian · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&amp;mid=2247516834&amp;idx=1&amp;sn=5c9a0c26662e75872c7f7bee9100bf3b&amp;chksm=c1c806cdd5bcd3d83da8cfca95d91fd0e1605d38d6a8f0150957bea7dabdd4edd5af921cf917&amp;scene=0#rd
+• World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big n
+  techcrunch-ai · 2026-06-17 · https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/
+</description>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-18</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-18.mp3" length="11710841" type="audio/mpeg"/>
+      <itunes:duration>12:12</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/17 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-17
