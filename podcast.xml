@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 17 Jun 2026 22:49:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 22:17:46 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,79 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/19 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-19
+
+【AI 基础设施】
+• AI算力变局：TPU正成为“另一个选项”
+  36氪 · 2026-06-18 · https://www.36kr.com/p/3858339324924932
+
+【大模型】
+• 突发，Transformer之父告别谷歌，转投OpenAI
+  36氪 · 2026-06-18 · https://www.36kr.com/p/3858340677489922
+• Fable 5四天暴毙！AI史上最短命旗舰
+  jtks-xinzhiyuan · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652707276&amp;idx=2&amp;sn=74143bae07aa4ade74beb25dec90eab9&amp;chksm=f0df501c4ae016965d7f62954db344150ae24e99af1728eb51919934910e5dc6d271ae4aa852&amp;scene=0#rd
+• Anthropic谈判陷僵局，大佬联名要求解禁Fable
+  36氪 · 2026-06-16 · https://www.36kr.com/p/3855560387450113
+
+【具身智能模型】
+• 理想的具身智能走到了哪里？一颗芯片、一套大脑、一个新范式
+  知识库精读 · 2026-06-18 · https://mp.weixin.qq.com/s/BBlHzDJR4dIMKF4qZEPElg
+• 比英伟达早，比李飞飞强，大晓Kairos原生一体化世界模型定义物理AI新路线
+  jtks-jiqizhixin · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651040042&amp;idx=2&amp;sn=7414585465c2102446518f0f9e490577&amp;chksm=85c116c9e3324176d49e448baccb831c42190e9a7b6e73ff86dfbf7c94e3604556a3809f61ab&amp;scene=0#rd
+• 人形机器人不再「走走停停」：Current Robotics发布全身灵巧操作模型Curr-0
+  jtks-jiqizhixin · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651040002&amp;idx=1&amp;sn=2350f75c30770f5657c2911aed4ef022&amp;chksm=85b24fb7e036d6e21121216ebd9b73c99ef31daa92f94ccd81b363dddc82c5256972c9ef0539&amp;scene=0#rd
+
+【智能驾驶】
+• 我国首部 L3/L4 自动驾驶强制性国标公示：2027 年 7 月起正式实施，车企靠模糊宣传抢市场的阶段结束
+  IT之家 · 2026-06-18 · https://www.ithome.com/0/966/272.htm
+• 因车辆可能驶入高速公路施工区域，Waymo 召回近 4000 辆自动驾驶出租车
+  IT之家 · 2026-06-18 · https://www.ithome.com/0/966/244.htm
+
+【机器人硬件】
+• Genesis AI 发了一款三折叠机器人
+  知识库精读 · 2026-06-18 · https://mp.weixin.qq.com/s/9IZx_N8_9bFOrUCk9hOZuA
+• 追觅进行战略调整，聚焦四大核心赛道
+  36kr-newsflash · 2026-06-18 · https://36kr.com/newsflashes/3858598149346560?f=rss
+• This robotic self-driving toilet comes to you
+  theverge · 2026-06-18 · https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet
+
+【AI 消费硬件与脑机】
+• 微星 Claw 8 EX AI+ 掌机定价 11999 元，高管称“对我们和玩家来说都将会是艰难的一年”
+  IT之家 · 2026-06-18 · https://www.ithome.com/0/966/230.htm
+• Snap’s Specs look good on nobody
+  theverge · 2026-06-18 · https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast
+• XGIMI MemoMind One review: Smart glasses, creepy AI
+  engadget · 2026-06-18 · https://www.engadget.com/2196666/xgimi-memomind-one-review/
+• Pixi’s new iOS app turns text messages into interactive AR experiences
+  techcrunch-ai · 2026-06-18 · https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/
+• Google bets on Gemini to reinvent the smart home speaker
+  techcrunch-ai · 2026-06-17 · https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/
+
+【AI Agent】
+• 今天起，Claude Design要把设计师和程序员变成同一种人了
+  36氪 · 2026-06-18 · https://www.36kr.com/p/3858531433780228
+• 英伟达GEAR实验室刚刚放出大招，物理世界的自动研究 AutoResearch 首次成为现实
+  jtks-aihambri · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515749&amp;idx=1&amp;sn=531feddc361d6f36039c8d0c395d6175&amp;chksm=cf152bde10d4715f45dd2aab87fdca0b79bef0fdb00015d960bfe4e5683927dba443a3b93841&amp;scene=0#rd
+
+【💰 财经动态】
+• 速递｜OpenAI上市前财报泄露，3个月烧37亿美元，年亏损涨8倍
+  jtks-zpotentials · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247516294&amp;idx=2&amp;sn=98bca3953252102a8201655c800ba1ab&amp;chksm=eaaf22ceea88c447af65546e8af9f36912631b990c8faadba8839f473cfa03a1e796f2fd6609&amp;scene=0#rd
+• AI inference startup Baseten reportedly raising $1.5B months after its last mega
+  techcrunch-ai · 2026-06-18 · https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/
+• Liblib 母公司完成近 3 亿美元融资，国内 AI 应用终于有了 “大标的”
+  jtks-latepost · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&amp;mid=2247536806&amp;idx=1&amp;sn=b49581f0a54aeedd9cc094042b2d0d91&amp;chksm=fd418c50252bb6291dd988f234f589338dc8c57c9b543c0b9903c3a3bd8a9fad3ab1c46c299a&amp;scene=0#rd
+• 速递｜外媒：红杉中国、真格、腾讯将联手回购Manus
+  jtks-zfinance · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ==&amp;mid=2453899333&amp;idx=1&amp;sn=a5dd61ba8c72756e6d6b2c881e8c0ac1&amp;chksm=893123e6dba129689150a4e984cfe2e169014e118f1bbc48aee1f654794d07a5d512d213b4e4&amp;scene=0#rd
+</description>
+      <pubDate>Fri, 19 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-19</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-19.mp3" length="12796699" type="audio/mpeg"/>
+      <itunes:duration>13:20</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/18 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-18
