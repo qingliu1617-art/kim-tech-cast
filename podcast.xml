@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 18 Jun 2026 22:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 22:17:39 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,87 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/20 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-20
+
+【AI 基础设施】
+• NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infras
+  NVIDIA Blog · 2026-06-07 · https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/
+• Google Tapped Intel for Over 3 Million Chips, Information Says
+  bloomberg-tech · 2026-06-08 · https://www.bloomberg.com/news/articles/2026-06-08/google-tapped-intel-for-over-3-million-chips-information-says
+
+【大模型】
+• OpenAI亲曝o1越狱逃出沙箱：感觉像AGI降临
+  36氪 · 2026-06-17 · https://www.36kr.com/p/3857214116549888
+• DeepMind：Transformer存在拓扑缺陷，思维链治标不治本
+  36氪 · 2026-06-17 · https://www.36kr.com/p/3857099719791876
+• 一手实测智谱最强模型，AI编程“御三家”要成型了？
+  36氪 · 2026-06-17 · https://www.36kr.com/p/3856785554232322
+
+【具身智能模型】
+• 全球首个人形机器人通用小脑 GPT 模型：银河通用发布 AstraBrain-WBC 0.5
+  IT之家 · 2026-06-19 · https://www.ithome.com/0/966/355.htm
+• 中科院AIR-VLA+：把飞行和操控解耦了，任务完成率提升80%！
+  jtks-shenlan-ai · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247602118&amp;idx=1&amp;sn=44da1fd22675a5b19c038e6a70f5c9a9&amp;chksm=f214aaf98066f6f845bb482cf4e0850a5840c678fe200567dc13c1b5a423b87d587bf585a267&amp;scene=0#rd
+• 四大权威榜单全第一！Kairos用原生一体化架构重新定义世界模型
+  jtks-shenlan-ai · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247602151&amp;idx=1&amp;sn=883e66b0ed0570f904ee1d7fc33f5a94&amp;chksm=f24e8fb5b18b7e0f13bc2a67dd1d6c75b82963332ccba09f3c66bb468e4aa6ca3ed24f8543ca&amp;scene=0#rd
+• 世界模型的GPT时刻：距离物理AGI出圈，还有多远？
+  jtks-aifrontline · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663670&amp;idx=2&amp;sn=aeda7679c274c6c3e764d90643fbb44a&amp;chksm=faadea59678832016fa3d2b8f359b2dded6595746a5c9274da9353b73e2019f728a9cf2a6f90&amp;scene=0#rd
+• 理想的具身智能走到了哪里？一颗芯片、一套大脑、一个新范式
+  jtks-geekpark · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653109083&amp;idx=1&amp;sn=708abe59098d53e5847fe83c1b0af3c9&amp;chksm=7fe27e60e4a92ebdb464929627504be0b65ad01afd532057b3078ef4b9d4bc7a0c2ba3fbb279&amp;scene=0#rd
+
+【智能驾驶】
+• CMU团队提出RT-VLA：双分支解耦+多级蒸馏，让端到端自动驾驶模型提速44倍！
+  jtks-shenlan-ai · 2026-06-19 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247602120&amp;idx=1&amp;sn=61f1881a5b32b2356a833b98c3fdc8a8&amp;chksm=f2e43ddb00042afeada6ccfeb844baf6defe353a46c05910a26a9212c1c3b15d74dd27eafd13&amp;scene=0#rd
+• 对话理想谢炎&amp;詹锟：年末追平特斯拉FSD
+  jtks-leifengwang · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750811&amp;idx=1&amp;sn=aabb6f3fef6078f79d85d89ce8b48c4a&amp;chksm=6396d5f644d382a36800a9e47fcd556a951321a20ca2a7f8ed561e2bb58d61f4562e5379e158&amp;scene=0#rd
+• Waymo recalls over 3,800 robotaxis that might drive onto closed freeways
+  engadget · 2026-06-18 · https://www.engadget.com/2197051/waymo-recalls-3800-robotaxis-that-might-drive-onto-closed-freeways/
+
+【机器人硬件】
+• 人形机器人成功登顶海拔 6200 米火山：基于宇树 G1 改装，目标挑战珠峰
+  IT之家 · 2026-06-19 · https://www.ithome.com/0/966/427.htm
+• 创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛
+  jtks-aifrontline · 2026-06-19 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663754&amp;idx=1&amp;sn=598543485867ff3f1b0998f333aee1aa&amp;chksm=fab472baafa6d0b72755f4fd41c1217f357b43783e6a0df90e468a68971ad7747922b2a0c3be&amp;scene=0#rd
+• RT by @Figure_robot: For the first time, robots now outnumber humans at Figure
+  x-figure · 2026-06-19 · https://www.x.com/adcock_brett/status/2068040783295627609
+• 具身智能战略小组讨论：Genesis AI三折叠机器人
+  知识库精读 · 2026-06-18 · https://www.feishu.cn/docx/Vj8kdb4NtoGnvIxxqYgckjNYn6c
+
+【AI 消费硬件与脑机】
+• Samsung and Massachusetts General Hospital Launch Joint Study To Investigate GLP
+  samsung-newsroom · 2026-05-28 · https://news.samsung.com/global/samsung-and-massachusetts-general-hospital-launch-joint-study-to-investigate-glp-1-treatment-monitoring-with-galaxy-watch
+• Samsung Introduces Next-Gen Galaxy Watch Features for AI-Powered Everyday Health
+  samsung-newsroom · 2026-06-04 · https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion
+
+【AI Agent】
+• AI 编程进入看板协作时代！Claude Code 刚刚更新：终端开发秒变可交互、实时网页
+  jtks-aifrontline · 2026-06-19 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663778&amp;idx=1&amp;sn=baef9089b0ca8fec7abac44d7db218b7&amp;chksm=fa92ebea3a3d770aaf92ad2a358682cdaca682cc2e7116789f27be11ec991fe53e98502feda7&amp;scene=0#rd
+• 史上首次，Agent流量超越人类！
+  jtks-xinzhiyuan · 2026-06-19 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652708014&amp;idx=2&amp;sn=efc9bab6ed59575951b69c9db2cbb048&amp;chksm=f0373e7802a8eb4eca09d600de07c47680577a0bd907b53002524e1ccfc93ab8550c5371c29c&amp;scene=0#rd
+
+【💰 财经动态】
+• SpaceX要让太空算力从科幻走向现实，但它划算吗？
+  jtks-siliconvalley101 · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MzA4NjUwNTI0OA==&amp;mid=2247498039&amp;idx=1&amp;sn=6072656c493f321cfc1175ea1f91b58b&amp;chksm=9e9f30732cec5491157c6d85343aab7b61e4763d6dda84d222a6ef18ce17c67e74fc8369c6ea&amp;scene=0#rd
+• 消息称 Momenta 估值冲至 90 亿美元，赴港 IPO 剑指 10 亿美元募资
+  IT之家 · 2026-06-19 · https://www.ithome.com/0/966/379.htm
+• 不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码
+  jtks-qbitai · 2026-06-19 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247898466&amp;idx=1&amp;sn=40266d0d34c669e0fbf8082a96c5251e&amp;chksm=e97d5f62c9ffd9b97c4ec5edd1553265c858fff7acfa8cf017caa10016ecc58c3cd51a31e3c6&amp;scene=0#rd
+• 为防人才流失，消息称 DeepSeek 向潜在投资人提“不挖人”要求
+  IT之家 · 2026-06-18 · https://www.ithome.com/0/966/256.htm
+• Salesforce to Buy AI Customer Service Firm Fin for $3.6 Billion
+  bloomberg-tech · 2026-06-15 · https://www.bloomberg.com/news/articles/2026-06-15/salesforce-to-buy-ai-customer-service-firm-fin-for-3-6-billion
+• SpaceX 600 亿美元收购 Cursor！马斯克不补课，直接买课代表
+  jtks-aifrontline · 2026-06-16 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247663625&amp;idx=1&amp;sn=ba3609f93ee14aa9484ab350db9ed815&amp;chksm=facb47b38bcd42f6fe196e00ac9c0c75b022065939a54082c3c8e3cdf5ee69a58125a4e475d6&amp;scene=0#rd
+</description>
+      <pubDate>Sat, 20 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-20</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-20.mp3" length="13230541" type="audio/mpeg"/>
+      <itunes:duration>13:47</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/19 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-19
