@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 20 Jun 2026 14:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 22:14:39 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,83 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/21 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-21
+
+【AI 基础设施】
+• 鸿海与施耐德电气围绕次世代 AI 数据中心展开战略合作，合作生产年内启动
+  IT之家 · 2026-06-15 · https://www.ithome.com/0/964/487.htm
+• SemiAnalysis 逆向工程麒麟和N+3
+  jtks-2030fy · 2026-06-15 · http://mp.weixin.qq.com/s?__biz=MzYyMjU1NzM2OQ==&amp;mid=2247484988&amp;idx=1&amp;sn=a10809712ab754b66b4f372d670c9164&amp;chksm=fe4bc3a04a849d187ad24c7f06abb7aab6df2cf24378ae5d43812a2ffaf6cd123af9ba81b9cd&amp;scene=0#rd
+• 韩国启动 5000 亿韩元研发计划，攻关下一代功率半导体
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/175.htm
+• 大量民众反对：美国一季度至少 75 个数据中心建设项目受阻，总价值约 1300 亿美元
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/139.htm
+• 大摩：无论CPO还是NPO，“光含量”都在大幅提升
+  jtks-2030fy · 2026-06-14 · http://mp.weixin.qq.com/s?__biz=MzYyMjU1NzM2OQ==&amp;mid=2247484981&amp;idx=2&amp;sn=4c802d62a57f89ee670a4a29f30feda8&amp;chksm=fe5449163a6a943f8bd0bedc3b3e2c389fd4e9a6fccb250facede962a81cdd69e6b7f7e23951&amp;scene=0#rd
+
+【大模型】
+• 突发，谷歌Gemini联席负责人，被OpenAI挖了
+  36氪 · 2026-06-18 · https://www.36kr.com/p/3858117337633796
+• Dario访谈首曝：Mythos被称为“超级武器”
+  36氪 · 2026-06-18 · https://www.36kr.com/p/3858340490335234
+• Anthropic got hit by export rules nobody understands
+  theverge · 2026-06-17 · https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls
+• OpenAI亲曝o1越狱逃出沙箱：感觉像AGI降临
+  jtks-xinzhiyuan · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652707788&amp;idx=2&amp;sn=4434259b0abbd03779812f05aa6fbb24&amp;chksm=f044ce7cf5d5a8abeb5dbe7207fbdcd928d46f40a4f58e427f1cfd1a3b21fc6d085bffb31647&amp;scene=0#rd
+• ALERT: OpenAI's CFO claims their next big training run will happen in Fall 2026 
+  x-semianalysis · 2026-06-16 · https://www.x.com/SemiAnalysis_/status/2066929153689915742
+
+【具身智能模型】
+• DPVR RoboPilot让机器人遥操作沉淀为可学习数据
+  jtks-xrvision · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MjM5OTY1ODgxMg==&amp;mid=2257491159&amp;idx=2&amp;sn=8a98e688e75f20719ad3740087c618fa&amp;chksm=a5d2bedc58740068bed11d5d870d99bd72c4dab0030c136c86dcd2674b6cb6bcfa7010b7425d&amp;scene=0#rd
+
+【智能驾驶】
+• 自动驾驶占用网络还需要数据标注吗？
+  知识库精读 · 2026-06-20 · https://mp.weixin.qq.com/s/uKkBcTQK9oBccxxCUCZUSg*
+• 国家邮政局：加快推进无人车、无人机在邮政快递行业试点应用
+  IT之家 · 2026-06-19 · https://www.ithome.com/0/966/422.htm
+• Sweden tells EU to reject Tesla ‘FSD’ unless speeding is removed
+  electrek · 2026-06-18 · https://electrek.co/2026/06/18/sweden-tesla-fsd-speeding-eu-vote/
+• Tesla teases new FSD features — but it’s still not the self-driving promised
+  electrek · 2026-06-18 · https://electrek.co/2026/06/18/tesla-fsd-parking-preferences-grok-voice-control/
+• 超越 DA3/DVGT！SurroundNEXO：自动驾驶几何重建新SOTA（交大&amp;哈啰）
+  jtks-autodrive-heart · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695534&amp;idx=1&amp;sn=99896c51a858a142c291464dade2d28c&amp;chksm=cff8851b8c62f751f689003ee744ab28ad4309339f67a577ad459338dac94f291ac3d19bb686&amp;scene=0#rd
+
+【机器人硬件】
+• NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级
+  IT之家 · 2026-06-20 · https://www.ithome.com/0/966/570.htm
+
+【AI 消费硬件与脑机】
+• 华为 HarmonyOS 7.0 Developer Beta 1 更新速览：首创鸿蒙内核应用快启技术、音频引擎大更新
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/029.htm
+• 消息称小米 MIX Fold 5 阔折叠手机首发澎湃 OS4，系统应用实现“AI 赋能”
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/113.htm
+• Meta 向旗下 Quest 2/3/Pro 头显全面推送新版 Navigator 界面，类苹果 Vision Pro 风格
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/097.htm
+• 华为朱懂东谈 MatePad Edge 被骂性能不行：平板性能当然不如电脑，主要是探索二者交融界限
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/153.htm
+• 华为朱懂东再谈平板 / 电脑边界与融合：未来可能都是算力型设备，大家按需携带
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/165.htm
+
+【AI Agent】
+• Claude Code史诗级更新，突破终端，把工作实时变成网页看板
+  jtks-jiqizhixin · 2026-06-19 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651040113&amp;idx=1&amp;sn=65f4eb89a20d986bd4a0f3e8a8f337d7&amp;chksm=85b07ac292f64858aaeeb9ed59f724f303226b37c439c338a5c3ae74e4086acd6691f557c97c&amp;scene=0#rd
+• 消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/141.htm
+• Agent时代，华为云开始重新造地基了
+  jtks-qbitai · 2026-06-14 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247897349&amp;idx=1&amp;sn=28447d634d3e27883ce00d1099701268&amp;chksm=e9b2bd666ea6b4c2a462a4731ffe30b2d1c0260d6e0cce5c8744f100765ecce757a929a2c63d&amp;scene=0#rd
+• 最短一年内，模型会吞噬Harness？ Google AI Studio负责人：窄域超智能将率先在编程、数学、金融、科学等“可验证性”领域实现
+  jtks-51cto · 2026-06-14 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655940801&amp;idx=1&amp;sn=b7019ffbfc29d5e87c609df03d66e6b9&amp;chksm=bcc10a30d5147d4bfb9d3359fcaeea058b13aacf2f8abaaeec74c6ee31ee031a7c81108cd43a&amp;scene=0#rd
+</description>
+      <pubDate>Sun, 21 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-21</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-21.mp3" length="13362616" type="audio/mpeg"/>
+      <itunes:duration>13:55</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/20 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-20
