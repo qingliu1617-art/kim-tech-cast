@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 06:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 06:41:32 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -104,8 +104,8 @@
   知识库精读 · 2026-06-20 · https://mp.weixin.qq.com/s/QuOSgDH6fDL2utmeN2_xHw*
 
 【大模型】
-• DeepSeek V4压顶，Anthropic CEO先动手了：一场漏洞百出的舆论战，从构陷到翻车
-  知识库精读 · 2026-06-20 · https://mp.weixin.qq.com/s/C-LxdjTLvWw7ic-CeUQxxA*
+• Redis之父为DeepSeek抱不平：通过API蒸馏大模型并不现实
+  知识库精读 · 2026-06-20 · https://mp.weixin.qq.com/s/evz_uqsi8-WSBiF-w44yFg
 • Anthropic CEO Amodei on Compute Spend, Surpassing OpenAI
   bloomberg-tech · 2026-06-17 · https://www.bloomberg.com/news/videos/2026-06-17/anthropic-ceo-amodei-on-compute-spend-surpassing-openai
 • GLM-5.2 正式发布：开源之王来了，摸到了Opus-4.8
@@ -165,8 +165,8 @@
 </description>
       <pubDate>Sun, 21 Jun 2026 01:48:02 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-20-clean-20260621</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-20-clean-20260621.mp3?v=pronunciation-20260621" length="14778243" type="audio/mpeg"/>
-      <itunes:duration>15:24</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-20-clean-20260621.mp3?v=factualfix-20260621" length="14732268" type="audio/mpeg"/>
+      <itunes:duration>15:21</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
