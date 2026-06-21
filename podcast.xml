@@ -5,11 +5,11 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI 行业日报</title>
-    <link>https://qingliu1617-art.github.io/kim-tech-cast</link>
+    <link>https://qingliu1617-art.github.io/kim-tech-cast/</link>
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 01:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 02:35:30 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -165,8 +165,8 @@
 </description>
       <pubDate>Sun, 21 Jun 2026 01:48:02 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-20-clean-20260621</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-20-clean-20260621.mp3" length="14860581" type="audio/mpeg"/>
-      <itunes:duration>15:29</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-20-clean-20260621.mp3?v=pronunciation-20260621" length="14778243" type="audio/mpeg"/>
+      <itunes:duration>15:24</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
