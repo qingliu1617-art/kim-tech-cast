@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 01:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 01:48:02 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,77 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/21 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-21
+
+【AI 基础设施】
+• 台积电加速研发 CoPoS 封装以取代 CoWoS：玻璃核心基板可降低 30% 成本并将晶圆利用率提升至 90% 以上
+  IT之家 · 2026-06-20 · https://www.ithome.com/0/966/590.htm
+• 2D 材料晶体管告别实验室：imec 联手台积电、ASML 实现 50nm 栅距 300mm 晶圆验证
+  IT之家 · 2026-06-19 · https://www.ithome.com/0/966/443.htm
+• 应对 AI 耗电激增，美国要求 6 家电网运营商加速给数据中心供电
+  IT之家 · 2026-06-19 · https://www.ithome.com/0/966/435.htm
+
+【大模型】
+• Nobel laureate John Jumper is leaving DeepMind for rival Anthropic
+  techcrunch-ai · 2026-06-20 · https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
+• 深度｜CVPR 2026 Best Paper Finalist 全解析：15篇入围之作，华人研究者几乎承包奖台
+  知识库精读 · 2026-06-20 · https://mp.weixin.qq.com/s/1TdH7vd6P-87teJqOJ5Wyg*
+• Redis之父为DeepSeek抱不平：美国AI圈又为"蒸馏"吵起来了
+  知识库精读 · 2026-06-15 · https://mp.weixin.qq.com/s/evz_uqsi8-WSBiF-w44yFg*
+
+【智能驾驶】
+• 终于来了：华为鸿蒙单框架车机系统出现网易云音乐 App
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/093.htm
+• 华为鸿蒙车机海外版曝光：基于 HarmonyOS 4.3，对花瓣地图以及海外 App 进行适配
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/065.htm
+• 零跑汽车首席运营官徐军谈“出海”：希望不要内卷外卷化
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/058.htm
+• 张雪机车冠军车手德比斯成为零跑 Lafa5 首位欧洲车主
+  IT之家 · 2026-06-14 · https://www.ithome.com/0/964/080.htm
+• 自动驾驶汽车如何避免幽灵刹车？
+  jtks-zhijia-front · 2026-06-14 · http://mp.weixin.qq.com/s?__biz=MzUyODY1NDE1NA==&amp;mid=2247577701&amp;idx=1&amp;sn=d73a180122c99b88801fbb368e3b0f4f&amp;chksm=fa6efa40cd197356a305ea6028c39883ced5b93c9a4854eeff8465026a0dee8590ac76b165ae#rd
+
+【AI 消费硬件与脑机】
+• Reservations are open for XREAL AURA — plus, see more news from AWE 2026.
+  google-blog · 2026-06-16 · https://blog.google/innovation-and-ai/technology/xr-ar/awe-2026/
+• Wear OS 7 helps your smartwatch keep up with you
+  google-blog · 2026-06-16 · https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/
+• [Interview] The Future of Screen Experiences ②: From Watching to Understanding W
+  samsung-newsroom · 2026-06-17 · https://news.samsung.com/global/interview-the-future-of-screen-experiences-%e2%91%a1-from-watching-to-understanding-with-vision-ai-companion
+• My Father Wants to Age in Place. AI Will Be Watching
+  wired-ai · 2026-06-16 · https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/
+• Samsung expands its Galaxy Book 6 lineup with a Snapdragon X2 Elite-powered mode
+  engadget · 2026-06-15 · https://www.engadget.com/2194830/samsung-expands-its-galaxy-book-6-lineup-with-a-snapdragon-x2-elite-powered-model/
+
+【AI Agent】
+• Adobe Firefly AI 平台升级：为 Creative Cloud 套件引入智能体，简化复杂创意工作
+  IT之家 · 2026-06-18 · https://www.ithome.com/0/966/263.htm
+• 原力灵机发布 Ferrata 系统，物理 AI 迎来自己的 Harness
+  jtks-geekpark · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&amp;mid=2653109028&amp;idx=1&amp;sn=b5e7833ccef54ea305e99d59d5f8b607&amp;chksm=7f7baa54395db040559eadd71f2ccc45bd4d2cf1678c51e54ad4930096f2bc40d8556cab862d&amp;scene=0#rd
+• A near-autonomous AI chemist improves a challenging reaction in medicinal chemis
+  OpenAI Blog · 2026-06-17 · https://openai.com/index/ai-chemist-improves-reaction
+• World leaders want American AI. They just don’t want America to be able to turn 
+  techcrunch-ai · 2026-06-17 · https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/
+
+【💰 财经动态】
+• General Intuition in talks to raise $300M at around $2B valuation
+  techcrunch-ai · 2026-06-18 · https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/
+• 持续领跑世界模型驱动物理AGI，极佳视界再获10亿元B2轮融资
+  jtks-zhinengyongxian · 2026-06-19 · http://mp.weixin.qq.com/s?__biz=MzkwMDQ2NDU2Nw==&amp;mid=2247516867&amp;idx=1&amp;sn=e7ad8ec1c48a983ecd0e2d4776019f7e&amp;chksm=c11739def45be8457efcd03acc9fdc816210f06df3d27020fb8e2a8fed9062124bf8c17dfef0&amp;scene=0#rd
+• 硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万
+  36氪 · 2026-06-19 · https://www.36kr.com/p/3859926114161665
+• 独家丨觅蜂科技完成数亿元天使+轮融资
+  jtks-leifengwang · 2026-06-17 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651750732&amp;idx=1&amp;sn=7674a54b5e98e042083ce0beaecceff3&amp;chksm=6359ae9f4290c92166ddaea479140f2295611845005c392fef2fdc2ecb674656ddb55b73ca3b&amp;scene=0#rd
+</description>
+      <pubDate>Sun, 21 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-21</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-21.mp3" length="11707497" type="audio/mpeg"/>
+      <itunes:duration>12:12</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/20 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-20
@@ -92,9 +163,9 @@
 • 独家｜林俊旸公司新一轮估值或超50亿美元，方向或为Agent专用模型
   知识库精读 · 2026-06-20 · https://mp.weixin.qq.com/s/QS0jIRFktS4gQey_TEUDuA*
 </description>
-      <pubDate>Sat, 20 Jun 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ai-daily-2026-06-20</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-20.mp3?v=clean-20260621" length="14860581" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 01:48:02 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-20-clean-20260621</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-20.mp3?v=clean-20260621b" length="14860581" type="audio/mpeg"/>
       <itunes:duration>15:29</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
