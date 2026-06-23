@@ -10,6 +10,4 @@ file '/Users/gaoliu/Code/kim-tech-cast/audio/.2026-06-23_tts_parts/section_004.m
 file '/Users/gaoliu/Code/kim-tech-cast/audio/.2026-06-23_tts_parts/_chime_norm.mp3'
 file '/Users/gaoliu/Code/kim-tech-cast/audio/.2026-06-23_tts_parts/section_005.mp3'
 file '/Users/gaoliu/Code/kim-tech-cast/audio/.2026-06-23_tts_parts/_chime_norm.mp3'
-file '/Users/gaoliu/Code/kim-tech-cast/audio/.2026-06-23_tts_parts/section_006.mp3'
-file '/Users/gaoliu/Code/kim-tech-cast/audio/.2026-06-23_tts_parts/_chime_norm.mp3'
 file '/Users/gaoliu/Code/kim-tech-cast/audio/.2026-06-23_tts_parts/_closer.mp3'
