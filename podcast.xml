@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 16:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:32:35 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -38,10 +38,10 @@
 来源：Bloomberg Odd Lots《Why Cerebras CEO Andrew Feldman Built The World's Largest Computer Chip》
 官方页面：https://omny.fm/shows/odd-lots/why-cerebras-ceo-andrew-feldman-built-the-worlds-largest-computer-chip
 YouTube：https://www.youtube.com/watch?v=7bWqp3oZyXg</description>
-      <pubDate>Wed, 24 Jun 2026 16:02:03 +0000</pubDate>
+      <pubDate>Wed, 24 Jun 2026 16:32:35 +0000</pubDate>
       <guid isPermaLink="false">ai-daily-2026-06-24-cerebras-oddlots</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-24-cerebras-oddlots.mp3" length="7359468" type="audio/mpeg"/>
-      <itunes:duration>07:40</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-24-cerebras-oddlots.mp3?v=long-20260625" length="12857721" type="audio/mpeg"/>
+      <itunes:duration>13:24</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/2026-06-24-cerebras-oddlots.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>

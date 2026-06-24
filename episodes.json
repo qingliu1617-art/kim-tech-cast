@@ -4,11 +4,11 @@
     "guid": "ai-daily-2026-06-24-cerebras-oddlots",
     "title": "AI 日报特别篇：Cerebras 为什么敢挑战 Nvidia",
     "description": "Odd Lots 访谈中文精华改编：Bloomberg Odd Lots 邀请 Cerebras CEO Andrew Feldman，解释为什么他们要做晶圆级 AI 芯片，以及这条路线如何在推理时代挑战 Nvidia。\n\n本期只讲干货：\n· Cerebras 的大芯片到底解决什么问题\n· 为什么推理速度本身可以成为商业价值\n· 它如何绕开部分 HBM、先进封装和 3nm 产能拥堵\n· CUDA 护城河在推理时代是否会变薄\n· 开源模型、企业数据主权、云服务和主权 AI 的商业含义\n\n来源：Bloomberg Odd Lots《Why Cerebras CEO Andrew Feldman Built The World's Largest Computer Chip》\n官方页面：https://omny.fm/shows/odd-lots/why-cerebras-ceo-andrew-feldman-built-the-worlds-largest-computer-chip\nYouTube：https://www.youtube.com/watch?v=7bWqp3oZyXg",
-    "pub_date": "Wed, 24 Jun 2026 16:02:03 +0000",
-    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-24-cerebras-oddlots.mp3",
-    "audio_size": 7359468,
+    "pub_date": "Wed, 24 Jun 2026 16:32:35 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-24-cerebras-oddlots.mp3?v=long-20260625",
+    "audio_size": 12857721,
     "audio_mime": "audio/mpeg",
-    "duration": "07:40",
+    "duration": "13:24",
     "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/2026-06-24-cerebras-oddlots.jpg"
   },
   {
