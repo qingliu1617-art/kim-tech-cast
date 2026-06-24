@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 23 Jun 2026 01:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:57:14 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,81 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/24 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-24
+
+【AI 基础设施】
+• 零GPU，世界第一超算！深圳制造改写游戏规则了
+  jtks-qbitai · 2026-06-24 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247899204&amp;idx=2&amp;sn=bbae8ee80409e3d442872d75a8698a9e&amp;chksm=e96598bb0dec58d15b67acdc72d52b793418f7062ccd5a2eecce8013ea57a1478b2c5db81d46&amp;scene=0#rd
+• 消息称台积电先进制程代工将全线涨价，包含 7nm 及以下所有先进制程
+  IT之家 · 2026-06-24 · https://www.ithome.com/0/967/746.htm
+• 软银孙正义：将建造“世界上最大的数据中心”，Arm 还有 10 倍以上的成长空间
+  IT之家 · 2026-06-24 · https://www.ithome.com/0/967/832.htm
+• 占地1.5个曼哈顿、投资60亿美金，拆解光伏+储能到底如何给AIDC供电？
+  36氪 · 2026-06-24 · https://www.36kr.com/p/3866583608644613
+• 马斯克官宣 Starmind 太空 AI 算力项目名称，规划 100 万颗计算卫星入轨
+  IT之家 · 2026-06-24 · https://www.ithome.com/0/967/900.htm
+
+【大模型】
+• 刚刚，豆包大模型2.1发布，又一次跨越生产级质变点
+  jtks-jiqizhixin · 2026-06-23 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651040783&amp;idx=1&amp;sn=60e33dfa7534c96c03d9fb3e1ad88714&amp;chksm=8515bf3826e9f250bf67aaf4343e01cd6dee9bf25e838432807a6c4abb3f996060e6351eef2f&amp;scene=0#rd
+• OpenAI新论文：如何训练一个“压力下不变坏”的AI？
+  36氪 · 2026-06-24 · https://www.36kr.com/p/3866577016738816
+• Nobel laureate John Jumper is leaving DeepMind for rival Anthropic
+  techcrunch-ai · 2026-06-20 · https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
+
+【具身智能模型】
+• 机器人的"next token"是什么？Furong Huang用3D运动轨迹给出了她的答案
+  知识库精读 · 2026-06-23 · https://mp.weixin.qq.com/s/ksSTEsSRrodr2L60_YYGfw
+• 清华系“盯上”世界模型
+  36氪 · 2026-06-24 · https://www.36kr.com/p/3866544679785733
+• 从预测到干预，Aether AI为什么押注因果世界模型？
+  36氪 · 2026-06-24 · https://www.36kr.com/p/3866596553561095
+• 镜头被油污糊住，机器人还稳定操作？北大/清华等给VLA加一道信息筛选，不靠额外数据，效率提升14x，真机鲁棒性反而更高了 | ICML 2026
+  jtks-qbitai · 2026-06-24 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247899204&amp;idx=3&amp;sn=6440dc6ce55e9f8067eae3fe9782af70&amp;chksm=e9299783ca57eb109904294c19fbf8be45e05be9c6f59af6452af24277303f1786b60b698800&amp;scene=0#rd
+
+【智能驾驶】
+• 小米 YU7 GT 第一视角公开：一镜到底 + 一刀未剪，见证浙赛首个自动驾驶圈速纪录诞生
+  IT之家 · 2026-06-24 · https://www.ithome.com/0/967/896.htm
+• 辅助驾驶≠自动驾驶：女子开“智驾”分心和男友吵架致车辆失控撞护栏，处罚款+记 3 分
+  IT之家 · 2026-06-17 · https://www.ithome.com/0/965/633.htm
+
+【机器人硬件】
+• 孙正义宣布软银已开始量产机器人，将成为“世界第一”
+  IT之家 · 2026-06-24 · https://www.ithome.com/0/967/847.htm
+
+【AI 消费硬件与脑机】
+• 消息称苹果首款可折叠 iPhone 手机 7 月下旬量产，有望 9 月如期发布
+  IT之家 · 2026-06-24 · https://www.ithome.com/0/968/020.htm
+
+【AI Agent】
+• 阿里千问发布首个原生语言世界模型 Qwen-AgentWorld，可在七大领域中模拟智能体交互环境
+  IT之家 · 2026-06-24 · https://www.ithome.com/0/967/843.htm
+• 豆包专业版正式上线
+  36kr-newsflash · 2026-06-24 · https://36kr.com/newsflashes/3866487937651968?f=rss
+• 今天，Claude入职了
+  36氪 · 2026-06-24 · https://www.36kr.com/p/3866546956244232
+
+【💰 财经动态】
+• SK 海力士拟在纳斯达克发行存托凭证，筹资近 300 亿美元
+  IT之家 · 2026-06-24 · https://www.ithome.com/0/968/034.htm
+• SK Hynix Seeks $29 Billion With US Listing to Fund AI Boom
+  bloomberg-tech · 2026-06-24 · https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising
+• 1万亿智谱，谁赚走了最多的钱？
+  36氪 · 2026-06-22 · https://www.36kr.com/p/3864290202407941
+• 深度｜中国AI最大造富神话诞生，智谱一半员工身家过亿
+  jtks-zfinance · 2026-06-22 · http://mp.weixin.qq.com/s?__biz=MzA3NzUxMzM5MQ==&amp;mid=2453899361&amp;idx=1&amp;sn=8557c8594025cda2a63f0ebfe4e23588&amp;chksm=89086a173d6c8d100b24578bd9cb46fcfc7371698267987c12b10925292841c693a7b0ad9dbd&amp;scene=0#rd
+• Zhipu Said to Weigh Multibillion-Dollar Share Sale in Hong Kong After 2,000% Gai
+  bloomberg-tech · 2026-06-24 · https://www.bloomberg.com/news/articles/2026-06-24/zhipu-considers-multibillion-dollar-share-sale-in-hong-kong-after-2-000-gain
+</description>
+      <pubDate>Wed, 24 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-24</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-24.mp3" length="12841003" type="audio/mpeg"/>
+      <itunes:duration>13:22</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/23 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-23
