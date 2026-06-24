@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 09:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:42:12 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -153,6 +153,69 @@
       <guid isPermaLink="false">ai-daily-2026-06-23</guid>
       <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-23.mp3" length="8944369" type="audio/mpeg"/>
       <itunes:duration>09:19</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06/22 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-22
+
+【AI 基础设施】
+• 台积电CoPoS提速！玻璃核心基板可降本30%、基板利用率超90%
+  知识库精读 · 2026-06-21
+• #592.陈立武：66岁接手Intel，AI算力战争下的半导体供应链重建
+  知识库精读 · 2026-06-21 · https://www.youtube.com/watch?v=asCgCv2XB4s
+• Tesla plans to sell modular AI data center hardware called ‘Megapod’
+  electrek · 2026-06-21 · https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/
+
+【大模型】
+• 深度｜诺奖得主、DeepMind CEO斯坦福演讲：00后可能是人类历史上最后一批需要「找工作」的人
+  知识库精读 · 2026-06-21 · https://www.youtube.com/watch?v=DsewHeVbL-0
+• 谷歌 Gemini 联席负责人沙泽尔转投 OpenAI，奥尔特曼亲自发文欢迎
+  IT之家 · 2026-06-20 · https://www.ithome.com/0/966/551.htm
+• 刚刚，诺贝尔奖得主成Anthropic新员工
+  36氪 · 2026-06-20 · https://www.36kr.com/p/3860814933660674
+
+【具身智能模型】
+• 本以为真实世界还能再守几年，结果周末就沦陷了
+  知识库精读 · 2026-06-21 · https://mp.weixin.qq.com/s/grkKh3Lzp-yc2hz0dZJqQg
+• DPVR RoboPilot让机器人遥操作沉淀为可学习数据
+  jtks-xrvision · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MjM5OTY1ODgxMg==&amp;mid=2257491159&amp;idx=2&amp;sn=8a98e688e75f20719ad3740087c618fa&amp;chksm=a5d2bedc58740068bed11d5d870d99bd72c4dab0030c136c86dcd2674b6cb6bcfa7010b7425d&amp;scene=0#rd
+
+【智能驾驶】
+• 理想谢炎詹锟31个QA（中）：芯片、智驾护城河与3DViT
+  知识库精读 · 2026-06-21
+• Transformer如何让车辆从看清物体进化到理解环境？
+  知识库精读 · 2026-06-21
+• 消息称华为乾崑智驾 ADS 5 即将推送，鸿蒙智行旗舰车型优先搭载
+  IT之家 · 2026-06-21 · https://www.ithome.com/0/966/714.htm
+
+【机器人硬件】
+• 蛰伏的机器人变革，准备拿谁开刀？
+  知识库精读 · 2026-06-21
+• B站视频归档：海柔创新开始替仓库重新算账
+  知识库精读 · 2026-06-21 · https://www.bilibili.com/video/BV16zEC6gE6p/
+
+【AI 消费硬件与脑机】
+• Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27
+  techcrunch-ai · 2026-06-21 · https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/
+
+【AI Agent】
+• 洗个澡功夫，Codex替我跟售后把退款要了回来
+  知识库精读 · 2026-06-21 · https://mp.weixin.qq.com/s/xzj5VBhmipY2pU8csNgBxw
+• OpenAI GPT-5.6系列有望下周登场；微信灰度测试AI助手「小微」；小米「寻天」SUV自带帐篷 | 极客早知道
+  知识库精读 · 2026-06-21
+
+【💰 财经动态】
+• 500亿！DeepSeek完成首轮外部融资，梁文锋如何收钱？
+  知识库精读 · 2026-06-21
+• 具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角
+  知识库精读 · 2026-06-21
+</description>
+      <pubDate>Mon, 22 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-22</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-22.mp3" length="13541502" type="audio/mpeg"/>
+      <itunes:duration>14:06</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>

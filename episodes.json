@@ -24,6 +24,18 @@
     "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
   },
   {
+    "date": "2026-06-22",
+    "guid": "ai-daily-2026-06-22",
+    "title": "06/22 AI 日报",
+    "description": "📋 今日要闻 · 2026-06-22\n\n【AI 基础设施】\n• 台积电CoPoS提速！玻璃核心基板可降本30%、基板利用率超90%\n  知识库精读 · 2026-06-21\n• #592.陈立武：66岁接手Intel，AI算力战争下的半导体供应链重建\n  知识库精读 · 2026-06-21 · https://www.youtube.com/watch?v=asCgCv2XB4s\n• Tesla plans to sell modular AI data center hardware called ‘Megapod’\n  electrek · 2026-06-21 · https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/\n\n【大模型】\n• 深度｜诺奖得主、DeepMind CEO斯坦福演讲：00后可能是人类历史上最后一批需要「找工作」的人\n  知识库精读 · 2026-06-21 · https://www.youtube.com/watch?v=DsewHeVbL-0\n• 谷歌 Gemini 联席负责人沙泽尔转投 OpenAI，奥尔特曼亲自发文欢迎\n  IT之家 · 2026-06-20 · https://www.ithome.com/0/966/551.htm\n• 刚刚，诺贝尔奖得主成Anthropic新员工\n  36氪 · 2026-06-20 · https://www.36kr.com/p/3860814933660674\n\n【具身智能模型】\n• 本以为真实世界还能再守几年，结果周末就沦陷了\n  知识库精读 · 2026-06-21 · https://mp.weixin.qq.com/s/grkKh3Lzp-yc2hz0dZJqQg\n• DPVR RoboPilot让机器人遥操作沉淀为可学习数据\n  jtks-xrvision · 2026-06-18 · http://mp.weixin.qq.com/s?__biz=MjM5OTY1ODgxMg==&mid=2257491159&idx=2&sn=8a98e688e75f20719ad3740087c618fa&chksm=a5d2bedc58740068bed11d5d870d99bd72c4dab0030c136c86dcd2674b6cb6bcfa7010b7425d&scene=0#rd\n\n【智能驾驶】\n• 理想谢炎詹锟31个QA（中）：芯片、智驾护城河与3DViT\n  知识库精读 · 2026-06-21\n• Transformer如何让车辆从看清物体进化到理解环境？\n  知识库精读 · 2026-06-21\n• 消息称华为乾崑智驾 ADS 5 即将推送，鸿蒙智行旗舰车型优先搭载\n  IT之家 · 2026-06-21 · https://www.ithome.com/0/966/714.htm\n\n【机器人硬件】\n• 蛰伏的机器人变革，准备拿谁开刀？\n  知识库精读 · 2026-06-21\n• B站视频归档：海柔创新开始替仓库重新算账\n  知识库精读 · 2026-06-21 · https://www.bilibili.com/video/BV16zEC6gE6p/\n\n【AI 消费硬件与脑机】\n• Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27\n  techcrunch-ai · 2026-06-21 · https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/\n\n【AI Agent】\n• 洗个澡功夫，Codex替我跟售后把退款要了回来\n  知识库精读 · 2026-06-21 · https://mp.weixin.qq.com/s/xzj5VBhmipY2pU8csNgBxw\n• OpenAI GPT-5.6系列有望下周登场；微信灰度测试AI助手「小微」；小米「寻天」SUV自带帐篷 | 极客早知道\n  知识库精读 · 2026-06-21\n\n【💰 财经动态】\n• 500亿！DeepSeek完成首轮外部融资，梁文锋如何收钱？\n  知识库精读 · 2026-06-21\n• 具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角\n  知识库精读 · 2026-06-21\n",
+    "pub_date": "Mon, 22 Jun 2026 07:00:00 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-22.mp3",
+    "audio_size": 13541502,
+    "audio_mime": "audio/mpeg",
+    "duration": "14:06",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-06-21",
     "guid": "ai-daily-2026-06-21",
     "title": "06/21 AI 日报",
