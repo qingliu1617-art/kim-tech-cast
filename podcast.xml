@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 22:36:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 23:31:05 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,27 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：苹果WWDC26与AI权力重构</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: 库克的离场，苹果新AI权力重构与价值观天平｜WWDC26
+频道: 硅谷101
+主题: 苹果WWDC26与AI权力重构
+
+原视频: https://www.youtube.com/watch?v=hIdvhl8PUwc</description>
+      <pubDate>Thu, 25 Jun 2026 23:31:05 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-hIdvhl8PUwc</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-06-26-hIdvhl8PUwc.mp3?v=202606260731" length="4420368" type="audio/mpeg"/>
+      <itunes:duration>12:17</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-06-26-hIdvhl8PUwc.jpg?v=202606260731"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/26 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-26
