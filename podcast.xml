@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 08:41:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:36:54 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,79 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/26 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-26
+
+【AI 基础设施】
+• 苹果提高 Mac、iPad、Vision Pro、HomePod 等产品价格，以应对内存短缺
+  IT之家 · 2026-06-25 · https://www.ithome.com/0/968/675.htm
+• Tenstorrent CEO on Next Leg of AI Tech, Deal Interest
+  bloomberg-tech · 2026-06-25 · https://www.bloomberg.com/news/videos/2026-06-25/tenstorrent-ceo-on-next-leg-of-ai-tech-deal-interest-video
+• On the supply side, we map the 2026 roadmap from AMD Venice and Verano (256 core
+  x-semianalysis · 2026-06-25 · https://www.x.com/SemiAnalysis_/status/2070190651904229627
+
+【大模型】
+• OpenAI will delay GPT-5.6 after Trump administration request
+  theverge · 2026-06-25 · https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
+• Trump Administration Asks OpenAI to Stagger Release of AI Model
+  bloomberg-tech · 2026-06-25 · https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model
+
+【具身智能模型】
+• 算力的故事归于英伟达，而数据的故事还没有归属
+  jtks-jushen-jiyuan · 2026-06-25 · http://mp.weixin.qq.com/s?__biz=Mzk2NDg4MDcwNA==&amp;mid=2247495608&amp;idx=1&amp;sn=d66449a4192ca90d1c9d0708bfdb3a86&amp;chksm=c5a6de8737728688389708c87a86ba6d927516f83089678c18b6f87cd8679018877ab8cc7f96&amp;scene=0#rd
+
+【智能驾驶】
+• 全球首个自动驾驶系统全球技术法规获批发布
+  36kr-newsflash · 2026-06-25 · https://36kr.com/newsflashes/3868234441659652?f=rss
+• 尊界S800 Grand Design典藏大观上市
+  36kr-newsflash · 2026-06-25 · https://36kr.com/newsflashes/3868568646325252?f=rss
+
+【机器人硬件】
+• 索尼宣布 AI 机器狗 aibo ERS-1000 将在日本停售，将继续开发新产品与服务
+  IT之家 · 2026-06-25 · https://www.ithome.com/0/968/512.htm
+
+【AI 消费硬件与脑机】
+• 联想 2026 款 ThinkPad P16s 笔记本上架：可选 RTX Pro 500/1000、Ultra 7 356H + 32G + 1T 售 1579
+  IT之家 · 2026-06-21 · https://www.ithome.com/0/966/635.htm
+• 消息称小米 18 系列手机背屏不变：搭定制 200Mp Lofic 主摄、大 R 角等效 2K 屏
+  IT之家 · 2026-06-21 · https://www.ithome.com/0/966/611.htm
+• 供应链公司称已向苹果首款折叠屏 iPhone 小批量供货，新机预计 9 月发布
+  IT之家 · 2026-06-21 · https://www.ithome.com/0/966/724.htm
+• 丰巢联合微信支付推出“刷掌取件”，全程无需使用手机
+  IT之家 · 2026-06-21 · https://www.ithome.com/0/966/707.htm
+• 苹果 visionOS 27.0 开发者预览版 Beta 2 发布
+  IT之家 · 2026-06-22 · https://www.ithome.com/0/967/243.htm
+
+【AI Agent】
+• 马斯克前联创洽谈10亿美元巨融，要造一个真正归你的AI
+  36氪 · 2026-06-22 · https://www.36kr.com/p/3864280493118470
+• 谷歌云与诺基亚扩大合作，将 Gemini 模型融入电信网络智能运维平台
+  IT之家 · 2026-06-22 · https://www.ithome.com/0/967/200.htm
+• Daybreak: Tools for securing every organization in the world
+  OpenAI Blog · 2026-06-22 · https://openai.com/index/daybreak-securing-the-world
+• The AI world is getting ‘loopy’
+  techcrunch-ai · 2026-06-22 · https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/
+• 聊聊我刚刚拿到测试的微信Agent。
+  jtks-shuzishengmingkazi · 2026-06-22 · http://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647683701&amp;idx=1&amp;sn=ef8d728ab9fc21dded9e58746723552f&amp;chksm=f1c8fffbfe7611e9ef66820efc27b2338be4b7a9025b85cd0e972afa9d69fc0428dfcaf01a5c&amp;scene=0#rd
+
+【💰 财经动态】
+• 交出超强劲业绩后，美光科技市值首超 Meta、短暂超过特斯拉
+  IT之家 · 2026-06-25 · https://www.ithome.com/0/968/692.htm
+• Micron Sales Forecast Shatters Estimates on AI Demand
+  bloomberg-tech · 2026-06-24 · https://www.bloomberg.com/news/videos/2026-06-24/micron-sales-forecast-shatters-estimates-on-ai-demand-video
+• Adobe 宣布收购 Topaz Labs 强化 AI 视频与图像布局，交易预计 2026 年下半年完成
+  IT之家 · 2026-06-25 · https://www.ithome.com/0/968/696.htm
+• 2026全球独角兽榜单出炉 DeepSeek以3400亿元价值跻身前15名
+  36kr-newsflash · 2026-06-25 · https://36kr.com/newsflashes/3868256355193860?f=rss
+</description>
+      <pubDate>Fri, 26 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-26</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-26.mp3" length="11888892" type="audio/mpeg"/>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/25 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-25
