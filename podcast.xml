@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 04:44:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 06:14:56 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -38,8 +38,8 @@
 原视频: https://www.youtube.com/watch?v=fpAthTtha8c</description>
       <pubDate>Sun, 28 Jun 2026 03:54:41 +0000</pubDate>
       <guid isPermaLink="false">youtube-special-fpAthTtha8c</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-06-28-fpAthTtha8c.mp3?v=202606281154" length="4787424" type="audio/mpeg"/>
-      <itunes:duration>13:18</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-06-28-fpAthTtha8c.mp3?v=202606281414" length="14883151" type="audio/mpeg"/>
+      <itunes:duration>15:32</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-06-28-fpAthTtha8c.jpg?v=202606281154"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -210,8 +210,8 @@
 原视频: https://www.youtube.com/watch?v=hIdvhl8PUwc</description>
       <pubDate>Thu, 25 Jun 2026 23:33:51 +0000</pubDate>
       <guid isPermaLink="false">youtube-special-hIdvhl8PUwc</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-06-26-hIdvhl8PUwc.mp3?v=202606260733" length="5267088" type="audio/mpeg"/>
-      <itunes:duration>14:38</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-06-26-hIdvhl8PUwc.mp3?v=202606281414" length="15031527" type="audio/mpeg"/>
+      <itunes:duration>15:44</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-06-26-hIdvhl8PUwc.jpg?v=202606260733"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
