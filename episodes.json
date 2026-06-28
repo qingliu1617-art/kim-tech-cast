@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-28T11:54:41",
+    "guid": "youtube-special-fpAthTtha8c",
+    "title": "特别篇：OpenAI研究负责人谈AGI、o1与Scaling Law",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen\n频道: Latent Space\n主持人: Alan\n嘉宾: Mark Chen\n主题: OpenAI研究负责人谈AGI、o1与Scaling Law\n\n原视频: https://www.youtube.com/watch?v=fpAthTtha8c",
+    "pub_date": "Sun, 28 Jun 2026 03:54:41 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-06-28-fpAthTtha8c.mp3?v=202606281154",
+    "audio_size": 4787424,
+    "audio_mime": "audio/mpeg",
+    "duration": "13:18",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-06-28-fpAthTtha8c.jpg?v=202606281154"
+  },
+  {
     "date": "2026-06-28",
     "guid": "ai-daily-2026-06-28",
     "title": "06/28 AI 日报",

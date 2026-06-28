@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 01:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 03:54:41 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,29 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：OpenAI研究负责人谈AGI、o1与Scaling Law</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Cooking with OpenAI’s Research Chief: AGI, o1, Evals, and Scaling Laws — Mark Chen
+频道: Latent Space
+主持人: Alan
+嘉宾: Mark Chen
+主题: OpenAI研究负责人谈AGI、o1与Scaling Law
+
+原视频: https://www.youtube.com/watch?v=fpAthTtha8c</description>
+      <pubDate>Sun, 28 Jun 2026 03:54:41 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-fpAthTtha8c</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-06-28-fpAthTtha8c.mp3?v=202606281154" length="4787424" type="audio/mpeg"/>
+      <itunes:duration>13:18</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-06-28-fpAthTtha8c.jpg?v=202606281154"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/28 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-28
