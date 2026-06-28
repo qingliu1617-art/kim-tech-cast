@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 06:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 01:14:51 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,87 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>06/28 AI 日报</title>
+      <description>📋 今日要闻 · 2026-06-28
+
+【AI 基础设施】
+• 鹏城云脑 Ⅲ 登顶 IO500 双榜：搭载华为 OceanStor A800 存储，总分超前世界纪录 1.8 倍
+  IT之家 · 2026-06-27 · https://www.ithome.com/0/969/471.htm
+• 功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”
+  36kr-newsflash · 2026-06-27 · https://36kr.com/newsflashes/3871215128237313?f=rss
+• 高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力
+  36kr-newsflash · 2026-06-27 · https://36kr.com/newsflashes/3871117388174336?f=rss
+• OpenAI两连炸！首款推理芯片出世，GPT5.5继续升级，奥特曼：不想再当算力买家
+  jtks-51cto · 2026-06-25 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655941228&amp;idx=1&amp;sn=bb7bbe1ff65da864fb887122683b0f9a&amp;chksm=bc0d56baca3fa606ceb02f467c508e40f3d420aa1622f431ecb10ff4a148176397e6edb45ede&amp;scene=0#rd
+
+【大模型】
+• GPT-5.6来了：旗舰版碾压 GPT-5.5，价格却没涨
+  36氪 · 2026-06-27 · https://www.36kr.com/p/3870682553383817
+• OpenAI launches a limited preview of GPT-5.6 for a 'small group of trusted partn
+  engadget · 2026-06-27 · https://www.engadget.com/2203102/openai-starts-previewing-gpt-56-and-its-three-variants/
+• 刚刚DeepSeek开源推理神器DSpark，V4最高提速85%，连底层训练全家桶都开源了
+  jtks-aihambri · 2026-06-27 · http://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&amp;mid=2247515956&amp;idx=1&amp;sn=12e027b8c5c3e2aca51e9715257a14ba&amp;chksm=cf67f59125ac2a9b44e80ad78971e3509837318fd1ecee4c7dafdb4e999d1c8f141cfa00d4e8&amp;scene=0#rd
+
+【具身智能模型】
+• 首个通用触觉基础模型FTP-1来了！Sharpa 联合清华大学等高校，用一套策略打通21种传感器与多类具身形态
+  jtks-jiqizhixin · 2026-06-27 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651041449&amp;idx=2&amp;sn=54d324bce08cc7caa801c6de761bf172&amp;chksm=852aa84e333d8e543ff810f140007c52e81a904925a35204faa51b4dd5968bfee1fe598a59ff&amp;scene=0#rd
+• 具身世界模型“我悟”通过合规备案
+  36kr-newsflash · 2026-06-27 · https://36kr.com/newsflashes/3871213411128577?f=rss
+• 小米最新的DriveReward，在尝试解决VLA的反事实和多维推理轨迹评估问题
+  jtks-yanzhi · 2026-06-26 · http://mp.weixin.qq.com/s?__biz=MzU5ODQ5ODQ1Mw==&amp;mid=2247668201&amp;idx=1&amp;sn=5f796f2f879f99cf8bbc5e1a0f592654&amp;chksm=fe4f5c13c938d5057b3172ba5c1e33ebfbf4c7bfa6a0dfc1c7950fc255cc10d4214f0518a617#rd
+• 机器人不该只在像素里做梦：μ₀和我们想找的「物理语言」
+  jtks-jiqizhixin · 2026-06-27 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651041447&amp;idx=2&amp;sn=1fe19378cfde77e65cea091e1f730f76&amp;chksm=85a06b241d1c700fba34b4a5a46ea17b240d3087a1de86d6900ef7c7efa1d2cd37f535d7e555&amp;scene=0#rd
+
+【智能驾驶】
+• 端到端量产方案，正在以半年一轮的速度换代...
+  jtks-autodrive-heart · 2026-06-27 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695744&amp;idx=1&amp;sn=a3bf79a5ed24c2f40bab00013a64f12a&amp;chksm=cfe2165d1c65b1e279d2294645c54f222d74ff42daecee74f13560a42ed69e5fd8b0f5bd96b7&amp;scene=0#rd
+• 充电全程不用下车：理想行业首座全自动充电站落地，5C 超充桩已突破 5000 根
+  IT之家 · 2026-06-27 · https://www.ithome.com/0/969/518.htm
+• 特斯拉就首例 FSD 行人致命事故达成和解，NHTSA 调查持续深入
+  IT之家 · 2026-06-27 · https://www.ithome.com/0/969/484.htm
+• 华为途灵平台完成3轮升级，覆盖鸿蒙智行五界
+  36kr-newsflash · 2026-06-27 · https://36kr.com/newsflashes/3871321432527875?f=rss
+• 余承东：全新一代问界M9系列大定破42000台
+  36kr-newsflash · 2026-06-27 · https://36kr.com/newsflashes/3871208266044420?f=rss
+
+【机器人硬件】
+• 广东职校第一家！宇树科技具身智能产业学院正式落户岭南职院
+  jtks-shenlan-ai · 2026-06-26 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247602423&amp;idx=1&amp;sn=736111349a81b102a4375659349ce8cb&amp;chksm=f2fa438044facb2d7ccd50ac10c6c1d29505402bc88ef08bb8695dd055913a2f359ec87613f7&amp;scene=0#rd
+• 探访追觅实验室：扫地机出厂前，先「踩」完全球的地毯
+  jtks-leifengwang · 2026-06-26 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651751162&amp;idx=2&amp;sn=6f52288c22623aa863972895a1efa13d&amp;chksm=63f43c946d14e41c2331cc7e654f674a3020dca145e525af7a2800e3e0714bf9951a969bfc59&amp;scene=0#rd
+
+【AI 消费硬件与脑机】
+• Apple executive in charge of Vision Pro is reportedly leaving for OpenAI
+  engadget · 2026-06-27 · https://www.engadget.com/2203115/apple-executive-vision-pro-leaving-for-openai/
+• iOS 27 will bring tighter system-level integration with Apple Intelligence. My l
+  x-mingchi-kuo · 2026-06-26 · https://www.x.com/mingchikuo/status/2070545159620809003
+
+【AI Agent】
+• BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力
+  jtks-qbitai · 2026-06-27 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247900046&amp;idx=1&amp;sn=b33693452d232b8c5eaa9089f3697a99&amp;chksm=e99f93f666a745d90e145c43c67d1ef50f931df63103d448892d61bff8f9d295f9f7b3e14507&amp;scene=0#rd
+
+【💰 财经动态】
+• 半导体史上最大IPO，SK海力士狂融294亿美元；英伟达颤抖！OpenAI联手博通推出首款AI芯片，打破垄断；孙正义怒斥AI泡沫论丨硅谷大事件
+  jtks-leifengwang · 2026-06-25 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651751084&amp;idx=2&amp;sn=33ac2a9c904c286a2ba9ab39b53858d1&amp;chksm=639d47e5460e808bcb019c451ac1e4f95ddbfd0c1fac284c13fc23fc2ea5c3538ad10dd8058d&amp;scene=0#rd
+• 美韩瓜分全球超84%AI净利润
+  36氪 · 2026-06-26 · https://www.36kr.com/p/3869710057690377
+• 卖token的卷成了“外卖”，卖铲子的直接“印钱”
+  36氪 · 2026-06-25 · https://www.36kr.com/p/3868352747820293
+• 追加 130 亿美元，亚马逊宣布 2030 年前将在印度投资 480 亿美元
+  IT之家 · 2026-06-25 · https://www.ithome.com/0/968/544.htm
+• 3天2板长电科技：拟投资78亿元建设高端先进封测工厂
+  36kr-newsflash · 2026-06-24 · https://36kr.com/newsflashes/3867102554641665?f=rss
+• 协创数据：拟定增募资不超80亿元，用于智算中心及数据存储项目等
+  36kr-newsflash · 2026-06-26 · https://36kr.com/newsflashes/3869990301586434?f=rss
+</description>
+      <pubDate>Sun, 28 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-06-28</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-06-28.mp3" length="13333358" type="audio/mpeg"/>
+      <itunes:duration>13:53</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>06/27 AI 日报</title>
       <description>📋 今日要闻 · 2026-06-27
