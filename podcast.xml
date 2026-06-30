@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 21:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:37:13 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -29,91 +29,69 @@
       <description>📋 今日要闻 · 2026-07-01
 
 【AI 基础设施】
-• Tesla poaches 17-year Intel veteran to lead its ‘Terafab’ chip plant
-  electrek · 2026-06-30 · https://electrek.co/2026/06/30/tesla-intel-veteran-terafab-director/
-• 龙芯中科成功研发首款全国产 FC SAN 交换机：搭载龙架构处理器，性能翻倍、成本下降
-  IT之家 · 2026-06-29 · https://www.ithome.com/0/969/985.htm
-• 纽约时报等400家媒体起诉微软：谁是AI侵权的“共犯”？
-  36氪 · 2026-06-29 · https://www.36kr.com/p/3872154925683712
-• China claims the world&amp;#8217;s fastest supercomputer
-  theverge · 2026-06-28 · https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer
+• 撬动内存墙的铁锹有哪些？
+  jtks-bandaoti-zongheng · 2026-06-29 · http://mp.weixin.qq.com/s?__biz=MzkxMjIyNzU0MA==&amp;mid=2247813815&amp;idx=2&amp;sn=fbd88c8f6b4b5f093695ffb787550a89&amp;chksm=c11e670cf669ee1ab2a4b869794f1177277e9da0a9256af02f1167a007244c02496dc5c1201e#rd
+• 扛不住内存涨价！苹果游说美国政府，请求采购长鑫存储芯片；DeepSeek发布最新论文，梁文锋署名；美的真暖MAX上市，刷新中国热泵技术
+  jtks-leifengwang · 2026-06-29 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651751304&amp;idx=1&amp;sn=ef8c1985c888166aa1f1a6f036cb2d37&amp;chksm=63b832c4756adf6444073cad1f26f5798b75ecbeae252f7698be85bcb6ef33e048d3d4056d4e&amp;scene=0#rd
+• 再谈康宁GlassBridge
+  jtks-2030fy · 2026-06-28 · http://mp.weixin.qq.com/s?__biz=MzYyMjU1NzM2OQ==&amp;mid=2247485197&amp;idx=1&amp;sn=8b2a82e6bf75e92fc1c9bfb0acdb7e3f&amp;chksm=fe849e7dc55a1dbcfb5720c4a0ec52aff1dda9cceccc4d027037058411c26b23d3a1b9c41681&amp;scene=0#rd
+• Marvell 的 CXL 本质是什么
+  jtks-2030fy · 2026-06-28 · http://mp.weixin.qq.com/s?__biz=MzYyMjU1NzM2OQ==&amp;mid=2247485202&amp;idx=1&amp;sn=b6de23d3a7ac89d6de06116ff1dcbe78&amp;chksm=fe83fc24c53ce5f0eef3f0a231ad1a5507af1045dc8a60323a6504bbb17ddb7e8a7c0b7a1a13&amp;scene=0#rd
 
 【大模型】
-• Lawmakers want to ban AI companies from selling your health data
-  theverge · 2026-06-29 · https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon
-• RT by @elonmusk: Try SpaceXAI Voice models in the Vercel AI Gateway
-  x-elonmusk · 2026-06-29 · https://www.x.com/milichab/status/2071659702329716988
-• The Gemini app is bringing personalized image creation to more users.
-  google-blog · 2026-06-29 · https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/
-• 51天一个新版本！ChatGPT和Claude狂飙，谷歌被甩出代差
-  jtks-xinzhiyuan · 2026-06-29 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652709932&amp;idx=2&amp;sn=bc36b973c10ede30ca4d2d153b214c3a&amp;chksm=f0f7281b98596a65e361cd7bd9fbe6566c3dc1943663e906d85f14edc9513250080594853d8d&amp;scene=0#rd
-• WSJ: “China Has Matched Anthropic in Cybersecurity, Resetting AI Race”  China’s 
-  x-serenity · 2026-06-28 · https://www.x.com/aleabitoreddit/status/2071074680253911267
-
-【具身智能模型】
-• 正式签约！北京工业大学耿丹学院、宇树科技、深蓝学院共建“宇树科技具身智能产业学院”
-  jtks-shenlan-ai · 2026-06-30 · http://mp.weixin.qq.com/s?__biz=MzY4NjA5NTgyMQ==&amp;mid=2247602460&amp;idx=1&amp;sn=128e429fddd317a51d339b86c0180df0&amp;chksm=f24d1dbb544742561bf2fa3648086f9c15374499eea05acd520744dfb1f95d7a2b8bd730ec86&amp;scene=0#rd
-• 世界模型概念入门：一个从心理学烧到 AI 主战场的故事
-  36氪 · 2026-06-29 · https://www.36kr.com/p/3870895600112643
-• 过去三年刷LIBERO的团队，阿里Qwen说白忙活了。
-  jtks-tiannan-jushen · 2026-06-29 · http://mp.weixin.qq.com/s?__biz=MzcwMzAxMDE0MA==&amp;mid=2247485688&amp;idx=1&amp;sn=d697c8c0e0a19f44baf3d355eb6220ea&amp;chksm=f489cccbc3fe45dda08303086b2204efe30720cf2f62cdc906ea89c7e358b2e60b18c33c1e52#rd
-• 与具身一线交流两小时，回顾一下重点
-  jtks-qbitai · 2026-06-28 · http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247900133&amp;idx=1&amp;sn=4b0c61eab337fbdc43fb8e848cbc562a&amp;chksm=e9eeeca34722255960b28d22a0617b4592920c5fbf16c2bba2cdd32497fa8a9b4c58734165d5&amp;scene=0#rd
-• 世界模型、元宇宙、数字孪生、物理AI：它们是一回事吗？
-  36氪 · 2026-06-28 · https://www.36kr.com/p/3872261222765830
-
-【智能驾驶】
-• 等了一个月的 X-Mind 来还债了！刚刚，小鹏公布了自己的预测性思维模型。
-  jtks-autodrive-heart · 2026-06-30 · http://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&amp;mid=2247695773&amp;idx=1&amp;sn=acc98b1c667c72e1070f328c801b9342&amp;chksm=cff7cae87646cf54ce0946bda980ae409562406802238930eeafdf75d787f2f16f5a12aaf6b1&amp;scene=0#rd
-• Once upon a time, the narrative has been that HW3 has hit a hard, physical wall.
-  x-ming-tesla · 2026-06-30 · https://www.x.com/tslaming/status/2071920043424944298
-• 比亚迪海洋网 6 系车型获推 OTA 升级：新增全向行车记录仪、哨兵模式高风险视频上传等
-  IT之家 · 2026-06-28 · https://www.ithome.com/0/969/717.htm
+• 中国第一，直逼OpenAI，神秘“扫地僧”冲到全球前七
+  36氪 · 2026-06-30 · https://www.36kr.com/p/3875320826835205
+• MiniMax M3 实测：第一流的模型，已经对执行层动手了
+  jtks-leifengwang · 2026-06-30 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651751418&amp;idx=1&amp;sn=77de1b2cf428b36e739b29be2da1b837&amp;chksm=630586dbb4c0c7d8635dbedb74b94d6e7efcaaea6654f5912abb4387316989f78b5ffef1519d&amp;scene=0#rd
+• 你天天用的Claude和Codex，Meta内部不让随便用了
+  36氪 · 2026-06-30 · https://www.36kr.com/p/3875518006849537
+• 一家美国公司选择100%接入DeepSeek的原因
+  36氪 · 2026-06-29 · https://www.36kr.com/p/3874284272728968
 
 【机器人硬件】
-• 生成式AI机器人：何处上岗，如何站岗
-  36氪 · 2026-06-30 · https://www.36kr.com/p/3874913553421577
-• 3000块钱，这支中国团队把ChatGPT成功的“秘密”用在了机器人训练上
-  jtks-aifrontline · 2026-06-30 · http://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247664069&amp;idx=1&amp;sn=659042e86da97c1afb6f90d4e0811983&amp;chksm=faf9551174e83aa8916c9296f5f3285e92838be790bda2716d94fcc02cfc4698e1b5fa6dfc71&amp;scene=0#rd
-• 给机器人打工了一天，我们体验上了AI时代最魔幻的工作。
-  jtks-shuzishengmingkazi · 2026-06-30 · http://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647683959&amp;idx=1&amp;sn=c0b48752ca1e898d86c75cfce7538e39&amp;chksm=f1fe42ecb204a0db142d384acfd02e310c436ce1c502e98db3092a26ca17d1bde4cd6a122233&amp;scene=0#rd
+• Pinned: F.03 has arrived at BMW
+  x-figure · 2026-06-30 · https://www.x.com/Figure_robot/status/2071973301254324256
+• Figure 03 humanoid robot has started performing a logistics workflow at BMW Grou
+  x-figure · 2026-06-30 · https://www.x.com/Figure_robot/status/2071973302864851121
+• How Jaiveer Singh Is Helping Robots — and Developers — Move Faster
+  NVIDIA Blog · 2026-06-30 · https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/
+• For robotics companies, I have a favorable view on Unitree and Agility Robotics,
+  x-serenity · 2026-06-29 · https://www.x.com/aleabitoreddit/status/2071730699363881241
 
 【AI 消费硬件与脑机】
-• AI硬件等的是下一个小天才手表时刻
-  36氪 · 2026-06-29 · https://www.36kr.com/p/3873674978638470
-• 创新医疗：控股子公司赛博灵科AM5取得医疗器械注册证
-  36kr-newsflash · 2026-06-28 · https://36kr.com/newsflashes/3872534645953795?f=rss
-• 消息称华为 Mate 90 系列仍聚焦 9 月发布，7-8 月期间会有其他补充机型推出
-  IT之家 · 2026-06-28 · https://www.ithome.com/0/969/710.htm
+• These camera-free smart glasses made me feel like Tony Stark
+  theverge · 2026-06-29 · https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on
+• Oura Ring 5 review: Size is everything
+  engadget · 2026-06-29 · https://www.engadget.com/2201675/oura-ring-5-review/
+• 苹果 visionOS 26.6 开发者预览版 Beta 3 发布
+  IT之家 · 2026-06-29 · https://www.ithome.com/0/970/238.htm
 
 【AI Agent】
-• AI当老板，快给10家公司干破产了…
-  36氪 · 2026-06-29 · https://www.36kr.com/p/3873959303566342
-• OceanBase发布面向AI时代的湖库一体AI数据库
-  36kr-newsflash · 2026-06-29 · https://36kr.com/newsflashes/3874002502882569?f=rss
-• 顶尖AI黑马开始「白送」模型了？全球700亿短剧市场门槛打穿
-  jtks-xinzhiyuan · 2026-06-29 · http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&amp;mid=2652709773&amp;idx=1&amp;sn=03d908a295f7b873c8d0e5deab3fd04e&amp;chksm=f029a49bc01a50011aab5d9813fede683181ca44bbbc5f648aca7e1a6be2ea665327dd55a5bd&amp;scene=0#rd
-• AI Coding的下一步是什么？最新「多模态代码智能」综述来了，这些方向值得划重点
-  36氪 · 2026-06-29 · https://www.36kr.com/p/3870725031744521
+• Anthropic launches Claude Sonnet 5 as a cheaper way to run agents
+  techcrunch-ai · 2026-06-30 · https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/
+• Introducing Claude Sonnet 5, our most agentic Sonnet yet.  It makes plans, uses 
+  x-claude · 2026-06-30 · https://www.x.com/claudeai/status/2072017450611142835
+• Sonnet 5 is a substantial improvement over Sonnet 4.6 on reasoning, tool use, co
+  x-claude · 2026-06-30 · https://www.x.com/claudeai/status/2072017452335087996
+• Early access partners found Sonnet 5 finishes complex tasks where previous Sonne
+  x-claude · 2026-06-30 · https://www.x.com/claudeai/status/2072017455833100494
 
 【💰 财经动态】
-• 独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径
-  36氪 · 2026-06-29 · https://www.36kr.com/p/3873965241931014
-• RT by @elonmusk: Earlier this year, @SpaceX acquired @xAI (now SpaceXAI), which 
-  x-elonmusk · 2026-06-30 · https://www.x.com/xAIMemphis/status/2072009696119022017
-• AI Chip Startup Etched Lures Jane Street, TSMC-Linked VC as Investors
-  bloomberg-tech · 2026-06-30 · https://www.bloomberg.com/news/articles/2026-06-30/ai-chip-startup-etched-says-jane-street-tsmc-linked-vc-invested
-• The DeepMind trio who built a poker AI are now making money for quant hedge fund
-  techcrunch-ai · 2026-06-30 · https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/
-• China Births Two Robot Unicorns as Sector Funding Stays Strong
-  bloomberg-tech · 2026-06-29 · https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong
-• Robot hand company settles Tesla trade secret suit and announces $11M raise
-  techcrunch-ai · 2026-06-29 · https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/
+• 400家报纸集体起诉AI巨头，AI的“免费午餐”吃到头了？
+  36氪 · 2026-06-29 · https://www.36kr.com/p/3873937020622085
+• Ardian Plans to Invest Over €3 Billion in Nordic Data Centers
+  bloomberg-tech · 2026-06-29 · https://www.bloomberg.com/news/articles/2026-06-29/ardian-plans-to-invest-over-3-billion-in-nordic-data-centers
+• Omen AI’s plan to optimize data centers is all wet
+  techcrunch-ai · 2026-06-29 · https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/
+• 康迪科技战略控股信储新能源，业务延伸至AIDC备电储能
+  36kr-newsflash · 2026-06-29 · https://36kr.com/newsflashes/3874025903838214?f=rss
+• $SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP laser
+  x-serenity · 2026-06-30 · https://www.x.com/aleabitoreddit/status/2072007692684837039
 </description>
-      <pubDate>Wed, 01 Jul 2026 05:25:15 +0800</pubDate>
+      <pubDate>Wed, 01 Jul 2026 05:37:13 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-07-01</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-01.mp3" length="14648258" type="audio/mpeg"/>
-      <itunes:duration>15:15</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-01.mp3" length="9879762" type="audio/mpeg"/>
+      <itunes:duration>10:17</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
