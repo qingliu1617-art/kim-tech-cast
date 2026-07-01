@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 09:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:52:30 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,30 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：GPU 为什么不会变成水电煤？Lambda CTO 讲透 AI 算力战争</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: The GPU Myth: State of AI Compute 2026 | Stephen Balaban
+频道: The MAD Podcast with Matt Turck
+原视频时间: 2026-06-18
+主持人: Matt Turck
+嘉宾: Stephen Balaban
+主题: GPU 为什么不会变成水电煤？Lambda CTO 讲透 AI 算力战争
+
+原视频: https://www.youtube.com/watch?v=0NttU4CbyVs</description>
+      <pubDate>Wed, 01 Jul 2026 14:52:30 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-0NttU4CbyVs</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-01-0NttU4CbyVs.mp3?v=202607012252" length="13992898" type="audio/mpeg"/>
+      <itunes:duration>14:34</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-01-0NttU4CbyVs.jpg?v=202607012252"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/01 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-01
