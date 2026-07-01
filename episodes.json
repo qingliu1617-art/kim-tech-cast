@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-02T01:09:54",
+    "guid": "youtube-special-f6D_aiy8qyU",
+    "title": "特别篇：SemiAnalysis 讲透 AI 算力战争",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis\n频道: Sequoia Capital\n原视频时间: 2026-06-30\n主持人: Sequoia Capital\n嘉宾: Dylan Patel\n主题: SemiAnalysis 讲透 AI 算力战争\n\n原视频: https://www.youtube.com/watch?v=f6D_aiy8qyU",
+    "pub_date": "Wed, 01 Jul 2026 17:09:54 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-02-f6D_aiy8qyU.mp3?v=202607020109",
+    "audio_size": 12645816,
+    "audio_mime": "audio/mpeg",
+    "duration": "13:10",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-02-f6D_aiy8qyU.jpg?v=202607020109"
+  },
+  {
     "date": "2026-07-01T22:52:30",
     "guid": "youtube-special-0NttU4CbyVs",
     "title": "特别篇：GPU 为什么不会变成水电煤？Lambda CTO 讲透 AI 算力战争",

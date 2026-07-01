@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 14:52:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:09:54 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,25 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：SemiAnalysis 讲透 AI 算力战争</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis
+频道: Sequoia Capital
+原视频时间: 2026-06-30
+主持人: Sequoia Capital
+嘉宾: Dylan Patel
+主题: SemiAnalysis 讲透 AI 算力战争
+
+原视频: https://www.youtube.com/watch?v=f6D_aiy8qyU</description>
+      <pubDate>Wed, 01 Jul 2026 17:09:54 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-f6D_aiy8qyU</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-02-f6D_aiy8qyU.mp3?v=202607020109" length="12645816" type="audio/mpeg"/>
+      <itunes:duration>13:10</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-02-f6D_aiy8qyU.jpg?v=202607020109"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：GPU 为什么不会变成水电煤？Lambda CTO 讲透 AI 算力战争</title>
       <description>YouTube 长访谈中文精华改编。
