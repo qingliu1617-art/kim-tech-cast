@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 17:09:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 23:36:31 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,7 +19,7 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -41,6 +41,85 @@
       <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-02-f6D_aiy8qyU.mp3?v=202607020109" length="12645816" type="audio/mpeg"/>
       <itunes:duration>13:10</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-02-f6D_aiy8qyU.jpg?v=202607020109"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07/02 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-02
+
+【AI 基础设施】
+• Valar与英伟达合作建设节水核能数据中心
+  36kr-newsflash · 2026-07-01 · https://36kr.com/newsflashes/3877684640428034?f=rss
+
+【大模型】
+• US Limits on Anthropic’s Mythos Keep Foreign Firms in Limbo
+  bloomberg-tech · 2026-07-01 · https://www.bloomberg.com/news/articles/2026-07-01/us-limits-on-anthropic-s-mythos-keep-foreign-firms-in-limbo
+• OpenAI曝作弊门，GPT-5.6创史上最高作弊率
+  36氪 · 2026-06-29 · https://www.36kr.com/p/3873959167431937
+• 杀上闭源前沿，国产最强已经无法满足 GLM-5.2 了
+  jtks-leifengwang · 2026-06-29 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651751320&amp;idx=1&amp;sn=45a5b9ba26261587993ffafc5331443d&amp;chksm=63bd8b40f3c71715a36fc8769f97979cd2b6b3b71d6107bb711883f5ed4dd99e64f838c8739a&amp;scene=0#rd
+• 告别大模型推理算力内卷！DeepSeek DSpark新推理解码框架曝光，吞吐量提升400%？网友：DeepSeek是优化程度最高的LLM架构
+  jtks-51cto · 2026-06-29 · http://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&amp;mid=2655941369&amp;idx=1&amp;sn=fa4fe4d80f4b87066975b8777ed8a025&amp;chksm=bc296bc5306c6476c2b2fa1b910cb642869f05f3601b818bd9b473df704c94a413df97fd68d8&amp;scene=0#rd
+• 字节跳动豆包相关负责人回应“内测社交功能”传闻：没有该计划
+  IT之家 · 2026-06-29 · https://www.ithome.com/0/970/029.htm
+
+【智能驾驶】
+• Cybercab with no steering wheel or pedals driving around Austin
+  x-elonmusk · 2026-06-30 · https://www.x.com/elonmusk/status/2071813050978480423
+• 阿维塔 07L 实车亮相：内饰设计联合华为打造，将于下月正式发布
+  IT之家 · 2026-06-29 · https://www.ithome.com/0/970/199.htm
+• 岚图追光 S 纯电轿跑 SUV 七种车身配色公布，灵感源于全天光影美学
+  IT之家 · 2026-06-29 · https://www.ithome.com/0/970/180.htm
+• Uber is no longer offering Waymo rides in Phoenix
+  engadget · 2026-06-29 · https://www.engadget.com/2204472/uber-is-no-longer-offering-waymo-rides-in-phoenix/
+
+【机器人硬件】
+• Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.  For
+  x-serenity · 2026-07-01 · https://www.x.com/aleabitoreddit/status/2072367082248040621
+
+【AI 消费硬件与脑机】
+• M7 芯片首秀：古尔曼称苹果酝酿新入门级 MacBook Pro，增强本地 AI 能力
+  IT之家 · 2026-07-01 · https://www.ithome.com/0/971/397.htm
+• Meta puts rate limits on its smart glasses' Conversation Focus feature
+  engadget · 2026-07-01 · https://www.engadget.com/2205660/meta-rate-limits-smart-glasses-conversation-focus-feature/
+• 华为 MateBook 14 鸿蒙版笔记本获 HarmonyOS 6.1.0.130 SP15 升级，新增用户分级管理能力
+  IT之家 · 2026-07-01 · https://www.ithome.com/0/971/388.htm
+• 华为鸿蒙 HarmonyOS 7 花粉 Beta 适配机型公布，含 Mate 60、Pura 70、畅享 70X 等
+  IT之家 · 2026-07-01 · https://www.ithome.com/0/971/387.htm
+• GPD 预告 9.06" PC 掌机 WIN MAX 3，Max+ 395 / 388 处理器
+  IT之家 · 2026-07-01 · https://www.ithome.com/0/971/338.htm
+
+【AI Agent】
+• Claude Code官宣下一版大升级，你在聊天，后台把活干完了
+  36氪 · 2026-06-30 · https://www.36kr.com/p/3875342287876097
+• 半年不写代码，Claude Code之父：3年后写代码的人暴涨100倍
+  36氪 · 2026-06-30 · https://www.36kr.com/p/3875321145929728
+• Kimi K2.7 Code 有多能打？找 Bug，写 3D 游戏，2000 行代码砍掉 55％
+  jtks-leifengwang · 2026-06-29 · http://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&amp;mid=2651751377&amp;idx=1&amp;sn=562c8fa436b2e15b79e26c8dfb1690e0&amp;chksm=631e1f7da684d16dbb56f3dd8a58f248e11ce8471c507760f6e077192e3b66cf1ec1cf0c971f&amp;scene=0#rd
+• OpenSquilla发布0.4.0版本
+  36kr-newsflash · 2026-06-30 · https://36kr.com/newsflashes/3875411572781064?f=rss
+
+【💰 财经动态】
+• 独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签
+  36氪 · 2026-07-01 · https://www.36kr.com/p/3877109751803904
+• 硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈
+  36氪 · 2026-07-01 · https://www.36kr.com/p/3877057215393793
+• 硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资
+  36氪 · 2026-07-01 · https://www.36kr.com/p/3877060559433984
+• 硬氪首发 | moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万
+  36氪 · 2026-07-01 · https://www.36kr.com/p/3877015761039619
+• 硬氪首发 | 清华系脑机接口公司种子轮融资数千万，用超声波做半&amp;非侵入脑机
+  36氪 · 2026-07-01 · https://www.36kr.com/p/3877019284631808
+• 硬氪首发 | 前存储上市公司老将带队做AI超算设备，年营收已达数千万
+  36氪 · 2026-07-01 · https://www.36kr.com/p/3877035735740673
+• 行云科技：控股子公司签订55.08亿元算力服务合同
+  36kr-newsflash · 2026-07-01 · https://36kr.com/newsflashes/3877046632460553?f=rss
+</description>
+      <pubDate>Thu, 02 Jul 2026 07:36:31 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-02</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-02.mp3" length="13228869" type="audio/mpeg"/>
+      <itunes:duration>13:47</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
