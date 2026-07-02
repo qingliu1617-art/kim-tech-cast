@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 23:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:24:59 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,75 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/03 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-03
+
+【AI 基础设施】
+• Anthropic in Talks With Samsung for Custom AI Chip: Information
+  bloomberg-tech · 2026-07-02 · https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4
+• SoftBank Plans AI Cloud Services in US to Tap Surging Demand
+  bloomberg-tech · 2026-07-02 · https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity
+• 我最新的產業調查顯示，Amazon 自有消費電子的處理器採購策略，20 年來將首次有重大轉向：捨棄...
+  x-mingchi-kuo · 2026-07-02 · https://www.x.com/mingchikuo/status/2072530893697384552
+• 英伟达推出全新扶持计划，以收益分成模式助力 AI 初创企业获取算力
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/885.htm
+
+【大模型】
+• 美团发布「零英伟达」万亿大模型，「国芯+国模」彻底跑通了？
+  36氪 · 2026-07-02 · https://www.36kr.com/p/3878407689089282
+• 企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/937.htm
+• 速递｜Google Cloud上架科学AI模型SandboxAQ，加速新药研发与半导体材料开发
+  jtks-zpotentials · 2026-06-30 · http://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&amp;mid=2247516564&amp;idx=3&amp;sn=1c7ed9fa09ff754b79713d3849a9b692&amp;chksm=ea2c4262a1f91aeb86c44cc077beff0ac598f9d89d718b64d2367f249d0506c75cc02b74f6fb&amp;scene=0#rd
+• 华为官宣全球首个商用多模态文旅大模型规模化应用
+  IT之家 · 2026-06-30 · https://www.ithome.com/0/970/785.htm
+
+【智能驾驶】
+• 何小鹏：自动驾驶发展速度超过预期，未来 3 到 5 年可以看到 L4 甚至 L5 落地
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/951.htm
+• 华为：乾崑智驾 ADS 4 升级至 ADS 5 不存在硬件限制
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/939.htm
+• 华为乾崑 6 月安全出行报告发布，累计辅助驾驶里程突破 123.5 亿公里
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/915.htm
+• 阿维塔 07L 将于 7 月中旬开启预售，8 月初上市
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/913.htm
+
+【AI 消费硬件与脑机】
+• 王雪红：HTC 已成功转型为 AI、XR 内容平台，将于今年第三季度推出新 AI 应用内容
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/916.htm
+• 大疆推出迷你无线麦克风 DJI Mic Mini 2S：内置自研降噪模型、支持 32-bit 浮点内录，399-1199 元
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/886.htm
+• Apple’s entry-level MacBook Pro could be up for a redesign
+  theverge · 2026-07-01 · https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update
+
+【AI Agent】
+• Microsoft Mobilizes 6,000 Workers to Help Customers Adopt AI
+  bloomberg-tech · 2026-07-02 · https://www.bloomberg.com/news/articles/2026-07-02/microsoft-mobilizes-6-000-workers-to-help-customers-adopt-ai
+• Yep, we’re using OpenClaw to date now
+  techcrunch-ai · 2026-07-02 · https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/
+• Crypto exchange OKX wants AI agents to hire and pay each other
+  techcrunch-ai · 2026-06-30 · https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/
+
+【💰 财经动态】
+• 暴涨38倍，一群华人卖Token：年入78亿
+  36氪 · 2026-07-02 · https://www.36kr.com/p/3878418994376964
+• 快手：初始投资者同意向北京可灵注资 20.28 亿美元
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/954.htm
+• Harvey：一家估值110亿美元的AI公司，正在重新定义全球法律行业
+  36氪 · 2026-07-02 · https://www.36kr.com/p/3878393256276230
+• 硅基流动IPO，Token工厂不好做
+  36氪 · 2026-07-02 · https://www.36kr.com/p/3878267177991045
+• RT by @karpathy: We're coming out of stealth.  We've built our first racks after
+  x-karpathy · 2026-06-30 · https://www.x.com/Etched/status/2071972062202343590
+</description>
+      <pubDate>Fri, 03 Jul 2026 05:24:59 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-03</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-03.mp3" length="12892830" type="audio/mpeg"/>
+      <itunes:duration>13:26</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/02 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-02
