@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 21:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:27:29 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -29,69 +29,75 @@
       <description>📋 今日要闻 · 2026-07-03
 
 【AI 基础设施】
-• Meta Looks to Make Money From Its AI Spending Binge
-  bloomberg-tech · 2026-07-02 · https://www.bloomberg.com/news/newsletters/2026-07-02/meta-considers-cloud-business-to-make-money-from-ai-capacity
-• Meta Is Planning a Cloud Business to Sell AI Computing Power
-  bloomberg-tech · 2026-07-01 · https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute
-• TrendForce：AI 零部件产能排挤、大厂减产加剧，预估晶圆代工成熟制程涨价效应延伸至 2027 年
-  IT之家 · 2026-06-30 · https://www.ithome.com/0/970/590.htm
-• Token 降价的尽头，是一度电的账
-  36氪 · 2026-06-30 · https://www.36kr.com/p/3875087594607880
+• 历经数月攻关：英特尔 18A 良率问题宣告解决，月产能约 3 万片
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/338.htm
+• 消息称 Meta 后续 MTIA 芯片将导入三星晶圆代工 2nm 制程工艺
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/328.htm
+• 群智咨询王旭东：千元机存储成本增量已吞掉整机全部利润，2027 年或难见 1500 元以内智能手机
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/321.htm
+• 英伟达 Jetson 边缘 AI 平台将首次在月球轨道运行，实时分析探测数据
+  IT之家 · 2026-06-30 · https://www.ithome.com/0/970/612.htm
+• South Korea to Speed Nuclear Push to Meet Surging Power Demand
+  bloomberg-tech · 2026-06-30 · https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand
 
 【大模型】
-• 刚刚，Fable 5全球解禁
-  36氪 · 2026-07-01 · https://www.36kr.com/p/3876404636184832
-• Fable 5 恢复访问与模型回归
-  知识库精读 · 2026-07-01
-• 中国用户被针对，Anthropic承认私藏“木马”Claude信任崩塌，网友直呼太可怕
-  36氪 · 2026-07-01 · https://www.36kr.com/p/3876769582182406
+• $META: upcoming AI model “Watermelon”  has caught up to OpenAI’s GPT 5.5.  Wang 
+  x-serenity · 2026-07-03 · https://www.x.com/aleabitoreddit/status/2072902886712094919
+• Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型
+  36氪 · 2026-06-30 · https://www.36kr.com/p/3875053247157251
+• AI进入下半场：模型不再稀缺，真正稀缺的是算力、场景和信任
+  36氪 · 2026-06-30 · https://www.36kr.com/p/3875509249765379
+• Introducing GeneBench-Pro
+  OpenAI Blog · 2026-06-30 · https://openai.com/index/introducing-genebench-pro
+• Google introduces a faster, cheaper image generator with Nano Banana 2 Lite
+  techcrunch-ai · 2026-06-30 · https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/
+
+【具身智能模型】
+• 杨立昆团队最新研究：让世界模型学会“自适应”，在行动中持续进化
+  36氪 · 2026-07-03 · https://www.36kr.com/p/3879369780817922
 
 【智能驾驶】
-• Source: https://www.reuters.com/legal/litigation/us-closes-2022-probe-into-69500
-  x-ming-tesla · 2026-07-02 · https://www.x.com/tslaming/status/2072594303214596280
-• Definitely driving by itself :)
-  x-ashok · 2026-06-30 · https://www.x.com/aelluswamy/status/2072078493618524628
-• 鸿蒙智行享界 G9 实车外观再曝，还有浅系车色可选
-  IT之家 · 2026-06-30 · https://www.ithome.com/0/970/593.htm
-• 岚图董事长卢放称公司成为国内产品布局最为全面的新能源车企之一，泰山 X8 纯电版 7 月启动交付
-  IT之家 · 2026-06-30 · https://www.ithome.com/0/970/562.htm
+• 特斯拉全球超充桩突破 8 万根，Q2 新增 2700 根同比增长 17%
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/334.htm
+
+【机器人硬件】
+• 家用机器人 Isaac 1 发布：可叠衣、收拾房间和整理床铺，满电续航 8 小时
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/251.htm
 
 【AI 消费硬件与脑机】
-• 七彩虹隐星 P16 Pro 笔记本新增“i5-14450HX + 16G + 1T + RTX 5050”版本，售 7799 元
-  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/681.htm
-• 微星星影 15 Max 笔记本新增“酷睿 7 240H + RTX5060”版本，9999 元起
-  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/662.htm
-• 联想 AI 平板拯救者 Y700 无极亮相：摄像头配 RGB 灯环，支持 5G 通话
-  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/618.htm
-• Apple Readies New iPad Pro, Redesigned Entry MacBook Pro for 2027
-  bloomberg-tech · 2026-07-01 · https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027
-• Why B3 chose Android for secure AI-enabled productivity
-  google-blog · 2026-07-01 · https://blog.google/products-and-platforms/products/android-enterprise/b3-android-enterprise/
+• 荣耀 MagicOS 七月更新首曝，聚焦动效、灵动胶囊、锁屏、AI 和智慧互联升级
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/945.htm
+• vivo 下一代新品曝光：2nm 旗舰电竞小平板、耳夹耳机、云台相机等
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/912.htm
+• 消息称华为 Pura X Max 横阔折手机销量突破 48 万台，典藏比普通版卖得好
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/901.htm
+• 消息称某厂迭代性能机搭载骁龙 8 Elite+ 内置风扇，预计荣耀旗下
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/597.htm
 
 【AI Agent】
-• Fable 5解禁即翻车，写一行代码就降智，开发者破防
-  36氪 · 2026-07-02 · https://www.36kr.com/p/3878350636494848
-• Vibe coding platform Base44 launches own model as AI startups seek defensibility
-  techcrunch-ai · 2026-06-30 · https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/
-• 豆包做社交，先得把账算明白
-  36氪 · 2026-06-30 · https://www.36kr.com/p/3875239092433160
+• OpenAI总裁Greg Brockman最新大胆预测：ChatGPT与Agent融合后，所有界面都会消失
+  36氪 · 2026-07-03 · https://www.36kr.com/p/3879369595927426
+• AI圈刚开始谈Loop Engineering，两位95后博士已经盯上了人类闭环数据
+  jtks-jiqizhixin · 2026-06-30 · http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&amp;mid=2651041957&amp;idx=1&amp;sn=91d804b8879796e62c292d1a51a83f19&amp;chksm=85a2c7a42182976ad77eb1afecdd1aeca180e5eee7a812d851e20add558fff15932e6a60ac50&amp;scene=0#rd
+• 软件没被AI杀死，但全球市场都卷上天了
+  36氪 · 2026-06-30 · https://www.36kr.com/p/3875608297091337
+• X now offers an MCP server to make its platform easier for AI tools to use
+  techcrunch-ai · 2026-06-30 · https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/
+• Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With 
+  NVIDIA Blog · 2026-06-30 · https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/
 
 【💰 财经动态】
-• Nvidia Offers Revenue Sharing Model for Aspiring AI Startups
-  bloomberg-tech · 2026-07-02 · https://www.bloomberg.com/news/articles/2026-07-02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups
-• Crusoe in Talks to Raise $3 Billion in Round That May Triple Firm’s Value
-  bloomberg-tech · 2026-07-02 · https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value
-• ElevenLabs in Talks for Tender Offer at $22 Billion Valuation
-  bloomberg-tech · 2026-07-02 · https://www.bloomberg.com/news/articles/2026-07-02/elevenlabs-in-talks-for-tender-offer-at-22-billion-valuation
-• 当智驾不再稀缺，Momenta需要一个新故事
-  36氪 · 2026-07-01 · https://www.36kr.com/p/3875753784111113
-• Microsoft launches its own AI deployment company with $2.5 billion commitment
-  techcrunch-ai · 2026-07-02 · https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
+• 超190亿，AI视频最大单笔融资诞生，阿里腾讯百度都投了
+  36氪 · 2026-07-03 · https://www.36kr.com/p/3879243629637632
+• 消息称金山云加速 GPU 算力建设：小米相关投入预算增至百亿元以上
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/254.htm
+• Momenta上市：600 亿市值、三年亏92亿与物理AI
+  36氪 · 2026-07-03 · https://www.36kr.com/p/3879456830861317
 </description>
-      <pubDate>Fri, 03 Jul 2026 05:39:10 +0800</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:27:29 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-07-03</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-03.mp3" length="10659256" type="audio/mpeg"/>
-      <itunes:duration>11:06</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-03.mp3" length="14787438" type="audio/mpeg"/>
+      <itunes:duration>15:24</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
