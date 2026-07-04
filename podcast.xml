@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 09:27:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:53:05 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,75 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/04 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-04
+
+【AI 基础设施】
+• 1600 万亿韩元重磅布局！韩国联合三星、SK 重构半导体、AI 与航天产业版图，建国以来最大规模产业投资
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/330.htm
+• 紫光同创发布国内首款自主产权亿门级高端 FPGA 产品，采用 FinFET 工艺
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/407.htm
+• 消息称三星 HBM4E 良率突破 70%，第七代 AI 内存开发进入稳定阶段
+  IT之家 · 2026-07-01 · https://www.ithome.com/0/971/114.htm
+
+【大模型】
+• 谷歌 Gemini Omni Flash 登顶 Video Arena 盲测榜，领先字节 Seedance 2.0 Mini 模型 101 Elo
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/253.htm
+• Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5
+  36氪 · 2026-07-03 · https://www.36kr.com/p/3879841742090242
+• 生数科技正式发布Vidu S1实时交互模型
+  36kr-newsflash · 2026-07-03 · https://36kr.com/newsflashes/3879857819201798?f=rss
+
+【具身智能模型】
+• Just some public market read through from Chinese private VC markets:  Instituti
+  x-serenity · 2026-07-03 · https://www.x.com/aleabitoreddit/status/2073044119287722024
+
+【智能驾驶】
+• 京东物流在京启动快递行业首个 L4 自动驾驶重卡载货示范，单程 31 公里满载 43 吨
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/419.htm
+• 左兜进右兜｜自动驾驶拼的不是算法，是谁先有规模
+  知识库精读 · 2026-07-04 · https://www.xiaoyuzhoufm.com/episode/6a47a6603fb7233cbf434493
+
+【机器人硬件】
+• 优必选超仿生机器人首发订单破万，最高售价99万元｜最前线
+  36氪 · 2026-07-01 · https://www.36kr.com/p/3876811895992327
+
+【AI 消费硬件与脑机】
+• 华为鸿蒙 HarmonyOS API 设备量占比数据更新：7.0.0 Beta1 突破 0.17%，5.0 多个版本归零
+  IT之家 · 2026-07-02 · https://www.ithome.com/0/971/956.htm
+• Meta glasses wearers hit with paywall to use built-in feature
+  bbc-tech · 2026-07-02 · https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&amp;at_campaign=rss
+• 机械师 14 Ultra 笔记本电脑将于 BW2026 首发
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/336.htm
+• 消息称苹果带摄像头 AirPods Pro 项目“暂停”，距量产仅一步之遥
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/435.htm
+• 微信鸿蒙版 App 获 8.0.19.35 正式版更新
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/427.htm
+
+【AI Agent】
+• 十字路口Crossing｜Agent 元年第500天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
+  知识库精读 · 2026-07-04 · https://www.xiaoyuzhoufm.com/episode/6a4511d92e335a35a80c8431
+• 全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/424.htm
+• A conversation with Boris Cherny and Cat Wu on the path from Claude Code to Clau
+  x-claude · 2026-07-02 · https://www.x.com/claudeai/status/2072725610061803522
+
+【💰 财经动态】
+• 辛顿、李飞飞、台积电投资，英伟达谷歌大牛组队造芯，估值340亿
+  36氪 · 2026-07-01 · https://www.36kr.com/p/3876399872864520
+• 江波龙：预计 2026 年上半年归母净利润 92 亿元～ 110 亿元，同比预增 62204%~74394%
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/409.htm
+• 可灵独立后拿下 30 亿美元融资，打响 AI 视频竞赛下半场
+  36氪 · 2026-07-03 · https://www.36kr.com/p/3879399906980096
+</description>
+      <pubDate>Sat, 04 Jul 2026 16:53:05 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-04</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-04.mp3" length="13605032" type="audio/mpeg"/>
+      <itunes:duration>14:10</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/03 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-03
