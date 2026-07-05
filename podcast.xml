@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 21:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 02:55:20 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,28 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：AI主权战与出生公民权裁决</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom’s CA Budget Lie
+频道: All-In Podcast
+主持人: Jason Calacanis
+主题: AI主权战与出生公民权裁决
+
+原视频: https://www.youtube.com/watch?v=wgdxSCsmS-Q</description>
+      <pubDate>Sun, 05 Jul 2026 02:55:20 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-wgdxSCsmS-Q</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-05-wgdxSCsmS-Q.mp3?v=202607051055" length="5413680" type="audio/mpeg"/>
+      <itunes:duration>15:02</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-05-wgdxSCsmS-Q.jpg?v=202607051055"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>近日 AI 日报</title>
       <description>📋 今日要闻 · 近日
