@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 19:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 19:14:28 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -25,7 +25,7 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>特别篇：美国AI研究员的中国观察</title>
+      <title>特别篇：美国研究员来中国行之后的访谈</title>
       <description>YouTube 长访谈中文精华改编。
 
 原始标题: 美国AI研究员的中国之旅：年轻人，追赶者，算力焦虑与“AGI展示厅” ｜专访Nathan Lambert【101视频播客】
@@ -43,7 +43,7 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>特别篇：NVIDIA 开源模型与 AI 实验室</title>
+      <title>特别篇：英伟达为啥免费送开源模型</title>
       <description>YouTube 长访谈中文精华改编。
 
 原始标题: Inside Nemotron &amp; NVIDIA’s AI Lab | Bryan Catanzaro
