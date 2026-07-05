@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-06T02:59:00",
+    "guid": "youtube-special-Oojrfdl42LI",
+    "title": "特别篇：NVIDIA 开源模型与 AI 实验室",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: Inside Nemotron & NVIDIA’s AI Lab | Bryan Catanzaro\n频道: The MAD Podcast with Matt Turck\n原视频时间: 2026-07-02\n主持人: Matt Turck\n嘉宾: Bryan Catanzaro\n主题: NVIDIA 开源模型与 AI 实验室\n\n原视频: https://www.youtube.com/watch?v=Oojrfdl42LI",
+    "pub_date": "Sun, 05 Jul 2026 18:59:00 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-06-Oojrfdl42LI.mp3?v=202607060258",
+    "audio_size": 13469195,
+    "audio_mime": "audio/mpeg",
+    "duration": "14:02",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-06-Oojrfdl42LI.jpg?v=202607060258"
+  },
+  {
     "date": "2026-07-06",
     "guid": "ai-daily-2026-07-06",
     "title": "07/06 AI 日报",

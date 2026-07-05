@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 18:40:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:59:00 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,30 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：NVIDIA 开源模型与 AI 实验室</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Inside Nemotron &amp; NVIDIA’s AI Lab | Bryan Catanzaro
+频道: The MAD Podcast with Matt Turck
+原视频时间: 2026-07-02
+主持人: Matt Turck
+嘉宾: Bryan Catanzaro
+主题: NVIDIA 开源模型与 AI 实验室
+
+原视频: https://www.youtube.com/watch?v=Oojrfdl42LI</description>
+      <pubDate>Sun, 05 Jul 2026 18:59:00 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-Oojrfdl42LI</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-06-Oojrfdl42LI.mp3?v=202607060258" length="13469195" type="audio/mpeg"/>
+      <itunes:duration>14:02</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-06-Oojrfdl42LI.jpg?v=202607060258"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/06 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-06
