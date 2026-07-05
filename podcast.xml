@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 02:55:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:40:13 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,82 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/06 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-06
+
+【AI 基础设施】
+• 北京信息光电子芯片平台在经开区通线投产，降低对外进口依赖
+  IT之家 · 2026-07-05 · https://www.ithome.com/0/972/810.htm
+• “硅仙人”吉姆 · 凯勒初创公司更名 Fab2，打造“晶圆厂制造厂”
+  IT之家 · 2026-07-05 · https://www.ithome.com/0/972/845.htm
+• 谷歌：去年因快速扩展 AI 基础设施致用电量激增 37%，得益能效提升和可再生能源令运营碳排放逆势下降 2%
+  IT之家 · 2026-07-05 · https://www.ithome.com/0/972/837.htm
+
+【大模型】
+• Only these iPhone models are getting the new Siri AI this fall
+  engadget · 2026-07-04 · https://www.engadget.com/2206159/iphone-models-getting-new-siri-ai/
+• Fable 5解题解到破防，一句“啊啊啊”刷屏了
+  36氪 · 2026-07-03 · https://www.36kr.com/p/3879697309331461
+• RT by @elonmusk: Another major Grok Build update just landed, packed with new fe
+  x-elonmusk · 2026-07-03 · https://www.x.com/XFreeze/status/2072891163502080053
+• DeepSeek新技术移植苹果芯片，Mac本地大模型加速60%
+  36氪 · 2026-07-03 · https://www.36kr.com/p/3879842615308547
+
+【智能驾驶】
+• 鸿蒙智行问界 M9 全系累计交付突破 30 万台
+  IT之家 · 2026-07-04 · https://www.ithome.com/0/972/566.htm
+• 吉利银河战舰 700 内饰公布：悬浮式中控屏、大量物理按键
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/331.htm
+• 比亚迪腾势 Z 跑车官宣登陆 2026 古德伍德速度节，7 月 9 日全球上市首秀
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/249.htm
+• 领克 20 无伪装实车图曝光，预计三季度上市
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/459.htm
+• 2027 款奇瑞星途 ES 车型 7 月 12 日上市：增程 / 纯电动力，预售价 18.99 万起
+  IT之家 · 2026-07-03 · https://www.ithome.com/0/972/447.htm
+
+【机器人硬件】
+• 清华大学火神队卫冕机器人足球世界杯 RoboCup 2026 Large 组冠军
+  IT之家 · 2026-07-05 · https://www.ithome.com/0/972/836.htm
+• Nikkei - $JD E-Commerce Giant CEO warns "Robots Will Replace 700,000 Delivery Wo
+  x-serenity · 2026-07-04 · https://www.x.com/aleabitoreddit/status/2073523410643366242
+
+【AI 消费硬件与脑机】
+• 郭明錤称苹果折叠屏手机可能重演 iPhone X 剧本：同场发布、较晚开卖，供应紧张延续至年底
+  IT之家 · 2026-07-05 · https://www.ithome.com/0/972/859.htm
+• Discord 登陆 Meta Quest 头显平台：支持 VR 画面直播、登录账号即送 1 个月 Nitro 会员
+  IT之家 · 2026-07-05 · https://www.ithome.com/0/972/857.htm
+• How your smartwatch and AI might detect early signs of illness
+  engadget · 2026-07-04 · https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/
+
+【AI Agent】
+• 赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲
+  36氪 · 2026-07-05 · https://www.36kr.com/p/3882226982842376
+• MiniMax M3：一家AI公司，为什么开始重新定义自己的价值？
+  36氪 · 2026-07-05 · https://www.36kr.com/p/3882467938040710
+• Meta 悄悄推出全新社交 AI 应用 Pocket，用 Vibe Coding 生成小程序 / 小游戏分享给他人
+  IT之家 · 2026-07-05 · https://www.ithome.com/0/972/832.htm
+
+【💰 财经动态】
+• 壁仞科技上市半年后开启配售：拟募资 70 亿港元，以加快下一代 GPGPU 产品的商业化和生产
+  IT之家 · 2026-07-05 · https://www.ithome.com/0/972/865.htm
+• 鹏鼎控股：拟定增募资不超96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目
+  36kr-newsflash · 2026-07-03 · https://36kr.com/newsflashes/3879823039901697?f=rss
+• 美光扩建日本广岛半导体工厂：投资 1.5 万亿日元，为英伟达等供应 AI 芯片
+  IT之家 · 2026-07-04 · https://www.ithome.com/0/972/531.htm
+</description>
+      <pubDate>Mon, 06 Jul 2026 02:40:13 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-06</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-06.mp3" length="6416970" type="audio/mpeg"/>
+      <itunes:duration>06:41</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：AI主权战与出生公民权裁决</title>
       <description>YouTube 长访谈中文精华改编。
