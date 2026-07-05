@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 19:14:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 19:55:34 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：美国研究员来华观察（二）：数据、生态与芯片禁令</title>
+      <description>YouTube 长访谈中文精华改编，下篇。
+
+原始标题: 美国AI研究员的中国之旅：年轻人，追赶者，算力焦虑与“AGI展示厅”｜专访Nathan Lambert【101视频播客】
+频道: 硅谷101
+原视频时间: 2026-07-03
+嘉宾: Nathan Lambert
+主题: 数据产业、中间层生态、芯片禁令与中美 AI 焦虑差异
+
+原视频: https://www.youtube.com/watch?v=ULi-TCF2cQE</description>
+      <pubDate>Sun, 05 Jul 2026 19:55:34 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-ULi-TCF2cQE-p2</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-06-ULi-TCF2cQE-p2.mp3?v=202607060355" length="14252451" type="audio/mpeg"/>
+      <itunes:duration>14:48</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-06-ULi-TCF2cQE-p2.jpg?v=202607060355"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：美国研究员来中国行之后的访谈</title>
       <description>YouTube 长访谈中文精华改编。
