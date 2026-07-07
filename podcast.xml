@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 00:44:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 01:28:25 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,80 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/07 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-07
+
+【AI 基础设施】
+• Nvidia Server Delay Report Sends Asian Tech Stocks Sliding
+  bloomberg-tech · 2026-07-06 · https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding
+• 谷歌升级 Google Cloud 机密计算产品，新增英伟达 RTX PRO 6000 Blackwell 虚拟机
+  IT之家 · 2026-07-06 · https://www.ithome.com/0/973/255.htm
+• Singapore Files New Charges in Nvidia Chip Fraud Case
+  bloomberg-tech · 2026-07-06 · https://www.bloomberg.com/news/articles/2026-07-06/singapore-files-new-charges-in-nvidia-chip-fraud-case
+
+【大模型】
+• 混元3正式版拿了高分，腾讯全家桶可以放心用了
+  36氪 · 2026-07-06 · https://www.36kr.com/p/3884027229420160
+• 婉拒DeepMind、清华95后助理教授陈勇超官宣创业：押注自进化大模型
+  36氪 · 2026-07-06 · https://www.36kr.com/p/3883751049965576
+• How Open Models Are Driving AI Research
+  NVIDIA Blog · 2026-07-06 · https://blogs.nvidia.com/blog/open-models-icml-2026/
+
+【智能驾驶】
+• Tesla app code reveals cabin camera will verify driver before FSD
+  electrek · 2026-07-06 · https://electrek.co/2026/07/06/tesla-cabin-camera-fsd-identity-check/
+• Tesla Cybercab: mass-producing a car it can’t sell or drive itself
+  electrek · 2026-07-06 · https://electrek.co/2026/07/06/tesla-cybercab-production-before-autonomy/
+• AI限额200美元，马斯克不养Boris
+  36氪 · 2026-07-06 · https://www.36kr.com/p/3883939624303493
+• 小鹏 CEO 何小鹏：辅助驾驶中国走在全球前面，L2 级将加速出海
+  IT之家 · 2026-07-04 · https://www.ithome.com/0/972/660.htm
+
+【机器人硬件】
+• 2026 世界机器人大会 8 月 19 日在京举行：首发新品 150 余件，报名通道开启
+  IT之家 · 2026-07-06 · https://www.ithome.com/0/973/274.htm
+
+【AI 消费硬件与脑机】
+• 联想上架 2026 款 YOGA Pro 15 锐龙版笔记本：AMD 锐龙 AI Max+388 处理器、配 64GB RAM 及 1TB SSD
+  IT之家 · 2026-07-06 · https://www.ithome.com/0/973/261.htm
+• I spy
+  theverge · 2026-07-06 · https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy
+
+【AI Agent】
+• 走出“赛马”试错期，大厂AI步入大一统
+  36氪 · 2026-07-06 · https://www.36kr.com/p/3884034614950534
+• 76%的性能提升与模型无关？Karpathy 700次 Loop 实验揭开Agent最大误区
+  36氪 · 2026-07-06 · https://www.36kr.com/p/3884083529658374
+• 尴尬的35岁程序员，正在被AI大厂重新抢走
+  36氪 · 2026-07-06 · https://www.36kr.com/p/3883754486709128
+• 哈佛大学研究：AI 原生初创企业减少入门级岗位招聘，对专家级人才需求更大
+  IT之家 · 2026-07-05 · https://www.ithome.com/0/972/807.htm
+
+【💰 财经动态】
+• Wow, $WULF signs a $19B DC lease with Anthropic today.   Probably a very positiv
+  x-serenity · 2026-07-06 · https://www.x.com/aleabitoreddit/status/2074109998544846954
+• Leaked Anthropic docs show plans to secure 1.4GW capacity from Australia, amount
+  x-serenity · 2026-07-05 · https://www.x.com/aleabitoreddit/status/2073704784398528599
+• 不是地平线、更不是小马智行，Momenta上市拿的是MiniMax的剧本
+  36氪 · 2026-07-06 · https://www.36kr.com/p/3884108699496710
+• Apple, Broadcom Expand Custom Chip Partnership | Bloomberg Tech 7/06/2026
+  bloomberg-tech · 2026-07-06 · https://www.bloomberg.com/news/videos/2026-07-06/bloomberg-tech-7-06-2026-video
+• Micron Breaks Ground on $9 Billion Plant Expansion in Japan
+  bloomberg-tech · 2026-07-04 · https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion
+</description>
+      <pubDate>Tue, 07 Jul 2026 09:28:25 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-07</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-07.mp3" length="10566469" type="audio/mpeg"/>
+      <itunes:duration>11:00</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：美国研究员来华观察（二）：数据、生态与芯片禁令</title>
       <description>YouTube 长访谈中文精华改编，下篇。
