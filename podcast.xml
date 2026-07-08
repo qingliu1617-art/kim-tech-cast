@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 01:28:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:48:05 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,91 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/08 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-08
+
+【AI 基础设施】
+• 当AI开始重塑基础设施：美国云市场重新排位
+  36氪 · 2026-07-07 · https://www.36kr.com/p/3885272310496137
+• AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters
+  NVIDIA Blog · 2026-07-07 · https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/
+• Facing US export controls, China's DeepSeek plans to make its own chips
+  arstechnica · 2026-07-07 · https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/
+• 中际旭创官方回应康宁“玻璃桥”技术影响：并非光模块产品方案替代、公司多元化技术布局可充分适配
+  IT之家 · 2026-07-05 · https://www.ithome.com/0/972/842.htm
+
+【大模型】
+• Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证
+  36氪 · 2026-07-07 · https://www.36kr.com/p/3885278052102405
+• Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps
+  bloomberg-tech · 2026-07-07 · https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps
+• DeepSeek V4 ships with two variants allowing it to hit 1M Context. @kimbochen br
+  x-semianalysis · 2026-07-07 · https://www.x.com/SemiAnalysis_/status/2074312507301167354
+• Introducing Muse Image: Image Generation Built for Your World
+  meta-newsroom · 2026-07-07 · https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/
+• Gemini 3.5 Pro绝密泄露，前端赶超Fable 5
+  36氪 · 2026-07-06 · https://www.36kr.com/p/3884084059123976
+
+【具身智能模型】
+• “烧”掉了百亿美元，世界模型的概念都还没有统一
+  36氪 · 2026-07-07 · https://www.36kr.com/p/3885278219972870
+• NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open 
+  NVIDIA Blog · 2026-07-07 · https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
+
+【智能驾驶】
+• 荣威家越 07 大五座 SUV 将搭载 Momenta R7 智驾方案
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/781.htm
+• 鸿蒙智行谈问界 M9 共光路舱内激光雷达：可作为备份，有效提升障碍物检测准确率
+  IT之家 · 2026-07-06 · https://www.ithome.com/0/973/268.htm
+• 跳出人形机器人概念：自动驾驶为何是物理AI首个规模化落地赛道？
+  36氪 · 2026-07-07 · https://www.36kr.com/p/3885207004789385
+• The first American autonomous ground vehicles are fighting in Ukraine
+  techcrunch-ai · 2026-07-07 · https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/
+
+【机器人硬件】
+• How AI could enable autonomous robot workers in workplaces—and maybe homes
+  arstechnica · 2026-07-07 · https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/
+• Robots available for rent: But what can they do?
+  bbc-tech · 2026-07-06 · https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&amp;at_campaign=rss
+
+【AI 消费硬件与脑机】
+• Solos 发布无摄像头智能眼镜 AirGo A6，主打隐私保护
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/785.htm
+• 追觅推出 Domi AI 毛绒玩具电子宠物：内置 JoyInside 大模型，提供海量知识库，312 元
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/760.htm
+• “iPod 之父”法德尔：AI 助手竞争核心在于设备生态，苹果具备天然优势
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/756.htm
+
+【AI Agent】
+• 字节腾讯阿里，为何集体砍掉AI聊天搭子？
+  36氪 · 2026-07-07 · https://www.36kr.com/p/3885476253987078
+• Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more
+  google-blog · 2026-07-07 · https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/
+• Why this fully agentic ransomware attack is giving researchers nightmares
+  zdnet · 2026-07-07 · https://www.zdnet.com/article/jadepuffer-fully-agentic-ransomware-attack-researchers-nightmares/
+• Codex、ChatGPT为何合体？Codex未来何去何从？OpenAI核心leader回应一切
+  36氪 · 2026-07-05 · https://www.36kr.com/p/3882258709180678
+
+【💰 财经动态】
+• Memory Chipmaker SK Hynix Kicks Off $28 Billion US Listing
+  bloomberg-tech · 2026-07-06 · https://www.bloomberg.com/news/articles/2026-07-06/memory-chipmaker-sk-hynix-starts-marketing-us-listing
+• 消息称亚马逊拟发债募资至少 250 亿美元，为 AI 基建“输血”
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/783.htm
+• 消息称 Deepseek 正在自研 AI 芯片：面向推理场景，减少依赖英伟达、华为
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/810.htm
+• 浪潮信息 2026 年半年度归母净利润 26 亿元～ 31 亿元，同比增长 226%~288%
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/772.htm
+• 智能眼镜初创公司 Even Realities 完成 1.5 亿美元融资，跻身独角兽行列
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/775.htm
+</description>
+      <pubDate>Wed, 08 Jul 2026 08:48:05 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-08</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-08.mp3" length="12897845" type="audio/mpeg"/>
+      <itunes:duration>13:26</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/07 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-07
