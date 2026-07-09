@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 00:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:50:16 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,85 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/09 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-09
+
+【AI 基础设施】
+• China to Let AI Firms Buy Nvidia H200s, Information Says
+  bloomberg-tech · 2026-07-08 · https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says
+• 国产 GPU 厂商沐曦股份：部分产品订单已排到明年甚至之后， MXC600 芯片系列已大规模出货
+  IT之家 · 2026-07-08 · https://www.ithome.com/0/974/225.htm
+• Meta to Build First Data Center in Canada, Expanding Global Fleet
+  bloomberg-tech · 2026-07-08 · https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet
+
+【大模型】
+• Introducing GPT-Live
+  OpenAI Blog · 2026-07-08 · https://openai.com/index/introducing-gpt-live
+• SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’
+  techcrunch-ai · 2026-07-08 · https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/
+• 我们亲手造出了有意识的AI？Anthropic这项研究可能被低估了
+  36氪 · 2026-07-07 · https://www.36kr.com/p/3885177353829001
+• xAI is now officially known as SpaceXAI
+  engadget · 2026-07-07 · https://www.engadget.com/2209300/xai-now-officially-spacexai/
+
+【具身智能模型】
+• This startup thinks robotics is about to have its ChatGPT moment
+  techcrunch-ai · 2026-07-08 · https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/
+• Mistral AI Releases Robotics Model to Support Physical AI Push
+  bloomberg-tech · 2026-07-08 · https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push
+
+【智能驾驶】
+• Waymo goes driverless in Las Vegas, with Denver, San Diego, Tampa next
+  electrek · 2026-07-08 · https://electrek.co/2026/07/08/waymo-driverless-las-vegas-four-new-cities/
+• 华为智选车产品总监彭磊：享界 G9 全系搭载华为全新自研电机，综合续航里程 CLTC 达 1300 多公里
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/789.htm
+
+【机器人硬件】
+• This jumping $800 robot camera dog filled me with joy
+  theverge · 2026-07-08 · https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview
+
+【AI 消费硬件与脑机】
+• Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.
+  techcrunch-ai · 2026-07-08 · https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/
+• 2026最值得期待的AI硬件，是卡片
+  36氪 · 2026-07-08 · https://www.36kr.com/p/3886827004489729
+• 苹果 iOS 27 Beta 3 的 Siri AI 获新能力，可调取第三方应用内数据
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/771.htm
+• 华为 Pura 90 Pro 系列手机获鸿蒙 HarmonyOS 6.1.0.130 升级，支持前置相机自动添加水印
+  IT之家 · 2026-07-07 · https://www.ithome.com/0/973/762.htm
+• Google announces Pixel 11 launch event in August
+  theverge · 2026-07-07 · https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event
+
+【AI Agent】
+• Claude、Cursor、OpenClaw集体上手机，Agent成最卷打工人：007全勤、关机照常搬砖
+  36氪 · 2026-07-08 · https://www.36kr.com/p/3886689102164230
+• 亚马逊秘密推进Alexa“智能体”计划，成本高昂引发内部担忧
+  36kr-newsflash · 2026-07-08 · https://36kr.com/newsflashes/3886982568032776?f=rss
+• NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agent
+  NVIDIA Blog · 2026-07-08 · https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/
+
+【💰 财经动态】
+• 三季度盈利超10亿美元，Anthropic为何率先扭亏？
+  36氪 · 2026-07-08 · https://www.36kr.com/p/3886931749665287
+• AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega r
+  techcrunch-ai · 2026-07-08 · https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/
+• Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion
+  bloomberg-tech · 2026-07-07 · https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build
+• SpaceX旗下Colossus数据中心遭关停令，450亿美元协议面临风险
+  36kr-newsflash · 2026-07-07 · https://36kr.com/newsflashes/3885567094583304?f=rss
+• Prime Intellect raises $130M Series A to help enterprises build their own AI age
+  techcrunch-ai · 2026-07-08 · https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
+• US investors will soon get access to SK Hynix, another memory maker riding the A
+  techcrunch-ai · 2026-07-06 · https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/
+</description>
+      <pubDate>Thu, 09 Jul 2026 08:50:16 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-09</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-09.mp3" length="11302913" type="audio/mpeg"/>
+      <itunes:duration>11:46</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/08 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-08
