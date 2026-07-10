@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 00:50:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:05:17 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,89 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/10 AI 日报 · 是监管放行与最强模型上线的双线交汇</title>
+      <description>📋 今日要闻 · 2026-07-10
+
+【AI 基础设施】
+• DeepSeek捅破了英伟达最值钱的那个泡
+  36氪 · 2026-07-09 · https://www.36kr.com/p/3888345631963657
+• DeepSeek、智谱被曝造芯，国产大模型绕开英伟达
+  36氪 · 2026-07-08 · https://www.36kr.com/p/3886800988680200
+• 报道称Meta计划于9月开始生产AI芯片，并计划将计算能力翻倍
+  36kr-newsflash · 2026-07-09 · https://36kr.com/newsflashes/3888342478748160?f=rss
+
+【大模型】
+• GPT-5.6，本周四全量上线
+  36氪 · 2026-07-08 · https://www.36kr.com/p/3886609637847044
+• OpenAI gets permission to roll out GPT-5.6 to the public on July 9
+  engadget · 2026-07-08 · https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/
+• OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Wo
+  theverge · 2026-07-09 · https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work
+• GPT-5.6: Frontier intelligence that scales with your ambition
+  OpenAI Blog · 2026-07-09 · https://openai.com/index/gpt-5-6
+• GPT-5.6即将上线，推理狂飙750 Tokens/s，疑似横跨100张晶圆
+  36氪 · 2026-07-09 · https://www.36kr.com/p/3888326681000449
+
+【智能驾驶】
+• 特斯拉 Cybercab 采用全新工艺，喷漆时间从数小时缩到数分钟
+  IT之家 · 2026-07-08 · https://www.ithome.com/0/974/215.htm
+
+【机器人硬件】
+• 消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队
+  IT之家 · 2026-07-09 · https://www.ithome.com/0/974/782.htm
+• 全球首例：美国研究团队远程操控宇树 G1 人形机器人完成活体动物外科手术
+  IT之家 · 2026-07-09 · https://www.ithome.com/0/974/777.htm
+• Humanoid robots controlled by surgeons did world-first operation on live pigs
+  arstechnica · 2026-07-09 · https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/
+• AI陪伴市场“分化”：豆包、千问们“踩刹车”，优必选们“狂飙”
+  36氪 · 2026-07-09 · https://www.36kr.com/p/3888328885566087
+
+【AI 消费硬件与脑机】
+• 消息称三星已决定逐步终止开发苹果平价版 Vision Pro 头显所用显示面板，最迟今年 9 月全面结束项目
+  IT之家 · 2026-07-08 · https://www.ithome.com/0/974/236.htm
+
+【AI Agent】
+• ChatGPT is now a partner for your most ambitious work
+  OpenAI Blog · 2026-07-09 · https://openai.com/index/chatgpt-for-your-most-ambitious-work
+• OpenAI releases a new ChatGPT tool for all things work related
+  engadget · 2026-07-09 · https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/
+• OpenAI Unveils ChatGPT Work Agent to Field Tasks for Hours
+  bloomberg-tech · 2026-07-09 · https://www.bloomberg.com/news/articles/2026-07-09/openai-unveils-chatgpt-work-agent-to-field-tasks-for-hours
+• 工信部首次定调：Claude Code危害严重
+  36氪 · 2026-07-08 · https://www.36kr.com/p/3886839260295424
+
+【💰 财经动态】
+• AI Chip Startup Raises Funds at $11B Valuation
+  bloomberg-tech · 2026-07-08 · https://www.bloomberg.com/news/videos/2026-07-08/ai-chip-startup-raises-funds-at-11b-valuation-video
+• Apple pledges to buy $30 billion of Broadcom's US-made chips
+  engadget · 2026-07-08 · https://www.engadget.com/2210449/apple-pledges-to-buy-30-billion-of-broadcom-us-made-chips/
+• SK Hynix Is Said to Price US Share Offering at $149 Apiece
+  bloomberg-tech · 2026-07-09 · https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z
+• SK Hynix Draws Massive Investor Demand
+  bloomberg-tech · 2026-07-09 · https://www.bloomberg.com/news/videos/2026-07-09/sk-hynix-draws-massive-investor-demand-video
+• 解禁日一涨一跌，智谱和MiniMax的分化之路
+  36氪 · 2026-07-09 · https://www.36kr.com/p/3888272970086914
+• MiniMax Seeks $1.9 Billion From Share Sale, Convertible Bond
+  bloomberg-tech · 2026-07-09 · https://www.bloomberg.com/news/articles/2026-07-09/minimax-seeks-1-9-billion-from-share-sale-convertible-bond
+• 美光宣布加快美国晶圆厂投资，2035 年总投资额将提高至 2500 亿美元以上
+  IT之家 · 2026-07-09 · https://www.ithome.com/0/974/756.htm
+• 美光向美半导体供应链生态系统投资 30 亿美元，与环球晶圆签署 10 年长约
+  IT之家 · 2026-07-09 · https://www.ithome.com/0/974/743.htm
+• Momenta IPO：当「物理AI」叙事来到二级市场
+  36氪 · 2026-07-09 · https://www.36kr.com/p/3887901338548995
+• 燧原科技科创板IPO申请获证监会同意注册批复
+  36kr-newsflash · 2026-07-09 · https://36kr.com/newsflashes/3888306591693314?f=rss
+• 浪潮信息：上半年净利润同比预增226%—288%
+  36kr-newsflash · 2026-07-07 · https://36kr.com/newsflashes/3885558752915714?f=rss
+</description>
+      <pubDate>Fri, 10 Jul 2026 15:05:17 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-10</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-10.mp3" length="10786733" type="audio/mpeg"/>
+      <itunes:duration>11:14</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/09 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-09
