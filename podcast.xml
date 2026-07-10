@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 08:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:16:07 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,30 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：从 Grok 4.5 回看 xAI：三个月造出视频模型的秘密</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and Video Agents— Ethan He
+频道: Latent Space
+原视频时间: 2026-06-01
+主持人: Swyx &amp; Alessio Fanelli
+嘉宾: Ethan He
+主题: 从 Grok 4.5 回看 xAI：三个月造出视频模型的秘密
+
+原视频: https://www.youtube.com/watch?v=jPtQlILfkhA</description>
+      <pubDate>Fri, 10 Jul 2026 16:16:07 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-jPtQlILfkhA</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-11-jPtQlILfkhA.mp3?v=202607110016" length="13452477" type="audio/mpeg"/>
+      <itunes:duration>14:01</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-11-jPtQlILfkhA.jpg?v=202607110016"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/10 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-10
