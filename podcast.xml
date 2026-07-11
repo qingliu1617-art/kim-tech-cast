@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 23:59:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 14:51:11 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,30 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：“Token Heist”正在掏空 AI 初创公司</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: The "Token Heist" Wiping Out AI Startups | Emily Sands (Stripe)
+频道: The MAD Podcast with Matt Turck
+原视频时间: 2026-07-09
+主持人: Matt Turck
+嘉宾: Emily Sands
+主题: “Token Heist”正在掏空 AI 初创公司
+
+原视频: https://www.youtube.com/watch?v=6opo7LnZajM</description>
+      <pubDate>Sat, 11 Jul 2026 14:51:11 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-6opo7LnZajM</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-11-6opo7LnZajM.mp3?v=202607112251" length="14063533" type="audio/mpeg"/>
+      <itunes:duration>14:39</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-11-6opo7LnZajM.jpg?v=202607112251"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：从 Grok 4.5 回看 xAI：三个月造出视频模型的秘密</title>
       <description>YouTube 长访谈中文精华改编。
