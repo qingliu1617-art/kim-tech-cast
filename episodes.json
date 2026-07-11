@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-11T23:48:01",
+    "guid": "youtube-special-yWTVEG9UIHo",
+    "title": "特别篇：从视频流媒体到大模型记忆：江鋆晨的十年技术跃迁",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: 江鋆晨: KV Cache，大模型记忆，清华姚班，CMU，教授，开源，视频流媒体\n频道: 月球大叔\n原视频时间: 2026-06-09\n主持人: 月球大叔\n嘉宾: 江鋆晨\n主题: 从视频流媒体到大模型记忆：江鋆晨的十年技术跃迁\n\n原视频: https://www.youtube.com/watch?v=yWTVEG9UIHo",
+    "pub_date": "Sat, 11 Jul 2026 15:48:01 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-11-yWTVEG9UIHo.mp3?v=202607112347",
+    "audio_size": 15293587,
+    "audio_mime": "audio/mpeg",
+    "duration": "15:56",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-11-yWTVEG9UIHo.jpg?v=202607112347"
+  },
+  {
     "date": "2026-07-11T22:51:11",
     "guid": "youtube-special-6opo7LnZajM",
     "title": "特别篇：“Token Heist”正在掏空 AI 初创公司",

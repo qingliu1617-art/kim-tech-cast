@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 14:51:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 15:48:01 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,25 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：从视频流媒体到大模型记忆：江鋆晨的十年技术跃迁</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: 江鋆晨: KV Cache，大模型记忆，清华姚班，CMU，教授，开源，视频流媒体
+频道: 月球大叔
+原视频时间: 2026-06-09
+主持人: 月球大叔
+嘉宾: 江鋆晨
+主题: 从视频流媒体到大模型记忆：江鋆晨的十年技术跃迁
+
+原视频: https://www.youtube.com/watch?v=yWTVEG9UIHo</description>
+      <pubDate>Sat, 11 Jul 2026 15:48:01 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-yWTVEG9UIHo</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-11-yWTVEG9UIHo.mp3?v=202607112347" length="15293587" type="audio/mpeg"/>
+      <itunes:duration>15:56</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-11-yWTVEG9UIHo.jpg?v=202607112347"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：“Token Heist”正在掏空 AI 初创公司</title>
       <description>YouTube 长访谈中文精华改编。
