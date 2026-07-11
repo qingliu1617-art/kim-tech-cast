@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 15:48:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:02:17 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -34,6 +34,14 @@
 主持人: 月球大叔
 嘉宾: 江鋆晨
 主题: 从视频流媒体到大模型记忆：江鋆晨的十年技术跃迁
+
+核心观点:
+• KV Cache是大模型的"记忆"，是AI时代的石油
+• 工程一线的"无偏见浸泡"，是顶级研究的源泉
+• 教授的角色是"点火"而非"救火"
+• ChatGPT是AI的"Internet Moment"，Infra必须盯紧大事
+• 每个时代都需要独立的数据层，AI时代就是KV Cache
+• 开源抢跑：学术界必须在工业界ready前建立标准
 
 原视频: https://www.youtube.com/watch?v=yWTVEG9UIHo</description>
       <pubDate>Sat, 11 Jul 2026 15:48:01 +0000</pubDate>
