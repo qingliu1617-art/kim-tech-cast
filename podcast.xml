@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 16:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:41:13 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,84 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/12 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-12
+
+【AI 基础设施】
+• 为什么全球所有大模型公司，都开始"背叛"英伟达？
+  36氪 · 2026-07-10 · https://www.36kr.com/p/3889619812006533
+• Lutnick Presses SK Hynix, Samsung to Boost Memory Output in US
+  bloomberg-tech · 2026-07-09 · https://www.bloomberg.com/news/articles/2026-07-09/lutnick-presses-sk-hynix-samsung-to-boost-memory-output-in-us
+• R to @SemiAnalysis_: We do a full breakdown of the BoM and power budget in the V
+  x-semianalysis · 2026-07-09 · https://www.x.com/SemiAnalysis_/status/2075277419091501344
+• R to @SemiAnalysis_: The compute tray topology of VR NVL72 is roughly similar to
+  x-semianalysis · 2026-07-09 · https://www.x.com/SemiAnalysis_/status/2075277416604295663
+
+【大模型】
+• Apple Sues OpenAI for Trade Secret Theft
+  bloomberg-tech · 2026-07-10 · https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video
+• New York Times says OpenAI hid evidence in ChatGPT copyright trial
+  techcrunch-ai · 2026-07-09 · https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/
+• OpenAI may have made a fatal misstep in copyright fight with news orgs
+  arstechnica · 2026-07-09 · https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/
+• SpaceXAI launches Grok 4.5, its first built with Cursor's help
+  engadget · 2026-07-09 · https://www.engadget.com/2211260/spacex-ai-grok-4-5-cursor/
+• OpenAI, Anthropic Hit New Speed Bump With US Government
+  bloomberg-tech · 2026-07-09 · https://www.bloomberg.com/news/newsletters/2026-07-09/openai-anthropic-hit-new-speed-bump-with-us-government
+
+【智能驾驶】
+• ENGINEERING MAGIC 🚨 Tesla has found a hyper-targeted video slicing technique tha
+  x-ming-tesla · 2026-07-11 · https://www.x.com/tslaming/status/2075942013917372722
+• GOOD NEWS 🚨 Tesla has re-engineered the battery edge with metal origami to attac
+  x-ming-tesla · 2026-07-11 · https://www.x.com/tslaming/status/2075893939677094010
+• 广汽启境 GT7 增程版更多信息公布：宁德时代电池、华为乾崑智驾 ADS 5
+  IT之家 · 2026-07-11 · https://www.ithome.com/0/975/588.htm
+• 吉利银河 TT 纯电轿车技术信息公布：全域 800V 三高压平台、千里浩瀚辅助驾驶 H7
+  IT之家 · 2026-07-11 · https://www.ithome.com/0/975/582.htm
+
+【机器人硬件】
+• 京东首个 RoboBase 项目落地广州，打造机器人全生命周期产业基础设施
+  IT之家 · 2026-07-11 · https://www.ithome.com/0/975/578.htm
+
+【AI 消费硬件与脑机】
+• 海信墨水屏手机 A10 预热：背面可磁吸 LCD 彩屏，支持 5G 全网通
+  IT之家 · 2026-07-11 · https://www.ithome.com/0/975/574.htm
+• 台铃联合华为钱包落地两轮数字钥匙方案：蓝牙与 NFC 双通道协同解锁
+  IT之家 · 2026-07-11 · https://www.ithome.com/0/975/535.htm
+
+【AI Agent】
+• 大模型进入Agent时代，国产AI究竟差哪了？
+  36氪 · 2026-07-10 · https://www.36kr.com/p/3889554054773508
+• 那些做AI陪伴的App，如今都怎么样了？
+  36氪 · 2026-07-10 · https://www.36kr.com/p/3889490123323908
+• I gave Claude Cowork 7 non-coding jobs, and it earned a spot in my toolbox
+  zdnet · 2026-07-09 · https://www.zdnet.com/article/claude-cowork-non-coding-jobs-tasks/
+• 消息称星巴克正借助 AI 开发内部工具，欲取代微软、IBM 采购方案
+  IT之家 · 2026-07-09 · https://www.ithome.com/0/974/750.htm
+• The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’
+  wired-ai · 2026-07-09 · https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/
+
+【💰 财经动态】
+• 华人带队，融资68亿，做AI芯片
+  36氪 · 2026-07-09 · https://www.36kr.com/p/3887943700412932
+• 南亚科技：2026 年第二季度毛利率 79.5%，DRAM 内存平均售价环比增长超 60%
+  IT之家 · 2026-07-11 · https://www.ithome.com/0/975/524.htm
+• SK 海力士拟探索新商业模式“内存即服务”：客户可租用芯片使用权
+  IT之家 · 2026-07-10 · https://www.ithome.com/0/975/371.htm
+</description>
+      <pubDate>Sun, 12 Jul 2026 05:41:13 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-12</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-12.mp3" length="11441675" type="audio/mpeg"/>
+      <itunes:duration>11:55</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：从视频流媒体到大模型记忆：江鋆晨的十年技术跃迁</title>
       <description>YouTube 长访谈中文精华改编。
