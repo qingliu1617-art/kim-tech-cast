@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 21:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:54:16 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,79 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/13 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-13
+
+【AI 基础设施】
+• AI 热潮太费电，燃气轮机价格 3 年涨了约 300%
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/767.htm
+• 算力过剩是个伪命题
+  36氪 · 2026-07-11 · https://www.36kr.com/p/3890714124106376
+
+【大模型】
+• OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models
+  bloomberg-tech · 2026-07-12 · https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models
+• 苹果起诉 OpenAI，指控其挖角前员工窃取未发布产品、供应链资料等商业机密
+  IT之家 · 2026-07-10 · https://www.ithome.com/0/975/370.htm
+• OpenAI 回应苹果起诉：我们对其他公司的商业机密毫无兴趣
+  IT之家 · 2026-07-10 · https://www.ithome.com/0/975/372.htm
+• 奥特曼撒谎？OpenAI 5.6突发反转，发布无需批准
+  36氪 · 2026-07-10 · https://www.36kr.com/p/3889739710364420
+• Musk tells Tesla staff to switch to Grok — a model he admits is worse
+  electrek · 2026-07-10 · https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/
+
+【具身智能模型】
+• 近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？
+  36氪 · 2026-07-12 · https://www.36kr.com/p/3892027841362694
+
+【智能驾驶】
+• 大众、小鹏合作第二款车型与众 09 下半年上市，号称“智能化水平跻身第一梯队”
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/828.htm
+• Tesla claims Cybercab driving employees at Giga Texas — in a parking lot
+  electrek · 2026-07-11 · https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/
+
+【机器人硬件】
+• 宇树科技王兴兴：机器人一定会走向普通消费者，今天的机器人就像 30 年前的个人电脑
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/786.htm
+• Big shoes to fill, but I’m confident Optimus will not disappoint!!
+  x-ashok · 2026-07-11 · https://www.x.com/aelluswamy/status/2076038267548622988
+
+【AI 消费硬件与脑机】
+• VisionRay Flow Pro 智能眼镜发布：20Mp 摄像头、35g 重量，199 美元
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/796.htm
+• 消息称华为 Mate 80 Air 手机下半年发布，搭载麒麟 9030 系列芯片
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/766.htm
+• Less is more with the Oura Ring 5
+  theverge · 2026-07-12 · https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables
+
+【AI Agent】
+• 微软研究院推出开源可视化中间语言 Flint，让 AI 智能体“一句话生成专业图表”
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/816.htm
+• AI批量造App，也在批量埋雷
+  36氪 · 2026-07-12 · https://www.36kr.com/p/3892107686984581
+• OpenAI 奥尔特曼：至少到目前为止，确定 AI 创造了新的就业机会
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/762.htm
+• 仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒
+  36氪 · 2026-07-11 · https://www.36kr.com/p/3890782425709062
+• How Deutsche Telekom is rewiring telecommunications with AI
+  OpenAI Blog · 2026-07-10 · https://openai.com/index/deutsche-telekom
+
+【💰 财经动态】
+• 今年A股最大IPO要来了
+  36kr-newsflash · 2026-07-12 · https://36kr.com/newsflashes/3892554879515140?f=rss
+• 独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事
+  36氪 · 2026-07-11 · https://www.36kr.com/p/3891132709206784
+• 紫光股份：预计上半年归母净利润同比增长83.50%-122.89%
+  36kr-newsflash · 2026-07-10 · https://36kr.com/newsflashes/3889798601882120?f=rss
+</description>
+      <pubDate>Mon, 13 Jul 2026 06:54:16 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-13</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-13.mp3" length="12725228" type="audio/mpeg"/>
+      <itunes:duration>13:15</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/12 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-12
