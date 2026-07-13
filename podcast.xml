@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 22:54:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 21:43:51 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,75 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/14 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-14
+
+【AI 基础设施】
+• 每秒 520 万亿次浮点运算，我国自研 AI 芯片取得架构突破
+  IT之家 · 2026-07-13 · https://www.ithome.com/0/976/197.htm
+• 苹果调整Mac芯片路线图，加速AI芯片研发
+  36kr-newsflash · 2026-07-13 · https://36kr.com/newsflashes/3894068327759108?f=rss
+• Samsung’s Texas fab enters production for Tesla’s AI5 chip on 2nm
+  electrek · 2026-07-13 · https://electrek.co/2026/07/13/samsung-taylor-fab-tesla-ai5-chip-2nm/
+• Sunrun Offers Solar Users Hundreds Per Month in Compute Program
+  bloomberg-tech · 2026-07-13 · https://www.bloomberg.com/news/articles/2026-07-13/sunrun-offers-solar-users-hundreds-per-month-in-compute-program
+
+【大模型】
+• OpenAI乱套了，11员大将集体跑路
+  36氪 · 2026-07-13 · https://www.36kr.com/p/3893944601443074
+• Apple’s public betas for iOS 27 and more are out now
+  theverge · 2026-07-13 · https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai
+• OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models
+  bloomberg-tech · 2026-07-12 · https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models
+
+【具身智能模型】
+• Simulating everything, sort of: The promise and limits of world models
+  arstechnica · 2026-07-13 · https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/
+• 近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？
+  36氪 · 2026-07-12 · https://www.36kr.com/p/3892027841362694
+
+【智能驾驶】
+• 文远知行首次披露 L2++ 智驾业务出海进展，已在德国、法国、日本等国开展道路测试与适配验证
+  IT之家 · 2026-07-13 · https://www.ithome.com/0/976/190.htm
+• 大众、小鹏合作第二款车型与众 09 下半年上市，号称“智能化水平跻身第一梯队”
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/828.htm
+
+【AI 消费硬件与脑机】
+• VisionRay Flow Pro 智能眼镜发布：20Mp 摄像头、35g 重量，199 美元
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/796.htm
+• 苹果披露正为欧盟地区 iOS 系统开发全新 API：允许第三方产品跨设备自动同步配对、首批产品支持 Meta Quest 头显
+  IT之家 · 2026-07-13 · https://www.ithome.com/0/976/222.htm
+• 阶跃董事长印奇谈豆包 AI 手机：很重要的探索，将“智能机手机”带入了大众视野
+  IT之家 · 2026-07-13 · https://www.ithome.com/0/976/204.htm
+
+【AI Agent】
+• AI打工大排行：Claude Fable 5自动赚钱的能力，是GPT-5.5的2.5倍
+  36氪 · 2026-07-13 · https://www.36kr.com/p/3893792551090689
+• 全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型
+  36氪 · 2026-07-12 · https://www.36kr.com/p/3892222176574211
+• 荣耀全新 YOYO Next 能力一览曝光，支持 App 操控、复杂任务、控虾等功能
+  IT之家 · 2026-07-13 · https://www.ithome.com/0/976/231.htm
+• 荣耀MagicOS 平板端 7 月更新公布：YOYO 新增支持微信 A2A 助手功能
+  IT之家 · 2026-07-11 · https://www.ithome.com/0/975/546.htm
+
+【💰 财经动态】
+• TSMC’s Sales Soar 36% in Latest Sign of AI Spending Momentum
+  bloomberg-tech · 2026-07-13 · https://www.bloomberg.com/news/articles/2026-07-13/tsmc-sales-surge-36-in-fresh-sign-of-ai-spending-momentum
+• 今年A股最大IPO要来了
+  36kr-newsflash · 2026-07-12 · https://36kr.com/newsflashes/3892554879515140?f=rss
+• Intel Invests €5 Billion to Expand Irish Hub in AI Chip Race
+  bloomberg-tech · 2026-07-13 · https://www.bloomberg.com/news/articles/2026-07-13/intel-invests-5-billion-in-irish-hub-to-keep-up-in-ai-chip-race
+• Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag
+  bloomberg-tech · 2026-07-13 · https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag
+</description>
+      <pubDate>Tue, 14 Jul 2026 05:43:51 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-14</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-14.mp3" length="11736336" type="audio/mpeg"/>
+      <itunes:duration>12:13</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/13 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-13
