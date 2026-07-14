@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 16:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:43:41 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,7 +19,7 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -49,6 +49,87 @@
       <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-15-jhpmMTus5a0.mp3?v=202607150026" length="14477731" type="audio/mpeg"/>
       <itunes:duration>15:05</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-15-jhpmMTus5a0.jpg?v=202607150026"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>近日 AI 日报</title>
+      <description>📋 今日要闻 · 近日
+
+【AI 基础设施】
+• 英伟达与三菱重工拟在 AI 数据中心领域展开合作，将冷却与能源管理技术融入下一代 AI 数据中心
+  IT之家 · 2026-07-14 · https://www.ithome.com/0/976/724.htm
+• Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency
+  NVIDIA Blog · 2026-07-14 · https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/
+• AI 热潮太费电，燃气轮机价格 3 年涨了约 300%
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/767.htm
+
+【大模型】
+• AI 大厂进军医药，但资本市场等不了十年
+  36氪 · 2026-07-14 · https://www.36kr.com/p/3894982504266624
+• DeepMind CEO calls for an independent standards body to regulate frontier AI
+  techcrunch-ai · 2026-07-14 · https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/
+• RT by @elonmusk: Grok is the Flow LLM. Grok 4.5’s biggest advantage is its speed
+  x-elonmusk · 2026-07-14 · https://www.x.com/farzyness/status/2077012251899277738
+• 卡了半年的弦论难题，Claude一夜解开，东大教授惊到删推
+  36氪 · 2026-07-14 · https://www.36kr.com/p/3895421511124611
+
+【智能驾驶】
+• 物理AI，让自动驾驶迎来了“第二春”
+  36氪 · 2026-07-14 · https://www.36kr.com/p/3895127625611904
+• 华为智选车产品总监彭磊科普国家 L3 准入要求，称享界 G9 设计之初就瞄准 L3 级自动驾驶开发
+  IT之家 · 2026-07-14 · https://www.ithome.com/0/976/745.htm
+• FSD MAGIC 🚨 Tesla has cracked the code on replicating human driving intuition, p
+  x-ming-tesla · 2026-07-13 · https://www.x.com/tslaming/status/2076645519959679193
+• Tesla says it’s building a wheelchair-accessible robotaxi in Texas
+  electrek · 2026-07-13 · https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi/
+• GOOD NEWS 📰 Wisconsin-based freight carrier Paper Transport (PTI) is officially 
+  x-ming-tesla · 2026-07-13 · https://www.x.com/tslaming/status/2076748664782090412
+
+【机器人硬件】
+• Boston Dynamics tries using &amp;#8216;robot dogs&amp;#8217; for deliveries
+  theverge · 2026-07-14 · https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant
+• Tech Life
+  bbc-tech · 2026-07-14 · https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&amp;at_campaign=rss
+• 宇树科技王兴兴：机器人一定会走向普通消费者，今天的机器人就像 30 年前的个人电脑
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/786.htm
+
+【AI 消费硬件与脑机】
+• 阶跃发布大模型原生AI终端品牌STEPX及Step AOS
+  36kr-newsflash · 2026-07-13 · https://36kr.com/newsflashes/3894017412726018?f=rss
+• 印奇谈阶跃星辰终端品牌发布：很想听劝但还是做了，只做 AI 原生硬件
+  IT之家 · 2026-07-13 · https://www.ithome.com/0/976/201.htm
+• 业内人士称阶跃终端首款智能体手机 STEPX Neo 属自主设计，与魅族“没啥关系”
+  IT之家 · 2026-07-13 · https://www.ithome.com/0/976/226.htm
+• Siri AI makes the Apple Watch finally feel like a wrist computer
+  theverge · 2026-07-13 · https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch
+• Siri AI is already changing how I use my iPhone
+  theverge · 2026-07-13 · https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on
+
+【AI Agent】
+• 你的AI对象，要被强制“下线”了
+  36氪 · 2026-07-14 · https://www.36kr.com/p/3895394389837445
+• AI批量造App，也在批量埋雷
+  36氪 · 2026-07-12 · https://www.36kr.com/p/3892107686984581
+• 微软研究院推出开源可视化中间语言 Flint，让 AI 智能体“一句话生成专业图表”
+  IT之家 · 2026-07-12 · https://www.ithome.com/0/975/816.htm
+• QQ 邮箱发布 AI 专用邮箱：Agent Mail，每人可抢注两个地址[内测]
+  小众软件 · 2026-07-12 · https://www.appinn.com/qq-agent-mail/
+
+【💰 财经动态】
+• 今日，梁文锋成AI新首富，36人靠大模型成亿万富翁
+  36氪 · 2026-07-14 · https://www.36kr.com/p/3895380647560832
+• 消息称 DeepSeek 以 710 亿美元投前估值开启新一轮融资初步谈判
+  IT之家 · 2026-07-14 · https://www.ithome.com/0/976/713.htm
+• Video-generation startup PixVerse raises $439M, valuation soars past $2B
+  techcrunch-ai · 2026-07-14 · https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
+• 长鑫科技确定发行价 8.66 元 / 股，市盈率高达 308.92 倍
+  IT之家 · 2026-07-14 · https://www.ithome.com/0/976/731.htm
+</description>
+      <pubDate>Wed, 15 Jul 2026 05:43:41 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-15</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-15.mp3" length="12988542" type="audio/mpeg"/>
+      <itunes:duration>13:32</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
