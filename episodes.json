@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-15T00:26:02",
+    "guid": "youtube-special-jhpmMTus5a0",
+    "title": "特别篇：AI记忆与持续学习",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder & CEO\n频道: Latent Space\n原视频时间: 2026-07-13\n主持人: Swyx & Alessio Fanelli\n嘉宾: Dan Biderman\n主题: AI记忆与持续学习\n\n核心观点:\n• Context Rot: 千万级上下文也救不了模型的\"阅读困惑\"\n• Cartridges: 从\"照菜谱做菜\"到\"肌肉记忆\"\n• 企业数据即将抵达\"互联网规模\"，而你在用石器时代的办法处理它\n• Efficiency 与 Intelligence 不可割裂：下一个范式是\"用更少做更多\"\n• 消灭 Prefill：把训练计算\"借\"给推理时刻\n• 每个用户都值得拥有一只 AI\"电子宠物\"\n\n原视频: https://www.youtube.com/watch?v=jhpmMTus5a0",
+    "pub_date": "Tue, 14 Jul 2026 16:26:02 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-15-jhpmMTus5a0.mp3?v=202607150026",
+    "audio_size": 14477731,
+    "audio_mime": "audio/mpeg",
+    "duration": "15:05",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-15-jhpmMTus5a0.jpg?v=202607150026"
+  },
+  {
     "date": "2026-07-14",
     "guid": "ai-daily-2026-07-14",
     "title": "07/14 AI 日报",

@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 21:43:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:26:02 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,38 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：AI记忆与持续学习</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: The AI Memory Problem: Why Long Context Isn’t Enough — Dan Biderman, Engram Co-founder &amp; CEO
+频道: Latent Space
+原视频时间: 2026-07-13
+主持人: Swyx &amp; Alessio Fanelli
+嘉宾: Dan Biderman
+主题: AI记忆与持续学习
+
+核心观点:
+• Context Rot: 千万级上下文也救不了模型的"阅读困惑"
+• Cartridges: 从"照菜谱做菜"到"肌肉记忆"
+• 企业数据即将抵达"互联网规模"，而你在用石器时代的办法处理它
+• Efficiency 与 Intelligence 不可割裂：下一个范式是"用更少做更多"
+• 消灭 Prefill：把训练计算"借"给推理时刻
+• 每个用户都值得拥有一只 AI"电子宠物"
+
+原视频: https://www.youtube.com/watch?v=jhpmMTus5a0</description>
+      <pubDate>Tue, 14 Jul 2026 16:26:02 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-jhpmMTus5a0</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-15-jhpmMTus5a0.mp3?v=202607150026" length="14477731" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-15-jhpmMTus5a0.jpg?v=202607150026"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/14 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-14
