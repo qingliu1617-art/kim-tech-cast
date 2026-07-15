@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 21:43:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:43:35 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,79 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/16 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-16
+
+【AI 基础设施】
+• $NVDA CEO, Jensen Huang in Tokyo today said: "The reports are not true. Vera Rub
+  x-serenity · 2026-07-15 · https://www.x.com/aleabitoreddit/status/2077406548012466390
+• 消息称苹果正寻求收购人工智能芯片企业
+  IT之家 · 2026-07-15 · https://www.ithome.com/0/977/243.htm
+• 诺基亚与英伟达推出行业首个商用AI-RAN平台
+  36kr-newsflash · 2026-07-15 · https://36kr.com/newsflashes/3896822215722631?f=rss
+
+【大模型】
+• 独家｜面壁智能端侧大模型将搭载三星手机上市
+  36氪 · 2026-07-15 · https://www.36kr.com/p/3896830362601351
+• Thinking Machines Lab Drops Its First Model
+  wired-ai · 2026-07-15 · https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/
+
+【智能驾驶】
+• 小鹏第二代 VLA 完成欧洲本地化测试，何小鹏期望成为首家将高阶智能辅助驾驶带到欧洲的中国企业
+  IT之家 · 2026-07-15 · https://www.ithome.com/0/977/206.htm
+• 华为：引望作为中国专家组核心成员深度参与联合国自动驾驶法规 ADS GTR 制定
+  IT之家 · 2026-07-15 · https://www.ithome.com/0/977/215.htm
+• 本田美国多款车型将集成谷歌 Gemini，可使用自然语言进行交流
+  IT之家 · 2026-07-15 · https://www.ithome.com/0/977/230.htm
+• 东风汽车：岚图梦想家 9 基于全域 L3 级自动驾驶架构打造，预计今年下半年上市
+  IT之家 · 2026-07-14 · https://www.ithome.com/0/976/727.htm
+
+【机器人硬件】
+• 消息称小鹏计划明年在全球推出 IRON 人形机器人，今年年底前力争月产超 1000 台
+  IT之家 · 2026-07-15 · https://www.ithome.com/0/977/208.htm
+• Tech Life
+  bbc-tech · 2026-07-14 · https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&amp;at_campaign=rss
+
+【AI 消费硬件与脑机】
+• 路线分野与终局迷雾：Rokid不想做下一个黑莓
+  36氪 · 2026-07-14 · https://www.36kr.com/p/3895122475350664
+• OpenAI may announce a ChatGPT smart speaker this year
+  theverge · 2026-07-14 · https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device
+• OpenAI’s first hardware device is reportedly a screenless speaker that can move
+  techcrunch-ai · 2026-07-14 · https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/
+• OpenAI finally launches hardware… for Codex
+  theverge · 2026-07-15 · https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch
+• Apple Gets Approval for iPhone AI in China With Alibaba, Baidu
+  bloomberg-tech · 2026-07-15 · https://www.bloomberg.com/news/articles/2026-07-15/apple-gets-approval-for-alibaba-powered-iphone-ai-tools-in-china
+
+【AI Agent】
+• AI Coding的价值，正在从“谁的模型更强”悄悄转向“谁的工具链更密”
+  36氪 · 2026-07-15 · https://www.36kr.com/p/3896475255260550
+• Microsoft Gives Sellers Tips to Knock Down Anthropic, OpenAI
+  bloomberg-tech · 2026-07-15 · https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai
+• New Anthropic research: Agentic misalignment in Summer 2026. A year after our bl
+  x-anthropic · 2026-07-15 · https://www.x.com/AnthropicAI/status/2077452646303006927
+• Now, defenders are embracing the prompt injection, too
+  arstechnica · 2026-07-13 · https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/
+• AI能生成一百种人生，却不能多给你一条退路
+  36氪 · 2026-07-14 · https://www.36kr.com/p/3894919631944584
+
+【💰 财经动态】
+• 人形机器人公司逐际动力完成近 2 亿美元 Pre-IPO 轮融资，重点用于大小脑融合技术的突破和产品化
+  IT之家 · 2026-07-15 · https://www.ithome.com/0/977/234.htm
+• 机器人大脑，值钱的生意还是卖炭的苦活？
+  36氪 · 2026-07-14 · https://www.36kr.com/p/3894816764623496
+• 走出一道窄门，智谱又押上四个答案
+  36氪 · 2026-07-14 · https://www.36kr.com/p/3894940992011525
+</description>
+      <pubDate>Thu, 16 Jul 2026 05:43:35 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-16</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-16.mp3" length="11734247" type="audio/mpeg"/>
+      <itunes:duration>12:13</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：AI记忆与持续学习</title>
       <description>YouTube 长访谈中文精华改编。
