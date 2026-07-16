@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 21:43:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:10:04 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,37 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：Modal 的 Agent 基础设施与推理优化</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: UwxxlTNPjWo
+频道: 
+主持人: Swyx &amp; Alessio Fanelli
+嘉宾: Akshat Bubna
+主题: Modal 的 Agent 基础设施与推理优化
+
+核心观点:
+• 从 DX 到 AX，Modal 赌的是"Agent 不该读 Kubernetes YAML"
+• 2023 年 5 月就做沙箱，比 Agent 浪潮早整整两年 ⏳
+• 弹性推理才是 Modal 的基本盘，LLM 只是后来的故事
+• 推理加速的乘法来自 accept length，不是 kernel 优化
+• Modal 不做数据中心，要做 17 朵云之上的"超级云" ️
+• 代码优先，但不是黑盒：Modal 拒绝当 API 包装商
+
+原视频: https://www.youtube.com/watch?v=UwxxlTNPjWo</description>
+      <pubDate>Thu, 16 Jul 2026 14:10:04 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-UwxxlTNPjWo</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-16-UwxxlTNPjWo.mp3?v=202607162210" length="12196510" type="audio/mpeg"/>
+      <itunes:duration>12:42</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-16-UwxxlTNPjWo.jpg?v=202607162210"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/16 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-16

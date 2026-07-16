@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-16T22:10:04",
+    "guid": "youtube-special-UwxxlTNPjWo",
+    "title": "特别篇：Modal 的 Agent 基础设施与推理优化",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: UwxxlTNPjWo\n频道: \n主持人: Swyx & Alessio Fanelli\n嘉宾: Akshat Bubna\n主题: Modal 的 Agent 基础设施与推理优化\n\n核心观点:\n• 从 DX 到 AX，Modal 赌的是\"Agent 不该读 Kubernetes YAML\"\n• 2023 年 5 月就做沙箱，比 Agent 浪潮早整整两年 ⏳\n• 弹性推理才是 Modal 的基本盘，LLM 只是后来的故事\n• 推理加速的乘法来自 accept length，不是 kernel 优化\n• Modal 不做数据中心，要做 17 朵云之上的\"超级云\" ️\n• 代码优先，但不是黑盒：Modal 拒绝当 API 包装商\n\n原视频: https://www.youtube.com/watch?v=UwxxlTNPjWo",
+    "pub_date": "Thu, 16 Jul 2026 14:10:04 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-16-UwxxlTNPjWo.mp3?v=202607162210",
+    "audio_size": 12196510,
+    "audio_mime": "audio/mpeg",
+    "duration": "12:42",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-16-UwxxlTNPjWo.jpg?v=202607162210"
+  },
+  {
     "date": "2026-07-16",
     "guid": "ai-daily-2026-07-16",
     "title": "07/16 AI 日报",
