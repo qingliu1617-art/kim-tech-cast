@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 01:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:43:31 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,91 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/18 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-18
+
+【AI 基础设施】
+• NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads 
+  NVIDIA Blog · 2026-07-17 · https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/
+• 订单太多忙不过来，消息称三星电子拟将谷歌 TPU I/O 芯片后端设计工作外包
+  IT之家 · 2026-07-15 · https://www.ithome.com/0/977/224.htm
+• NetApp与甲骨文合作推出全托管云存储服务
+  36kr-newsflash · 2026-07-15 · https://36kr.com/newsflashes/3896875735205513?f=rss
+
+【大模型】
+• Grok 4.5 is arguably #1 when taking speed and cost into account
+  x-elonmusk · 2026-07-17 · https://www.x.com/elonmusk/status/2078195617877143895
+• 统计学20年悬案，GPT-5.6用90分钟破解，伯克利教授直呼“心塞”
+  36氪 · 2026-07-16 · https://www.36kr.com/p/3897986798667648
+• Here’s Why Anthropic Is Pushing States to Regulate AI Faster
+  wired-ai · 2026-07-16 · https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/
+• GPT-Red: Unlocking Self-Improvement for Robustness
+  OpenAI Blog · 2026-07-15 · https://openai.com/index/unlocking-self-improvement-gpt-red
+• 目前架构下，自进化后的AI也无法替代人类的判断力
+  36氪 · 2026-07-15 · https://www.36kr.com/p/3896564634666885
+
+【具身智能模型】
+• 神玑公司首次参加世界人工智能大会，发布睿动具身智能开发平台
+  36kr-newsflash · 2026-07-17 · https://36kr.com/newsflashes/3899667446613640?f=rss
+
+【智能驾驶】
+• 九识智能：实现全球首个 L4 级无图方案规模化量产，无人驾驶进入“无图时代”
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/233.htm
+• 工信部召开重点车企座谈会，强调抵制非理性竞争、加强自动驾驶安全评估
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/299.htm
+• 阿维塔 07L 大五座 SUV 预售 24.99 万元起：华为乾崑智驾 + 鸿蒙座舱，张凌赫代言
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/284.htm
+• Zoox issues software recall because its robotaxis may be confused by smoke
+  engadget · 2026-07-17 · https://www.engadget.com/2217803/zoox-issues-software-recall-because-its-robotaxis-may-be-confused-by-smoke/
+
+【机器人硬件】
+• 智元联合京东物流发布精灵 G2 Max 人形机器人，首次在真实仓储作业生产场景中部署落地
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/274.htm
+• 腾讯 Robotics X 实验室新一代示范性机器人“小六”首次公开亮相，系“小五”迭代之作
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/282.htm
+• Agility Robotics plants its flag in Tesla’s backyard
+  techcrunch-ai · 2026-07-17 · https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/
+• A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War
+  wired-ai · 2026-07-17 · https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/
+
+【AI 消费硬件与脑机】
+• 强脑科技全球首发脑控机器人训练平台，10 分钟解锁意念控制
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/289.htm
+• 阿里千问 AI 眼镜将升级为智能体眼镜，联合 Bose 打造首款 AI 智能体耳机同步亮相
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/215.htm
+• 人工智能终端智能化分级首批测试结果公布，涉及手机、电脑、眼镜、电视、汽车座舱等
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/276.htm
+• 消息称字节叫停第一代豆包 AI 眼镜，第二代规划全功能版和轻量版双版本、下半年上市
+  IT之家 · 2026-07-15 · https://www.ithome.com/0/977/226.htm
+
+【AI Agent】
+• 烧掉16万美金，狂飙100万行代码，Bun之父用Claude重写底层
+  36氪 · 2026-07-17 · https://www.36kr.com/p/3899401843017608
+• 国家超算互联网招募科学智能体开发者，可享受全国首个十万卡 AI 超集群算力
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/307.htm
+• 黄仁勋最新访谈：下一代软件公司的操作系统是 Harness
+  36氪 · 2026-07-17 · https://www.36kr.com/p/3898288412411264
+• You can now grant Claude access to your 1Password credentials
+  engadget · 2026-07-16 · https://www.engadget.com/2216405/1password-anthropic-claude-integration/
+
+【💰 财经动态】
+• 国科微：拟定增募资不超过50.61亿元，用于端侧AI芯片研发及产业化项目等
+  36kr-newsflash · 2026-07-17 · https://36kr.com/newsflashes/3899639438280323?f=rss
+• 惠科股份：拟出资40亿元设立全资子公司投建先进封装及测试项目
+  36kr-newsflash · 2026-07-17 · https://36kr.com/newsflashes/3899663098333057?f=rss
+• ASML 拟向全球约 4.5 万名员工发放 2 万欧元股票奖励，2030 年解禁
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/314.htm
+• 商汤001号员工创办AI公司：将AI角色引擎做成护城河，获种子轮融资 | 36氪首发
+  36氪 · 2026-07-17 · https://www.36kr.com/p/3898370289846153
+</description>
+      <pubDate>Sat, 18 Jul 2026 05:43:31 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-18</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-18.mp3" length="15988653" type="audio/mpeg"/>
+      <itunes:duration>16:39</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/17 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-17
