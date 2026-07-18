@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 21:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 21:47:01 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,93 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/19 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-19
+
+【AI 基础设施】
+• 阿里云发布灵骏真武 M890 超节点实例，单台可承载十万亿参数级 MoE 大模型推理
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/578.htm
+• 英伟达 N1X 首个 Cinebench 2026 跑分曝光：微软 Surface Ultra 工程样机现身，单核成绩接近苹果 M3 Max
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/600.htm
+• 英伟达 RTX Spark 首批 Win11 Arm 驱动发布：最高 6144 个 Blackwell 核心，N1X PC 预计今秋登场
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/599.htm
+• Meta in Talks to Sell Computing Power to Anthropic
+  bloomberg-tech · 2026-07-17 · https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports
+• 美光与高通、哈曼等签署长期合作协议，保障 AI 汽车内存供应
+  IT之家 · 2026-07-16 · https://www.ithome.com/0/977/797.htm
+
+【大模型】
+• 刚刚，Fable 5官宣永久可用
+  36氪 · 2026-07-18 · https://www.36kr.com/p/3900918550546308
+• 拆开Claude大脑也没用，AI黑箱真正的钥匙，藏在本体工程
+  36氪 · 2026-07-17 · https://www.36kr.com/p/3899386796656516
+• Our approach to bioresilience
+  Google DeepMind · 2026-07-16 · https://deepmind.google/blog/our-approach-to-bioresilience/
+• Google Vids now lets you star in your own AI videos
+  techcrunch-ai · 2026-07-16 · https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/
+
+【具身智能模型】
+• 云迹科技发布“人机共生世界价值模型”
+  36kr-newsflash · 2026-07-18 · https://36kr.com/newsflashes/3900822239758214?f=rss
+
+【智能驾驶】
+• FSD MAGIC 🚨 Tesla has cloned premium lidars using nothing but pure code and chea
+  x-ming-tesla · 2026-07-18 · https://www.x.com/tslaming/status/2078482608535880187
+• UPDATE 🇩🇪 The latest info on Tesla FSD approval in Germany, based on a recent of
+  x-ming-tesla · 2026-07-17 · https://www.x.com/tslaming/status/2078139133747482910
+• 零跑曹力回应喊话友商“可能明年才跟上”：产品实力够强，不能再低调
+  IT之家 · 2026-07-16 · https://www.ithome.com/0/977/795.htm
+• 小鹏目标在欧洲 13 国建成超 1000 座自营超充站，全新 X-Energy 兆瓦超储充站即将登陆欧洲
+  IT之家 · 2026-07-16 · https://www.ithome.com/0/977/770.htm
+• 雷军：小米澎程车型亏电油耗很低，用车成本和保养成本也很低
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/977/856.htm
+
+【机器人硬件】
+• RoboSense 发布第二代全固态数字化激光雷达 E2，可无缝嵌入机器人头部、腕部
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/546.htm
+• 机器人“眼睛”升级，思特威联合地瓜机器人推出 1:1 方形视觉传感器
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/529.htm
+• 中兴发布业内同规格尺寸下最轻人形机器人产品“中兴星仔”：高 1.6 米，自重 30 余千克
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/521.htm
+
+【AI 消费硬件与脑机】
+• 消息称字节新一代豆包手机备货数十万台，AI 不再直接操作头部应用
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/312.htm
+• 国内首款苹果 MFi 认证开放式 AI 耳机：网易有道 OpenPods 亮相 WAIC，耳机盒可独立录音翻译
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/567.htm
+• 腾讯云智能体硬件生态提速，首款接入WorkBuddy AI记忆眼镜发布
+  36kr-newsflash · 2026-07-18 · https://36kr.com/newsflashes/3900906468984713?f=rss
+• China Joins Rush to Rethink the Smartphone for the AI Era
+  bloomberg-tech · 2026-07-18 · https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era
+
+【AI Agent】
+• 腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线
+  36kr-newsflash · 2026-07-18 · https://36kr.com/newsflashes/3900908700436103?f=rss
+• 类似 Anthropic Mythos 模型：消息称微软正开发 AI 漏洞检测工具，最快 7 月发布
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/292.htm
+• IDC：2030年全球活跃Agent数量或将超过22亿个
+  36kr-newsflash · 2026-07-17 · https://36kr.com/newsflashes/3899647452677769?f=rss
+
+【💰 财经动态】
+• Why the first GPU financiers are turning to inference chips in a $400 million de
+  techcrunch-ai · 2026-07-17 · https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/
+• Tech Stocks Drag S&amp;P 500 Lower as TSMC Results Spur AI Concerns
+  bloomberg-tech · 2026-07-16 · https://www.bloomberg.com/news/articles/2026-07-16/us-stock-futures-tumble-as-tsmc-s-results-revive-ai-concerns
+• SpaceX in Talks to Sell Computing Power to Pentagon, WSJ Says
+  bloomberg-tech · 2026-07-17 · https://www.bloomberg.com/news/articles/2026-07-17/spacex-in-talks-to-sell-computing-power-to-pentagon-wsj-says
+• How a former DeepMind researcher raised at a $300M pre-seed valuation before lau
+  techcrunch-ai · 2026-07-16 · https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/
+• Applied Computing wants to give oil and gas operators an AI model for the entire
+  techcrunch-ai · 2026-07-16 · https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/
+</description>
+      <pubDate>Sun, 19 Jul 2026 05:47:01 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-19</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-19.mp3" length="14502390" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/18 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-18
