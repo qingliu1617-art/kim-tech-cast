@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 21:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 15:56:00 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,38 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：AI 蜜月期结束，科技从业者感受</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Why the AI’s honeymoon is ending (and tech workers are feeling it) | Noam Segal
+频道: Lenny's Podcast
+原视频时间: 2026-07-12
+主持人: Lenny Rachitsky
+嘉宾: Noam Segal
+主题: AI 蜜月期结束，科技从业者感受
+
+核心观点:
+• AI 对职业身份的冲击，是科技圈史上最大的“效应量”
+• AI 没有减少倦怠，只是把“省下的时间”重新变成期待 ⏱️
+• 恐惧排行榜：被压榨 &gt; 被 AI 取代
+• 科技行业正在失去“推荐者”：没人愿意让新人入坑
+• 97.2% 说 AI 让我更优秀，但质量和判断力正在腐烂
+• 四种原型，解释科技圈的情绪地图 ️
+
+原视频: https://www.youtube.com/watch?v=_cmpIveXnvE</description>
+      <pubDate>Sun, 19 Jul 2026 15:56:00 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-_cmpIveXnvE</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-19-_cmpIveXnvE.mp3?v=202607192355" length="13470867" type="audio/mpeg"/>
+      <itunes:duration>14:02</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-19-_cmpIveXnvE.jpg?v=202607192355"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/19 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-19
