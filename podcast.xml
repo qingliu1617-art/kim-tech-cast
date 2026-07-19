@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 15:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:41:45 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,88 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/20 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-20
+
+【AI 基础设施】
+• Tesla has engineered a 3D vertical power grid to unlock extreme computing densit
+  x-ming-tesla · 2026-07-19 · https://www.x.com/tslaming/status/2078755572284113056
+• 天数智芯发布新一代通用 GPU 旗舰产品天垓 300，具备规模化应用条件
+  IT之家 · 2026-07-19 · https://www.ithome.com/0/978/781.htm
+
+【大模型】
+• 马斯克：Grok 4.6 训练进入最后阶段，2 万亿参数模型下周完成初步训练
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/595.htm
+• DeepSeek V4“满血版”曝光了，最快明天发布
+  36氪 · 2026-07-19 · https://www.36kr.com/p/3902097586800259
+• 月之暗面总裁张予彤：Kimi K3 发布次日 ARR 创下历史最大单日增幅
+  IT之家 · 2026-07-19 · https://www.ithome.com/0/978/734.htm
+• 商汤科技旗舰级SenseNova U1 Pro正式发布
+  36kr-newsflash · 2026-07-19 · https://36kr.com/newsflashes/3902187700766593?f=rss
+
+【智能驾驶】
+• 上汽 Robotaxi 量产定制车项目发布，新车计划 2027 年亮相
+  IT之家 · 2026-07-19 · https://www.ithome.com/0/978/760.htm
+• GOOD NEWS 🇩🇪 Tesla is planning to bump up weekly production at Gigafactory Berli
+  x-ming-tesla · 2026-07-19 · https://www.x.com/tslaming/status/2078862938363060703
+• 美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/977/850.htm
+
+【机器人硬件】
+• 蓝思智能与上纬新材合作建万台级产线，全球首个可变形个人机器人启元 T1 即将量产
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/566.htm
+• WAIC机器人狂卷落地：细分赛道爆发，VLA 与世界模型争做大脑
+  36氪 · 2026-07-19 · https://www.36kr.com/p/3901340695872647
+• 上海人形机器人中试服务平台发布，兼容轮臂机器人、四足机器人试制
+  IT之家 · 2026-07-19 · https://www.ithome.com/0/978/735.htm
+
+【AI 消费硬件与脑机】
+• 社交平台 Soul 推出 AI 智能硬件 B Soul：提供智能交互与定制化语音体验，预计 8 月逐步量产销售
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/563.htm
+• 零刻发布 ME Pro 370 两盘位 / 四盘位 NAS 型迷你主机：AI 9 HX 370 处理器，3999 元起
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/978/270.htm
+• Samsung&amp;#8217;s redesigned Z Fold 8 with a wide display just leaked
+  theverge · 2026-07-17 · https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak
+• AI-driven memory crunch jolts India’s smartphone market
+  techcrunch-ai · 2026-07-17 · https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/
+• AI手机渗透率有望加速提升，18股获5家及以上机构评级
+  36kr-newsflash · 2026-07-17 · https://36kr.com/newsflashes/3898995946538624?f=rss
+
+【AI Agent】
+• Agent跌跌撞撞进入世界
+  36氪 · 2026-07-17 · https://www.36kr.com/p/3899383692691078
+• LM Studio Bionic 智能体工具上线：可调用 GLM 5.2 等开源模型 AI 编程等
+  IT之家 · 2026-07-17 · https://www.ithome.com/0/977/860.htm
+• 终于用上 AI 的公司，发现业务被大模型公司抢了
+  36氪 · 2026-07-17 · https://www.36kr.com/p/3899582770611845
+• 做出来容易上线难：搞定企业级Agent要先学会“评估”？
+  36氪 · 2026-07-17 · https://www.36kr.com/p/3899570321901449
+• 全体起立：面向AI智能体的Internet Court现已开庭
+  36氪 · 2026-07-17 · https://www.36kr.com/p/3899512269538945
+
+【💰 财经动态】
+• Moonshot Plans IPO in Six Months After China AI Breakthrough
+  bloomberg-tech · 2026-07-19 · https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough
+• 新易盛：上半年净利同比预增78%-103% 受益于人工智能相关算力投资持续增长产品结构优化
+  36kr-newsflash · 2026-07-19 · https://36kr.com/newsflashes/3902322110170761?f=rss
+• 星宸科技：预计2026年半年度净利润同比增长584%-650%
+  36kr-newsflash · 2026-07-19 · https://36kr.com/newsflashes/3902191399225221?f=rss
+• 一目科技完成超10亿元E轮融资 估值过百亿元
+  36kr-newsflash · 2026-07-19 · https://36kr.com/newsflashes/3902093496813441?f=rss
+</description>
+      <pubDate>Mon, 20 Jul 2026 05:41:45 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-20</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-20.mp3" length="15536839" type="audio/mpeg"/>
+      <itunes:duration>16:11</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：AI 蜜月期结束，科技从业者感受</title>
       <description>YouTube 长访谈中文精华改编。
