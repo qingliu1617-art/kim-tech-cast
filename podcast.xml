@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 21:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:44:03 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,83 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/21 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-21
+
+【AI 基础设施】
+• SK 集团会长崔泰源：明年全球半导体需求至少增长五成，AI 领域预计增加 60%-100%
+  IT之家 · 2026-07-19 · https://www.ithome.com/0/978/744.htm
+• 微软将在 Azure 云服务上部署 AMD Helios 机架系统，用于 AI 推理
+  IT之家 · 2026-07-20 · https://www.ithome.com/0/979/235.htm
+• 联想问天全球首款 RISC-V 服务器亮相 WAIC 2026，搭载蓝芯 LX500 处理器
+  IT之家 · 2026-07-20 · https://www.ithome.com/0/979/200.htm
+
+【大模型】
+• AI领走埃尔德什100美元赏金，44页顶刊没解的题，它一页纸答出
+  36氪 · 2026-07-20 · https://www.36kr.com/p/3903900275902083
+• 面壁智能发布端侧模型 MiniCPM5-2B，AA-Index 榜单 4B 以下性能第一
+  IT之家 · 2026-07-19 · https://www.ithome.com/0/978/796.htm
+• 阿里 Token Plan 个人版发布，限时优惠每月 39 元起
+  IT之家 · 2026-07-19 · https://www.ithome.com/0/978/775.htm
+• 限时 1 折，夜间 0.2 折起：阿里 Qoder 上线 Qwen3.8-Max-Preview 模型
+  IT之家 · 2026-07-19 · https://www.ithome.com/0/978/747.htm
+• 参数量达 2.4T，阿里千问 PC 端接入 Qwen3.8-Max-Preview
+  IT之家 · 2026-07-19 · https://www.ithome.com/0/978/738.htm
+
+【具身智能模型】
+• 李飞飞第一篇「触觉」论文：机器人会盲摸麻将了
+  36氪 · 2026-07-20 · https://www.36kr.com/p/3903925085521543
+
+【智能驾驶】
+• 整车售价 13.33 万元起，蔚来 firefly 萤火虫 halo 寻光系列首款车型“栖息地”上市
+  IT之家 · 2026-07-20 · https://www.ithome.com/0/979/219.htm
+• 长城 H10 预售：五座 / 六座双版本，限时权益价 21.48 万元起
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/573.htm
+• 吉利银河 TT Ultra 车型 7 月 21 日预售，配备激光雷达 + 双电机四驱
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/526.htm
+
+【机器人硬件】
+• WAIC上，AI开始接管人类的欲望
+  36氪 · 2026-07-20 · https://www.36kr.com/p/3903687507904387
+
+【AI 消费硬件与脑机】
+• 联想拯救者 Y900 系列平板推送 7 月升级：新增游戏助手 AI 游戏伙伴、CAJ Viewer PC 版应用等
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/517.htm
+• 海信墨水屏手机 A10 配置揭晓：高通跃龙 QCM6690 处理器、安卓 16 原生适配，8 月发布
+  IT之家 · 2026-07-19 · https://www.ithome.com/0/978/764.htm
+• Adobe crams multiple AI tools into its experimental camera app
+  engadget · 2026-07-20 · https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/
+• Meta Glasses review: A bit less polish, a lot more baggage
+  engadget · 2026-07-20 · https://www.engadget.com/2217722/meta-glasses-review/
+
+【AI Agent】
+• An AI agent breached Hugging Face before an AI defender caught it: What users sh
+  zdnet · 2026-07-20 · https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/
+• 42章经｜AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
+  知识库精读 · 2026-07-20 · https://www.xiaoyuzhoufm.com/episode/6a5b98a66356eb2d9be4ad2c
+• Try Grok Build https://x.ai/cli
+  x-elonmusk · 2026-07-18 · https://www.x.com/elonmusk/status/2078495013936206287
+• 腾讯副总裁林松涛：终端将是 AI 普及的最后一公里
+  IT之家 · 2026-07-18 · https://www.ithome.com/0/978/568.htm
+
+【💰 财经动态】
+• 曝零一万物启动新一轮融资，拟2027年申请IPO
+  36kr-newsflash · 2026-07-20 · https://36kr.com/newsflashes/3903968879511169?f=rss
+• 新易盛：整体来看，二季度业绩预告情况与公司年初对全年整体情况的预期基本吻合
+  36kr-newsflash · 2026-07-20 · https://36kr.com/newsflashes/3903985686824841?f=rss
+• Prysmian Signs $6.3 Billion Molex Deal for Data-Center Gear
+  bloomberg-tech · 2026-07-20 · https://www.bloomberg.com/news/articles/2026-07-20/prysmian-inks-6-3-billion-deal-with-molex-for-data-center-gear
+• “尼卡光学”完成近亿元A轮融资
+  36kr-newsflash · 2026-07-20 · https://36kr.com/newsflashes/3903974776292998?f=rss
+</description>
+      <pubDate>Tue, 21 Jul 2026 05:44:03 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-21</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-21.mp3" length="12599004" type="audio/mpeg"/>
+      <itunes:duration>13:07</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/20 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-20
