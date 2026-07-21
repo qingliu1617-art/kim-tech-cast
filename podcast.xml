@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 21:44:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 23:27:44 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,87 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/22 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-22
+
+【AI 基础设施】
+• NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners W
+  NVIDIA Blog · 2026-07-21 · https://blogs.nvidia.com/blog/vera-rubin/
+• 黄仁勋的“达链”闭环了
+  36氪 · 2026-07-21 · https://www.36kr.com/p/3904937240364936
+• Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory o
+  NVIDIA Blog · 2026-07-20 · https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/
+• 让美国人贡献民电来跑AI，Sunrun这个方案是噱头还是解药？
+  36氪 · 2026-07-20 · https://www.36kr.com/p/3903739244905863
+
+【大模型】
+• GPT-5.6-Sol在网络攻防能力上，超越了Mythos，开源模型也排好了
+  36氪 · 2026-07-21 · https://www.36kr.com/p/3905122912438146
+• US threatens sanctions against Chinese AI models over IP theft
+  techcrunch-ai · 2026-07-21 · https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/
+• RT by @elonmusk: Grok 4.5 is really good at React. It's also very affordable and
+  x-elonmusk · 2026-07-20 · https://www.x.com/leerob/status/2079240370576146875
+• Safety and alignment in an era of long-horizon models
+  OpenAI Blog · 2026-07-20 · https://openai.com/index/safety-alignment-long-horizon-models
+
+【具身智能模型】
+• 5.83倍加速，PolicyTrim：让VLA机器人少走弯路、更快完成任务
+  36氪 · 2026-07-21 · https://www.36kr.com/p/3905122994292611
+• 光轮智能与西门子正式达成合作
+  36kr-newsflash · 2026-07-20 · https://36kr.com/newsflashes/3903949369329280?f=rss
+
+【智能驾驶】
+• Tesla Robotaxis go to Florida
+  theverge · 2026-07-21 · https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings
+• Tesla puts Starlink antenna in Cybercab
+  electrek · 2026-07-21 · https://electrek.co/2026/07/20/tesla-starlink-cybercab-integration-why/
+• FSD v14 Lite (for Tesla AI3 hardware vehicles) review. This is the version that’
+  x-ashok · 2026-07-20 · https://www.x.com/aelluswamy/status/2079251214865457429
+
+【机器人硬件】
+• Roborock RockMaw X120H LiDAR AWD robot mower $699 off launch, Bluetti Member Day
+  electrek · 2026-07-21 · https://electrek.co/2026/07/21/roborock-rockmaw-x120h-lidar-awd-robot-mower-bluetti-power-station-sale-velotric-e-bikes-more/
+• Firefighting drones in the works as wildfires plague US nearly year-round
+  arstechnica · 2026-07-20 · https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/
+
+【AI 消费硬件与脑机】
+• BaseRT：专为 Apple Silicon 优化，让 Mac 本地大模型快 6.4 倍
+  小众软件 · 2026-07-21 · https://www.appinn.com/basert/
+• Halliday’s New Smart Glasses Skip the Camera
+  wired-ai · 2026-07-21 · https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/
+• 荣耀、豆包领衔，WAIC上的AI手机，开始跟你抢事做了
+  36氪 · 2026-07-19 · https://www.36kr.com/p/3901343845598599
+• 华为鸿蒙 HarmonyOS 6.1.0.135 版本“隐藏”特性曝光：默认图标优化、耳机控制页面布局调整
+  IT之家 · 2026-07-21 · https://www.ithome.com/0/979/804.htm
+
+【AI Agent】
+• AI 智能体互联国标试点在京启动，美团、滴滴、联想等18家单位首批签约
+  IT之家 · 2026-07-21 · https://www.ithome.com/0/979/816.htm
+• New in Claude Cowork: teach Claude a skill. Record your screen while you do a ta
+  x-claude · 2026-07-21 · https://www.x.com/claudeai/status/2079595988998554047
+• AI巨头正在争夺人类的错题本
+  36氪 · 2026-07-20 · https://www.36kr.com/p/3903872615679369
+• 清华陶建华团队提出「自进化同策略蒸馏」SEED：让Agentic RL训练也懂事后监督
+  36氪 · 2026-07-21 · https://www.36kr.com/p/3904876893013897
+• Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and th
+  techcrunch-ai · 2026-07-21 · https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/
+
+【💰 财经动态】
+• $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its
+  x-serenity · 2026-07-20 · https://www.x.com/aleabitoreddit/status/2079254669793316962
+• 市值蒸发超3000亿后，MiniMax如何讲好下一个“故事”？
+  36氪 · 2026-07-21 · https://www.36kr.com/p/3905198817789833
+• 特斯拉现金流或现两年多来首次净流出，AI 投入考验市场信心
+  IT之家 · 2026-07-21 · https://www.ithome.com/0/979/769.htm
+</description>
+      <pubDate>Wed, 22 Jul 2026 07:27:44 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-22</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-22.mp3" length="12327749" type="audio/mpeg"/>
+      <itunes:duration>12:50</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/21 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-21
