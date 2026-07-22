@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 23:27:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:45:34 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,91 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/23 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-23
+
+【AI 基础设施】
+• Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories
+  NVIDIA Blog · 2026-07-21 · https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/
+• At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical A
+  NVIDIA Blog · 2026-07-20 · https://blogs.nvidia.com/blog/siggraph-news-2026/
+• Google is working on a new AI chip designed to make Gemini more efficient
+  techcrunch-ai · 2026-07-20 · https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/
+• Z.AI Completes Giant Data Center With Chinese Chips to Train AI
+  bloomberg-tech · 2026-07-20 · https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai
+• We cut open the Kirin 9030 and put it under an electron microscope. The smallest
+  x-semianalysis · 2026-07-20 · https://www.x.com/SemiAnalysis_/status/2079251630608842814
+
+【大模型】
+• 英伟达黄仁勋：美国无需害怕中国开源 AI 模型，应警惕国内“封禁”呼声
+  IT之家 · 2026-07-22 · https://www.ithome.com/0/980/294.htm
+• OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack
+  bbc-tech · 2026-07-22 · https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&amp;at_campaign=rss
+• 谷歌Gemini跌出全球排名前十
+  36氪 · 2026-07-22 · https://www.36kr.com/p/3906712566797699
+• China’s Open AI Models Are Challenging Silicon Valley’s Playbook
+  wired-ai · 2026-07-22 · https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/
+• OpenAI’s Brockman on New ChatGPT Era After ‘Tough’ Year of Cuts: Q&amp;A
+  bloomberg-tech · 2026-07-22 · https://www.bloomberg.com/news/newsletters/2026-07-22/openai-s-brockman-on-new-chatgpt-era-after-tough-year-of-cuts-q-a
+
+【具身智能模型】
+• 147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥
+  知识库精读 · 2026-07-22 · https://www.xiaoyuzhoufm.com/episode/6a5f79b3a3fec224d5a128cd
+• The State of Simulation for Physical AI: An Overview
+  Hugging Face · 2026-07-21 · https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
+• Grabette: an open system to record robot-manipulation data
+  Hugging Face · 2026-07-21 · https://huggingface.co/blog/grabette
+
+【智能驾驶】
+• Electric, autonomous, and there’s 800 of them: inside this week’s BIGGEST deal
+  electrek · 2026-07-22 · https://electrek.co/2026/07/22/electric-autonomous-and-theres-800-of-them-inside-this-weeks-biggest-deal/
+• Mobileye 将自 2027 年起为 Stellantis 部分车型提供云增强 ADAS
+  IT之家 · 2026-07-21 · https://www.ithome.com/0/979/796.htm
+• 北京越野泰钽 700 豪华越野 SUV 发布：首批搭载华为乾崑智驾 ADS 5，预售价 29.98 万元起
+  IT之家 · 2026-07-21 · https://www.ithome.com/0/979/771.htm
+• 岚图泰山 X8 EV 车型到店：搭载华为乾崑全新四激光雷达，33.99 万元起
+  IT之家 · 2026-07-21 · https://www.ithome.com/0/979/761.htm
+
+【机器人硬件】
+• Hyundai claims humanoid robot plan is not part of talks with striking workers
+  arstechnica · 2026-07-22 · https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/
+• Narwal Flow 2 review: The robot vacuum that finally perfected obstacle avoidance
+  zdnet · 2026-07-22 · https://www.zdnet.com/article/narwal-flow-2-review-robot-vacuum-mop-combination-2026/
+
+【AI 消费硬件与脑机】
+• 三星首款 AI 眼镜 Galaxy Glasses 亮相：搭载骁龙 AR1 Gen1 芯片，满电续航 9 小时
+  IT之家 · 2026-07-22 · https://www.ithome.com/0/980/323.htm
+• 三星最轻折叠屏手机 Galaxy Z Flip8 发布，8999 元起
+  IT之家 · 2026-07-22 · https://www.ithome.com/0/980/316.htm
+
+【AI Agent】
+• 大厂肉搏WAIC：阿里、腾讯当面对擂，智能体入口卡位战全线开打
+  36氪 · 2026-07-22 · https://www.36kr.com/p/3906436902278280
+• I gave Perplexity's agentic AI 5 complex tasks to run on my Mac - and I'll do it
+  zdnet · 2026-07-22 · https://www.zdnet.com/article/perplexity-personal-computer-agentic-ai-complex-tasks-mac/
+• 16万Star的OpenCode彻底重写：API全部重做、Bun换Node、桌面端迁移Electron
+  36氪 · 2026-07-20 · https://www.36kr.com/p/3903808799196809
+
+【💰 财经动态】
+• OpenAI 拟投资 200 亿美元在美国新建数据中心，到 2030 年算力支出预期上调至近 7500 亿美元
+  IT之家 · 2026-07-22 · https://www.ithome.com/0/980/322.htm
+• Google Says Cloud Services Backlog Expands to $514 Billion
+  bloomberg-tech · 2026-07-22 · https://www.bloomberg.com/news/articles/2026-07-22/google-says-cloud-services-backlog-expands-to-514-billion
+• Google Boosts 2026 Spending Estimate to as Much as $205 Billion
+  bloomberg-tech · 2026-07-22 · https://www.bloomberg.com/news/articles/2026-07-22/google-boosts-2026-spending-estimate-to-as-much-as-205-billion
+• 特斯拉 2026 财年第二财季归母净利润 11.11 亿美元，同比下降 5.21%
+  IT之家 · 2026-07-22 · https://www.ithome.com/0/980/350.htm
+• Monday.com lays off hundreds to focus on AI
+  techcrunch-ai · 2026-07-22 · https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/
+</description>
+      <pubDate>Thu, 23 Jul 2026 05:45:34 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-23</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-23.mp3" length="13513917" type="audio/mpeg"/>
+      <itunes:duration>14:05</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/22 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-22
