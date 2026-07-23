@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 21:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 23:41:40 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,89 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/24 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-24
+
+【AI 基础设施】
+• AMD 即将推出新一代 AI 基础设施，与英伟达正面交锋
+  IT之家 · 2026-07-23 · https://www.ithome.com/0/980/847.htm
+• 华为计算模组首次亮相 WAIC 2026 世界人工智能大会
+  IT之家 · 2026-07-23 · https://www.ithome.com/0/980/842.htm
+
+【大模型】
+• GPT-5.6推翻近30年数学猜想，全程对话公开：提示词只有58个单词？？？
+  36氪 · 2026-07-23 · https://www.36kr.com/p/3907657849361795
+• 马斯克第三次喊「奇点已至」，AI三个月连破数学、安全两道墙
+  36氪 · 2026-07-23 · https://www.36kr.com/p/3908100846539904
+• Advancing the next era of national science
+  OpenAI Blog · 2026-07-22 · https://openai.com/index/advancing-the-next-era-of-national-science
+• $GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compa
+  x-serenity · 2026-07-22 · https://www.x.com/aleabitoreddit/status/2080031508656746874
+
+【具身智能模型】
+• 硅谷101 E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛
+  知识库精读 · 2026-07-23 · https://www.xiaoyuzhoufm.com/episode/6a58203adad7474f40ac62a2
+• 网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目
+  36氪 · 2026-07-23 · https://www.36kr.com/p/3908027308823684
+
+【智能驾驶】
+• France won’t approve Tesla ‘FSD’ yet, wants EU-wide sign-off first
+  electrek · 2026-07-22 · https://electrek.co/2026/07/22/france-tesla-fsd-approval-tabarot-speeding/
+• Tesla Autopilot and FSD crashes hit record 207 in a single month
+  electrek · 2026-07-22 · https://electrek.co/2026/07/22/tesla-adas-crashes-record-207-one-month/
+• NHTSA targets Tesla’s ‘Radar Saves Us’ document in FSD crash probe
+  electrek · 2026-07-21 · https://electrek.co/2026/07/21/nhtsa-tesla-radar-saves-us-document-fsd-probe/
+• Tesla’s 2026 Summer Update: auto navigation, Grok phone calls, Caraoke scoring, 
+  electrek · 2026-07-21 · https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/
+• 理想汽车回应“新一代 L6 超充是否会伤电池”：正常用车周期内，衰减基本不用操心
+  IT之家 · 2026-07-21 · https://www.ithome.com/0/979/785.htm
+
+【AI 消费硬件与脑机】
+• 我国脑机接口领域迎重要突破，千人同步脑电采集技术发布
+  IT之家 · 2026-07-23 · https://www.ithome.com/0/980/841.htm
+• OpenAI挖了苹果400人，又盯上了苹果身后的中国制造商
+  36氪 · 2026-07-22 · https://www.36kr.com/p/3906610073819017
+• 面积仅 46mm²：xMEMS 发布全球最小主动式微型风扇 XMC-1200，专为 AR、XR 智能眼镜设计
+  IT之家 · 2026-07-21 · https://www.ithome.com/0/979/798.htm
+
+【AI Agent】
+• Launching Health in ChatGPT
+  OpenAI Blog · 2026-07-23 · https://openai.com/index/health-in-chatgpt
+• Introducing OpenAI Presence
+  OpenAI Blog · 2026-07-22 · https://openai.com/index/introducing-openai-presence
+• 疯了？前微软AI大牛花670万买下一家公司，只为让AI直接“上岗CEO”
+  36氪 · 2026-07-22 · https://www.36kr.com/p/3906491579880584
+• 消息称腾讯整合 Workbuddy 与 QClaw 两款 AI 产品团队
+  IT之家 · 2026-07-22 · https://www.ithome.com/0/980/286.htm
+• 让 Gemini 帮你填表，谷歌 Chrome 浏览器将升级自动填充功能
+  IT之家 · 2026-07-21 · https://www.ithome.com/0/979/776.htm
+
+【💰 财经动态】
+• Tesla (TSLA) crashes 12%, sheds $140B as Elon Musk’s ‘just trust me’ doesn’t hol
+  electrek · 2026-07-23 · https://electrek.co/2026/07/23/tesla-tsla-crashes-12-q2-2026-earnings-miss/
+• AI烧钱太疯狂，特斯拉和谷歌二季度现金流罕见转负
+  36氪 · 2026-07-23 · https://www.36kr.com/p/3907821881250949
+• In the second quarter, Tesla acquired an AI hardware company through an asset de
+  x-ming-tesla · 2026-07-23 · https://www.x.com/tslaming/status/2080244656856789005
+• 光模块中报集体炸裂，AI行情里最扎实的一批公司是怎么赚到钱的
+  36氪 · 2026-07-23 · https://www.36kr.com/p/3906285866784391
+• 五年亏掉356亿，商汤却要去太空建AI机房
+  36氪 · 2026-07-22 · https://www.36kr.com/p/3906498582878088
+• AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name inve
+  techcrunch-ai · 2026-07-23 · https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/
+• Menlo Ventures’ Matt Murphy explains what AI startups founders must do different
+  techcrunch-ai · 2026-07-22 · https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/
+• Alphabet’s Anthropic Stake Jumps to Around $124 Billion
+  bloomberg-tech · 2026-07-23 · https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-anthropic-stake-jumps-to-around-124-billion
+</description>
+      <pubDate>Fri, 24 Jul 2026 07:41:40 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-24</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-24.mp3" length="13800637" type="audio/mpeg"/>
+      <itunes:duration>14:22</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/23 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-23
