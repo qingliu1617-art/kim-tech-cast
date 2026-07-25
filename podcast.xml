@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 21:44:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 06:42:46 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,38 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：开源权重到开放研究</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: The AI Frontier: from open weights to open research — Eiso Kant, Poolside AI
+频道: Latent Space
+原视频时间: 2026-07-22
+主持人: Swyx
+嘉宾: Eiso Kant
+主题: 开源权重到开放研究
+
+核心观点:
+• 模型工厂是一种工业化流程
+• 小模型可以打败大模型
+• 行为比原始智能更重要
+• 强化学习将进入预训练阶段
+• 开源是一种战略选择
+• 不可变数据层是实验可复现的关键
+
+原视频: https://www.youtube.com/watch?v=9_0hs2sxHHo</description>
+      <pubDate>Sat, 25 Jul 2026 06:42:46 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-9_0hs2sxHHo</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-25-9_0hs2sxHHo.mp3?v=202607251442" length="12743200" type="audio/mpeg"/>
+      <itunes:duration>13:16</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-25-9_0hs2sxHHo.jpg?v=202607251442"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/25 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-25

@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-25T14:42:46",
+    "guid": "youtube-special-9_0hs2sxHHo",
+    "title": "特别篇：开源权重到开放研究",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: The AI Frontier: from open weights to open research — Eiso Kant, Poolside AI\n频道: Latent Space\n原视频时间: 2026-07-22\n主持人: Swyx\n嘉宾: Eiso Kant\n主题: 开源权重到开放研究\n\n核心观点:\n• 模型工厂是一种工业化流程\n• 小模型可以打败大模型\n• 行为比原始智能更重要\n• 强化学习将进入预训练阶段\n• 开源是一种战略选择\n• 不可变数据层是实验可复现的关键\n\n原视频: https://www.youtube.com/watch?v=9_0hs2sxHHo",
+    "pub_date": "Sat, 25 Jul 2026 06:42:46 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-25-9_0hs2sxHHo.mp3?v=202607251442",
+    "audio_size": 12743200,
+    "audio_mime": "audio/mpeg",
+    "duration": "13:16",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-25-9_0hs2sxHHo.jpg?v=202607251442"
+  },
+  {
     "date": "2026-07-25",
     "guid": "ai-daily-2026-07-25",
     "title": "07/25 AI 日报",
