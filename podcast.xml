@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 21:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 21:41:28 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,69 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>07/27 AI 日报</title>
+      <description>📋 今日要闻 · 2026-07-27
+
+【AI 基础设施】
+• 三星李在镕与OpenAI据悉磋商人工智能与半导体领域合作方案
+  36kr-newsflash · 2026-07-26 · https://36kr.com/newsflashes/3912076178789766?f=rss
+• SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips
+  bloomberg-tech · 2026-07-25 · https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips
+• 大模型价格战下半场：将推理价格打下去
+  36氪 · 2026-07-24 · https://www.36kr.com/p/3909564577945216
+
+【大模型】
+• 微软、英伟达、Meta 等 25 家公司签署公开信，呼吁美国政府支持 AI 开源模型发展
+  IT之家 · 2026-07-24 · https://www.ithome.com/0/981/384.htm
+• ‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street
+  techcrunch-ai · 2026-07-24 · https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/
+
+【智能驾驶】
+• Waymo is 2/3 safer than a human driver, says IIHS – with some caveats
+  electrek · 2026-07-25 · https://electrek.co/2026/07/25/waymo-is-2-3-safer-than-a-human-driver-says-iihs-with-some-caveats/
+• 广汽丰田推出“行业首个电池事故起火厂家全担责”政策，覆盖铂智 7、3X 车型
+  IT之家 · 2026-07-24 · https://www.ithome.com/0/981/388.htm
+• 理想汽车：全球首个，自研安全融合控制器获最高等级 ASIL D 认证
+  IT之家 · 2026-07-24 · https://www.ithome.com/0/981/330.htm
+• 鸿蒙智行问界 M9 Ultimate 先行者配置新增 3 套内外饰组合，8 月下旬启动交付
+  IT之家 · 2026-07-25 · https://www.ithome.com/0/981/545.htm
+
+【机器人硬件】
+• 上纬新材子公司启元新创落户上海，计划每年推出不少于 2 款全新消费级机器人
+  IT之家 · 2026-07-26 · https://www.ithome.com/0/981/801.htm
+
+【AI 消费硬件与脑机】
+• 古尔曼：苹果智能眼镜计划最早在明年 WWDC27 上亮相、同年秋季发布，隐私保护是重中之重
+  IT之家 · 2026-07-26 · https://www.ithome.com/0/981/811.htm
+• 号称首款全面集成 AI 的个人健康助手，三星推出 Health Assistant
+  IT之家 · 2026-07-25 · https://www.ithome.com/0/981/534.htm
+
+【AI Agent】
+• Grok Build /deep-research
+  x-elonmusk · 2026-07-26 · https://www.x.com/elonmusk/status/2081449658363134075
+• Open Minis 宣布开源：比 Siri 更像 AI 助手，让手机帮你完成任务。支持 iOS、Android
+  小众软件 · 2026-07-26 · https://www.appinn.com/open-minis-open-source/
+• 中国工程院外籍院士赫尔佐格：AI 下一个突破口是小型智能体协作
+  IT之家 · 2026-07-26 · https://www.ithome.com/0/981/813.htm
+
+【💰 财经动态】
+• 韩国官员：三星与 SK 海力士将与美国公司签署“超大额”芯片供货协议
+  IT之家 · 2026-07-24 · https://www.ithome.com/0/981/380.htm
+• 穆迪警告AI投资狂潮冲击科技巨头财务稳健性 微软、甲骨文等公司自由现金流承压
+  36kr-newsflash · 2026-07-25 · https://36kr.com/newsflashes/3910433082545536?f=rss
+• 亿田智能：子公司拟不超20亿元采购服务器及配套设备，为客户提供算力服务
+  36kr-newsflash · 2026-07-26 · https://36kr.com/newsflashes/3912181723518084?f=rss
+• 剑桥科技：拟出资8亿元参设基金
+  36kr-newsflash · 2026-07-24 · https://36kr.com/newsflashes/3909597634893193?f=rss
+</description>
+      <pubDate>Mon, 27 Jul 2026 05:41:28 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-07-27</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-07-27.mp3" length="13831566" type="audio/mpeg"/>
+      <itunes:duration>14:24</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>07/26 AI 日报</title>
       <description>📋 今日要闻 · 2026-07-26
