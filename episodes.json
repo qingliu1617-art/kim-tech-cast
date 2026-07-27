@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-27T16:00:07",
+    "guid": "youtube-special-UEOSUSz--Ig",
+    "title": "特别篇：GPU为何无法快速推理",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: Cerebras CEO: Why GPUs Can't Do Fast Inference\n频道: The MAD Podcast with Matt Turck\n原视频时间: 2026-07-23\n主持人: Matt Turck\n嘉宾: Andrew Feldman\n主题: GPU为何无法快速推理\n\n核心观点:\n• 速度是AI的新护城河\n• GPU做不了快速推理——这是架构问题\n• AI供应链三大瓶颈——内存、封装、产能\n• 晶圆级引擎——大芯片才是AI的未来\n• 多芯片生态是健康的,单一霸权才危险 ️\n• CUDA不再是Nvidia的护城河\n\n原视频: https://www.youtube.com/watch?v=UEOSUSz--Ig",
+    "pub_date": "Mon, 27 Jul 2026 08:00:07 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-07-27-UEOSUSz--Ig.mp3?v=202607271600",
+    "audio_size": 12168506,
+    "audio_mime": "audio/mpeg",
+    "duration": "12:40",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-07-27-UEOSUSz--Ig.jpg?v=202607271600"
+  },
+  {
     "date": "2026-07-27",
     "guid": "ai-daily-2026-07-27",
     "title": "07/27 AI 日报",
