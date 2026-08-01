@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 21:44:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 21:44:25 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,83 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/02 AI 日报</title>
+      <description>📋 今日要闻 · 2026-08-02
+
+【AI 基础设施】
+• 消息称台积电加速 1.4nm 工艺建设，最快 2028 年年中量产
+  IT之家 · 2026-08-01 · https://www.ithome.com/0/984/530.htm
+• $LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for In
+  x-serenity · 2026-08-01 · https://www.x.com/aleabitoreddit/status/2083438823548293140
+• 英特尔新增酷睿 Ultra 300 HR / RE 工业处理器型号：25W 宽温域，最长提供 10 年供货保障
+  IT之家 · 2026-07-31 · https://www.ithome.com/0/984/372.htm
+• 消息称三星电子 GaN 半导体代工项目试生产出现故障，年内量产计划或延期
+  IT之家 · 2026-07-31 · https://www.ithome.com/0/984/340.htm
+
+【大模型】
+• Not just OpenAI - Anthropic says Claude's hacking spree 'falls short of ideal be
+  zdnet · 2026-07-31 · https://www.zdnet.com/article/anthropic-claude-ai-hacked-organizations-during-security-tests/
+• Anthropic Hack Adds To Fears Over AI Safety
+  bloomberg-tech · 2026-07-31 · https://www.bloomberg.com/news/videos/2026-07-31/anthropic-hack-adds-to-fears-over-ai-safety-video
+
+【智能驾驶】
+• 鸿蒙智行智界 RX 更多官图公布：四激光雷达矩阵、华为巨鲸电池，8 月开启小订
+  IT之家 · 2026-07-31 · https://www.ithome.com/0/984/378.htm
+• 东风风行星海 V6 将于 8 月 8 日预售，搭载华为乾崑大六座
+  IT之家 · 2026-07-31 · https://www.ithome.com/0/984/373.htm
+• 鸿蒙智行智界 RX 路测车曝光，消息称该车也经历了数百万公里路测
+  IT之家 · 2026-07-30 · https://www.ithome.com/0/983/889.htm
+
+【机器人硬件】
+• IDC 报告：2025 年中国工业具身智能机器人市场达 57.4 亿元，商业化进程全面提速
+  IT之家 · 2026-08-01 · https://www.ithome.com/0/984/627.htm
+• 人形机器人家政清洁服务走入现实，每小时 30 美元
+  IT之家 · 2026-08-01 · https://www.ithome.com/0/984/573.htm
+• 全程无遥操机器人比赛全国决赛在北京开赛，200 多支队伍冲击冠军
+  IT之家 · 2026-08-01 · https://www.ithome.com/0/984/608.htm
+
+【AI 消费硬件与脑机】
+• 影石 CEO 刘靖康：接下来一个月，我们会再一次重新定义全景无人机
+  IT之家 · 2026-08-01 · https://www.ithome.com/0/984/634.htm
+• REDMI K100 Pro Max 官宣小米首款 185Hz 电竞屏，旗舰触控芯片
+  IT之家 · 2026-08-01 · https://www.ithome.com/0/984/574.htm
+• 影石预热 Insta360 GO Ultra 即将迎来大更新，8 月 5 日见
+  IT之家 · 2026-07-31 · https://www.ithome.com/0/984/376.htm
+• 消息称荣耀 Magic 9 系列新机暂定 9 月底发布
+  IT之家 · 2026-07-31 · https://www.ithome.com/0/984/304.htm
+• A $2 sticker let me bypass the Meta Glasses' anti-creep feature
+  engadget · 2026-07-31 · https://www.engadget.com/2227710/a-dollar2-sticker-let-me-bypass-the-meta-glasses-anti-creep-feature/
+
+【AI Agent】
+• AI的下一个 Claude Code，可能诞生在实验室
+  36氪 · 2026-07-31 · https://www.36kr.com/p/3918118912398976
+• OpenAI reportedly finds evidence that more of its agents ran amok
+  techcrunch-ai · 2026-07-31 · https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/
+• GCC禁止AI生成关键代码贡献
+  36氪 · 2026-07-30 · https://www.36kr.com/p/3918030776921481
+• Claude Code之父：Harness保质期只有半年，解开缰绳吧
+  36氪 · 2026-07-30 · https://www.36kr.com/p/3917823189380741
+• 研究：亚马逊、沃尔玛 AI 可识别“美国制造”虚假标签，却不予以标记
+  IT之家 · 2026-07-30 · https://www.ithome.com/0/983/879.htm
+
+【💰 财经动态】
+• 报道称OpenAI面临投资者担忧与竞争压力 IPO或推迟至明年
+  36kr-newsflash · 2026-08-01 · https://36kr.com/newsflashes/3920415886061193?f=rss
+• 员工让AI写代码“误烧”1215万元，曝亚马逊用Claude干个“小活”却翻车：超预算860%，5个月后才发现
+  36氪 · 2026-07-31 · https://www.36kr.com/p/3919446479138441
+• Nscale buys Anyscale as it seeks to own more of the AI compute stack
+  techcrunch-ai · 2026-07-30 · https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/
+• 韩国7月出口飙升至历史第二高 半导体出口同比暴增近180%
+  36kr-newsflash · 2026-08-01 · https://36kr.com/newsflashes/3920386651319944?f=rss
+</description>
+      <pubDate>Sun, 02 Aug 2026 05:44:25 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-02</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-02.mp3" length="15316575" type="audio/mpeg"/>
+      <itunes:duration>15:57</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/01 AI 日报</title>
       <description>📋 今日要闻 · 2026-08-01
