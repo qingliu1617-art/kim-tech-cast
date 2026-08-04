@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 21:42:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:44:31 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,83 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/05 AI 日报</title>
+      <description>📋 今日要闻 · 2026-08-05
+
+【AI 基础设施】
+• 16张B200才能跑的Kimi K3，8张AMD就装下了
+  36氪 · 2026-08-04 · https://www.36kr.com/p/3924837964101767
+• CoWoS封装产能告急，台积电进一步扩大外包产能
+  36kr-newsflash · 2026-08-04 · https://36kr.com/newsflashes/3925154441787525?f=rss
+• 由三星SDS牵头的韩国国家人工智能算力中心正式开工
+  36kr-newsflash · 2026-08-04 · https://36kr.com/newsflashes/3925199434611072?f=rss
+• Texas halts new data centers as governor calls for audits
+  techcrunch-ai · 2026-08-04 · https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/
+• Samsung Reveals New 3D-Memory Roadmap in Bid for AI Tech Lead
+  bloomberg-tech · 2026-08-04 · https://www.bloomberg.com/news/articles/2026-08-04/samsung-reveals-new-3d-memory-roadmap-in-bid-for-ai-tech-lead
+
+【大模型】
+• 一个月9款旗舰，大模型进入“月抛”时代？
+  36氪 · 2026-08-04 · https://www.36kr.com/p/3925050849523845
+• 口碑持续逆转，DeepSeek成全球AI斩杀线
+  36氪 · 2026-08-03 · https://www.36kr.com/p/3923608861404550
+
+【具身智能模型】
+• 物理AI不是下一个风口，而是下一轮工业革命
+  36氪 · 2026-08-04 · https://www.36kr.com/p/3924687453247108
+• 世界模型的下一步？牛津、NUS团队提出「心智世界建模」MWM：远不止物理世界
+  36氪 · 2026-08-04 · https://www.36kr.com/p/3924888512870537
+
+【智能驾驶】
+• NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Ve
+  NVIDIA Blog · 2026-08-04 · https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/
+• Waymo CEO explains why Tesla’s camera-only self-driving falls short
+  electrek · 2026-08-04 · https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/
+• “未来已来”：华为智选车产品总监彭磊晒享界 G9 汽车 L3 自动驾驶功能按键，可亮蓝光
+  IT之家 · 2026-08-04 · https://www.ithome.com/0/985/681.htm
+• 小米汽车：澎程的长滑轨在损耗特性、养护逻辑上和常规滑轨没有区别，不会带来额外的使用负担
+  IT之家 · 2026-08-02 · https://www.ithome.com/0/984/821.htm
+
+【机器人硬件】
+• How One Startup Built a (Mostly) China-Free Robot
+  wired-ai · 2026-08-04 · https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/
+
+【AI 消费硬件与脑机】
+• 免费AI攻入教育，好未来们的护城河还剩多宽？
+  36氪 · 2026-08-04 · https://www.36kr.com/p/3925013685491329
+• 联想来酷斗战者战 7000P 锐龙版新品开售：R9 8940HX + RTX 5060 售 9799 元
+  IT之家 · 2026-08-04 · https://www.ithome.com/0/985/697.htm
+
+【AI Agent】
+• GitHub AI Agent 翻车：攻击者不用黑客技术，只写一句话就能窃取数据
+  36氪 · 2026-08-04 · https://www.36kr.com/p/3924957498046852
+• 老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了
+  36氪 · 2026-08-04 · https://www.36kr.com/p/3925157827999873
+• 开源版Claude Science来了，零依赖、MIT协议，内置30+项科研Skills
+  36氪 · 2026-08-04 · https://www.36kr.com/p/3924989565302921
+• Gemini Spark now has Chrome web-browsing capabilities
+  engadget · 2026-08-03 · https://www.engadget.com/2229209/gemini-spark-now-has-chrome-web-browsing-capabliities/
+
+【💰 财经动态】
+• AMD 2026 财年第二财季归母净利润 22.97 亿美元，同比增长 163%
+  IT之家 · 2026-08-04 · https://www.ithome.com/0/985/732.htm
+• AMD&amp;#8217;s datacenter business is booming while gaming takes a backseat
+  theverge · 2026-08-04 · https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen
+• SpaceX Exceeds Revenue Estimates in First Earnings Report Since IPO
+  bloomberg-tech · 2026-08-04 · https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-estimates-in-first-earnings-since-ipo-video
+• SpaceX has more neocloud revenue
+  theverge · 2026-08-04 · https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud
+• 1亿美元投给吴恩达，Coursera的AI战略为何“两条腿走路”？
+  36氪 · 2026-08-04 · https://www.36kr.com/p/3924697676446085
+</description>
+      <pubDate>Wed, 05 Aug 2026 05:44:31 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-05</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-05.mp3" length="15011047" type="audio/mpeg"/>
+      <itunes:duration>15:38</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/04 AI 日报</title>
       <description>📋 今日要闻 · 2026-08-04
