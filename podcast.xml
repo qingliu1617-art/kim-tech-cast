@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 21:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 21:44:40 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,75 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/07 AI 日报</title>
+      <description>📋 今日要闻 · 2026-08-07
+
+【AI 基础设施】
+• 华为官宣昇腾 0 Day 支持蚂蚁百灵 Ling-3.0-flash 模型，全新算子编程框架 CANN PyPTO 首秀
+  IT之家 · 2026-08-06 · https://www.ithome.com/0/986/724.htm
+• As AI Increases Demands on Memory, Storage Steps Up
+  NVIDIA Blog · 2026-08-04 · https://blogs.nvidia.com/blog/ai-storage-fms/
+• Is the future of data centers portable? Runware builds a pod to find out
+  techcrunch-ai · 2026-08-04 · https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/
+• EON wants to move the data superhighway from ocean fiber to space lasers
+  techcrunch-ai · 2026-08-04 · https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/
+• Pipeline Owners Race to Build Capacity as AI Power Demand Jumps
+  bloomberg-tech · 2026-08-04 · https://www.bloomberg.com/news/articles/2026-08-04/pipeline-owners-race-to-build-capacity-as-ai-power-demand-jumps
+
+【大模型】
+• Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyc
+  google-blog · 2026-08-06 · https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/
+• Grok Imagine
+  x-elonmusk · 2026-08-04 · https://www.x.com/elonmusk/status/2084635712515678600
+
+【具身智能模型】
+• 李飞飞最新访谈：人也不全靠现实数据学习啊
+  36氪 · 2026-08-06 · https://www.36kr.com/p/3927697208031621
+• Into the Omniverse: How Open World Models Push the Frontier of Physical AI
+  NVIDIA Blog · 2026-08-06 · https://blogs.nvidia.com/blog/open-world-models-physical-ai/
+
+【智能驾驶】
+• 华为官宣享界 G9 豪华硬派 SUV 首批展车陆续到店，新车预售价 43.98 万元起
+  IT之家 · 2026-08-06 · https://www.ithome.com/0/986/747.htm
+• 华为官宣乾崑智驾 ADS Pro V5.0 即将推送，新版本亮点公布
+  IT之家 · 2026-08-06 · https://www.ithome.com/0/986/736.htm
+
+【AI 消费硬件与脑机】
+• Jony Ive&amp;#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart spe
+  theverge · 2026-08-06 · https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor
+• AI Agent 手机下半场，「国标」L3 只是起点
+  36氪 · 2026-08-06 · https://www.36kr.com/p/3927880410232960
+• NIGHTRUN – 无需操作系统，用 U 盘启动的的本地大模型客户端
+  小众软件 · 2026-08-06 · https://www.appinn.com/nightrun/
+
+【AI Agent】
+• DeepSeek刚宣布涨价，小扎立马“拼命”：Meta新模型打出更低骨折价，但要一点“数据税”
+  36氪 · 2026-08-06 · https://www.36kr.com/p/3927775451773320
+• AI能接管实验室了？中国科大最新研究给出真实物理世界的压力测试
+  36氪 · 2026-08-06 · https://www.36kr.com/p/3927712518518914
+• 代码榜逐渐饱和，下一个前沿是AI科研，但大模型卡在了最关键一步
+  36氪 · 2026-08-06 · https://www.36kr.com/p/3927767306647938
+• 清华信誉机制破解电商大忽悠，让AI代理真正推你所需
+  36氪 · 2026-08-06 · https://www.36kr.com/p/3927696834476162
+
+【💰 财经动态】
+• Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI
+  techcrunch-ai · 2026-08-06 · https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/
+• Advanced Micro Devices to Buy Startup Taalas for New AI Chips
+  bloomberg-tech · 2026-08-06 · https://www.bloomberg.com/news/articles/2026-08-06/advanced-micro-devices-to-buy-startup-taalas-for-new-ai-chips
+• AMD’s Forecast Disappoints Investors After AI-Fueled Rally
+  bloomberg-tech · 2026-08-04 · https://www.bloomberg.com/news/articles/2026-08-04/amd-sales-outlook-disappoints-investors-after-ai-fueled-rally
+• Omilia raises $67M to scale its customer support platform
+  techcrunch-ai · 2026-08-06 · https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/
+</description>
+      <pubDate>Fri, 07 Aug 2026 05:44:40 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-07</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-07.mp3" length="12461078" type="audio/mpeg"/>
+      <itunes:duration>12:59</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/06 AI 日报</title>
       <description>📋 今日要闻 · 2026-08-06
