@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 21:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:45:06 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,87 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/08 AI 日报</title>
+      <description>📋 今日要闻 · 2026-08-08
+
+【AI 基础设施】
+• SK 海力士确认 V10 NAND 闪存为 375 层堆叠，导入晶圆键合技术
+  IT之家 · 2026-08-07 · https://www.ithome.com/0/987/148.htm
+• 英特尔 Diamond Rapids 至强 7 ES 处理器首次现身 SiSoftware：32 核 +240MB 缓存，18A-P 工艺已跑通
+  IT之家 · 2026-08-06 · https://www.ithome.com/0/986/765.htm
+• Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI
+  samsung-newsroom · 2026-08-05 · https://news.samsung.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure
+• SpaceX's AI Cloud Business Is Taking Off, Says Deutsche Bank
+  bloomberg-tech · 2026-08-05 · https://www.bloomberg.com/news/videos/2026-08-05/why-spacex-s-ai-business-matters-more-than-rockets-video
+
+【大模型】
+• Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free u
+  OpenAI Blog · 2026-08-06 · https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
+• 首个面向LLM的蛋白突变排序标准化评测基准，哈佛大学团队提出PG-LLM，一次性测评13款主流模型+95种专业模型
+  36氪 · 2026-08-05 · https://www.36kr.com/p/3926574023817604
+
+【具身智能模型】
+• 千人联机世界模型“RhOS-World: Khora”正式发布
+  36氪 · 2026-08-07 · https://www.36kr.com/p/3928843800328321
+• RT by @Figure_robot: Jensen is back in the house!! Jensen and Nvidia have been p
+  x-figure · 2026-08-06 · https://www.x.com/adcock_brett/status/2085449061096898674
+
+【智能驾驶】
+• GOOD NEWS 🚖 Tesla Robotaxi service still functions at night in Dallas, and the w
+  x-ming-tesla · 2026-08-07 · https://www.x.com/tslaming/status/2085721081122378076
+• 东风猛士 X700 新车申报：方盒子造型、纯电续航最高 244km，华为乾崑同步上车
+  IT之家 · 2026-08-07 · https://www.ithome.com/0/987/193.htm
+• 东风日产 NX7 亮相工信部：插电式混合动力 SUV，官方详解外观亮点
+  IT之家 · 2026-08-07 · https://www.ithome.com/0/987/189.htm
+• Tesla currently has three distinct pathways to secure FSD approval in Europe thi
+  x-ming-tesla · 2026-08-07 · https://www.x.com/tslaming/status/2085624985708556641
+
+【机器人硬件】
+• Mitsubishi joins the humanoid robot race — at a 1,000 unit per month pace
+  electrek · 2026-08-07 · https://electrek.co/2026/08/07/mitsubishi-joins-the-humanoid-robot-race-at-a-1000-unit-per-month-pace/
+• IT'S COMING 🚨 Tesla is hiring a Staff Manufacturing Engineer to drive the produc
+  x-ming-tesla · 2026-08-07 · https://www.x.com/tslaming/status/2085574246315790506
+
+【AI 消费硬件与脑机】
+• 海信 A10 墨水屏手机更多配置公布：高通 QCM6690+ 元太 T2000 双芯驱动
+  IT之家 · 2026-08-07 · https://www.ithome.com/0/987/200.htm
+• 华为 Mate 80 系列等迎 HarmonyOS 7 花粉 Beta 版补丁更新，更多机型支持直连供电功能
+  IT之家 · 2026-08-07 · https://www.ithome.com/0/987/201.htm
+• 华为天生会画 App 最新功能支持差异清单发布，全新 MateBook Fold 折叠电脑适配流体笔刷等
+  IT之家 · 2026-08-06 · https://www.ithome.com/0/986/761.htm
+• 华为自带线全能充智能移动电源确认支持精准查找，提供播放铃声、遗落提醒等功能
+  IT之家 · 2026-08-06 · https://www.ithome.com/0/986/738.htm
+• 影石 Insta360 GO Ultra AI 语音助手官宣延期推出，称团队正全力进行最后打磨与优化
+  IT之家 · 2026-08-05 · https://www.ithome.com/0/986/223.htm
+
+【AI Agent】
+• 六巨头定AI插件新标准，撞脸Claude，Anthropic没上桌
+  36氪 · 2026-08-07 · https://www.36kr.com/p/3929271496260994
+• Cloudflare launches Kitesurf, a browser built for AI agents
+  techcrunch-ai · 2026-08-07 · https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/
+• 英伟达低调组建 AI 安全与网络工程团队，自称秉持“坚定信念”
+  IT之家 · 2026-08-06 · https://www.ithome.com/0/986/742.htm
+• 谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了
+  IT之家 · 2026-08-06 · https://www.ithome.com/0/986/729.htm
+
+【💰 财经动态】
+• 寒武纪 2026 上半年归母净利润 23.11 亿元，同比增长 122.61%
+  IT之家 · 2026-08-07 · https://www.ithome.com/0/987/181.htm
+• SK Hynix pledges $38 billion to build two new DRAM and NAND factories
+  engadget · 2026-08-07 · https://www.engadget.com/2232279/sk-hynix-pledges-38-billion-to-build-dram-nand-factories/
+• Earlier today, optical interconnect company Lumilens "emerges from stealth" at a
+  x-serenity · 2026-08-07 · https://www.x.com/aleabitoreddit/status/2085628664528662818
+• Unitree, China's humanoid leader, is set to IPO this month at a $9B valuation! (
+  x-serenity · 2026-08-07 · https://www.x.com/aleabitoreddit/status/2085644051446108223
+</description>
+      <pubDate>Sat, 08 Aug 2026 05:45:06 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-08</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-08.mp3" length="14915752" type="audio/mpeg"/>
+      <itunes:duration>15:32</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/07 AI 日报</title>
       <description>📋 今日要闻 · 2026-08-07
