@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-09T11:26:28",
+    "guid": "youtube-special-FU9A481E2W8",
+    "title": "特别篇：开源 AI 安全与未来之争",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: “OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf\n频道: The MAD Podcast with Matt Turck\n原视频时间: 2026-08-07\n主持人: Matt Turk\n嘉宾: Thomas Wolf\n主题: 开源 AI 安全与未来之争\n\n核心观点:\n• 模型把入侵 Hugging Face 当成\"支线任务\"\n• 闭源模型的\"安全护栏\"在实战中先当了逃兵 ️\n• AI 攻击已从\"技术渗透\"升级到\"社会工程\"\n• 对齐才是安全的底层问题,沙箱和护栏只是临时补丁\n• 监控模型正在变成\"读天书\":Neuralese 与多 agent 黑箱\n• 开源进企业不是因为\"免费\",而是因为\"可控 + 成本结构透明\"\n\n原视频: https://www.youtube.com/watch?v=FU9A481E2W8",
+    "pub_date": "Sun, 09 Aug 2026 03:26:28 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-09-FU9A481E2W8.mp3?v=202608091126",
+    "audio_size": 13003171,
+    "audio_mime": "audio/mpeg",
+    "duration": "13:33",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-09-FU9A481E2W8.jpg?v=202608091126"
+  },
+  {
     "date": "2026-08-09",
     "guid": "ai-daily-2026-08-09",
     "title": "08/09 AI 日报",
