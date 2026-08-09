@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-09",
+    "guid": "ai-daily-2026-08-09",
+    "title": "08/09 AI 日报",
+    "description": "📋 今日要闻 · 2026-08-09\n\n【大模型】\n• 苹果中国官网删除 Apple 智能接入阿里千问使用手册\n  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/467.htm\n• One of China’s Most Powerful AI Models Has Also Escaped Containment\n  wired-ai · 2026-08-07 · https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/\n\n【智能驾驶】\n• 千里智驾 ASD 装车突破 53 万辆，已搭载 smart 等 19 款车型\n  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/378.htm\n• 小米汽车解答澎程内饰风格和 SU7 / YU7 差别大：系列定位不同，设计理念也会有区别\n  IT之家 · 2026-08-07 · https://www.ithome.com/0/987/186.htm\n• 方盒子插混硬派 SUV：广汽传祺越 7 启动先享计划，9 月初开启预售\n  IT之家 · 2026-08-07 · https://www.ithome.com/0/987/184.htm\n• 长城魏牌 V8X 大五座旗舰 SUV 定档 8 月 14 日发布：零百最快 4.5 秒、综合续航 1659km\n  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/411.htm\n\n【机器人硬件】\n• 马斯克发布 Terafab 渲染视频：Optimus 人形机器人、Robovan 无人车齐亮相\n  IT之家 · 2026-08-09 · https://www.ithome.com/0/987/485.htm\n• 最前线|中科慧思发布三款灵巧手产品，要从“抓取”走向真实场景作业\n  36氪 · 2026-08-09 · https://www.36kr.com/p/3931010805579139\n• 第二届世界人形机器人运动会 8 月 22 日开赛：百米全自主跑、新增乒乓球 + 自由搏击，票价最低 98 元\n  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/380.htm\n\n【AI 消费硬件与脑机】\n• 各手机厂商 9 月新品大曝光：上旬有备受瞩目的苹果阔折叠，中下旬预计有 5-6 家推重量级新旗舰\n  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/387.htm\n• Supernatural's head of fitness on rebooting the VR exercise app after leaving Me\n  engadget · 2026-08-08 · https://www.engadget.com/2232716/supernatural-head-of-fitness-on-rebooting-the-vr-exercise-app-after-leaving-meta/\n\n【AI Agent】\n• OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务\n  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/452.htm\n• 一口气发布三款教育插件，OpenAI教育产品再升级\n  36氪 · 2026-08-07 · https://www.36kr.com/p/3929351267712386\n• 腾讯、字节、阿里，抢着给打工人配「AI助理」\n  36氪 · 2026-08-07 · https://www.36kr.com/p/3929298798509192\n\n【💰 财经动态】\n• Cursor，即将彻底消失？\n  36氪 · 2026-08-08 · https://www.36kr.com/p/3930343633141121\n• Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”\n  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/438.htm\n• DeepSeek大涨价，Token价格战终于要结束了？\n  36氪 · 2026-08-07 · https://www.36kr.com/p/3929123308459655\n• 千问App办公收费，阿里的组织题只答了一半\n  36氪 · 2026-08-07 · https://www.36kr.com/p/3929206861731715\n• 千问App部分功能探索收费，想学豆包能跑通吗？\n  36氪 · 2026-08-07 · https://www.36kr.com/p/3929052257467777\n",
+    "pub_date": "Sun, 09 Aug 2026 11:24:55 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-09.mp3",
+    "audio_size": 11921074,
+    "audio_mime": "audio/mpeg",
+    "duration": "12:25",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-08-08",
     "guid": "ai-daily-2026-08-08",
     "title": "08/08 AI 日报",

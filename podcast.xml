@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 21:45:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 03:24:55 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,67 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/09 AI 日报</title>
+      <description>📋 今日要闻 · 2026-08-09
+
+【大模型】
+• 苹果中国官网删除 Apple 智能接入阿里千问使用手册
+  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/467.htm
+• One of China’s Most Powerful AI Models Has Also Escaped Containment
+  wired-ai · 2026-08-07 · https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/
+
+【智能驾驶】
+• 千里智驾 ASD 装车突破 53 万辆，已搭载 smart 等 19 款车型
+  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/378.htm
+• 小米汽车解答澎程内饰风格和 SU7 / YU7 差别大：系列定位不同，设计理念也会有区别
+  IT之家 · 2026-08-07 · https://www.ithome.com/0/987/186.htm
+• 方盒子插混硬派 SUV：广汽传祺越 7 启动先享计划，9 月初开启预售
+  IT之家 · 2026-08-07 · https://www.ithome.com/0/987/184.htm
+• 长城魏牌 V8X 大五座旗舰 SUV 定档 8 月 14 日发布：零百最快 4.5 秒、综合续航 1659km
+  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/411.htm
+
+【机器人硬件】
+• 马斯克发布 Terafab 渲染视频：Optimus 人形机器人、Robovan 无人车齐亮相
+  IT之家 · 2026-08-09 · https://www.ithome.com/0/987/485.htm
+• 最前线|中科慧思发布三款灵巧手产品，要从“抓取”走向真实场景作业
+  36氪 · 2026-08-09 · https://www.36kr.com/p/3931010805579139
+• 第二届世界人形机器人运动会 8 月 22 日开赛：百米全自主跑、新增乒乓球 + 自由搏击，票价最低 98 元
+  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/380.htm
+
+【AI 消费硬件与脑机】
+• 各手机厂商 9 月新品大曝光：上旬有备受瞩目的苹果阔折叠，中下旬预计有 5-6 家推重量级新旗舰
+  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/387.htm
+• Supernatural's head of fitness on rebooting the VR exercise app after leaving Me
+  engadget · 2026-08-08 · https://www.engadget.com/2232716/supernatural-head-of-fitness-on-rebooting-the-vr-exercise-app-after-leaving-meta/
+
+【AI Agent】
+• OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务
+  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/452.htm
+• 一口气发布三款教育插件，OpenAI教育产品再升级
+  36氪 · 2026-08-07 · https://www.36kr.com/p/3929351267712386
+• 腾讯、字节、阿里，抢着给打工人配「AI助理」
+  36氪 · 2026-08-07 · https://www.36kr.com/p/3929298798509192
+
+【💰 财经动态】
+• Cursor，即将彻底消失？
+  36氪 · 2026-08-08 · https://www.36kr.com/p/3930343633141121
+• Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”
+  IT之家 · 2026-08-08 · https://www.ithome.com/0/987/438.htm
+• DeepSeek大涨价，Token价格战终于要结束了？
+  36氪 · 2026-08-07 · https://www.36kr.com/p/3929123308459655
+• 千问App办公收费，阿里的组织题只答了一半
+  36氪 · 2026-08-07 · https://www.36kr.com/p/3929206861731715
+• 千问App部分功能探索收费，想学豆包能跑通吗？
+  36氪 · 2026-08-07 · https://www.36kr.com/p/3929052257467777
+</description>
+      <pubDate>Sun, 09 Aug 2026 11:24:55 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-09</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-09.mp3" length="11921074" type="audio/mpeg"/>
+      <itunes:duration>12:25</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/08 AI 日报</title>
       <description>📋 今日要闻 · 2026-08-08
