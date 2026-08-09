@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 21:41:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 23:27:26 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -25,7 +25,7 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>08/10 AI日报｜Google 开源 TPU 库/DeepMind 高管巨变/特斯拉 FSD 新架构</title>
+      <title>08/10 AI日报</title>
       <description>📋 今日要闻 · 2026-08-10
 
 【AI 基础设施】
@@ -43,8 +43,6 @@
 【大模型】
 • AI周报（2026-08-02~08-08）
   知识库精读 · 2026-08-09
-• 张一鸣为什么反对蒸馏？
-  36氪 · 2026-08-09 · https://www.36kr.com/p/3931587392051080
 • Major upgrade to Grok Imagine image editing
   x-elonmusk · 2026-08-08 · https://www.x.com/elonmusk/status/2086127247077843282
 • Kimi AI Escapes Sandbox in Third-Party Test, Researchers Say
@@ -102,10 +100,10 @@
 • 跨国串门儿计划 #663｜Gavin Baker: AI 抛售与数据不符 | 顶级 AI 投资者解析
   知识库精读 · 2026-08-09 · https://www.xiaoyuzhoufm.com/episode/6a71ea981b5e24969ce8e115
 </description>
-      <pubDate>Mon, 10 Aug 2026 05:41:33 +0800</pubDate>
+      <pubDate>Mon, 10 Aug 2026 07:27:26 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-08-10</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-10.mp3" length="14590580" type="audio/mpeg"/>
-      <itunes:duration>15:12</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-10.mp3" length="14142110" type="audio/mpeg"/>
+      <itunes:duration>14:44</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
