@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 23:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 14:41:16 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,36 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：马斯克 2021 年谈 FSD：自动驾驶真正难在哪里？</title>
+      <description>2021 年底，Elon Musk 在 Lex Fridman Podcast #252 中系统解释了 Tesla Autopilot、Full Self-Driving、神经网络与 FSD v11。这期特别篇只保留马斯克在指定片段中的观点，并整理为连续中文口播。
+
+核心观点：
+• 自动驾驶不是车道保持问题，而是从摄像头光子流中构建可行动的世界模型
+• Tesla 坚持摄像头和神经网络，是因为道路体系本来就是为人类视觉设计的
+• 真正的技术瓶颈，是从像素空间转换到包含对象、速度、边界和预测的向量空间
+• 遮挡后的对象并未消失，自动驾驶必须具备跨时间的记忆与对象恒存能力
+• 车端 AI 不只有神经网络，还受算力、功耗、帧率、延迟和抖动等底层工程约束
+• 判断自动驾驶是否解决，应看规模化干预率和事故概率能否显著优于人类
+• FSD v11 的架构意义，是让神经网络直接输出向量空间，逐步取代手写启发式软件
+
+内容范围：原视频 1:02:38 Tesla Autopilot 至 1:36:21 Tesla Bot 前。
+
+说明：本期基于 2021 年访谈做中文原创整理，不使用原视频音频，也不代表 2026 年 Tesla FSD 的最新状态。
+
+原始视频：https://www.youtube.com/watch?v=DxREm3s1scA</description>
+      <pubDate>Mon, 10 Aug 2026 14:41:16 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-DxREm3s1scA</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-10-DxREm3s1scA.mp3?v=202608101441" length="22361277" type="audio/mpeg"/>
+      <itunes:duration>23:18</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-10-DxREm3s1scA.jpg?v=202608101441"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/10 AI日报｜Google 开源 TPU 库/DeepMind 高管巨变/特斯拉 FSD 新架构</title>
       <description>📋 今日要闻 · 2026-08-10

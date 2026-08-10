@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-10T22:41:16+08:00",
+    "guid": "youtube-special-DxREm3s1scA",
+    "title": "特别篇：马斯克 2021 年谈 FSD：自动驾驶真正难在哪里？",
+    "description": "2021 年底，Elon Musk 在 Lex Fridman Podcast #252 中系统解释了 Tesla Autopilot、Full Self-Driving、神经网络与 FSD v11。这期特别篇只保留马斯克在指定片段中的观点，并整理为连续中文口播。\n\n核心观点：\n• 自动驾驶不是车道保持问题，而是从摄像头光子流中构建可行动的世界模型\n• Tesla 坚持摄像头和神经网络，是因为道路体系本来就是为人类视觉设计的\n• 真正的技术瓶颈，是从像素空间转换到包含对象、速度、边界和预测的向量空间\n• 遮挡后的对象并未消失，自动驾驶必须具备跨时间的记忆与对象恒存能力\n• 车端 AI 不只有神经网络，还受算力、功耗、帧率、延迟和抖动等底层工程约束\n• 判断自动驾驶是否解决，应看规模化干预率和事故概率能否显著优于人类\n• FSD v11 的架构意义，是让神经网络直接输出向量空间，逐步取代手写启发式软件\n\n内容范围：原视频 1:02:38 Tesla Autopilot 至 1:36:21 Tesla Bot 前。\n\n说明：本期基于 2021 年访谈做中文原创整理，不使用原视频音频，也不代表 2026 年 Tesla FSD 的最新状态。\n\n原始视频：https://www.youtube.com/watch?v=DxREm3s1scA",
+    "pub_date": "Mon, 10 Aug 2026 14:41:16 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-10-DxREm3s1scA.mp3?v=202608101441",
+    "audio_size": 22361277,
+    "audio_mime": "audio/mpeg",
+    "duration": "23:18",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-10-DxREm3s1scA.jpg?v=202608101441"
+  },
+  {
     "date": "2026-08-10",
     "guid": "ai-daily-2026-08-10",
     "title": "08/10 AI日报｜Google 开源 TPU 库/DeepMind 高管巨变/特斯拉 FSD 新架构",
