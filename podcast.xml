@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 14:57:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 15:12:53 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,33 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：开源如何成为AI基础设施支柱</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: How Open Source Became AI's Backbone | Inferact with a16z
+频道: a16z
+原视频时间: 2026-08-06
+主持人: Elena Burger &amp; Matt Bornstein
+嘉宾: Simon Mo
+主题: 开源如何成为AI基础设施支柱
+
+核心观点:
+• vLLM 是 AI 的"操作系统"，50 万张 GPU 背后的基础设施
+• 开源一年前跨过临界点，从产品"备胎"变成创新主阵地
+• 闭源 API 的 guardrail 误报，正在把关键用户推向 open weight ️
+• AI 模型不是软件，开源许可必须从"礼物模式"转向可持续契约
+• 模型发布只是起点，开源社区才是真正的"后训练"与运维工厂
+• open weight 与 closed weight 的能力差距已经可忽略，胜负在分发和环境 ️
+
+原视频: https://www.youtube.com/watch?v=78-6dUROziQ</description>
+      <pubDate>Mon, 10 Aug 2026 15:12:53 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-78-6dUROziQ</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-10-78-6dUROziQ.mp3?v=202608102312" length="12991050" type="audio/mpeg"/>
+      <itunes:duration>13:32</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-10-78-6dUROziQ.jpg?v=202608102312"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：马斯克 2021 年谈 FSD：自动驾驶真正难在哪里？</title>
       <description>2021 年底，Elon Musk 在 Lex Fridman Podcast #252 中系统解释了 Tesla Autopilot、Full Self-Driving、神经网络与 FSD v11。这期特别篇只保留马斯克在指定片段中的观点，并整理为连续中文口播。

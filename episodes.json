@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-10T23:12:53",
+    "guid": "youtube-special-78-6dUROziQ",
+    "title": "特别篇：开源如何成为AI基础设施支柱",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: How Open Source Became AI's Backbone | Inferact with a16z\n频道: a16z\n原视频时间: 2026-08-06\n主持人: Elena Burger & Matt Bornstein\n嘉宾: Simon Mo\n主题: 开源如何成为AI基础设施支柱\n\n核心观点:\n• vLLM 是 AI 的\"操作系统\"，50 万张 GPU 背后的基础设施\n• 开源一年前跨过临界点，从产品\"备胎\"变成创新主阵地\n• 闭源 API 的 guardrail 误报，正在把关键用户推向 open weight ️\n• AI 模型不是软件，开源许可必须从\"礼物模式\"转向可持续契约\n• 模型发布只是起点，开源社区才是真正的\"后训练\"与运维工厂\n• open weight 与 closed weight 的能力差距已经可忽略，胜负在分发和环境 ️\n\n原视频: https://www.youtube.com/watch?v=78-6dUROziQ",
+    "pub_date": "Mon, 10 Aug 2026 15:12:53 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-10-78-6dUROziQ.mp3?v=202608102312",
+    "audio_size": 12991050,
+    "audio_mime": "audio/mpeg",
+    "duration": "13:32",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-10-78-6dUROziQ.jpg?v=202608102312"
+  },
+  {
     "date": "2026-08-10T22:41:16+08:00",
     "guid": "youtube-special-DxREm3s1scA",
     "title": "特别篇：马斯克 2021 年谈 FSD：自动驾驶真正难在哪里？",
