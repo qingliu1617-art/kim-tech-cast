@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 14:41:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 14:53:41 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -42,10 +42,10 @@
 说明：本期基于 2021 年访谈做中文原创整理，不使用原视频音频，也不代表 2026 年 Tesla FSD 的最新状态。
 
 原始视频：https://www.youtube.com/watch?v=DxREm3s1scA</description>
-      <pubDate>Mon, 10 Aug 2026 14:41:16 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 14:53:41 +0000</pubDate>
       <guid isPermaLink="false">youtube-special-DxREm3s1scA</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-10-DxREm3s1scA.mp3?v=202608101441" length="22361277" type="audio/mpeg"/>
-      <itunes:duration>23:18</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-10-DxREm3s1scA.mp3?v=20260810145341" length="22322407" type="audio/mpeg"/>
+      <itunes:duration>23:15</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-10-DxREm3s1scA.jpg?v=202608101441"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
