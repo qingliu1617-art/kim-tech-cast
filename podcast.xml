@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 15:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 16:36:04 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,33 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：太空、火星、自动驾驶与 AI</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252
+频道: Lex Fridman
+原视频时间: 2021-12-28
+主持人: Lex Fridman
+嘉宾: Elon Musk
+主题: 太空、火星、自动驾驶与 AI
+
+核心观点:
+• 火箭的圣杯不是新物理，而是"完全且快速可重复使用"
+• 每吨到火星的成本是文明能否通过"大过滤器"的硬门槛
+• 自动驾驶最难的不是控制，而是"准确的向量空间"
+• 神经网络正在"吞噬"传统软件，特斯拉在重写成 AI 原生系统 ️
+• 延迟可预测，但抖动会杀死控制系统
+• Tesla Bot 的本质：真实世界 AI + 制造能力
+
+原视频: https://www.youtube.com/watch?v=DxREm3s1scA</description>
+      <pubDate>Mon, 10 Aug 2026 16:36:04 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-DxREm3s1scA</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-11-DxREm3s1scA.mp3?v=202608110036" length="14182652" type="audio/mpeg"/>
+      <itunes:duration>14:46</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-11-DxREm3s1scA.jpg?v=202608110036"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：开源如何成为AI基础设施支柱</title>
       <description>YouTube 长访谈中文精华改编。
@@ -49,31 +76,6 @@
       <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-10-78-6dUROziQ.mp3?v=202608102312" length="12991050" type="audio/mpeg"/>
       <itunes:duration>13:32</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-10-78-6dUROziQ.jpg?v=202608102312"/>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>特别篇：马斯克 2021 年谈 FSD：自动驾驶真正难在哪里？</title>
-      <description>2021 年底，Elon Musk 在 Lex Fridman Podcast #252 中系统解释了 Tesla Autopilot、Full Self-Driving、神经网络与 FSD v11。这期特别篇只保留马斯克在指定片段中的观点，并整理为连续中文口播。
-
-核心观点：
-• 自动驾驶不是车道保持问题，而是从摄像头光子流中构建可行动的世界模型
-• Tesla 坚持摄像头和神经网络，是因为道路体系本来就是为人类视觉设计的
-• 真正的技术瓶颈，是从像素空间转换到包含对象、速度、边界和预测的向量空间
-• 遮挡后的对象并未消失，自动驾驶必须具备跨时间的记忆与对象恒存能力
-• 车端 AI 不只有神经网络，还受算力、功耗、帧率、延迟和抖动等底层工程约束
-• 判断自动驾驶是否解决，应看规模化干预率和事故概率能否显著优于人类
-• FSD v11 的架构意义，是让神经网络直接输出向量空间，逐步取代手写启发式软件
-
-内容范围：原视频 1:02:38 Tesla Autopilot 至 1:36:21 Tesla Bot 前。
-
-说明：本期基于 2021 年访谈做中文原创整理，不使用原视频音频，也不代表 2026 年 Tesla FSD 的最新状态。
-
-原始视频：https://www.youtube.com/watch?v=DxREm3s1scA</description>
-      <pubDate>Mon, 10 Aug 2026 14:53:41 +0000</pubDate>
-      <guid isPermaLink="false">youtube-special-DxREm3s1scA</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-10-DxREm3s1scA-v2.mp3" length="22322407" type="audio/mpeg"/>
-      <itunes:duration>23:15</itunes:duration>
-      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-10-DxREm3s1scA.jpg?v=202608101441"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
