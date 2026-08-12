@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 21:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 21:43:33 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -52,7 +52,7 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>08/13 AI日报｜Qwen 开源权重/铠侠推新闪存/Waymo 扩充车队</title>
+      <title>08/13 AI日报</title>
       <description>📋 今日要闻 · 2026-08-13
 
 【AI 基础设施】
@@ -125,7 +125,7 @@
 • OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise
   techcrunch-ai · 2026-08-12 · https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
 </description>
-      <pubDate>Thu, 13 Aug 2026 05:42:45 +0800</pubDate>
+      <pubDate>Thu, 13 Aug 2026 05:43:33 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-08-13</guid>
       <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-13.mp3" length="14122047" type="audio/mpeg"/>
       <itunes:duration>14:43</itunes:duration>
