@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 16:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 21:42:45 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,7 +19,7 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -49,6 +49,87 @@
       <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-13-54pwkcp48Lg.mp3?v=202608130026" length="12486573" type="audio/mpeg"/>
       <itunes:duration>13:00</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-13-54pwkcp48Lg.jpg?v=202608130026"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08/13 AI日报｜Qwen 开源权重/铠侠推新闪存/Waymo 扩充车队</title>
+      <description>📋 今日要闻 · 2026-08-13
+
+【AI 基础设施】
+• 到 2030 年全国算力用电量将达 8000 亿度，届时 6 万亿度绿电奔涌入网
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/994.htm
+• 铠侠与闪迪发布第九代 2Tb QLC 3D 闪存，接口速度达 4.8Gb/s 提升 33%
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/979.htm
+• Uniper Targets Data Center Sales in UK, Germany on AI Demand
+  bloomberg-tech · 2026-08-11 · https://www.bloomberg.com/news/articles/2026-08-11/uniper-targets-data-center-sales-in-uk-germany-on-ai-demand
+• SiTime CEO on Role in AI Data Centers, Renesas Deal
+  bloomberg-tech · 2026-08-11 · https://www.bloomberg.com/news/videos/2026-08-11/sitime-ceo-on-role-in-ai-data-centers-renesas-deal-video
+
+【大模型】
+• 阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/989/001.htm
+• Claude和GPT思维链竟被两步蒸馏，116页论文曝光API致命漏洞
+  36氪 · 2026-08-12 · https://www.36kr.com/p/3936413900799105
+• Testing ads in ChatGPT
+  OpenAI Blog · 2026-08-11 · https://openai.com/index/testing-ads-in-chatgpt
+• A New Trick Reveals AI Models’ Inner Thoughts
+  wired-ai · 2026-08-11 · https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/
+
+【具身智能模型】
+• 比亚迪 AI 团队首秀：混合世界模型 HyWorldVLA 获 90.59 分，自研芯片 + 算法闭环成型
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/942.htm
+• Thousands of India Workers Are Helping AI Firms Train Robots to Replace Them
+  bloomberg-tech · 2026-08-12 · https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them
+
+【智能驾驶】
+• Waymo has nearly 1,000 robotaxis waiting at its Arizona factory
+  electrek · 2026-08-12 · https://electrek.co/2026/08/12/waymo-ojai-robotaxis-arizona-factory/
+• 比亚迪 2027 款海豹 06 家轿上市：天神之眼 B-辅助驾驶激光版、第二代刀片电池，9.99 万元起
+  IT之家 · 2026-08-11 · https://www.ithome.com/0/988/487.htm
+• Oil giant rips out gas pumps for BYD’s 1,500 kW EV chargers
+  electrek · 2026-08-11 · https://electrek.co/2026/08/11/sinopec-byd-gas-station-1500-kw-flash-charging/
+
+【机器人硬件】
+• 荣耀宣布出战第二届世界人形机器人运动会，自研机器人曾包揽半马前六
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/968.htm
+
+【AI 消费硬件与脑机】
+• 谷歌首款追踪器 Pixel Tag 发布：UWB 超宽带 + 防尘防水 + 可更换电池
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/988.htm
+• 谷歌 Pixel 11 系列正式发布：全系 256GB 起步 899 美元起，8 月 20 日开售
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/985.htm
+• 谷歌 Pixel 11 相机应用新增创作者套件：内置提词器、人声增强，专为单人自媒体打造
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/993.htm
+• 谷歌 Pixel Buds Pro 2 耳机升级：主动降噪、同声传译功能均获增强
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/991.htm
+
+【AI Agent】
+• DeepSeek + Pi 王炸组合跑赢 Claude Code？Pi创始人：这套组合我早押中了
+  36氪 · 2026-08-12 · https://www.36kr.com/p/3936187229142153
+• From assistance to execution: How enterprises put AI to work
+  OpenAI Blog · 2026-08-12 · https://openai.com/index/how-enterprises-put-ai-to-work
+• 有用户发现：AI 中转站除了掺水，还会投毒
+  小众软件 · 2026-08-11 · https://www.appinn.com/ai-agent-full-access-security-risk/
+• A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call
+  wired-ai · 2026-08-11 · https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/
+
+【💰 财经动态】
+• CoreWeave Revenue Surges on Booming Demand for AI Computing
+  bloomberg-tech · 2026-08-11 · https://www.bloomberg.com/news/articles/2026-08-11/coreweave-revenue-surges-on-booming-demand-for-ai-computing
+• 2.9亿美元一年租下的数据中心，转头卖了16.7亿美元，揭秘最顶级的AI资产操盘手
+  36氪 · 2026-08-12 · https://www.36kr.com/p/3936430669872512
+• 寒武纪回应“存货超 82 亿”：将持续拓展市场，控制相关风险
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/948.htm
+• uhhh... the Unitree IPO is more than 8000 times oversubscribed by retail investo
+  x-serenity · 2026-08-11 · https://www.x.com/aleabitoreddit/status/2087000954742927390
+• OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise
+  techcrunch-ai · 2026-08-12 · https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
+</description>
+      <pubDate>Thu, 13 Aug 2026 05:42:45 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-13</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-13.mp3" length="14122047" type="audio/mpeg"/>
+      <itunes:duration>14:43</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
