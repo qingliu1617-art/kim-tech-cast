@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-13T00:26:33",
+    "guid": "youtube-special-54pwkcp48Lg",
+    "title": "特别篇：长程自主 AI agent 的构建",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: How to Build Autonomous, Long-Horizon AI Agents | Basis\n频道: The MAD Podcast with Matt Turck\n原视频时间: 2026-08-06\n主持人: Matt Turck\n嘉宾: Mitch Troyanovski\n主题: 长程自主 AI agent 的构建\n\n核心观点:\n• 自主 ≠ 无人过问，而是“可审查的全程负责”\n• LLM 没有长短期记忆，长程 agent 的胜负手是“脚手架”\n• 100% eval 通过也不能上线，结果对 ≠ 过程对 ️\n• Behavior specs 是产品对齐工具，而不只是 prompt\n• Coding agent 胜在验证便宜 + 数据好，不是因为 verifiable rewards 万能\n• Context 是运行时的训练数据，比代码更值钱\n\n原视频: https://www.youtube.com/watch?v=54pwkcp48Lg",
+    "pub_date": "Wed, 12 Aug 2026 16:26:33 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-13-54pwkcp48Lg.mp3?v=202608130026",
+    "audio_size": 12486573,
+    "audio_mime": "audio/mpeg",
+    "duration": "13:00",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-13-54pwkcp48Lg.jpg?v=202608130026"
+  },
+  {
     "date": "2026-08-12",
     "guid": "ai-daily-2026-08-12",
     "title": "08/12 AI日报｜TileRT 解码提速/宁波启用 AI 防洪/亚马逊建离网数据中心",

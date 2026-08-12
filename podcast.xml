@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 21:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:26:33 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,38 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：长程自主 AI agent 的构建</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: How to Build Autonomous, Long-Horizon AI Agents | Basis
+频道: The MAD Podcast with Matt Turck
+原视频时间: 2026-08-06
+主持人: Matt Turck
+嘉宾: Mitch Troyanovski
+主题: 长程自主 AI agent 的构建
+
+核心观点:
+• 自主 ≠ 无人过问，而是“可审查的全程负责”
+• LLM 没有长短期记忆，长程 agent 的胜负手是“脚手架”
+• 100% eval 通过也不能上线，结果对 ≠ 过程对 ️
+• Behavior specs 是产品对齐工具，而不只是 prompt
+• Coding agent 胜在验证便宜 + 数据好，不是因为 verifiable rewards 万能
+• Context 是运行时的训练数据，比代码更值钱
+
+原视频: https://www.youtube.com/watch?v=54pwkcp48Lg</description>
+      <pubDate>Wed, 12 Aug 2026 16:26:33 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-54pwkcp48Lg</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-13-54pwkcp48Lg.mp3?v=202608130026" length="12486573" type="audio/mpeg"/>
+      <itunes:duration>13:00</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-13-54pwkcp48Lg.jpg?v=202608130026"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/12 AI日报｜TileRT 解码提速/宁波启用 AI 防洪/亚马逊建离网数据中心</title>
       <description>📋 今日要闻 · 2026-08-12
