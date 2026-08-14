@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-15",
+    "guid": "ai-daily-2026-08-15",
+    "title": "08/15 AI日报｜特斯拉公布新专利/理想探索自研芯片/Meta开源Glimmer模型",
+    "description": "📋 今日要闻 · 2026-08-15\n\n【AI 基础设施】\n• Tesla has patented an orthogonal 3D supercomputing stack to shatter the AI physi\n  x-ming-tesla · 2026-08-14 · https://www.x.com/tslaming/status/2088184548903518590\n• 服务器、AI和机器人：中国RISC-V的下一站\n  36氪 · 2026-08-14 · https://www.36kr.com/p/3939250587942023\n• 消息称理想汽车探索自研云端推理芯片，沿用智驾芯片数据流架构\n  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/947.htm\n• Hyperscalers might regret embracing natural gas if new forecast proves correct\n  techcrunch-ai · 2026-08-14 · https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/\n\n【大模型】\n• Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model\n  bloomberg-tech · 2026-08-14 · https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model\n• Does Mark Zuckerberg really believe AI is ‘for everyone’?\n  techcrunch-ai · 2026-08-14 · https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/\n• Google announces Gemini 3.7 Flash just three weeks after previous release\n  arstechnica · 2026-08-13 · https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/\n• 突发，OpenAI八年元老离职\n  36氪 · 2026-08-12 · https://www.36kr.com/p/3936454021692553\n\n【AI 消费硬件与脑机】\n• 小米 13 也会适配，澎湃 4“柔光玻璃”材质效果后期将拓展至更多机型\n  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/962.htm\n• 苹果 AirPods Pro 4 耳机最新消息汇总：摄像头与手势识别成焦点\n  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/955.htm\n• The MSI Claw EX is the most important PC handheld since Steam Deck — I still wou\n  theverge · 2026-08-14 · https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld\n• Dell XPS 13 review: The first budget laptop to rival Neo raises the bar for all \n  zdnet · 2026-08-14 · https://www.zdnet.com/article/dell-xps-13-spotlight/\n\n【AI Agent】\n• 蒸馏《基层中国的运行逻辑》后，让 AI 帮你分析求学、考公、投资与创业\n  小众软件 · 2026-08-13 · https://www.appinn.com/nie-grassroots-logic/\n• OpenClaw创始人“彼得·斯坦伯格”最新演讲：一个开源项目的生死启示录，OpenClaw如何从风暴中心走出来\n  36氪 · 2026-08-12 · https://www.36kr.com/p/3936120854255490\n• Now you can connect even more of your favorite apps and services to Gemini.\n  google-blog · 2026-08-12 · https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/\n• Try out Grok @Bot\n  x-elonmusk · 2026-08-12 · https://www.x.com/elonmusk/status/2087602469778166195\n• Rogue AI Agents Aren’t Evil. They’re Just Eager to Please\n  wired-ai · 2026-08-12 · https://www.wired.com/story/rogue-ai-is-just-misunderstood/\n\n【💰 财经动态】\n• SK 集团会长崔泰源：存储涨价太快我很抱歉，2027 年短缺最严重，苹果也受影响\n  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/912.htm\n• 月之暗面严正声明：警惕可疑交易，已向公安机关反映涉嫌违法犯罪的行为\n  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/920.htm\n",
+    "pub_date": "Sat, 15 Aug 2026 06:21:15 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-15.mp3",
+    "audio_size": 8508020,
+    "audio_mime": "audio/mpeg",
+    "duration": "08:52",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-08-14",
     "guid": "ai-daily-2026-08-14",
     "title": "08/14 AI日报｜SpaceXAI 扩建集群/苹果联合阿里训模型/特斯拉获自动驾驶许可",

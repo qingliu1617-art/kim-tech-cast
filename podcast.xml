@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 05:55:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 22:21:15 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,65 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/15 AI日报｜特斯拉公布新专利/理想探索自研芯片/Meta开源Glimmer模型</title>
+      <description>📋 今日要闻 · 2026-08-15
+
+【AI 基础设施】
+• Tesla has patented an orthogonal 3D supercomputing stack to shatter the AI physi
+  x-ming-tesla · 2026-08-14 · https://www.x.com/tslaming/status/2088184548903518590
+• 服务器、AI和机器人：中国RISC-V的下一站
+  36氪 · 2026-08-14 · https://www.36kr.com/p/3939250587942023
+• 消息称理想汽车探索自研云端推理芯片，沿用智驾芯片数据流架构
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/947.htm
+• Hyperscalers might regret embracing natural gas if new forecast proves correct
+  techcrunch-ai · 2026-08-14 · https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/
+
+【大模型】
+• Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model
+  bloomberg-tech · 2026-08-14 · https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model
+• Does Mark Zuckerberg really believe AI is ‘for everyone’?
+  techcrunch-ai · 2026-08-14 · https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/
+• Google announces Gemini 3.7 Flash just three weeks after previous release
+  arstechnica · 2026-08-13 · https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/
+• 突发，OpenAI八年元老离职
+  36氪 · 2026-08-12 · https://www.36kr.com/p/3936454021692553
+
+【AI 消费硬件与脑机】
+• 小米 13 也会适配，澎湃 4“柔光玻璃”材质效果后期将拓展至更多机型
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/962.htm
+• 苹果 AirPods Pro 4 耳机最新消息汇总：摄像头与手势识别成焦点
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/955.htm
+• The MSI Claw EX is the most important PC handheld since Steam Deck — I still wou
+  theverge · 2026-08-14 · https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld
+• Dell XPS 13 review: The first budget laptop to rival Neo raises the bar for all 
+  zdnet · 2026-08-14 · https://www.zdnet.com/article/dell-xps-13-spotlight/
+
+【AI Agent】
+• 蒸馏《基层中国的运行逻辑》后，让 AI 帮你分析求学、考公、投资与创业
+  小众软件 · 2026-08-13 · https://www.appinn.com/nie-grassroots-logic/
+• OpenClaw创始人“彼得·斯坦伯格”最新演讲：一个开源项目的生死启示录，OpenClaw如何从风暴中心走出来
+  36氪 · 2026-08-12 · https://www.36kr.com/p/3936120854255490
+• Now you can connect even more of your favorite apps and services to Gemini.
+  google-blog · 2026-08-12 · https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/
+• Try out Grok @Bot
+  x-elonmusk · 2026-08-12 · https://www.x.com/elonmusk/status/2087602469778166195
+• Rogue AI Agents Aren’t Evil. They’re Just Eager to Please
+  wired-ai · 2026-08-12 · https://www.wired.com/story/rogue-ai-is-just-misunderstood/
+
+【💰 财经动态】
+• SK 集团会长崔泰源：存储涨价太快我很抱歉，2027 年短缺最严重，苹果也受影响
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/912.htm
+• 月之暗面严正声明：警惕可疑交易，已向公安机关反映涉嫌违法犯罪的行为
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/920.htm
+</description>
+      <pubDate>Sat, 15 Aug 2026 06:21:15 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-15</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-15.mp3" length="8508020" type="audio/mpeg"/>
+      <itunes:duration>08:52</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/14 AI日报｜SpaceXAI 扩建集群/苹果联合阿里训模型/特斯拉获自动驾驶许可</title>
       <description>📋 今日要闻 · 2026-08-14
