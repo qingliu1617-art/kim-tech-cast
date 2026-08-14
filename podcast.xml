@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 21:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 05:55:56 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,91 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/14 AI日报｜SpaceXAI 扩建集群/苹果联合阿里训模型/特斯拉获自动驾驶许可</title>
+      <description>📋 今日要闻 · 2026-08-14
+
+【AI 基础设施】
+• SpaceXAI 已建成“全球最强 AI 训练集群”，马斯克称明年规模再扩大约 10 倍
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/537.htm
+• 高通骁龙 8 Elite Gen6 Pro（SM8975）跑分曝光，消息称今年 2nm 旗舰芯门槛 500 万分
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/678.htm
+• 谷歌硬件副总裁彭昱钧：Tensor G6 芯片采用台积电最新改良 3nm 制程
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/551.htm
+• 英特尔 Nova Lake 缓存策略调整：部分型号削减 E 核但仍保留完整 L3 缓存
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/984.htm
+
+【大模型】
+• 消息称苹果专门针对中国市场训练了一款 AI 模型，由阿里提供支持
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/676.htm
+• Introducing Gemini 3.7 Flash
+  Google DeepMind · 2026-08-13 · https://deepmind.google/blog/introducing-gemini-3-7-flash/
+• The Safety Reckoning Inside OpenAI
+  wired-ai · 2026-08-13 · https://www.wired.com/story/openai-safety-security-ai-agents-culture/
+• 以后让Claude写的东西，可能要小心留暗底了
+  36氪 · 2026-08-12 · https://www.36kr.com/p/3936205245004929
+
+【智能驾驶】
+• GOOD NEWS 📰 Tesla has officially secured its Autonomous Vehicle Network Company 
+  x-ming-tesla · 2026-08-13 · https://www.x.com/tslaming/status/2088050648659194327
+• R to @tslaming: Source: https://finance.yahoo.com/technology/articles/tesla-cybe
+  x-ming-tesla · 2026-08-12 · https://www.x.com/tslaming/status/2087384653997220300
+• GOOD NEWS 🇺🇸 While touring the SunTrax testing facility in Auburndale, Florida G
+  x-ming-tesla · 2026-08-12 · https://www.x.com/tslaming/status/2087383080764056016
+• 蔚来 firefly 萤火虫 aster 紫菀 2.0.0 开启推送：新增沉浸桌面、无麦 K 歌等
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/603.htm
+
+【机器人硬件】
+• 《人形机器人试验方法》系列国家标准启动会在武汉举行，宇树科技、小米机器人参会
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/619.htm
+• 全球首发：京东七鲜咖啡首家 24 小时智能化无人咖啡店落地北京，AI 推荐、机器人制作
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/675.htm
+• I finally found a robot lawnmower I’d trust with my yard
+  theverge · 2026-08-13 · https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame
+
+【AI 消费硬件与脑机】
+• The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaire
+  meta-newsroom · 2026-08-13 · https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/
+• 3999 元影石 X6 正式发布：1/1.1 英寸大底传感器 + AI 三芯架构，支持 8K 50 帧全景视频
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/955.htm
+• 大我 Bigme B1051 Ultra 10.3 英寸彩墨屏 AI 办公本开售，6+128GB 版本到手价 3299 元
+  IT之家 · 2026-08-12 · https://www.ithome.com/0/988/950.htm
+• German nonprofit files criminal complaint over Meta smart glasses privacy
+  engadget · 2026-08-12 · https://www.engadget.com/2235857/german-nonprofit-files-criminal-complaint-over-meta-smart-glasses-privacy/
+
+【AI Agent】
+• Anthropic set AI agents loose on the same task. They started a turf war.
+  techcrunch-ai · 2026-08-13 · https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/
+• R to @claudeai: Browser agents can be tricked by instructions hidden in a page. 
+  x-claude · 2026-08-12 · https://www.x.com/claudeai/status/2087635265066004694
+• 豆包酒店抽佣12% 争议：AI入场重塑本地的生活竞争格局？
+  36氪 · 2026-08-12 · https://www.36kr.com/p/3936365078150276
+• 大厂AI，解锁新“收银台”
+  36氪 · 2026-08-12 · https://www.36kr.com/p/3936380269156231
+• DeepSeek智能体要来了？公众号已完成注册认证
+  36氪 · 2026-08-12 · https://www.36kr.com/p/3936327274216579
+
+【💰 财经动态】
+• 黄仁勋搬来华尔街5000亿，买GPU可以按揭了
+  36氪 · 2026-08-11 · https://www.36kr.com/p/3934971154365827
+• OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO
+  bloomberg-tech · 2026-08-13 · https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo
+• 中际旭创 17.47 亿元入股算力散热龙头中石科技，后者股价应声涨停
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/609.htm
+• AMD 启动四部分债务发行，筹集 47.5 亿美元
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/584.htm
+• 把模型“刻进”AI推理专用芯片里，AMD为什么收购Taalas？
+  36氪 · 2026-08-12 · https://www.36kr.com/p/3936367711010177
+• 冲刺上市的面壁智能，正在试图回答端侧AI的价值
+  36氪 · 2026-08-14 · https://www.36kr.com/p/3937965542751360
+</description>
+      <pubDate>Fri, 14 Aug 2026 13:55:56 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-14</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-14.mp3" length="12992722" type="audio/mpeg"/>
+      <itunes:duration>13:32</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：长程自主 AI agent 的构建</title>
       <description>YouTube 长访谈中文精华改编。
