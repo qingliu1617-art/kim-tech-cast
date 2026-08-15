@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 22:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:19:50 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,79 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/16 AI日报｜柏能预警显卡短缺/Anthropic藏更强模型/岚图追光配华为智驾</title>
+      <description>📋 今日要闻 · 2026-08-16
+
+【AI 基础设施】
+• 柏能集团警告：AI 热潮加剧供应紧张，显卡短缺或推高 PC 价格
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/189.htm
+• 索尼 PS5 Pro 增强版 PSSR 技术揭秘：让 AI 少干活，画质反而更好
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/159.htm
+• AI Boom Reshapes Commodity Markets
+  bloomberg-tech · 2026-08-14 · https://www.bloomberg.com/news/videos/2026-08-14/ai-boom-reshapes-commodity-markets-video
+
+【大模型】
+• Anthropic自曝“私藏核武器”，Model 2比Mythos 5更强
+  36氪 · 2026-08-15 · https://www.36kr.com/p/3940126125161602
+• Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google
+  bloomberg-tech · 2026-08-15 · https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google
+• 马斯克与腾讯，踏进了同一条河流
+  36氪 · 2026-08-14 · https://www.36kr.com/p/3939135527016320
+• 从DeepSeek、Kimi到“黄仁勋联盟”：AI模型开源，到底“开”了什么？
+  36氪 · 2026-08-14 · https://www.36kr.com/p/3938842437778562
+
+【智能驾驶】
+• 岚图追光 S 正式上市：华为乾崑智驾四激光方案加持，限时 22.39 万-27.39 万元
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/113.htm
+• 全新长安深蓝 G318 官宣：搭载华为乾崑智驾 ADS 5 Pro、鸿蒙座舱 HarmonySpace 5
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/646.htm
+• Waymo receives permission to offer rides in Sacramento and San Diego
+  engadget · 2026-08-14 · https://www.engadget.com/2237530/waymo-receives-permission-to-offer-rides-in-sacramento-and-san-diego/
+• PACCAR brand DAF to add Level 4 Einride autonomy to its electric trucks
+  electrek · 2026-08-15 · https://electrek.co/2026/08/15/paccar-brand-daf-to-add-level-4-einride-autonomy-to-its-electric-trucks/
+• Tesla has invented a spray-on smart skin that builds seamless, sensor-packed car
+  x-ming-tesla · 2026-08-15 · https://www.x.com/tslaming/status/2088508521155571947
+
+【机器人硬件】
+• 北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/110.htm
+
+【AI 消费硬件与脑机】
+• VR 游戏发行商称 Steam Frame 头显发售“就在眼前”，但具体日期还没有着落
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/182.htm
+• 极摩客 EVO-X5 迷你主机现身 Geekbench：锐龙 AI Max+ Pro 495 处理器
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/177.htm
+• 为避免被 Meta“变态眼镜”拍到，人们纷纷设法反制
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/162.htm
+
+【AI Agent】
+• DeepSeek的「自进化」蓝图，曝光了
+  36氪 · 2026-08-14 · https://www.36kr.com/p/3938795963137411
+• 一切皆插件，DSH在“自进化”之路上狂飙
+  36氪 · 2026-08-14 · https://www.36kr.com/p/3938777471522435
+• DeepSeek 官方发布类 OpenClaw 工具：开源 Agent 框架 DeepSeek Harness
+  小众软件 · 2026-08-13 · https://www.appinn.com/deepseek-harness/
+• 75% of developers I surveyed prefer Claude Code - here's why they choose it over
+  zdnet · 2026-08-13 · https://www.zdnet.com/article/why-most-developers-prefer-claude-code-over-codex/
+
+【💰 财经动态】
+• “老登”AI，精髓是作秀
+  36氪 · 2026-08-15 · https://www.36kr.com/p/3940475239677062
+• 群联谈存储短缺：NAND 新增产能最快需 4 年，供应紧张或持续多年
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/129.htm
+• 月之暗面IPO，大模型「第二股」需要新叙事
+  36氪 · 2026-08-14 · https://www.36kr.com/p/3938853888097409
+• 消息称谷歌 DeepMind 团队不再追逐前沿模型研发工作，或迎大规模裁员
+  IT之家 · 2026-08-14 · https://www.ithome.com/0/989/614.htm
+</description>
+      <pubDate>Sun, 16 Aug 2026 00:19:50 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-16</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-16.mp3" length="10934273" type="audio/mpeg"/>
+      <itunes:duration>11:23</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/15 AI日报｜特斯拉公布新专利/理想探索自研芯片/Meta开源Glimmer模型</title>
       <description>📋 今日要闻 · 2026-08-15
