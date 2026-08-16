@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-16T12:52:13",
+    "guid": "youtube-special-n34CIw3gk1k",
+    "title": "特别篇：Kavak 围绕 AI 重建公司",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: Kavak's Playbook for Rebuilding a Company Around AI\n频道: a16z\n原视频时间: 2026-08-10\n主持人: Angela Strange & Gabriel Vasquez\n嘉宾: Alejandro Maza Ayala（Ali Masa）\n主题: Kavak 围绕 AI 重建公司\n\n核心观点:\n• 别把 AI 当插件，要重建公司架构 ️\n• 每个客户一个 agent + 一个 VM，目标是终身价值\n• Evals 是油门前的刹车，花一半资源建评测\n• 销售 agent 的综合能力已经超过最优秀的人\n• AI CEO 试点 6 周利润提升 50%\n• 物理世界需要人机协作，agent 当“通灵顾问”\n\n原视频: https://www.youtube.com/watch?v=n34CIw3gk1k",
+    "pub_date": "Sun, 16 Aug 2026 04:52:13 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-16-n34CIw3gk1k.mp3?v=202608161252",
+    "audio_size": 12340287,
+    "audio_mime": "audio/mpeg",
+    "duration": "12:51",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-16-n34CIw3gk1k.jpg?v=202608161252"
+  },
+  {
     "date": "2026-08-16",
     "guid": "ai-daily-2026-08-16",
     "title": "08/16 AI日报｜柏能预警显卡短缺/Anthropic藏更强模型/岚图追光配华为智驾",
