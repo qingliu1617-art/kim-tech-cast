@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 16 Aug 2026 04:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 12:32:56 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,88 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/17 AI日报｜味之素削减ABF膜供货/切罗基族禁建数据中心/华为推送HarmonyOS新版本</title>
+      <description>📋 今日要闻 · 2026-08-17
+
+【AI 基础设施】
+• 中国科技独立自主：一场从光刻机打到ABF膜的战争
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943420046998664
+• 美国最大原住民部落新规：禁止新建大规模数据中心
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/807.htm
+• 软件免费，硬件飞涨：打工人躲不了的“AI税”
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943395369647234
+
+【大模型】
+• 奥特曼放话：半年内，GPT上下文覆盖你的一切
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943295629606274
+• 刚刚，Claude文字水印细节全曝光，官方检测工具即将推出
+  36氪 · 2026-08-15 · https://www.36kr.com/p/3940141009091976
+• “我没有在唱衰AI，”Anthropic CEO罕见回应质疑：AI最大的问题是还没有兑现那些宏大承诺
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943508947483782
+• 超级智能来了以后，谁来治理它
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943261802544515
+• Transformer祖传设计遭暴击，COLM顶会三篇论文发难
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943295219498119
+
+【智能驾驶】
+• 鸿蒙智行智界 RX 轿跑 SUV 方向盘 L3 冗余“A”键曝光
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/725.htm
+• 赵长江详解智界 RX 汽车 250km/h 高环变道挑战难点，称还有更多操控惊喜
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/687.htm
+
+【机器人硬件】
+• 第二届世界人形机器人运动会新增跳远、举重、拔河等项目，2056 台机器人同台竞技
+  IT之家 · 2026-08-16 · https://www.ithome.com/0/990/230.htm
+• 2026 世界机器人大会展位图揭晓：8 月 19 日开幕，宇树科技、优必选等参展
+  IT之家 · 2026-08-16 · https://www.ithome.com/0/990/220.htm
+• 第二届世界人形机器人运动会模拟消防救援比赛：需在半小时内完成救火任务
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/768.htm
+• Serve Robotics Expands DoorDash Deal in Two Cities, Adds Grubhub Post-Uber Riff
+  bloomberg-tech · 2026-08-17 · https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff
+
+【AI 消费硬件与脑机】
+• 华为鸿蒙 HarmonyOS 7.0.0.102 版本新特性曝光，支持端侧 AI 机型可查看本地模型版本等
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/776.htm
+
+【AI Agent】
+• RT by @elonmusk: This is literally my new workflow now: Realtime Research → Grok
+  x-elonmusk · 2026-08-17 · https://www.x.com/minchoi/status/2089190230645432329
+• RT by @elonmusk: OMG. I asked my Chief Engineer on Grok @bot to bring up the fea
+  x-elonmusk · 2026-08-17 · https://www.x.com/yunta_tsai/status/2089223114416898288
+• Grok 4.6 now in Copilot
+  x-elonmusk · 2026-08-15 · https://www.x.com/elonmusk/status/2088443051890917436
+• 苦等两年，ChatGPT杀入Linux，Codex上手能改你的代码
+  36氪 · 2026-08-14 · https://www.36kr.com/p/3938745795312770
+• 智能体成“逃课神器”？部分美国学生用 AI 代替自己完成整门网络课程
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/115.htm
+
+【💰 财经动态】
+• AI吞噬存储，存储反哺AI：2026，万亿美元估值俱乐部的权力游戏
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943441839134600
+• 复旦微电 2026 年上半年归母净利润 8.49 亿元，同比增长 338.58%
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/779.htm
+• 烧光百亿、市值蒸发2000亿，商汤突然盈利
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943449934944137
+• AI代码审查赛道，跑出一个108亿独角兽
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943314381503623
+• 3个月身价暴涨5倍，对比解构中美“Token工厂”的造富vs烧钱
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943273131342979
+• Nvidia Has $21 Billion SpaceX Stake, $30 Billion in Intel Shares
+  bloomberg-tech · 2026-08-14 · https://www.bloomberg.com/news/articles/2026-08-14/nvidia-has-21-billion-spacex-stake-30-billion-in-intel-shares
+</description>
+      <pubDate>Mon, 17 Aug 2026 20:32:56 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-17</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-17.mp3" length="11645221" type="audio/mpeg"/>
+      <itunes:duration>12:08</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：Kavak 围绕 AI 重建公司</title>
       <description>YouTube 长访谈中文精华改编。
