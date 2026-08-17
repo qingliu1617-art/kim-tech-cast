@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 12:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:38:35 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,75 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/18 AI日报｜Grok 4.6 医疗测试进前三/OpenAI解散风险评估团队/Twitch用户可退出AI训练</title>
+      <description>📋 今日要闻 · 2026-08-18
+
+【AI 基础设施】
+• R to @SemiAnalysis_: At 2nm the field returns, and it is bigger than one rival. 
+  x-semianalysis · 2026-08-17 · https://www.x.com/SemiAnalysis_/status/2089427311665778874
+• Apple has anchored every leading-edge TSMC ramp since 20nm in 2014, though it ha
+  x-semianalysis · 2026-08-17 · https://www.x.com/SemiAnalysis_/status/2089427309254086928
+• AI-enriched Linux 7.2 delivers cache-aware scheduling - here's everything new
+  zdnet · 2026-08-17 · https://www.zdnet.com/article/ai-linux-7-2-release-cache-aware-scheduling/
+• 泰国成立专门机构，重点管控数据中心对电力、水资源及环境的影响
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/186.htm
+
+【大模型】
+• Grok 4.6 is smart, super fast &amp; affordable
+  x-elonmusk · 2026-08-17 · https://www.x.com/elonmusk/status/2089416747720061154
+• OpenAI reportedly disbanded its preparedness team
+  theverge · 2026-08-16 · https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team
+• 菲尔兹奖得主马丁 · 海尔：AI 数学推演已达博士水平，中国基础科学投入令人印象深刻
+  IT之家 · 2026-08-15 · https://www.ithome.com/0/990/181.htm
+• Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out
+  wired-ai · 2026-08-15 · https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/
+• Secondhand book sales are booming. Is it because of AI?
+  bbc-tech · 2026-08-15 · https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&amp;at_campaign=rss
+
+【智能驾驶】
+• Bedrock Brings Autonomous Driving to Construction
+  bloomberg-tech · 2026-08-17 · https://www.bloomberg.com/news/videos/2026-08-17/bedrock-brings-autonomous-driving-to-construction-video
+• Nevada caps Tesla’s Vegas ‘Robotaxi’ fleet at 10 — it asked for 5,000
+  electrek · 2026-08-17 · https://electrek.co/2026/08/17/tesla-nevada-robotaxi-permit-10-vehicles-las-vegas/
+
+【机器人硬件】
+• Uber 与 Zipline 达成合作，年内在美国推出无人机送外卖服务
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/849.htm
+
+【AI 消费硬件与脑机】
+• 苹果 visionOS 27.0 开发者预览版 Beta 6 发布
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/863.htm
+
+【AI Agent】
+• AI 为主人插队踢飞第一名，千万别让黄牛知道
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943341468817033
+• Rogue AI aren’t science fiction anymore
+  theverge · 2026-08-16 · https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai
+• RT by @elonmusk: If you want to learn how to run one: https://somethingbig.ai/ga
+  x-elonmusk · 2026-08-15 · https://www.x.com/mattshumer_/status/2088487331372089560
+• AI正在批量制造“幽灵”
+  36氪 · 2026-08-15 · https://www.36kr.com/p/3940299140880261
+
+【💰 财经动态】
+• 英伟达入局引爆AI债务担忧，700亿美元“表外幽灵”正环伺
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943314912263304
+• Anthropic’s Revenue Surges as IPO Speculation Builds
+  bloomberg-tech · 2026-08-17 · https://www.bloomberg.com/news/videos/2026-08-17/anthropic-s-revenue-surges-as-ipo-speculation-builds-video
+• 人越多越亏钱，AI把C端SaaS，逼成了健身房生意
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943531389484160
+• SoftBank Invests $200 Million in Construction Startup Gravis Robotics
+  bloomberg-tech · 2026-08-17 · https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics
+• Wispr raises $280M at $2B valuation as it looks beyond dictation
+  techcrunch-ai · 2026-08-17 · https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/
+</description>
+      <pubDate>Tue, 18 Aug 2026 05:38:35 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-18</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-18.mp3" length="9757718" type="audio/mpeg"/>
+      <itunes:duration>10:10</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/17 AI日报｜味之素削减ABF膜供货/切罗基族禁建数据中心/华为推送HarmonyOS新版本</title>
       <description>📋 今日要闻 · 2026-08-17
