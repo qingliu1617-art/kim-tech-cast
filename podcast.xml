@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 21:38:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:16:40 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,85 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/19 AI日报｜DeepSeek 大模型涨价/特斯拉接入豆包大模型/小米机器人将公开亮相</title>
+      <description>📋 今日要闻 · 2026-08-19
+
+【AI 基础设施】
+• Token，Token，国内头部大厂齐聚乌兰察布圈地
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943531949800838
+• 美国加州货运抢劫案频发，AI 数据中心硬件成目标
+  IT之家 · 2026-08-16 · https://www.ithome.com/0/990/259.htm
+• 雷克沙推出 THOR Ultra 固态硬盘：PCIe Gen5 M.2，11GB/s 顺序读取
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/726.htm
+• 备战 2028：AIDA64 测试版提供对 AMD "Zen 7" 服务器处理器初步支持
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/717.htm
+
+【大模型】
+• 刚刚，GPT-6代号再泄露，或将周四见
+  36氪 · 2026-08-18 · https://www.36kr.com/p/3944955640282244
+• 涨价是DeepSeek的原罪？
+  36氪 · 2026-08-18 · https://www.36kr.com/p/3944918432267655
+• The Powerful Chinese AI Model Experts Warned About Is Here
+  wired-ai · 2026-08-18 · https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/
+• 从模型能力到工程优化，海外开发者正在“榨干” Qwen3.8-27B
+  36氪 · 2026-08-17 · https://www.36kr.com/p/3943218675383689
+
+【智能驾驶】
+• 对话｜小马智行副总裁贺星：今年我们为何开始力推Robotruck
+  知识库精读 · 2026-08-18 · https://mp.weixin.qq.com/s/qW8KFRBIcCDa7btJGpcWpQ
+• 通过「马斯克」严选，「豆包」补上特斯拉唯一短板
+  36氪 · 2026-08-18 · https://www.36kr.com/p/3944901139758216
+• Tesla is finally launching the Cybercab — let’s hope it’s ready
+  theverge · 2026-08-18 · https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready
+• 华为乾崑智驾车位到车位累计使用次数突破 1 亿次
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/813.htm
+• Tesla’s Cybercab is about to launch — and we don’t get it
+  electrek · 2026-08-18 · https://electrek.co/2026/08/17/tesla-cybercab-launch-least-exciting-vehicle-ever/
+
+【机器人硬件】
+• 卢伟冰：小米机器人将在 2026 世界机器人大会上首次面向公众亮相
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/326.htm
+• Integral AI’s Demise Signals Hurdles Ahead for Robotics
+  bloomberg-tech · 2026-08-18 · https://www.bloomberg.com/news/newsletters/2026-08-18/integral-ai-s-demise-signals-hurdles-ahead-for-robotics
+
+【AI 消费硬件与脑机】
+• 首发 2699 元闪极 AI 眼镜 loomos L1 发布：钛合金机身 43 克，接入飞书与腾讯 WorkBuddy
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/351.htm
+• 小米“大会师”新品将至，卢伟冰发文预告 9 月“精彩纷呈”
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/365.htm
+• 埃及盲人企业家开发 AI 应用，通过实时描述周围影像助视障群体“看见”世界
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/357.htm
+• 微软暂时停用 Win11 系统 Copilot 任务栏搜索框，聚焦统一版 Copilot 开发工作
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/352.htm
+
+【AI Agent】
+• GPT新模型在OpenAI内网自建留言板，3个月聊了几十万条，一直没人发现
+  36氪 · 2026-08-18 · https://www.36kr.com/p/3944724232993923
+• Google's AI can see your business data by default in Workspace - unless you disa
+  zdnet · 2026-08-18 · https://www.zdnet.com/article/googles-ai-can-see-your-business-data-by-default-in-workspace-unless-you-disable-it/
+• 机器流量首次超过人类，互联网进入“三体流量时代”？
+  36氪 · 2026-08-18 · https://www.36kr.com/p/3944524490866050
+• 通用AI助手，难逃互联网老路？
+  36氪 · 2026-08-18 · https://www.36kr.com/p/3944931606117769
+• 马斯克上桌，GitHub遭遇史上最尴尬“瘫痪”，18年王座要拱手了？
+  36氪 · 2026-08-18 · https://www.36kr.com/p/3944647143423366
+
+【💰 财经动态】
+• Groq Valued at $3.5 Billion in Funding Round After Nvidia Deal
+  bloomberg-tech · 2026-08-17 · https://www.bloomberg.com/news/articles/2026-08-17/groq-valued-at-3-5-billion-in-funding-round-after-nvidia-deal
+• 百度 2026 Q2 业绩会实录：文心将重回 AI 第一梯队，年底前完成香港主要上市
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/340.htm
+• A 股迎来“人形机器人第一股”，宇树科技官宣 8 月 19 日科创板上市
+  IT之家 · 2026-08-17 · https://www.ithome.com/0/990/812.htm
+</description>
+      <pubDate>Wed, 19 Aug 2026 01:16:40 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-19</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-19.mp3" length="13571177" type="audio/mpeg"/>
+      <itunes:duration>14:08</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/18 AI日报｜Grok 4.6 医疗测试进前三/OpenAI解散风险评估团队/Twitch用户可退出AI训练</title>
       <description>📋 今日要闻 · 2026-08-18
