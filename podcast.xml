@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 15:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:20:33 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,106 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/20 AI日报｜字节腾讯获H200许可/Anthropic蛋白质设计成功/小米人形机器人亮相</title>
+      <description>📋 今日要闻 · 2026-08-20
+
+【AI 基础设施】
+• China reportedly allows ByteDance and Tencent to import 10,000 H200 chips
+  engadget · 2026-08-19 · https://www.engadget.com/2239738/china-reportedly-allows-bytedance-tencent-import-10000-h200-chips/
+• 科技巨头为数据中心大建天然气电厂，或令全美电力行业碳排放增加 20%
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/345.htm
+• 告别“堆卡”：2026，中国算力开启“Token价值产出”大考
+  36氪 · 2026-08-19 · https://www.36kr.com/p/3946148415716744
+• Cerebras's Next Generation CS-4: Fast Just Got Faster Double the Performance, Do
+  x-semianalysis · 2026-08-19 · https://www.x.com/SemiAnalysis_/status/2089893209128280303
+
+【大模型】
+• 突发！唐杰长文谈Scaling Law：GLM-5.3为何转动后训练旋钮
+  知识库精读 · 2026-08-19 · https://mp.weixin.qq.com/s/ojJ3BJzCbMRbKutwszdG4w*
+• Claude开始自主设计新蛋白质，效率超越人类专家数十倍
+  36氪 · 2026-08-19 · https://www.36kr.com/p/3946343275232649
+• 20%推理算力用来“看住AI”：大模型竞争进入安全成本时代
+  36氪 · 2026-08-19 · https://www.36kr.com/p/3945868813620870
+• MiniMax核心工程负责人阿岛离职
+  知识库精读 · 2026-08-19 · https://mp.weixin.qq.com/s/Mjs8jLuyGQn0ah4yJmGO9w*
+
+【具身智能模型】
+• 深度｜以时间密度重构行业标尺：千寻智能的30天进化启示录
+  知识库精读 · 2026-08-19 · https://mp.weixin.qq.com/s/yXxnLpsXnejjw6sJqQGL2w*
+• Physical Intelligence CEO 的 18 条判断：数据不再是瓶颈，最后 5% 才是
+  知识库精读 · 2026-08-20 · https://mp.weixin.qq.com/s/UnDTDraXaDeQpK2RkLEAxQ
+• 墨奇智能黄青虬：做智驾五年，我知道具身创业该避开哪些噪音
+  知识库精读 · 2026-08-19 · https://mp.weixin.qq.com/s/s0Nv1qlGKpORSfahpDkh7Q*
+• 世界模型，正在成为AI公司的“下一张船票”
+  36氪 · 2026-08-18 · https://www.36kr.com/p/3944571898707074
+• 看懂银河通用，就读懂了具身智能的未来
+  36氪 · 2026-08-19 · https://www.36kr.com/p/3946454123822213
+
+【智能驾驶】
+• 特斯拉过度宣传智驾遭反噬：Robotaxi 撞穿路障后继续行驶，此前高管宣称安全记录“无可挑剔”
+  IT之家 · 2026-08-19 · https://www.ithome.com/0/991/865.htm
+• 奕境 X9 开启预售：满配华为乾崑全栈智能，29.98 万-37.98 万元
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/332.htm
+• 小米卢伟冰：澎程车型小订订单好于预期，9 月上市后交付速度会很快
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/315.htm
+
+【机器人硬件】
+• 小米新一代人形机器人与观众实时互动视频发布：由大模型驱动，自主理解、判断并完成动作
+  IT之家 · 2026-08-19 · https://www.ithome.com/0/991/848.htm
+• 京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元
+  IT之家 · 2026-08-19 · https://www.ithome.com/0/991/821.htm
+
+【AI 消费硬件与脑机】
+• 华为新款平板 AST 系列通过星闪联盟测试，消息称部分型号支持星闪音频
+  IT之家 · 2026-08-19 · https://www.ithome.com/0/991/819.htm
+• Amazon Fire TV devices are getting a free Alexa Plus upgrade
+  theverge · 2026-08-19 · https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free
+• Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear
+  techcrunch-ai · 2026-08-18 · https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/
+• 苹果新一代 Apple TV 4K 曝光，有望配备升级款 Siri Remote 遥控器
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/339.htm
+
+【AI Agent】
+• Replit expands access to software creation with GPT-5.6 Luna
+  OpenAI Blog · 2026-08-19 · https://openai.com/index/replit
+• Cursor capitalizes on GitHub frustration, launches rival hosting platform
+  techcrunch-ai · 2026-08-18 · https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/
+• Asana cleared 5 years of engineering work in 2 weeks with Codex
+  OpenAI Blog · 2026-08-18 · https://openai.com/index/asana
+• Microsoft Copilot reveals secret input that allowed it to be hacked
+  arstechnica · 2026-08-18 · https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/
+• Snowflake’s Plan to Cut AI Costs
+  bloomberg-tech · 2026-08-18 · https://www.bloomberg.com/news/videos/2026-08-18/snowflake-s-plan-to-cut-ai-costs-video
+
+【💰 财经动态】
+• Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% 
+  x-serenity · 2026-08-19 · https://www.x.com/aleabitoreddit/status/2089908198694351064
+• Etched’s valuation doubles to $21B in a month
+  techcrunch-ai · 2026-08-18 · https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/
+• $MRVL gives $GOOGL options to buy $12.2B of the company. "The Marvell-Google dea
+  x-serenity · 2026-08-19 · https://www.x.com/aleabitoreddit/status/2090103899302826302
+• Stripe to Buy AI Firm OpenRouter in $7 Billion Deal
+  bloomberg-tech · 2026-08-17 · https://www.bloomberg.com/news/videos/2026-08-17/stripe-to-buy-ai-firm-openrouter-in-7-billion-deal-video
+• Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion
+  bloomberg-tech · 2026-08-18 · https://www.bloomberg.com/news/articles/2026-08-18/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion
+
+【🎙️ 关键人物：Alex Atallah】
+• 跨国串门儿计划 #680｜OpenRouter CEO Alex Atallah：为什么中国开源模型正在碾压美国
+  知识库精读 · 2026-08-19 · https://www.xiaoyuzhoufm.com/episode/6a857ad1ef65145dfcc20895
+</description>
+      <pubDate>Thu, 20 Aug 2026 01:20:33 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-20</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-20.mp3" length="15669332" type="audio/mpeg"/>
+      <itunes:duration>16:19</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：聊天机器人不是终局：OpenAI设计负责人Ian Silber谈下一代界面</title>
       <description>YouTube 长访谈中文精华改编。
