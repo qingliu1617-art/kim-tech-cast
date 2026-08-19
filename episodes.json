@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-19T23:16:24",
+    "guid": "youtube-special-BV0hy6NET-U",
+    "title": "特别篇：聊天机器人不是终局：OpenAI设计负责人Ian Silber谈下一代界面",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber\n频道: Lenny's Podcast\n原视频时间: 2026-08-16\n主持人: Lenny Rachitsky\n嘉宾: Ian Silber\n主题: 聊天机器人不是终局：OpenAI设计负责人Ian Silber谈下一代界面\n\n核心观点:\n• 设计师不快乐，根源不是 AI 抢了饭碗，而是\"我到底该干嘛\"没人说得清\n• 这恰恰是\"做设计师历史上最好的时代\"，因为创作门槛被 AI 打掉\n• AI 现在已经是出色的产品设计师，但人类掌握\"判断什么是好\"的最终裁决权\n• 传统\"原型-mock-测试-迭代\"流程已死，设计变成\"探索-公开建设-快速学习\"\n• PM、设计、工程不会合并成\"builder\"，但各自边界会越来越模糊\n• 系统思维从\"加分项\"变成设计师的必备能力\n\n原视频: https://www.youtube.com/watch?v=BV0hy6NET-U",
+    "pub_date": "Wed, 19 Aug 2026 15:16:24 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-19-BV0hy6NET-U.mp3?v=202608192316",
+    "audio_size": 15376343,
+    "audio_mime": "audio/mpeg",
+    "duration": "16:01",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-19-BV0hy6NET-U.jpg?v=202608192316"
+  },
+  {
     "date": "2026-08-19",
     "guid": "ai-daily-2026-08-19",
     "title": "08/19 AI日报｜DeepSeek 大模型涨价/特斯拉接入豆包大模型/小米机器人将公开亮相",

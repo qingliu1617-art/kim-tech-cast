@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 17:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:16:24 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,38 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：聊天机器人不是终局：OpenAI设计负责人Ian Silber谈下一代界面</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber
+频道: Lenny's Podcast
+原视频时间: 2026-08-16
+主持人: Lenny Rachitsky
+嘉宾: Ian Silber
+主题: 聊天机器人不是终局：OpenAI设计负责人Ian Silber谈下一代界面
+
+核心观点:
+• 设计师不快乐，根源不是 AI 抢了饭碗，而是"我到底该干嘛"没人说得清
+• 这恰恰是"做设计师历史上最好的时代"，因为创作门槛被 AI 打掉
+• AI 现在已经是出色的产品设计师，但人类掌握"判断什么是好"的最终裁决权
+• 传统"原型-mock-测试-迭代"流程已死，设计变成"探索-公开建设-快速学习"
+• PM、设计、工程不会合并成"builder"，但各自边界会越来越模糊
+• 系统思维从"加分项"变成设计师的必备能力
+
+原视频: https://www.youtube.com/watch?v=BV0hy6NET-U</description>
+      <pubDate>Wed, 19 Aug 2026 15:16:24 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-BV0hy6NET-U</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-19-BV0hy6NET-U.mp3?v=202608192316" length="15376343" type="audio/mpeg"/>
+      <itunes:duration>16:01</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-19-BV0hy6NET-U.jpg?v=202608192316"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/19 AI日报｜DeepSeek 大模型涨价/特斯拉接入豆包大模型/小米机器人将公开亮相</title>
       <description>📋 今日要闻 · 2026-08-19
