@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 17:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:42:13 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,95 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/21 AI日报｜美光成立研究实验室/龙芯3B6600交付流片/字节调整Seed基模团队</title>
+      <description>📋 今日要闻 · 2026-08-21
+
+【AI 基础设施】
+• 美光在美成立存储研究实验室，未来十年将投百亿美元探索“关键突破”
+  IT之家 · 2026-08-20 · https://www.ithome.com/0/992/345.htm
+• 龙芯胡伟武：3B6600 用 1Xnm 工艺追平 AMD 英特尔 7nm 性能
+  IT之家 · 2026-08-19 · https://www.ithome.com/0/991/811.htm
+• TerraPower’s nuclear reactor has a secret weapon for powering AI data centers
+  techcrunch-ai · 2026-08-19 · https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/
+• TPU🚨 is working with the popular OSS inference optimization library Mooncake on 
+  x-semianalysis · 2026-08-19 · https://www.x.com/SemiAnalysis_/status/2090197436614557797
+• Data Center Gas Plants to Boost US Power Emissions by 20%
+  bloomberg-tech · 2026-08-18 · https://www.bloomberg.com/news/articles/2026-08-18/data-center-gas-plants-to-boost-us-power-emissions-by-20
+
+【大模型】
+• 陶哲轩隔空对话王虹：数学界该学会“消化”AI了
+  36氪 · 2026-08-20 · https://www.36kr.com/p/3947670798761092
+• A third of web pages published since ChatGPT’s launch show signs of AI authorshi
+  techcrunch-ai · 2026-08-20 · https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/
+• 为 5 万亿参数超大模型“铺路”？消息称字节跳动调整 Seed 基模团队组织架构
+  IT之家 · 2026-08-19 · https://www.ithome.com/0/991/856.htm
+• Seedance 2.5来了，但行业真的准备好了吗？
+  36氪 · 2026-08-19 · https://www.36kr.com/p/3946284863575945
+
+【具身智能模型】
+• 中国信通院：全国已建成启用超 70 家具身智能训练场，覆盖过半省级行政区
+  IT之家 · 2026-08-20 · https://www.ithome.com/0/992/357.htm
+• AI造世界，难在第二步
+  36氪 · 2026-08-20 · https://www.36kr.com/p/3939149915946376
+• 仅剩8个月，AI大脑迎来彻底大换血
+  36氪 · 2026-08-19 · https://www.36kr.com/p/3946314717609095
+• I Saw the Future of AI in a Robot That Can Learn on the Spot
+  wired-ai · 2026-08-19 · https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/
+
+【智能驾驶】
+• You can now ride a Chinese EV in the US as Waymo opens Zeekr Ojai to all
+  electrek · 2026-08-20 · https://electrek.co/2026/08/20/waymo-zeekr-ojai-chinese-ev-robotaxi-all-riders/
+• Waymo Ojai vans are now available for all riders in three cities
+  engadget · 2026-08-19 · https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/
+• 英国车企 Voltempo 研发全自动驾驶重卡：砍掉驾驶室，一切为了载货
+  IT之家 · 2026-08-19 · https://www.ithome.com/0/991/844.htm
+• 赛力斯官宣问界全系行业率先使用在售量产车型进行全场景体验，7 天 7000 多公里极限实测
+  IT之家 · 2026-08-18 · https://www.ithome.com/0/991/308.htm
+• Tesla grows Robotaxi fleet by 50%, Einride gets a partner, and China goes BIG
+  electrek · 2026-08-18 · https://electrek.co/2026/08/17/tesla-grows-robotaxi-fleet-by-50-einride-gets-a-partner-and-china-goes-big/
+
+【机器人硬件】
+• WRC现场观察：具身智能落地元年，瑞为技术交出了面向生产力的答卷
+  36氪 · 2026-08-20 · https://www.36kr.com/p/3947385157237893
+• A robot could eventually conduct your blood draw at the doctor's office
+  engadget · 2026-08-19 · https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/
+
+【AI 消费硬件与脑机】
+• 沙特 HUMAIN 预告 Horizon Ultra 笔电，搭载高通骁龙 X2 Elite 处理器
+  IT之家 · 2026-08-20 · https://www.ithome.com/0/992/336.htm
+• 小米 REDMI K100 Pro 系列手机首销 7 天成绩曝光，Max 销量约前代 135%
+  IT之家 · 2026-08-20 · https://www.ithome.com/0/992/400.htm
+• 华为 Pura X View 阔直板手机现身官网，四色官图发布
+  IT之家 · 2026-08-20 · https://www.ithome.com/0/992/389.htm
+• Apple's smart home springs a leak - here's everything we expect to see in Septem
+  zdnet · 2026-08-20 · https://www.zdnet.com/article/apples-smart-home-leaked-product-list/
+
+【AI Agent】
+• 揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑
+  IT之家 · 2026-08-20 · https://www.ithome.com/0/992/339.htm
+• AI办公怎么就突然被大厂重视争夺？明明以前不赚钱啊
+  36氪 · 2026-08-20 · https://www.36kr.com/p/3947649832310406
+• OpenAI公开4+10条保命指南，专防AI自动化攻击
+  36氪 · 2026-08-19 · https://www.36kr.com/p/3946132761754755
+• Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude
+  x-claude · 2026-08-18 · https://www.x.com/claudeai/status/2089806039088517356
+
+【💰 财经动态】
+• 阿里+腾讯，一个季度在AI上砸了1000亿
+  36氪 · 2026-08-20 · https://www.36kr.com/p/3947745360592003
+• Meta 成微软最大 AI 客户之一：年采购额达数亿美元，每周消耗数万亿词元
+  IT之家 · 2026-08-20 · https://www.ithome.com/0/992/397.htm
+• 硬氪独家 | 清华，中科院具身大脑企业融资10亿，已获得数亿海外订单
+  36氪 · 2026-08-20 · https://www.36kr.com/p/3947288204770693
+</description>
+      <pubDate>Fri, 21 Aug 2026 02:42:13 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-21</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-21.mp3" length="14665812" type="audio/mpeg"/>
+      <itunes:duration>15:17</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/20 AI日报｜字节腾讯获H200许可/Anthropic蛋白质设计成功/小米人形机器人亮相</title>
       <description>📋 今日要闻 · 2026-08-20
