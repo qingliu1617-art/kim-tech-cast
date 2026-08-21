@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 21:44:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:11:19 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,91 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/22 AI日报｜禾赛推6D激光雷达/OpenAI暂停Astra训练/特斯拉计划新加坡推FSD</title>
+      <description>📋 今日要闻 · 2026-08-22
+
+【AI 基础设施】
+• WRC观察丨拿下超50家机器人客户后，禾赛再推机器人"全彩感知"
+  知识库精读 · 2026-08-21 · https://mp.weixin.qq.com/s/LAklJ6QXAbJGF6Hzu7ykVQ*
+• 单天线覆盖八个频段：华为宣布联合沙特 stc 完成全球首个 MB² 微波方案商用部署
+  IT之家 · 2026-08-21 · https://www.ithome.com/0/992/848.htm
+• RT by @sama: A milestone for our infrastructure: our first NVIDIA Vera Rubin rac
+  x-sama · 2026-08-20 · https://www.x.com/udayruddarraju/status/2090343188393246973
+
+【大模型】
+• 奥特曼瘫坐叫停“GPT-6”训练，太强触发最高安全警报
+  36氪 · 2026-08-19 · https://www.36kr.com/p/3946132781710465
+• "我喜欢小团队，注意力不会分散"，杰夫·迪恩首度回应离开谷歌
+  知识库精读 · 2026-08-19 · https://mp.weixin.qq.com/s/c5Os7CVs-rvkU6jS1LYdug*
+• 陶哲轩最新发文：人工智能时代的数学
+  36氪 · 2026-08-20 · https://www.36kr.com/p/3947761738873990
+• “Anthropic不再是AI圈的信仰”
+  36氪 · 2026-08-20 · https://www.36kr.com/p/3947602394070151
+• Grok keeps sending gibberish responses to users
+  techcrunch-ai · 2026-08-20 · https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/
+
+【智能驾驶】
+• SWEE LAH 🇸🇬 Tesla has officially planned for FSD launch in Singapore by seeking 
+  x-ming-tesla · 2026-08-21 · https://www.x.com/tslaming/status/2090715348505129269
+• 冲出美洲走向世界，特斯拉 Semi 纯电半挂卡车官宣进军欧洲市场
+  IT之家 · 2026-08-20 · https://www.ithome.com/0/992/409.htm
+• 启境 GX7 阔五座 SUV 内饰官图发布，新车首搭华为鸿蒙座舱 HarmonySpace 6
+  IT之家 · 2026-08-20 · https://www.ithome.com/0/992/340.htm
+• 全新捷途山海 L7 PLUS 上市：顶配搭载激光雷达，超级置换价 10.99 万-15.99 万元
+  IT之家 · 2026-08-19 · https://www.ithome.com/0/991/837.htm
+• Flock is testing a new AI tool that tracks and identifies people based on their 
+  engadget · 2026-08-19 · https://www.engadget.com/2240069/flock-testing-new-ai-police-tool-tracks-identifies-drivers/
+
+【机器人硬件】
+• 24小时直播！优理奇Panther派送2136杯饮品零失误
+  知识库精读 · 2026-08-21 · https://mp.weixin.qq.com/s/SaeCxBGdhf4JGzrCiG5J6A*
+• WRC洞察：当深耕8年的机器人力控技术开始走向C端
+  知识库精读 · 2026-08-21 · https://mp.weixin.qq.com/s/5Tn6AoVIF9ikD1kq156pYQ*
+• 美国硅谷大谈机器人未来，现场主角却来自中国
+  IT之家 · 2026-08-21 · https://www.ithome.com/0/992/883.htm
+
+【AI 消费硬件与脑机】
+• 微信灰度测试“按住转文字”新功能引热议：苹果 iOS 及安卓用户率先体验，鸿蒙用户仍需等待
+  IT之家 · 2026-08-21 · https://www.ithome.com/0/992/874.htm
+• 代码显示三星正准备为 Galaxy Z Flip8/Fold8 手机引入 AI 小组件功能，基于谷歌“Create My Widget”技术
+  IT之家 · 2026-08-21 · https://www.ithome.com/0/992/821.htm
+• RayNeo is going both minimalist and maximalist with its latest AR smart glasses
+  engadget · 2026-08-21 · https://www.engadget.com/2241335/rayneo-ar-smart-glasses-io-gt-series/
+• As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings
+  arstechnica · 2026-08-21 · https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/
+• [Invitation] Galaxy Event August 2026
+  samsung-newsroom · 2026-08-20 · https://news.samsung.com/global/invitation-galaxy-event-august-2026
+
+【AI Agent】
+• 广告收入月增速超25%，OpenAI决定将ChatGPT广告推向31个欧洲市场
+  36氪 · 2026-08-21 · https://www.36kr.com/p/3948960372440192
+• 腾讯“测试中”的Agent钱包，被亚马逊抢先了
+  36氪 · 2026-08-21 · https://www.36kr.com/p/3948812099458948
+• Nvidia just showed that the harness, not the AI model, is now the real hero
+  techcrunch-ai · 2026-08-21 · https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/
+• 押宝智能体商业，支付机构抢占“入口”
+  36氪 · 2026-08-20 · https://www.36kr.com/p/3947222519266433
+
+【💰 财经动态】
+• 终究是可灵扛下了所有？
+  知识库精读 · 2026-08-21 · https://mp.weixin.qq.com/s/H1t8erfjM7Gt_Y5jwA5Fyw*
+• 国产 NAND 龙头长江存储冲刺科创板：IPO 审核状态变更为已受理，拟融资 330 亿元
+  IT之家 · 2026-08-21 · https://www.ithome.com/0/992/843.htm
+• Samsung Electronics To Implement Largest-Ever Shareholder Return in 2026, Estima
+  samsung-newsroom · 2026-08-21 · https://news.samsung.com/global/samsung-electronics-to-implement-largest-ever-shareholder-return-in-2026-estimated-at-krw-90-to-110-trillion
+• 两个月蒸发8000亿市值，智谱唐杰坦言“走了弯路”
+  36氪 · 2026-08-21 · https://www.36kr.com/p/3948894693283717
+• 长芯博创 2026 年半年度归母净利润 3.21 亿元，同比增长 91.08%
+  IT之家 · 2026-08-21 · https://www.ithome.com/0/992/842.htm
+</description>
+      <pubDate>Sat, 22 Aug 2026 05:11:19 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-22</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-22.mp3" length="14274603" type="audio/mpeg"/>
+      <itunes:duration>14:52</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/21 AI日报｜AMD确认RX9050规格/英伟达云游戏支持Firefox/OpenAI下线Sora</title>
       <description>📋 今日要闻 · 2026-08-21
