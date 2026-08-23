@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 21:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 02:13:37 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,71 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/23 AI日报｜中诚华隆推HL200芯片/FreeToken开源边缘推理/凯迪拉克XT5搭R7模型</title>
+      <description>📋 今日要闻 · 2026-08-23
+
+【AI 基础设施】
+• 中诚华隆 HL200 推理芯片发布：能效比 5.12 TFLOPS/W、集群最高可扩展至万卡
+  IT之家 · 2026-08-22 · https://www.ithome.com/0/993/108.htm
+• AI的电力账单与算力碳足迹
+  36氪 · 2026-08-22 · https://www.36kr.com/p/3949940696317321
+• A useful metric for evaluating LLM inference is tok/s/MW: how many tokens a syst
+  x-semianalysis · 2026-08-22 · https://www.x.com/SemiAnalysis_/status/2091208991271420076
+• The Unlikely Place at the Center of China’s AI Boom
+  wired-ai · 2026-08-21 · https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/
+
+【大模型】
+• 单卡5090跑满血DeepSeek V4Flash，已开源，Token自由了！
+  知识库精读 · 2026-08-22 · https://arxiv.org/abs/2608.16157
+• 神秘新模型“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱或小米
+  36氪 · 2026-08-21 · https://www.36kr.com/p/3949075883916416
+• 大厂的AI人才抢夺战，人比算力更贵
+  36氪 · 2026-08-21 · https://www.36kr.com/p/3948879291291271
+
+【智能驾驶】
+• 凯迪拉克全新 XT5 PHEV 首秀成都车展：Momenta R7 世界模型，预计 9 月初上市
+  IT之家 · 2026-08-22 · https://www.ithome.com/0/993/123.htm
+• 特斯拉正有意放缓 Model Y 加入 Robotaxi 车队，押注 Cybercab
+  IT之家 · 2026-08-22 · https://www.ithome.com/0/993/128.htm
+• Tesla says FSD v15 is a ‘step-change,’ Optimus sells in 2027
+  electrek · 2026-08-20 · https://electrek.co/2026/08/20/tesla-jpmorgan-fremont-fsd-v15-hw4-optimus-2027/
+
+【机器人硬件】
+• 全球首款全自主打网球机器人亮相，与运动员开展人机混双对打
+  IT之家 · 2026-08-22 · https://www.ithome.com/0/993/107.htm
+• 航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业
+  IT之家 · 2026-08-22 · https://www.ithome.com/0/993/124.htm
+
+【AI 消费硬件与脑机】
+• Here's how to use sign-to-text translation on Pixel 11.
+  google-blog · 2026-08-21 · https://blog.google/products-and-platforms/devices/pixel/american-sign-language-sign-to-text-pixel-11/
+• OPPO 新机通过 3C 认证：支持 80W 快充，预计为 Find X10 系列
+  IT之家 · 2026-08-23 · https://www.ithome.com/0/993/138.htm
+
+【AI Agent】
+• 震撼，OpenAI全面开源Codex Harness
+  36氪 · 2026-08-21 · https://www.36kr.com/p/3948952877661575
+• Improvements to Grok Build almost every day   http://X.ai/build
+  x-elonmusk · 2026-08-21 · https://www.x.com/elonmusk/status/2090839546686767400
+• 哈佛商学院推出 699 美元创业训练营，讲师 AI 数字分身提供路演反馈
+  IT之家 · 2026-08-22 · https://www.ithome.com/0/993/131.htm
+
+【💰 财经动态】
+• 内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%
+  IT之家 · 2026-08-23 · https://www.ithome.com/0/993/136.htm
+• 机器人GPT-3时刻震动硅谷，0行代码，看一遍秒会，黄仁勋李飞飞参投
+  36氪 · 2026-08-21 · https://www.36kr.com/p/3949212725542021
+• 具身数据生意经14｜机器人数据开始出现亿元订单，但我更想看"复售率"
+  知识库精读 · 2026-08-21 · https://mp.weixin.qq.com/s/fg2IKmZsE3npgq9Qo8Dslw*
+</description>
+      <pubDate>Sun, 23 Aug 2026 10:13:37 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-23</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-23.mp3" length="11418687" type="audio/mpeg"/>
+      <itunes:duration>11:54</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/22 AI日报｜台积电退出8英寸晶圆/Grok现加密攻击漏洞/特斯拉集成豆包大模型</title>
       <description>📋 今日要闻 · 2026-08-22
