@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 02:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:36:09 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,38 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：AI for Science 爆发与新科研时代</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: 对话前DeepMind曹原：AI for Science爆发，一个新时代到来了
+频道: 硅谷101
+原视频时间: 2026-08-15
+主持人: 陈茜
+嘉宾: 曹原
+主题: AI for Science 爆发与新科研时代
+
+核心观点:
+• AI4S 不是应用场景，而是倒逼 AGI 进化的终极考场
+• 验证（Verification）才是 AI4S 真正的瓶颈，不是算力也不是数据 ️
+• 抽象新概念的能力，可能是 AGI 永远无法跨越的"最后一英里"
+• 三大巨头的 AI4S 战略分野：Google 有深度，OpenAI 有锐度，Anthropic 有人
+• AI for math 的瓶颈不是模型聪明度，而是"概念发明"和形式化验证
+• 符号主义不会复兴，但会成为连接主义的关键"加速器"
+
+原视频: https://www.youtube.com/watch?v=H35nVgNGyo8</description>
+      <pubDate>Sun, 23 Aug 2026 23:36:09 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-H35nVgNGyo8</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-24-H35nVgNGyo8.mp3?v=202608240736" length="12135487" type="audio/mpeg"/>
+      <itunes:duration>12:38</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-24-H35nVgNGyo8.jpg?v=202608240736"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/23 AI日报｜中诚华隆推HL200芯片/FreeToken开源边缘推理/凯迪拉克XT5搭R7模型</title>
       <description>📋 今日要闻 · 2026-08-23

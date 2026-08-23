@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-24T07:36:09",
+    "guid": "youtube-special-H35nVgNGyo8",
+    "title": "特别篇：AI for Science 爆发与新科研时代",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: 对话前DeepMind曹原：AI for Science爆发，一个新时代到来了\n频道: 硅谷101\n原视频时间: 2026-08-15\n主持人: 陈茜\n嘉宾: 曹原\n主题: AI for Science 爆发与新科研时代\n\n核心观点:\n• AI4S 不是应用场景，而是倒逼 AGI 进化的终极考场\n• 验证（Verification）才是 AI4S 真正的瓶颈，不是算力也不是数据 ️\n• 抽象新概念的能力，可能是 AGI 永远无法跨越的\"最后一英里\"\n• 三大巨头的 AI4S 战略分野：Google 有深度，OpenAI 有锐度，Anthropic 有人\n• AI for math 的瓶颈不是模型聪明度，而是\"概念发明\"和形式化验证\n• 符号主义不会复兴，但会成为连接主义的关键\"加速器\"\n\n原视频: https://www.youtube.com/watch?v=H35nVgNGyo8",
+    "pub_date": "Sun, 23 Aug 2026 23:36:09 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-24-H35nVgNGyo8.mp3?v=202608240736",
+    "audio_size": 12135487,
+    "audio_mime": "audio/mpeg",
+    "duration": "12:38",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-24-H35nVgNGyo8.jpg?v=202608240736"
+  },
+  {
     "date": "2026-08-23",
     "guid": "ai-daily-2026-08-23",
     "title": "08/23 AI日报｜中诚华隆推HL200芯片/FreeToken开源边缘推理/凯迪拉克XT5搭R7模型",
