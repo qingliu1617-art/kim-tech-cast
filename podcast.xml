@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 23:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:39:48 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,72 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/25 AI日报｜NVIDIA 内存配置下调/汤森路透发布大模型/特斯拉获 Robotaxi 许可</title>
+      <description>📋 今日要闻 · 2026-08-25
+
+【AI 基础设施】
+• HBM MASSIVE CONTENT DOWNGRADE ALERT🚨🚨: Nvidia Rubin Ultra will ship with 192GB o
+  x-semianalysis · 2026-08-24 · https://www.x.com/SemiAnalysis_/status/2091994110911557679
+• ACEMAGIC 推出 F2A 迷你主机：酷睿 Ultra X7 358H 处理器、32GB 内存
+  IT之家 · 2026-08-24 · https://www.ithome.com/0/993/758.htm
+• 小米集团副总裁朱丹：芯片研发投入是为下一个十年买“入场券”
+  IT之家 · 2026-08-24 · https://www.ithome.com/0/993/753.htm
+• Australia Data-Center Power Use Seen Jumping Sevenfold by 2036
+  bloomberg-tech · 2026-08-24 · https://www.bloomberg.com/news/articles/2026-08-24/australia-data-center-power-use-seen-jumping-sevenfold-by-2036
+• Nvidia’s Trillion-Dollar Chip Market Has Friends and Foes Closing In
+  bloomberg-tech · 2026-08-24 · https://www.bloomberg.com/news/features/2026-08-24/nvidia-s-trillion-dollar-chip-market-has-friends-and-foes-closing-in
+
+【大模型】
+• 路透社母公司汤森路透花 4000 万美元研发 AI 模型，基于阿里千问
+  IT之家 · 2026-08-24 · https://www.ithome.com/0/993/738.htm
+• RT by @elonmusk: Nvidia CEO Jensen Huang on Elon Musk and @xAI   “Never been don
+  x-elonmusk · 2026-08-24 · https://www.x.com/teslaownersSV/status/2091714055442665567
+• Advancing price-performance for developers with GPT‑5.6 in Kiro
+  OpenAI Blog · 2026-08-24 · https://openai.com/index/gpt-5-6-in-kiro
+
+【智能驾驶】
+• Watch Tesla FSD v14 Lite drive over a giant log without stopping
+  electrek · 2026-08-24 · https://electrek.co/2026/08/24/tesla-fsd-v14-1-lite-drove-over-log/
+• BYD opens orders for its new flagship EV with over 1,000 km of range for under $
+  electrek · 2026-08-24 · https://electrek.co/2026/08/24/byd-opens-flagship-ev-orders-with-1000-km-range-under-40k/
+• 特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi
+  IT之家 · 2026-08-22 · https://www.ithome.com/0/993/125.htm
+• 蔚来李斌称中国汽车行业进入“决赛最残酷阶段”，接下来三五年最后的玩家差不多尘埃落定
+  IT之家 · 2026-08-23 · https://www.ithome.com/0/993/182.htm
+
+【AI Agent】
+• 字节系之外，RunningHub突围：顶级AI模型争夺「首发阵地」
+  36氪 · 2026-08-24 · https://www.36kr.com/p/3953368903580809
+• 苹果 Apple Store 应用 AI 助手悄悄上线，目前处于早期预览状态
+  IT之家 · 2026-08-24 · https://www.ithome.com/0/993/742.htm
+• How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI
+  zdnet · 2026-08-24 · https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/
+• AgentX - InferenceXv3:  Does CUDA Moat Hold up in Agentic Inferencing? $3 Millio
+  x-semianalysis · 2026-08-24 · https://www.x.com/SemiAnalysis_/status/2091687226291708116
+
+【💰 财经动态】
+• The Rising Price of the AI Race | Bloomberg Tech 8/24/2026
+  bloomberg-tech · 2026-08-24 · https://www.bloomberg.com/news/videos/2026-08-24/bloomberg-tech-8-24-2026-video
+• $XPEV carves out its robotics unit and raises &gt;$900M at $6.3B+ valuations.  This
+  x-serenity · 2026-08-24 · https://www.x.com/aleabitoreddit/status/2091851831718879660
+• 千里科技上半年营收 51.2 亿元：智驾业务覆盖 16 款车型、净利润大增 151%
+  IT之家 · 2026-08-24 · https://www.ithome.com/0/993/735.htm
+• Porsche Inks $1.5 Billion AI Deal With India’s Tata Consultancy
+  bloomberg-tech · 2026-08-24 · https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy
+</description>
+      <pubDate>Tue, 25 Aug 2026 05:39:48 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-25</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-25.mp3" length="9338505" type="audio/mpeg"/>
+      <itunes:duration>09:44</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：AI for Science 爆发与新科研时代</title>
       <description>YouTube 长访谈中文精华改编。
