@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 16:06:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:59:37 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,108 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/29 AI日报｜OpenAI 自研推理芯片/阿里上线 Wan 3.0/Anthropic 推出硬件标准</title>
+      <description>📋 今日要闻 · 2026-08-29
+
+【AI 基础设施】
+• 黄仁勋：英伟达已实现AGI
+  36氪 · 2026-08-28 · https://www.36kr.com/p/3959072129252485
+• AI 开始给自己造芯了，从零到生产 OpenAI 只用了九个月
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3956947047021698
+• 英伟达推出 NVHBM 定制高带宽内存：相比 HBM4e 带宽提升 30%、功耗降低 15%
+  IT之家 · 2026-08-27 · https://www.ithome.com/0/994/806.htm
+• 英特尔 18A-P 工艺详解：0.5V 低电压频率跃升 30%，Diamond Rapids 与 Nova Lake 率先搭载
+  IT之家 · 2026-08-26 · https://www.ithome.com/0/994/781.htm
+
+【大模型】
+• 加州理工用AI攻克量子化学60年难题，1块显卡做完7800块的活
+  36氪 · 2026-08-26 · https://www.36kr.com/p/3956267360337025
+• HappyHorse与Wan3.0赛马，谁是阿里版Seedance？
+  36氪 · 2026-08-26 · https://www.36kr.com/p/3955901995040137
+• 谷歌推出迄今“最精准”语音转文本模型，从“逐字记录”迈向“理解式转写”
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3957167988243848
+• 强化学习之父Rich Sutton最新判断：大模型被困在“局部最优”，AI必须学会持续学习
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3957715670973572
+
+【具身智能模型】
+• 估值冲到40亿美元，实时交互视频还没跑出「杀手级应用」
+  36氪 · 2026-08-28 · https://www.36kr.com/p/3958994803457412
+• 英伟达前AI总监颠覆Transformer，5万亿上下文物理AI，推演整个宇宙
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3957173999451521
+• China’s Spirit AI bets on smarter robot brains
+  bloomberg-tech · 2026-08-27 · https://www.bloomberg.com/news/videos/2026-08-27/china-s-spirit-ai-bets-on-smarter-robot-brains-video
+• Ex-Meta scientists want to bring visual AI to the factory floor
+  techcrunch-ai · 2026-08-26 · https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/
+• Robot brain builders are pushing out of their GPT-2 era
+  techcrunch-ai · 2026-08-26 · https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/
+
+【智能驾驶】
+• 极狐阿尔法 T7 发布 2 小时订单突破 1 万台：华为乾崑智驾 ADS 5 Pro，预售价 13.78 万元起
+  IT之家 · 2026-08-26 · https://www.ithome.com/0/994/771.htm
+• Waymo：我们的无人驾驶出租车严重事故发生率仅有人驾的 1/16
+  IT之家 · 2026-08-26 · https://www.ithome.com/0/994/784.htm
+• 基于艾尼氪 5 打造，现代官宣 2026Q4 交付首批 Waymo 自动驾驶出租车
+  IT之家 · 2026-08-27 · https://www.ithome.com/0/995/084.htm
+• Tesla Full Self-Driving likes trains a bit too much
+  electrek · 2026-08-27 · https://electrek.co/2026/08/27/tesla-fsd-likes-trains-too-much/
+• Waymo takes a shot at Tesla’s self-driving: it’s a ‘false summit’
+  electrek · 2026-08-27 · https://electrek.co/2026/08/27/waymo-tesla-self-driving-false-summit/
+
+【机器人硬件】
+• 「机器人奥运」加冕双冠王，不「偏科」的智元是如何炼成的？
+  36氪 · 2026-08-28 · https://www.36kr.com/p/3959191433165952
+• 亿航智能 EH216-S eVTOL 完成香港公开首飞
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/799.htm
+• Hugging Face is selling a cute $399 open source duck robot, Microduck
+  techcrunch-ai · 2026-08-27 · https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/
+• 宇树“弟子”击败“师傅”，世界人形机器人运动会自由搏击首金产生
+  IT之家 · 2026-08-26 · https://www.ithome.com/0/994/758.htm
+
+【AI 消费硬件与脑机】
+• 首款专为苹果 iPhone 用户打造的 Agent 耳机：网易有道 OpenPods 预售，到手价 1499 元
+  IT之家 · 2026-08-27 · https://www.ithome.com/0/994/911.htm
+• 专访高通马德嘉：6G 是 AI 原生系统，多次点名赞赏豆包手机
+  IT之家 · 2026-08-26 · https://www.ithome.com/0/994/802.htm
+• vivo X500 Pro 系列手机官宣全球首发蓝晶 × 天玑 2nm 旗舰芯
+  IT之家 · 2026-08-27 · https://www.ithome.com/0/995/123.htm
+• Plaud is launching AI earbuds
+  theverge · 2026-08-27 · https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability
+• Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead
+  wired-ai · 2026-08-27 · https://www.wired.com/story/relay-q-voice-to-text-ai-app/
+
+【AI Agent】
+• Claude开始接管物理世界，能用机械臂阻拦5000万美元打款了
+  36氪 · 2026-08-28 · https://www.36kr.com/p/3958795323276424
+• 突发：OpenAI首次公开入侵Hugging Face完整报告
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3957341440588928
+• 小扎不死心Manus“自研”了一个，但模型用的Claude……
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3956972917603717
+• big
+  x-sama · 2026-08-26 · https://www.x.com/sama/status/2092519459135095147
+
+【💰 财经动态】
+• 英伟达二季度营收利润同比翻倍，CFO抛出70%增长新指引
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3957380273159302
+• 长鑫科技首次公开发行超额配售选择权全额行使：新增发行 10.03 亿股，将用于存储器晶圆制造量产线技术升级改造等
+  IT之家 · 2026-08-26 · https://www.ithome.com/0/994/719.htm
+• 商汤 2026 年上半年首次盈利：归母净利润 6.07 亿元同比扭亏转盈
+  IT之家 · 2026-08-26 · https://www.ithome.com/0/994/744.htm
+• 好消息，DeepSeek营收暴涨10倍，7个月营收4.75亿，API毛利82.9%
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3957687679450496
+</description>
+      <pubDate>Sat, 29 Aug 2026 05:59:37 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-29</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-29.mp3" length="16611830" type="audio/mpeg"/>
+      <itunes:duration>17:18</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/26 AI日报｜SpaceX采用GPU/Ilya新模型将发布/Robotaxi体验翻车</title>
       <description>📋 今日要闻 · 2026-08-26
