@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-29T23:44:41",
+    "guid": "youtube-special-xH7U7w9Qzlo",
+    "title": "特别篇：AI 为何停止学习以及如何重启持续学习",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again\n频道: Sequoia Capital\n原视频时间: 2026-08-18\n嘉宾: Rich Sutton\n主题: AI 为何停止学习以及如何重启持续学习\n\n核心观点:\n• 持续学习不是 AI 子领域，而是学习的默认状态\n• The Bitter Lesson 的本质是\"随计算扩展，而非随人类输入扩展\" ️\n• LLM 同时是 The Bitter Lesson 的正面与反面教材\n• Synthetic Data Generation 不是解药，而是新陷阱 ️\n• 当前 LLM 的根本缺陷：运行时 weights 不再改变\n• 生物学习的启示：没有动物靠 supervised learning 学会走路 ️\n\n原视频: https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+    "pub_date": "Sat, 29 Aug 2026 15:44:41 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-29-xH7U7w9Qzlo.mp3?v=202608292344",
+    "audio_size": 12035177,
+    "audio_mime": "audio/mpeg",
+    "duration": "12:32",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-29-xH7U7w9Qzlo.jpg?v=202608292344"
+  },
+  {
     "date": "2026-08-29",
     "guid": "ai-daily-2026-08-29",
     "title": "08/29 AI日报｜OpenAI 自研推理芯片/阿里上线 Wan 3.0/Anthropic 推出硬件标准",

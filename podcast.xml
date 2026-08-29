@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 21:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:44:41 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,37 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：AI 为何停止学习以及如何重启持续学习</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again
+频道: Sequoia Capital
+原视频时间: 2026-08-18
+嘉宾: Rich Sutton
+主题: AI 为何停止学习以及如何重启持续学习
+
+核心观点:
+• 持续学习不是 AI 子领域，而是学习的默认状态
+• The Bitter Lesson 的本质是"随计算扩展，而非随人类输入扩展" ️
+• LLM 同时是 The Bitter Lesson 的正面与反面教材
+• Synthetic Data Generation 不是解药，而是新陷阱 ️
+• 当前 LLM 的根本缺陷：运行时 weights 不再改变
+• 生物学习的启示：没有动物靠 supervised learning 学会走路 ️
+
+原视频: https://www.youtube.com/watch?v=xH7U7w9Qzlo</description>
+      <pubDate>Sat, 29 Aug 2026 15:44:41 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-xH7U7w9Qzlo</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-08-29-xH7U7w9Qzlo.mp3?v=202608292344" length="12035177" type="audio/mpeg"/>
+      <itunes:duration>12:32</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-08-29-xH7U7w9Qzlo.jpg?v=202608292344"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/29 AI日报｜OpenAI 自研推理芯片/阿里上线 Wan 3.0/Anthropic 推出硬件标准</title>
       <description>📋 今日要闻 · 2026-08-29
