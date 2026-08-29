@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 15:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:56:49 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,84 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/30 AI日报｜国家数据局披露智算规模/车载移动词元工厂亮相/Anthropic胜诉美政府</title>
+      <description>📋 今日要闻 · 2026-08-30
+
+【AI 基础设施】
+• 国家数据局：截至 7 月底，我国智算总规模达到 245 万 PFLOPS
+  IT之家 · 2026-08-29 · https://www.ithome.com/0/996/044.htm
+• 国内首个车载移动式词元工厂亮相，探索算电协同新模式
+  IT之家 · 2026-08-29 · https://www.ithome.com/0/995/975.htm
+• Nvidia’s AI advantage is moving beyond the GPU
+  techcrunch-ai · 2026-08-29 · https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/
+• US Probes Apex Logistics Over Alleged Nvidia AI Chip Smuggling
+  bloomberg-tech · 2026-08-27 · https://www.bloomberg.com/news/articles/2026-08-27/us-probes-apex-logistics-over-alleged-nvidia-ai-chip-smuggling
+• The UK Power Grid Has a Phantom Data Center Problem
+  wired-ai · 2026-08-27 · https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/
+
+【大模型】
+• Anthropic gets its first court win over the Pentagon’s supply-chain risk label
+  techcrunch-ai · 2026-08-28 · https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/
+• New Fellows Research: Can Claude autonomously align other AIs?  We gave Claude 4
+  x-anthropic · 2026-08-28 · https://www.x.com/AnthropicAI/status/2093386528668172373
+• 上线一月，Seedance 2.5能否抗住“平替”围攻？
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3957695740968325
+• Elon Musk’s xAI used child porn to train Grok models, lawsuit says
+  arstechnica · 2026-08-27 · https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/
+• Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves
+  yt-ai-explained · 2026-08-27 · https://www.youtube.com/watch?v=KL9_1GbmCic
+
+【智能驾驶】
+• 何小鹏：期望明年在欧洲获得监管许可并开始交付第二代 VLA
+  IT之家 · 2026-08-27 · https://www.ithome.com/0/995/130.htm
+• GOOD NEWS 🇳🇱 Dutch car-sharing company MyWheels is integrating Tesla's FSD into 
+  x-ming-tesla · 2026-08-28 · https://www.x.com/tslaming/status/2093348926879629772
+• The best part of CyberCab is that its operating cost is projected to be just $0.
+  x-ming-tesla · 2026-08-29 · https://www.x.com/tslaming/status/2093679777362391498
+• My Tesla Cybercab launch predictions
+  electrek · 2026-08-28 · https://electrek.co/2026/08/28/tesla-cybercab-launch-predictions/
+
+【AI 消费硬件与脑机】
+• 苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别
+  IT之家 · 2026-08-29 · https://www.ithome.com/0/996/053.htm
+• iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用
+  IT之家 · 2026-08-29 · https://www.ithome.com/0/996/057.htm
+• 试图摆脱“变态眼镜”之名，Meta AI 眼镜升级后挡住指示灯就立即停止拍摄
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/795.htm
+
+【AI Agent】
+• 阿里发布全新 Qoder，从 AI 编程工具升级为智能体工作台
+  IT之家 · 2026-08-27 · https://www.ithome.com/0/994/977.htm
+• 微软 Microsoft 365 路线图更名为 AI at Work Roadmap
+  IT之家 · 2026-08-27 · https://www.ithome.com/0/994/965.htm
+• 自进化时代，强化学习可能得有一套新算法了
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3957481215786115
+
+【💰 财经动态】
+• Nvidia Predicts AI-Fueled Surge Will Extend Into 2028
+  bloomberg-tech · 2026-08-27 · https://www.bloomberg.com/news/videos/2026-08-27/nvidia-predicts-ai-fueled-surge-will-extend-into-2028-video
+• 英伟达首次量化供需缺口，提前锁定FY28+70%增长
+  36氪 · 2026-08-27 · https://www.36kr.com/p/3957418024959362
+• 香农芯创 2026 年上半年归母净利润 36.42 亿元，同比暴涨 2207.2%
+  IT之家 · 2026-08-27 · https://www.ithome.com/0/995/242.htm
+• 灵掌机器人完成数千万元天使轮融资
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/790.htm
+• 优必选 2026 财年上半年归母亏损 3.11 亿元，同比亏损收窄 24.7%
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/769.htm
+</description>
+      <pubDate>Sun, 30 Aug 2026 07:56:49 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-30</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-30.mp3" length="11562883" type="audio/mpeg"/>
+      <itunes:duration>12:03</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：AI 为何停止学习以及如何重启持续学习</title>
       <description>YouTube 长访谈中文精华改编。
