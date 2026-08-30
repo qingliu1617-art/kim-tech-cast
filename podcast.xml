@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 23:56:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:47:10 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,89 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>08/31 AI日报｜工信部建算力节点/Anthropic推自改进AI/特斯拉Cybercab用灯带识车</title>
+      <description>📋 今日要闻 · 2026-08-31
+
+【AI 基础设施】
+• 全国算力互联互通区域节点名单出炉，北京上海等 17 省市入围
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/814.htm
+• 英伟达 CEO 黄仁勋呼吁 AI 行业加强沟通：想建数据中心就得争取公众支持
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/808.htm
+• 微软 XBOX CEO 夏尔马：次世代游戏主机需应对 AI 引发的“内存末日”问题
+  IT之家 · 2026-08-29 · https://www.ithome.com/0/995/966.htm
+
+【大模型】
+• 消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出
+  IT之家 · 2026-08-30 · https://www.ithome.com/0/996/239.htm
+• RT by @elonmusk: When I try and explain that tokens inferenced increased 25-fold
+  x-elonmusk · 2026-08-29 · https://www.x.com/CathieDWood/status/2093739536509436149
+• An Anthropic researcher just gave us a peek at self-improving AI
+  techcrunch-ai · 2026-08-28 · https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/
+• Could a model one day align its stronger successors?   As a first test, we had S
+  x-anthropic · 2026-08-28 · https://www.x.com/AnthropicAI/status/2093386533638389907
+• AI回旋镖式跳槽第一人：没有博士学位，硅谷顶尖AI实验室来回抢
+  36氪 · 2026-08-28 · https://www.36kr.com/p/3958795221990537
+
+【智能驾驶】
+• 特斯拉 Cybercab 车头 RGB 灯带可显示不同颜色，避免乘客上错车
+  IT之家 · 2026-08-30 · https://www.ithome.com/0/996/189.htm
+• 消息称奕境第二款车考虑规划换电版本，华为有望入局换电赛道
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/802.htm
+• 启境 GX7 预售发布会定档 9 月 4 日：干地麋鹿测试 81.6km/h，湿地双移线测试最高通过速度 122km/h
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/798.htm
+
+【机器人硬件】
+• 灵巧手有了，双臂有了，中间那一段谁来接？两家具身公司在中药房给了个答案
+  知识库精读 · 2026-08-30 · https://mp.weixin.qq.com/s/LkLRE1MALw22k52iWigotg
+• 消息称 Meta 正测试数据中心机器人，可完成插拔线缆、重启服务器等运维工作
+  IT之家 · 2026-08-30 · https://www.ithome.com/0/996/222.htm
+• 荣耀机器人闪电首次出海，成为马来西亚马拉松首位机器人参赛选手
+  IT之家 · 2026-08-30 · https://www.ithome.com/0/996/203.htm
+
+【AI 消费硬件与脑机】
+• 华为 Mate XT 2 非凡大师三折叠手机核心配置曝光，有望首发麒麟 9050 Pro 处理器
+  IT之家 · 2026-08-30 · https://www.ithome.com/0/996/219.htm
+• 华为 HarmonyOS 开发套件 26.0.0 正式发布：API 版本号启用语义化版本格式，鸿蒙 7.0 用户占比 4.65%
+  IT之家 · 2026-08-29 · https://www.ithome.com/0/996/013.htm
+• 小米澎湃 OS 超级岛升级：三指一滑，取餐、取件码直接“上岛”
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/789.htm
+• Meta makes AI glasses slightly less creepy with limit on nonconsensual recording
+  arstechnica · 2026-08-28 · https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/
+• 极摩客 EVO-X5 Pro 迷你主机官宣：锐龙 AI Max+ PRO 495 处理器，IFA 2026 亮相
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/811.htm
+
+【AI Agent】
+• Claude终于内置浏览器，豆包工作早这样干了，千问们也绕不过？
+  36氪 · 2026-08-28 · https://www.36kr.com/p/3958922751137671
+• 10年前赌输的创业，被AI救活，以后人人都能改自己的App
+  36氪 · 2026-08-28 · https://www.36kr.com/p/3958803974798727
+• 小龙绕过办公agent
+  36氪 · 2026-08-28 · https://www.36kr.com/p/3958688934083714
+• 3 surveys deliver the same uncomfortable truth about adopting agentic AI
+  zdnet · 2026-08-28 · https://www.zdnet.com/article/3-surveys-uncomfortable-adopting-agentic-ai/
+• 玩家获取 Root 权限后发现小米首款 NAS 智能存储自带 Docker 环境，OpenClaw 已跑通
+  IT之家 · 2026-08-29 · https://www.ithome.com/0/996/019.htm
+
+【💰 财经动态】
+• 巴克莱研究：AI 模型公司每赚 100 美元，约 35 至 40 美元流向三大云巨头
+  IT之家 · 2026-08-30 · https://www.ithome.com/0/996/218.htm
+• 美团 CEO 王兴：AI 模型和产品将用于支持主业发展，我们不会成为“Token 工厂”
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/807.htm
+• 3个月估值翻2倍，这家AI金融独角兽，要抢华尔街分析师“饭碗”了
+  36氪 · 2026-08-28 · https://www.36kr.com/p/3959129302809986
+• 比亚迪 2026 上半年归母净利润 123.25 亿元，同比下降 20.54%
+  IT之家 · 2026-08-28 · https://www.ithome.com/0/995/779.htm
+• 老牌AI公司汉王科技4年半亏掉6.63亿元，大模型时代为何越走越难？
+  36氪 · 2026-08-28 · https://www.36kr.com/p/3958918396263556
+</description>
+      <pubDate>Mon, 31 Aug 2026 05:47:10 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-08-31</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-31.mp3" length="10585277" type="audio/mpeg"/>
+      <itunes:duration>11:02</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>08/30 AI日报｜国家数据局披露智算规模/车载移动词元工厂亮相/Anthropic胜诉美政府</title>
       <description>📋 今日要闻 · 2026-08-30
