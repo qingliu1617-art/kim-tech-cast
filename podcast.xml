@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 30 Aug 2026 21:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:47:34 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -100,10 +100,10 @@
 • 老牌AI公司汉王科技4年半亏掉6.63亿元，大模型时代为何越走越难？
   36氪 · 2026-08-28 · https://www.36kr.com/p/3958918396263556
 </description>
-      <pubDate>Mon, 31 Aug 2026 05:47:10 +0800</pubDate>
+      <pubDate>Mon, 31 Aug 2026 05:47:34 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-08-31</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-31.mp3" length="10585277" type="audio/mpeg"/>
-      <itunes:duration>11:02</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-08-31.mp3" length="13359272" type="audio/mpeg"/>
+      <itunes:duration>13:55</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
