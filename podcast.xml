@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 21:43:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:44:37 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -102,10 +102,10 @@
 • 智谱披露下一代大模型规划：采用大基座路线，目标发布首日即可支持满规模业务调用
   IT之家 · 2026-08-31 · https://www.ithome.com/0/996/649.htm
 </description>
-      <pubDate>Tue, 01 Sep 2026 05:43:18 +0800</pubDate>
+      <pubDate>Tue, 01 Sep 2026 05:44:37 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-09-01</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-01.mp3" length="13941489" type="audio/mpeg"/>
-      <itunes:duration>14:31</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-01.mp3" length="13913904" type="audio/mpeg"/>
+      <itunes:duration>14:30</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
