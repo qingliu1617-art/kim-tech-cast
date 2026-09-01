@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 21:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:44:01 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,79 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/02 AI日报｜英伟达联发科深化合作/OpenAI发布Astra模型/特斯拉推三款旧品</title>
+      <description>📋 今日要闻 · 2026-09-02
+
+【AI 基础设施】
+• 美国 AI 数据中心现大量“幽灵用电需求”，多州出手整治
+  IT之家 · 2026-09-01 · https://www.ithome.com/0/997/147.htm
+• An Exclusive Interview with Jensen Huang on Nvidia’s AI Future | Open Interest 8
+  bloomberg-tech · 2026-08-31 · https://www.bloomberg.com/news/videos/2026-08-31/open-interest-8-31-2026-video
+• AI淘金潮下，算力租赁到底有多赚钱？
+  36氪 · 2026-08-31 · https://www.36kr.com/p/3963291346042248
+• 一分钟爆赚1万六，阿里腾讯字节成华强北最大血包？
+  36氪 · 2026-08-31 · https://www.36kr.com/p/3963303429733507
+
+【大模型】
+• 马斯克：预计 AI 将令全球经济规模增加约 20%-30%
+  IT之家 · 2026-09-01 · https://www.ithome.com/0/997/186.htm
+• Path to Astra: critical capabilities and frontier safeguards
+  OpenAI Blog · 2026-09-01 · https://openai.com/index/path-to-astra
+• Introducing agentic video understanding with Gemini
+  Google DeepMind · 2026-09-01 · https://deepmind.google/blog/introducing-agentic-video-in-gemini/
+• Fable 5.1 excels at complex, long-running tasks. And its research capabilities o
+  x-claude · 2026-09-01 · https://www.x.com/claudeai/status/2094848579558953258
+• Across our benchmarks, the model sets a new standard.  It scores 52.6% on Termin
+  x-claude · 2026-09-01 · https://www.x.com/claudeai/status/2094848581425377479
+
+【智能驾驶】
+• 2026年的一切，都只是Robocity的序幕
+  36氪 · 2026-09-01 · https://www.36kr.com/p/3964625674050819
+• In Sept, Tesla will re-launch 3 products it launched a decade ago, for a stock p
+  electrek · 2026-09-01 · https://electrek.co/2026/09/01/in-sept-tesla-will-re-launch-3-products-it-launched-a-decade-ago-for-a-stock-pump/
+
+【AI 消费硬件与脑机】
+• Sonos 一口气推出两款全新硬件：Beam Ultra 回音壁、Ace Ultra 头戴式耳机
+  IT之家 · 2026-09-01 · https://www.ithome.com/0/997/168.htm
+• vivo TWS 5 Pro 耳机 Wi-Fi 无损传输功能现已支持 X300 Ultra、iQOO 15 等手机
+  IT之家 · 2026-09-01 · https://www.ithome.com/0/997/160.htm
+• 2026 荣耀全球开发者大会定档 9 月 15 日举行
+  IT之家 · 2026-09-01 · https://www.ithome.com/0/997/138.htm
+• 华硕新款 Zenbook A14 笔记本发布：骁龙 X 处理器、8GB 内存起步
+  IT之家 · 2026-08-31 · https://www.ithome.com/0/996/658.htm
+• John Ternus sends first memo as Apple CEO teasing a &amp;#8216;huge launch next week
+  theverge · 2026-09-01 · https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo
+
+【AI Agent】
+• 奥特曼播客曝猛料：Astra操作电脑已达人类水平
+  36氪 · 2026-09-01 · https://www.36kr.com/p/3964690691136773
+• NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier
+  NVIDIA Blog · 2026-09-01 · https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/
+• Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math
+  google-blog · 2026-08-31 · https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/
+• 西湖大学团队提出Code World Model：让Coding Agent成为世界模型的大脑
+  36氪 · 2026-09-01 · https://www.36kr.com/p/3964518513220865
+• How AI-native companies turn workflows into operating capability
+  OpenAI Blog · 2026-09-01 · https://openai.com/index/ai-native-company-workflows
+
+【💰 财经动态】
+• Anthropic signs a $35B AI compute deal with $NVDA backed Lambda.  $HUT / DC, wit
+  x-serenity · 2026-09-01 · https://www.x.com/aleabitoreddit/status/2094585395224981709
+• FYI to the AI bears: $NVDA projects $1.3T of hyperscaler spend for 2027.  Up fro
+  x-serenity · 2026-08-30 · https://www.x.com/aleabitoreddit/status/2094019167527776711
+• 戴尔 2027 财年半年报归母净利润 75.71 亿美元，同比增长 256%
+  IT之家 · 2026-09-01 · https://www.ithome.com/0/997/191.htm
+• 一家校园招聘平台，一年多出10亿美元的AI训练生意
+  36氪 · 2026-09-01 · https://www.36kr.com/p/3964685368860167
+</description>
+      <pubDate>Wed, 02 Sep 2026 05:44:01 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-02</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-02.mp3" length="10422273" type="audio/mpeg"/>
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/01 AI日报｜长鑫存储试产HBM3E/华为云推病理大模型/Anthropic拟提交IPO</title>
       <description>📋 今日要闻 · 2026-09-01
