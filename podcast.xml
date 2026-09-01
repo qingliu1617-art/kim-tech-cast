@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 21:44:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:46:58 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -25,7 +25,7 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>09/02 AI日报｜英伟达联发科深化合作/OpenAI发布Astra模型/特斯拉推三款旧品</title>
+      <title>09/02 AI日报｜英伟达联发科深化合作/OpenAI发布Astra模型/特斯拉推三款旧产品</title>
       <description>📋 今日要闻 · 2026-09-02
 
 【AI 基础设施】
@@ -90,10 +90,10 @@
 • 一家校园招聘平台，一年多出10亿美元的AI训练生意
   36氪 · 2026-09-01 · https://www.36kr.com/p/3964685368860167
 </description>
-      <pubDate>Wed, 02 Sep 2026 05:44:01 +0800</pubDate>
+      <pubDate>Wed, 02 Sep 2026 05:46:58 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-09-02</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-02.mp3" length="10422273" type="audio/mpeg"/>
-      <itunes:duration>10:51</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-02.mp3" length="10346204" type="audio/mpeg"/>
+      <itunes:duration>10:47</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
