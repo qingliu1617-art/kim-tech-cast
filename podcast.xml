@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 21:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:41:57 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,83 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/04 AI日报｜英伟达推推理指南/OpenAI发布GPT-6/奇瑞搭载乾崑智驾</title>
+      <description>📋 今日要闻 · 2026-09-04
+
+【AI 基础设施】
+• 英伟达官方推理指南来了，6倍无损加速，最优解全是华人写的
+  36氪 · 2026-09-03 · https://www.36kr.com/p/3967588251311360
+• Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026
+  NVIDIA Blog · 2026-09-03 · https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/
+• The 100,000 GPUs targeted for initial deployment starting the second half of 202
+  x-figure · 2026-09-03 · https://www.x.com/Figure_robot/status/2095499742705029289
+• 群创公布 Chip Last 型 FOPLP 先进封装平台，预计 2027H2 量产
+  IT之家 · 2026-09-01 · https://www.ithome.com/0/997/144.htm
+• Samtech displayed their Co-Packaged Copper (CPC) set-up in the CPX form factor a
+  x-semianalysis · 2026-09-01 · https://www.x.com/SemiAnalysis_/status/2094772933419807076
+
+【大模型】
+• GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era
+  wired-ai · 2026-09-03 · https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/
+• “牛来”击穿DeepSeek
+  36氪 · 2026-09-02 · https://www.36kr.com/p/3966011433326467
+• 谷歌 DeepMind 发布 WeatherNext 3：分辨率最高 5 公里，号称全球最先进、精准 AI 天气预报模型
+  IT之家 · 2026-09-03 · https://www.ithome.com/0/998/198.htm
+• 沙特 HUMAIN 公布前沿阿语模型 humain-m3，由 MiniMax 受托开发
+  IT之家 · 2026-09-03 · https://www.ithome.com/0/998/189.htm
+
+【智能驾驶】
+• FREELANDER 神行者 8 正式上市：标配华为乾崑智驾 ADS 5，权益价 28.99 万-37.99 万元
+  IT之家 · 2026-09-03 · https://www.ithome.com/0/998/156.htm
+• Watch: BBC travels in self-driving Uber around London
+  bbc-tech · 2026-09-03 · https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&amp;at_campaign=rss
+• Uber launches UK's first robotaxis with a driver - here's what it's like to ride
+  bbc-tech · 2026-09-02 · https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&amp;at_campaign=rss
+• GOOD NEWS 🚨 Austin is literally being taken over by Cybercabs right now 🔥 The fu
+  x-ming-tesla · 2026-09-02 · https://www.x.com/tslaming/status/2095004125885026362
+
+【AI 消费硬件与脑机】
+• Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here
+  wired-ai · 2026-09-03 · https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/
+• Homer AI好马亮相2026中国国际福祉博览会，VLX空间理解能力赋能AI可穿戴设备
+  36氪 · 2026-09-03 · https://www.36kr.com/p/3967336409849351
+• HTC 推出 AI 智能眼镜 VIVE Eagle：主打隐私保护，499 美元起
+  IT之家 · 2026-09-03 · https://www.ithome.com/0/998/188.htm
+• Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just 
+  wired-ai · 2026-09-01 · https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/
+
+【AI Agent】
+• 让Agent读懂业务，WPS要帮打工人手搓办公应用
+  36氪 · 2026-09-03 · https://www.36kr.com/p/3967514107190533
+• Meta is paying to peek at how you use their latest AI model
+  techcrunch-ai · 2026-09-03 · https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/
+• Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing
+  wired-ai · 2026-09-03 · https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/
+• Our new AgentX benchmark helped uncover issues that only surface during multi-tu
+  x-semianalysis · 2026-09-03 · https://www.x.com/SemiAnalysis_/status/2095595239348015490
+• Perplexity's Hybrid Compute splits sensitive tasks between cloud and local AI
+  engadget · 2026-09-01 · https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai/
+
+【💰 财经动态】
+• Crusoe Signs Roughly $13 Billion AI Cloud Deal With Jane Street
+  bloomberg-tech · 2026-09-03 · https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street
+• Pinned: Today, we’re partnering with Nscale to deploy up to 100,000 GPUs on the 
+  x-figure · 2026-09-03 · https://www.x.com/Figure_robot/status/2095499507991744723
+• Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuat
+  techcrunch-ai · 2026-09-03 · https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/
+• $NVDA told JP Morgan... That their revenue could increase more than 100%+ Y/Y un
+  x-serenity · 2026-09-02 · https://www.x.com/aleabitoreddit/status/2095153855818547571
+• 运动相机鼻祖 GoPro 宣布与光电技术公司 Starman 达成合并协议
+  IT之家 · 2026-09-01 · https://www.ithome.com/0/997/161.htm
+</description>
+      <pubDate>Fri, 04 Sep 2026 05:41:57 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-04</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-04.mp3" length="10677228" type="audio/mpeg"/>
+      <itunes:duration>11:07</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/03 AI日报｜高通GPU新增矩阵核心/SpaceX数据中心高层调整/博通推VMware AI工厂</title>
       <description>📋 今日要闻 · 2026-09-03
