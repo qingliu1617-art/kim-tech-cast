@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 21:41:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:41:57 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,83 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/05 AI日报｜华为发布τ定律/Meta推Muse新模型/特斯拉FSD新增主动接管</title>
+      <description>📋 今日要闻 · 2026-09-05
+
+【AI 基础设施】
+• 麒麟 2026 芯片晶体管密度暴涨 55%，华为何庭波更新韬定律论文
+  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/598.htm
+• AI超节点：十倍弹性，还有预期差
+  36氪 · 2026-09-04 · https://www.36kr.com/p/3968837249167873
+• 5.6-sol rewrote the production kernel that solved itself which effectively resul
+  x-semianalysis · 2026-09-04 · https://www.x.com/SemiAnalysis_/status/2095980533637382506
+• They also officially disclosed, for the first time, that they have achieved runn
+  x-semianalysis · 2026-09-04 · https://www.x.com/SemiAnalysis_/status/2095919855832580560
+• 两种小金属卡了AI脖子，中国供应链占主导
+  36氪 · 2026-09-02 · https://www.36kr.com/p/3965948455984640
+
+【大模型】
+• Meta发最强模型打响价格战，小扎对谷歌贴脸开大，北大校友立大功
+  36氪 · 2026-09-03 · https://www.36kr.com/p/3967588163853573
+• OpenAI 将召集约 300 名安全领域负责人，筹备网络安全相关公告
+  IT之家 · 2026-09-03 · https://www.ithome.com/0/998/161.htm
+• AI疯狂扫描4000万行Linux代码、CVE逼近2000个，维护者直呼：“彻底忙不过来了”
+  36氪 · 2026-09-02 · https://www.36kr.com/p/3966090501840129
+
+【智能驾驶】
+• Tesla Full Self-Driving can now take over manual driving to avoid a collision
+  electrek · 2026-09-04 · https://electrek.co/2026/09/04/tesla-fsd-active-safety-collision-avoidance/
+• 长安发布天枢领航辅助驾驶：支持交互式智驾指令，能识别交警手势
+  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/597.htm
+• 全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市，首批搭载 Momenta R7
+  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/622.htm
+• 消息称玛莎拉蒂正与华为、江淮洽谈合作，有望联合开发电动汽车
+  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/603.htm
+• Tesla opens search for Cybercab fleet sales, but FSD owners are still left out
+  electrek · 2026-09-04 · https://electrek.co/2026/09/03/tesla-opens-search-for-cybercab-fleet-sales-but-fsd-owners-are-still-left-out/
+
+【机器人硬件】
+• IFA 2026前线｜蓝海赛道下的内卷现实，科沃斯如何回答全球化与具身智能考题
+  36氪 · 2026-09-04 · https://www.36kr.com/p/3968822489198851
+
+【AI 消费硬件与脑机】
+• 古尔曼称苹果将以史上最大新品阵容开启“特努斯时代”，公布今年至 2029 年后产品规划
+  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/621.htm
+• Everybody’s Business: Unpacking Apple’s Upcoming Launches
+  bloomberg-tech · 2026-09-04 · https://www.bloomberg.com/news/videos/2026-09-04/everybody-s-business-apple-s-upcoming-launches-video
+• 卢伟冰确认小米 18 Fold 折叠屏手机起售价过万
+  IT之家 · 2026-09-03 · https://www.ithome.com/0/998/181.htm
+• Circular’s new smart rings add contactless payments and vibrating alerts
+  theverge · 2026-09-03 · https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts
+• The Apple Vision Pro was used for a successful hip surgery
+  engadget · 2026-09-03 · https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/
+
+【AI Agent】
+• 腾讯、字节、阿里“会战”AI 办公之后：Agent 领域格局已变
+  36氪 · 2026-09-04 · https://www.36kr.com/p/3968612165743108
+• AI办公进入执行时代：钉钉押注流程、飞书深挖知识、企业微信连接客户
+  36氪 · 2026-09-04 · https://www.36kr.com/p/3968795635668611
+• Claude后台接管电脑，真·赛博替身，人机并行时代来了
+  36氪 · 2026-09-03 · https://www.36kr.com/p/3967462045097473
+
+【💰 财经动态】
+• 仅用两年时间，英伟达从零建起近千亿美元股权投资组合
+  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/620.htm
+• 消息称月之暗面启动港股 IPO 流程，本周已向港交所秘密交表
+  IT之家 · 2026-09-02 · https://www.ithome.com/0/997/670.htm
+• AI compute provider Nscale is looking for $3.5B in pre-IPO financing
+  techcrunch-ai · 2026-09-04 · https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/
+• Andreessen-Backed AI Startup Gimlet Is Valued at $3 Billion in New Round
+  bloomberg-tech · 2026-09-04 · https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round
+</description>
+      <pubDate>Sat, 05 Sep 2026 05:41:57 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-05</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-05.mp3" length="12007592" type="audio/mpeg"/>
+      <itunes:duration>12:30</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/04 AI日报｜英伟达推推理指南/OpenAI发布GPT-6/奇瑞搭载乾崑智驾</title>
       <description>📋 今日要闻 · 2026-09-04
