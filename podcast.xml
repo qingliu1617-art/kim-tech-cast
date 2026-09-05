@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 21:42:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:40:12 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,63 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/06 AI日报｜地平线冲刺高阶智驾芯片/大模型入驻天猫卖Token/AI超声机器人完成首例手术</title>
+      <description>📋 今日要闻 · 2026-09-06
+
+【AI 基础设施】
+• 余凯：地平线明年的目标是要在中国高阶自动驾驶芯片市场超过英伟达
+  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/775.htm
+• AMD 公布 Threadripper Halo Station 工作站，支持 T 级模型本地运行
+  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/560.htm
+• Nvidia de-specced Rubin Ultra's HBM from 12-Hi to 8-Hi because the real bottlene
+  x-semianalysis · 2026-09-05 · https://www.x.com/SemiAnalysis_/status/2096282606803284031
+
+【大模型】
+• 大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店
+  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/822.htm
+• Legora reviewed 41 documents in minutes with GPT-6 Astra
+  OpenAI Blog · 2026-09-03 · https://openai.com/index/legora-financial-statement-review-with-astra
+• 火速吃瓜，OpenAI模型还没发又惹出争议了？？
+  36氪 · 2026-09-03 · https://www.36kr.com/p/3967486260436484
+• Four major AI models suffer rare overlapping downtime
+  arstechnica · 2026-09-03 · https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/
+
+【智能驾驶】
+• GOOD NEWS 🇺🇸 In a massive vote of confidence for Tesla's FSD, tech-first insuran
+  x-ming-tesla · 2026-09-05 · https://www.x.com/tslaming/status/2096071624831480123
+• RT by @elonmusk: A group of incredibly talented and dedicated engineers made Cyb
+  x-elonmusk · 2026-09-04 · https://www.x.com/pduan/status/2095939726171656440
+• Can’t believe the Cybercab is a real product. Yet, as of today, it is!   A salut
+  x-ashok · 2026-09-04 · https://www.x.com/aelluswamy/status/2095772209331438012
+• This might sound familiar, but Cybercab’s factory could become one of Tesla’s mo
+  x-ming-tesla · 2026-09-05 · https://www.x.com/tslaming/status/2096224522487661020
+
+【机器人硬件】
+• 全球首例：我国完成人工智能超声机器人引导下先天性心脏病封堵术
+  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/823.htm
+
+【AI 消费硬件与脑机】
+• 微软推出 Project Zenith，为 Win11 开发者提供开箱即用开发环境
+  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/611.htm
+• Ugreen's new smart home ecosystem is built around local AI hubs
+  engadget · 2026-09-03 · https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/
+
+【💰 财经动态】
+• 智谱上淘宝、Kimi找微软，大模型开始认真赚钱了
+  36氪 · 2026-09-03 · https://www.36kr.com/p/3967557956197892
+• Anthropic：我们不打价格战，只做值钱的生意
+  36氪 · 2026-09-04 · https://www.36kr.com/p/3968890773401861
+• 首批授信近 20 亿元，北京经开区在全市率先落地 Token 词元算力贷
+  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/784.htm
+</description>
+      <pubDate>Sun, 06 Sep 2026 05:40:12 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-06</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-06.mp3" length="10535958" type="audio/mpeg"/>
+      <itunes:duration>10:58</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/05 AI日报｜华为发布τ定律/Meta推Muse新模型/特斯拉FSD新增主动接管</title>
       <description>📋 今日要闻 · 2026-09-05
