@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 05 Sep 2026 21:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 06:55:37 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,37 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：AI 投资、算力经济与基础设施</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: FGC4ofTcg2k
+频道: 
+主持人: David George
+嘉宾: Gavin Baker
+主题: AI 投资、算力经济与基础设施
+
+核心观点:
+• 看空者连一个变差的数据点都拿不出来
+• 这不是或的关系，这是且的关系
+• ️ 真正的风险是供给不足，而不是过剩
+• 算力回收期不足一年，资本成本正在变成武器
+• 数据中心是工薪阶层最好的事，但行业不会讲自己的故事
+• 轨道算力与小行星采矿：Elon 和 Jensen 的时代
+
+原视频: https://www.youtube.com/watch?v=FGC4ofTcg2k</description>
+      <pubDate>Sun, 06 Sep 2026 06:55:37 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-FGC4ofTcg2k</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-09-06-FGC4ofTcg2k.mp3?v=202609061455" length="13282785" type="audio/mpeg"/>
+      <itunes:duration>13:50</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-09-06-FGC4ofTcg2k.jpg?v=202609061455"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/06 AI日报｜地平线冲刺高阶智驾芯片/大模型入驻天猫卖Token/AI超声机器人完成首例手术</title>
       <description>📋 今日要闻 · 2026-09-06
