@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-09-07",
+    "guid": "ai-daily-2026-09-07",
+    "title": "09/07 AI日报｜Anthropic 支付版权赔偿/OpenAI 被诉侵权/Claude 新增邮箱管理",
+    "description": "📋 今日要闻 · 2026-09-07\n\n【大模型】\n• RT by @sama: Today we're releasing data on models accelerating research at OpenA\n  x-sama · 2026-09-06 · https://www.x.com/kliu128/status/2096616468851097811\n• 索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？\n  36氪 · 2026-09-06 · https://www.36kr.com/p/3971524976849160\n• 两家美国媒体起诉 OpenAI 和微软，指控其 AI 训练侵犯版权\n  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/805.htm\n• RT by @sama: Astra was probably our biggest competitive advantage while it wasn’\n  x-sama · 2026-09-05 · https://www.x.com/thsottiaux/status/2096101429832552872\n\n【智能驾驶】\n• From the first two posts, one thing is clear: Tesla bypassed the exemption route\n  x-ming-tesla · 2026-09-05 · https://www.x.com/tslaming/status/2096190385840373822\n• Source: https://www.prnewswire.com/news-releases/lemonade-brings-car-insurance-a\n  x-ming-tesla · 2026-09-05 · https://www.x.com/tslaming/status/2096071627331277198\n• 长城魏牌豪华方盒子新车官图公布：2.0T 插混、采用承载式车身\n  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/612.htm\n• 奇瑞全新捷途 X90 将于 9 月 9 日上市，配猎鹰 500 辅助驾驶\n  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/576.htm\n• 奇瑞风云 T11 第二次 OTA 推送：新增远程一键备车、高速 ETC 自主通行等\n  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/832.htm\n\n【AI 消费硬件与脑机】\n• 极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存\n  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/840.htm\n• WinToastRelay：将 Windows 系统通知转发到手机｜Codex 跑完，手机会叫你\n  小众软件 · 2026-09-06 · https://www.appinn.com/wintoastrelay/\n\n【AI Agent】\n• Claude can help manage your email inbox, but there are some risks involved\n  engadget · 2026-09-06 · https://www.engadget.com/2247891/claude-help-manage-emails-risks-involved/\n• 盖茨的AI警告说对了一半\n  36氪 · 2026-09-06 · https://www.36kr.com/p/3971565038458496\n• 传统企业 AI 转型的最短路径，藏在研发部门\n  36氪 · 2026-09-04 · https://www.36kr.com/p/3968933593395458\n• AI秒出的出境游攻略，你敢“抄作业”吗？\n  36氪 · 2026-09-04 · https://www.36kr.com/p/3968843731277700\n\n【💰 财经动态】\n• Anthropic Builds Its War Chest Ahead of IPO | Bloomberg Tech 9/04/2026\n  bloomberg-tech · 2026-09-04 · https://www.bloomberg.com/news/videos/2026-09-04/bloomberg-tech-9-04-2026-video\n• Anthropic 15 亿美元 AI 版权和解金开始陆续发放，但出版社和作者分配补偿争议不断\n  IT之家 · 2026-09-06 · https://www.ithome.com/0/999/049.htm\n",
+    "pub_date": "Mon, 07 Sep 2026 07:02:37 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-07.mp3",
+    "audio_size": 6991246,
+    "audio_mime": "audio/mpeg",
+    "duration": "07:17",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-09-06T14:55:37",
     "guid": "youtube-special-FGC4ofTcg2k",
     "title": "特别篇：AI 投资、算力经济与基础设施",

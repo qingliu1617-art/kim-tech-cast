@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 06:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 23:02:37 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,66 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/07 AI日报｜Anthropic 支付版权赔偿/OpenAI 被诉侵权/Claude 新增邮箱管理</title>
+      <description>📋 今日要闻 · 2026-09-07
+
+【大模型】
+• RT by @sama: Today we're releasing data on models accelerating research at OpenA
+  x-sama · 2026-09-06 · https://www.x.com/kliu128/status/2096616468851097811
+• 索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？
+  36氪 · 2026-09-06 · https://www.36kr.com/p/3971524976849160
+• 两家美国媒体起诉 OpenAI 和微软，指控其 AI 训练侵犯版权
+  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/805.htm
+• RT by @sama: Astra was probably our biggest competitive advantage while it wasn’
+  x-sama · 2026-09-05 · https://www.x.com/thsottiaux/status/2096101429832552872
+
+【智能驾驶】
+• From the first two posts, one thing is clear: Tesla bypassed the exemption route
+  x-ming-tesla · 2026-09-05 · https://www.x.com/tslaming/status/2096190385840373822
+• Source: https://www.prnewswire.com/news-releases/lemonade-brings-car-insurance-a
+  x-ming-tesla · 2026-09-05 · https://www.x.com/tslaming/status/2096071627331277198
+• 长城魏牌豪华方盒子新车官图公布：2.0T 插混、采用承载式车身
+  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/612.htm
+• 奇瑞全新捷途 X90 将于 9 月 9 日上市，配猎鹰 500 辅助驾驶
+  IT之家 · 2026-09-04 · https://www.ithome.com/0/998/576.htm
+• 奇瑞风云 T11 第二次 OTA 推送：新增远程一键备车、高速 ETC 自主通行等
+  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/832.htm
+
+【AI 消费硬件与脑机】
+• 极摩客展出 EVO-X5 Pro 迷你主机：锐龙 AI Max+ PRO 495 处理器，192GB 内存
+  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/840.htm
+• WinToastRelay：将 Windows 系统通知转发到手机｜Codex 跑完，手机会叫你
+  小众软件 · 2026-09-06 · https://www.appinn.com/wintoastrelay/
+
+【AI Agent】
+• Claude can help manage your email inbox, but there are some risks involved
+  engadget · 2026-09-06 · https://www.engadget.com/2247891/claude-help-manage-emails-risks-involved/
+• 盖茨的AI警告说对了一半
+  36氪 · 2026-09-06 · https://www.36kr.com/p/3971565038458496
+• 传统企业 AI 转型的最短路径，藏在研发部门
+  36氪 · 2026-09-04 · https://www.36kr.com/p/3968933593395458
+• AI秒出的出境游攻略，你敢“抄作业”吗？
+  36氪 · 2026-09-04 · https://www.36kr.com/p/3968843731277700
+
+【💰 财经动态】
+• Anthropic Builds Its War Chest Ahead of IPO | Bloomberg Tech 9/04/2026
+  bloomberg-tech · 2026-09-04 · https://www.bloomberg.com/news/videos/2026-09-04/bloomberg-tech-9-04-2026-video
+• Anthropic 15 亿美元 AI 版权和解金开始陆续发放，但出版社和作者分配补偿争议不断
+  IT之家 · 2026-09-06 · https://www.ithome.com/0/999/049.htm
+</description>
+      <pubDate>Mon, 07 Sep 2026 07:02:37 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-07</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-07.mp3" length="6991246" type="audio/mpeg"/>
+      <itunes:duration>07:17</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：AI 投资、算力经济与基础设施</title>
       <description>YouTube 长访谈中文精华改编。
