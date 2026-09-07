@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-09-07T09:56:32",
+    "guid": "youtube-special-qn1QDDBnTA0",
+    "title": "特别篇：世界模型 Atlas 与空间智能",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: Why World Models Could Change Robotics, 3D, and Creativity\n频道: a16z\n原视频时间: 2026-09-04\n嘉宾: Fei-Fei Li、Justin、Ben（World Labs 团队）\n主题: 世界模型 Atlas 与空间智能\n\n核心观点:\n• new view prediction：给 AI 换上了新的\"预测下一个\"范式\n• 半个世纪的分裂就此终结：像素生成与像素重建首次统一\n• 从 300 张到 3 张：50-100 倍缩减重写重建的经济学\n• 重建本质上就是超长 context 的生成\n• ️ 你永远拍不全，所以生成能力必须内建\n• 我们才站在起点，唯一的瓶颈是 training compute\n\n原视频: https://www.youtube.com/watch?v=qn1QDDBnTA0",
+    "pub_date": "Mon, 07 Sep 2026 01:56:32 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-09-07-qn1QDDBnTA0.mp3?v=202609070956",
+    "audio_size": 12094527,
+    "audio_mime": "audio/mpeg",
+    "duration": "12:36",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-09-07-qn1QDDBnTA0.jpg?v=202609070956"
+  },
+  {
     "date": "2026-09-07",
     "guid": "ai-daily-2026-09-07",
     "title": "09/07 AI日报｜Anthropic 支付版权赔偿/OpenAI 被诉侵权/Claude 新增邮箱管理",

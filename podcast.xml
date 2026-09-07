@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 23:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 01:56:32 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,37 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：世界模型 Atlas 与空间智能</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Why World Models Could Change Robotics, 3D, and Creativity
+频道: a16z
+原视频时间: 2026-09-04
+嘉宾: Fei-Fei Li、Justin、Ben（World Labs 团队）
+主题: 世界模型 Atlas 与空间智能
+
+核心观点:
+• new view prediction：给 AI 换上了新的"预测下一个"范式
+• 半个世纪的分裂就此终结：像素生成与像素重建首次统一
+• 从 300 张到 3 张：50-100 倍缩减重写重建的经济学
+• 重建本质上就是超长 context 的生成
+• ️ 你永远拍不全，所以生成能力必须内建
+• 我们才站在起点，唯一的瓶颈是 training compute
+
+原视频: https://www.youtube.com/watch?v=qn1QDDBnTA0</description>
+      <pubDate>Mon, 07 Sep 2026 01:56:32 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-qn1QDDBnTA0</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-09-07-qn1QDDBnTA0.mp3?v=202609070956" length="12094527" type="audio/mpeg"/>
+      <itunes:duration>12:36</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-09-07-qn1QDDBnTA0.jpg?v=202609070956"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/07 AI日报｜Anthropic 支付版权赔偿/OpenAI 被诉侵权/Claude 新增邮箱管理</title>
       <description>📋 今日要闻 · 2026-09-07
