@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 01:56:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:40:45 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,90 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/08 AI日报｜英伟达定义算力基建/AMD芯片性能激增/马来西亚拟用华为AI芯片</title>
+      <description>📋 今日要闻 · 2026-09-08
+
+【AI 基础设施】
+• “订阅个API救不了平庸的管理！”黄仁勋直言：AGI就像刚毕业的天才博士，翘二郎腿坐等效率翻倍是做梦
+  36氪 · 2026-09-07 · https://www.36kr.com/p/3973247298515207
+• ALERT🚨: AMD INCREASED @vllm_project PERFORMANCE BY 11x IN LESS THAN 19 DAYS ON M
+  x-semianalysis · 2026-09-07 · https://www.x.com/SemiAnalysis_/status/2097007346421531008
+• Malaysia Eyes Huawei Chips for AI Project Despite US Warning
+  bloomberg-tech · 2026-09-07 · https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning
+• TPU Inference Externalization Full Steam Ahead - InferenceX,  Up to 50% Better P
+  x-semianalysis · 2026-09-07 · https://www.x.com/SemiAnalysis_/status/2097054644258103448
+
+【大模型】
+• OpenAI又被抓包失控，AI 时代的「熊猫烧香」不远了
+  36氪 · 2026-09-07 · https://www.36kr.com/p/3973034456969735
+• 韩国启动全民AI计划
+  36氪 · 2026-09-07 · https://www.36kr.com/p/3972836462686473
+• OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI
+  bloomberg-tech · 2026-09-07 · https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai
+• ByteDance Founder Joins AI Elite in Race to Perfect World Models
+  bloomberg-tech · 2026-09-07 · https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models
+
+【具身智能模型】
+• 宇树科技：全球首次实现世界模型实时驱动全自主人形机器人格斗
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/432.htm
+
+【智能驾驶】
+• 小米汽车：澎程系列 4 分钟锁单突破 1 万台
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/484.htm
+• RT by @aelluswamy: FSD Supervised now approved in Slovenia 🇸🇮  Rollout will begi
+  x-ashok · 2026-09-07 · https://www.x.com/teslaeurope/status/2097007168939593780
+• GOOD NEWS 🇭🇰 Tesla Cybercab has arrived in Hong Kong 🔥   🗓️ Date: Starting Septe
+  x-ming-tesla · 2026-09-07 · https://www.x.com/tslaming/status/2096961553786609893
+• 比亚迪：超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日
+  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/815.htm
+• 吉利星越 L PLUS 首发亮相：定位中大型旗舰智混 SUV，近期上市
+  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/829.htm
+
+【机器人硬件】
+• 消息称三星进入人形机器人赛道，计划在明年 CES 2027 首秀
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/466.htm
+
+【AI 消费硬件与脑机】
+• 驰为 UniBox AI495 Pro 迷你主机亮相，X 型金属框架设计
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/473.htm
+• 【视频】华为Mate XT2 三折叠首发开箱体验，全新展翼折叠屏，体验全方位提升
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/490.htm
+• vivo 最强影像旗舰 X500 系列手机官宣 9 月 21 日发布
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/462.htm
+• vivo X500 系列手机全球首发蓝图光御 900 传感器，CIPA 7.0 防抖、AI 摄影助手
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/452.htm
+
+【AI Agent】
+• DeepSeek的“官方外挂”，被一张梁文锋的表情包难倒了
+  36氪 · 2026-09-07 · https://www.36kr.com/p/3973065357285248
+• 从流量逻辑到任务逻辑，AI Agent正在终结互联网的免费午餐
+  36氪 · 2026-09-07 · https://www.36kr.com/p/3973178742747400
+• 为什么AI越聪明，越需要BI？
+  36氪 · 2026-09-07 · https://www.36kr.com/p/3973163226952199
+• How the AI ROI Gap Comes Down to Trust
+  bloomberg-tech · 2026-09-07 · https://www.bloomberg.com/news/videos/2026-09-07/how-the-ai-roi-gap-comes-down-to-trust-video
+
+【💰 财经动态】
+• 模型负责上天，三个“野心家”负责把AI落地
+  36氪 · 2026-09-07 · https://www.36kr.com/p/3973065986446985
+• 广汽集团：2021 年广汽资本参投长鑫科技，前瞻布局终获回报
+  IT之家 · 2026-09-05 · https://www.ithome.com/0/998/788.htm
+• 广汽集团：2026 年 1‑8 月累计销量突破 100 万辆，自主品牌同比增长 31.44%
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/477.htm
+</description>
+      <pubDate>Tue, 08 Sep 2026 05:40:45 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-08</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-08.mp3" length="11701646" type="audio/mpeg"/>
+      <itunes:duration>12:11</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：世界模型 Atlas 与空间智能</title>
       <description>YouTube 长访谈中文精华改编。
