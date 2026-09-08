@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 21:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:42:54 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,83 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/09 AI日报｜小米推玄戒O100芯片/阿里云算力紧张/三星联手Mistral AI</title>
+      <description>📋 今日要闻 · 2026-09-09
+
+【AI 基础设施】
+• 全球首款 6nm 3D 晶圆级堆叠先进封装，小米玄戒 O100 实现 330TPS 超高端侧推理速度
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/436.htm
+• 全国500座智算中心：一半是海水，一半是火焰
+  36氪 · 2026-09-08 · https://www.36kr.com/p/3974601044931073
+• Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation 
+  samsung-newsroom · 2026-09-08 · https://news.samsung.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing
+• Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Se
+  samsung-newsroom · 2026-09-09 · https://news.samsung.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure
+
+【大模型】
+• 两个Token就让Kimi“变成”Claude？前Google DeepMind研究员意外撞上中国大模型的蒸馏疑云
+  36氪 · 2026-09-08 · https://www.36kr.com/p/3974241618784520
+• We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was
+  x-sama · 2026-09-08 · https://www.x.com/sama/status/2097404861642137851
+• 科技巨头密集更新 AI 模型，“模型疲劳”问题凸显
+  IT之家 · 2026-09-06 · https://www.ithome.com/0/999/036.htm
+• Seattle Times and Newsday sue OpenAI and Microsoft for infringement
+  theverge · 2026-09-06 · https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft
+
+【具身智能模型】
+• 卡住机器人的从来不是芯片，而是物理数据荒漠，李飞飞把两个小时的繁琐扫街压到了三张照片
+  36氪 · 2026-09-07 · https://www.36kr.com/p/3973125912572161
+
+【智能驾驶】
+• 2026 款理想 i6 申报：搭载自研 5C 电池，9 月底开启预订
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/920.htm
+• 新款吉利银河 A7 EM-i 申报，可选激光雷达
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/917.htm
+• 预售 24.99 万起，比亚迪大汉 EV 旗舰轿车到店 32 城
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/483.htm
+
+【机器人硬件】
+• XPeng starts IRON humanoid robot production as Tesla Optimus stalls
+  electrek · 2026-09-08 · https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/
+• 一杯咖啡，AI+具身智能的新落点
+  36氪 · 2026-09-08 · https://www.36kr.com/p/3974703494557959
+
+【AI 消费硬件与脑机】
+• 苹果收购脑成像公司 Sonera，有望赋能 Apple Watch 健康功能
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/912.htm
+• Meta 智能眼镜引发美国执法机构担忧：或被用于秘密监控与恐袭侦察
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/896.htm
+• 豆包输入法推出 Windows 版，现已覆盖 PC、Mac、iOS、Android 和鸿蒙五大平台
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/934.htm
+
+【AI Agent】
+• 2026年，Agent安全正在成为AI落地的“第一命题”
+  36氪 · 2026-09-08 · https://www.36kr.com/p/3974587343548936
+• Linux终将统治桌面端、手写代码时代正在终结，Ruby on Rails之父DHH：“我已经变得可有可无”，AI正在接管编程
+  36氪 · 2026-09-08 · https://www.36kr.com/p/3974585912062212
+• 消息称 WhatsApp 将支持第三方 AI 智能体，顺应时代潮流
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/948.htm
+• 他让GPT-6管GPT-6，一周搭出曼哈顿
+  36氪 · 2026-09-08 · https://www.36kr.com/p/3974607913152775
+• 达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/945.htm
+
+【💰 财经动态】
+• Mistral raises €3B as sovereign AI becomes big business
+  techcrunch-ai · 2026-09-08 · https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/
+• Goldman Sachs in their recent note upgraded their global optical module market f
+  x-serenity · 2026-09-08 · https://www.x.com/aleabitoreddit/status/2097365614402969638
+• Cognition hits $48B valuation, signaling investors believe AI coding is far from
+  techcrunch-ai · 2026-09-08 · https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/
+</description>
+      <pubDate>Wed, 09 Sep 2026 05:42:54 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-09</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-09.mp3" length="12141757" type="audio/mpeg"/>
+      <itunes:duration>12:39</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/08 AI日报｜英伟达定义算力基建/AMD芯片性能激增/马来西亚拟用华为AI芯片</title>
       <description>📋 今日要闻 · 2026-09-08
