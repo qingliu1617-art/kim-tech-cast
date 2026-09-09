@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 21:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:43:02 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,91 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/10 AI日报｜长鑫存储量产LPDDR6/苹果推A20 Pro芯片/OpenAI称解千禧年难题</title>
+      <description>📋 今日要闻 · 2026-09-10
+
+【AI 基础设施】
+• 小米 18 Fold 首发搭载，长鑫官宣 LPDDR6 率先实现旗舰手机端量产
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/459.htm
+• Qualcomm CFO on Amazon AI Chip Deal, Data Center Strategy
+  bloomberg-tech · 2026-09-08 · https://www.bloomberg.com/news/videos/2026-09-08/qualcomm-cfo-on-amazon-ai-deal-data-center-strategy-video
+• 苹果发布 A20 Pro 芯片：2nm 制程，最快手机 CPU 核心，GPU 较前代快 40%
+  IT之家 · 2026-09-09 · https://www.ithome.com/1/000/495.htm
+• A Stealth Startup Thinks It Just Hacked the Memory Shortage
+  wired-ai · 2026-09-09 · https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/
+
+【大模型】
+• 苹果 iOS / iPadOS 27 RC 更新日志：升级 Siri AI，增强家长管控等
+  IT之家 · 2026-09-09 · https://www.ithome.com/1/000/536.htm
+• 苹果 macOS 27 RC 更新日志：全新 Siri AI、界面更精致、体验更可靠
+  IT之家 · 2026-09-09 · https://www.ithome.com/1/000/534.htm
+• OpenAI’s sly mathematical breakthrough sends a chill through academia
+  theverge · 2026-09-09 · https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes
+• Six Chinese AI firms accused of aggressively copying US frontier models
+  arstechnica · 2026-09-09 · https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/
+• Images 2.5 is here.  I don't think it can solve super difficult math problems, b
+  x-sama · 2026-09-08 · https://www.x.com/sama/status/2097410967978324010
+
+【具身智能模型】
+• 刚刚，能预测多智能体交互的世界模型来了
+  36氪 · 2026-09-08 · https://www.36kr.com/p/3974615552667911
+• 通往AGI之路，字节要同时修两条
+  36氪 · 2026-09-08 · https://www.36kr.com/p/3974526685442565
+
+【智能驾驶】
+• Three and a half years after setting the goal, Tesla’s rare-earth-free permanent
+  x-ming-tesla · 2026-09-09 · https://www.x.com/tslaming/status/2097673075739566532
+• 吉利银河战舰 700 将于 9 月 15 日开启预售，首发搭载 AI 新能源越野技术
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/939.htm
+• 理想再次申报 L9 Livis 车型：这次换上了自研电池
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/914.htm
+
+【AI 消费硬件与脑机】
+• Apple Debuts Foldable iPhone Duo in Biggest-Ever Device Revamp
+  bloomberg-tech · 2026-09-09 · https://www.bloomberg.com/news/videos/2026-09-09/apple-debuts-foldable-iphone-duo-in-biggest-ever-revamp-video
+• Apple Watch’s new AI features are normalizing the idea that technology is always
+  techcrunch-ai · 2026-09-09 · https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/
+• Apple Takes on AI Wearables With Always-Listening Watch Features
+  bloomberg-tech · 2026-09-09 · https://www.bloomberg.com/news/articles/2026-09-09/apple-takes-on-ai-wearables-with-always-listening-watch-features
+• 华强北AI产品占比升至61%：一公里生态如何做出爆款？
+  36氪 · 2026-09-09 · https://www.36kr.com/p/3975636096456322
+• Apple’s revamped Health app will calculate your ‘health age’ and readiness score
+  techcrunch-ai · 2026-09-09 · https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/
+
+【AI Agent】
+• Viral AI assistant Instinct now has its own email address
+  techcrunch-ai · 2026-09-09 · https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/
+• I Let an AI Agent Hack All My Gadgets—and I’d Do It Again
+  wired-ai · 2026-09-09 · https://www.wired.com/story/i-used-ai-to-hack-my-home-network/
+• “傻瓜式”剪片：Adobe Premiere 更新 AI 功能，时间线上能直接生成音视频素材
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/926.htm
+• On the Navier–Stokes Millennium Prize Problem
+  OpenAI Blog · 2026-09-08 · https://openai.com/index/navier-stokes-solution
+• 2026 荣耀全球开发者大会日程公布，MagicOS 11 定档 9 月 15 日晚
+  IT之家 · 2026-09-07 · https://www.ithome.com/0/999/493.htm
+
+【💰 财经动态】
+• Google deepens its commitment to Finland with a €13 billion investment in AI inf
+  google-blog · 2026-09-09 · https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/
+• AI让物理新发现“工业化”，比尔·盖茨创立的基金领投PSI种子轮融资
+  36氪 · 2026-09-09 · https://www.36kr.com/p/3975965199282441
+• Preferred Networks CEO Eyes IPO Amid AI Chip Race
+  bloomberg-tech · 2026-09-07 · https://www.bloomberg.com/news/videos/2026-09-07/preferred-networks-ceo-eyes-ipo-amid-ai-chip-race-video
+• $NBIS is back, and coming in hot with a new partnership with $PLTR.  Palantir al
+  x-serenity · 2026-09-08 · https://www.x.com/aleabitoreddit/status/2097327653116363127
+• “ONE FOR ALL”背后，帕西尼正在构建怎样的物理AI闭环？
+  36氪 · 2026-09-08 · https://www.36kr.com/p/3974392067109379
+• Dell Raises $5 Billion From Bond Sale, Sees Strong Demand
+  bloomberg-tech · 2026-09-09 · https://www.bloomberg.com/news/articles/2026-09-09/dell-seeks-to-raise-4-billion-from-bond-sale-to-refinance-debt
+</description>
+      <pubDate>Thu, 10 Sep 2026 05:43:02 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-10</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-10.mp3" length="11021626" type="audio/mpeg"/>
+      <itunes:duration>11:29</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/09 AI日报｜小米推玄戒O100芯片/三星携手Mistral AI/小鹏量产IRON机器人</title>
       <description>📋 今日要闻 · 2026-09-09
