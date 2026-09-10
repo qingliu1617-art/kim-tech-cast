@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 21:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:57:00 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,81 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/11 AI日报｜Suno 更换音乐模型/苹果发布折叠屏手机/GPT-6 执行视频剪辑</title>
+      <description>📋 今日要闻 · 2026-09-11
+
+【AI 基础设施】
+• Nvidia Chief Scientist Bill Dally: "What everyone is showing, acutally did see s
+  x-semianalysis · 2026-09-10 · https://www.x.com/SemiAnalysis_/status/2098034256018649295
+• Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change
+  arstechnica · 2026-09-08 · https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/
+• The rise in drive prices is being driven by AI and even HDDs can't hide
+  engadget · 2026-09-08 · https://www.engadget.com/2252075/drive-price-rise-driven-by-ai-even-hdd-affected/
+• Samsung's fab in Taylor, Texas is slated to begin trial runs by early next month
+  x-ming-tesla · 2026-09-08 · https://www.x.com/tslaming/status/2097288616162574574
+
+【大模型】
+• Suno replaces its AI models with a new one trained on licensed music as copyrigh
+  techcrunch-ai · 2026-09-09 · https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/
+• 27岁研究员连辞OpenAI、Anthropic，两家都在拿我们的命下注
+  36氪 · 2026-09-09 · https://www.36kr.com/p/3975901895635462
+• RT by @sama: Congratulations Levent, Tristan, and OpenAI! What a miraculous time
+  x-sama · 2026-09-08 · https://www.x.com/TrapitBansal/status/2097389019604918537
+• RT by @sama: My team worked very hard on the setup, infra, and the runs that res
+  x-sama · 2026-09-08 · https://www.x.com/mobav0/status/2097394736776798555
+• IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-frien
+  Hugging Face · 2026-09-09 · https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
+
+【智能驾驶】
+• Data confirms Autopilot/FSD was active in crash that killed a mother, passerby s
+  electrek · 2026-09-09 · https://electrek.co/2026/09/09/tesla-driver-assist-road-departure-vinemont/
+• 阿维塔“9 系高端旗舰 SUV”T09 申报，提供三电机插混动力车型
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/911.htm
+• 比亚迪：网传“闪充车型订单积压 25 万辆”消息不实
+  IT之家 · 2026-09-08 · https://www.ithome.com/0/999/899.htm
+• BEV sales grow in China in August, everything else drops – including Tesla
+  electrek · 2026-09-08 · https://electrek.co/2026/09/08/bev-sales-grow-in-china-in-august-everything-else-drops-including-tesla/
+
+【AI 消费硬件与脑机】
+• 1999 美元起苹果首款折叠屏手机 iPhone Duo 正式发布：支持 Apple Pencil、内屏引入屏下摄像头、A20 Pro 处理器...
+  IT之家 · 2026-09-09 · https://www.ithome.com/1/000/511.htm
+• 苹果首秀 iPhone Duo 双电池系统，60W 充电器约 20 分钟最多可充至 50% 电量
+  IT之家 · 2026-09-09 · https://www.ithome.com/1/000/519.htm
+• 苹果 AirPods 5 发布：全新自适应均衡功能、支持主动降噪，129 美元起
+  IT之家 · 2026-09-09 · https://www.ithome.com/1/000/500.htm
+• Everything Apple announced at its fall iPhone event, from the foldable iPhone Du
+  techcrunch-ai · 2026-09-09 · https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/
+• 苹果 AirPods 5 发布：全新自适应均衡功能、支持主动降噪，129 美元起
+  IT之家 · 2026-09-09 · https://www.ithome.com/1/000/500.htm
+
+【AI Agent】
+• 说句实话，GPT-6将冲击大量白领的工作
+  36氪 · 2026-09-09 · https://www.36kr.com/p/3976038677295367
+• 福利：复旦「学术版 Codex」客户端上线，下载登录就送1 万积分，还可享会员 8 折
+  小众软件 · 2026-09-09 · https://www.appinn.com/qiewenpaper-codex-2/
+• Sequoia doubles down on Cymphony as AI agents create new enterprise security ris
+  techcrunch-ai · 2026-09-09 · https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/
+• Google Cloud races to catch up in the AI deployment wars with Accenture deal
+  techcrunch-ai · 2026-09-08 · https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/
+• How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)
+  x-lenny · 2026-09-08 · https://www.youtube.com/watch?v=maSdsTLaMuU
+
+【💰 财经动态】
+• Jensen Huang explains why Nvidia will grow an astounding 70% next year
+  techcrunch-ai · 2026-09-10 · https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/
+• Blackstone’s AirTrunk Seeks $1.6 Billion Loan for Singapore IPO
+  bloomberg-tech · 2026-09-10 · https://www.bloomberg.com/news/articles/2026-09-10/blackstone-s-airtrunk-seeks-1-6-billion-loan-for-singapore-ipo
+• 收入涨12倍，AI社交正疯狂赚钱：微信也下场了
+  36氪 · 2026-09-08 · https://www.36kr.com/p/3974690189423104
+</description>
+      <pubDate>Fri, 11 Sep 2026 07:57:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-11</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-11.mp3" length="9147915" type="audio/mpeg"/>
+      <itunes:duration>09:32</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/10 AI日报｜长鑫存储量产LPDDR6/苹果发布A20 Pro芯片/OpenAI称解千禧年难题</title>
       <description>📋 今日要闻 · 2026-09-10
