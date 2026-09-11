@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 23:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:41:55 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,85 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/12 AI日报｜NVIDIA推GB300背板/OpenAI推语音模型/字节阿里腾讯押注AI办公</title>
+      <description>📋 今日要闻 · 2026-09-12
+
+【AI 基础设施】
+• ALERT🚨 GB300 NVL72 NVLINK BACKPLANE ENABLES 13x BETTER PERF PER DOLLAR THAN HOPP
+  x-semianalysis · 2026-09-11 · https://www.x.com/SemiAnalysis_/status/2098238630015705267
+• 智能体时代的移动计算，Arm 通过一场大会给出自己的答案
+  IT之家 · 2026-09-11 · https://www.ithome.com/1/001/434.htm
+• Microsoft Plans Data Center Push to Triple Its Computing Power
+  bloomberg-tech · 2026-09-11 · https://www.bloomberg.com/news/videos/2026-09-11/microsoft-plans-data-center-push-video
+
+【大模型】
+• 谁能“叫停”Anthropic？
+  36氪 · 2026-09-11 · https://www.36kr.com/p/3978804774747140
+• NASA 与 IBM 联合发布开源月球研究基础大模型，可识别月表冰区与撞击坑
+  IT之家 · 2026-09-10 · https://www.ithome.com/1/000/986.htm
+• Build more natural voice experiences with GPT‑Live‑1 in the API
+  OpenAI Blog · 2026-09-10 · https://openai.com/index/introducing-gpt-live-1-in-the-api
+
+【具身智能模型】
+• 从GitHub爆火到ECCV Oral，全球开发者把LingBot-Map玩出新高度
+  36氪 · 2026-09-11 · https://www.36kr.com/p/3978621641718532
+• 世界模型大混战：55家公司，7个门派，谁在真做世界模型？
+  36氪 · 2026-09-11 · https://www.36kr.com/p/3978506224883589
+
+【智能驾驶】
+• 曝一汽-大众捷达品牌首款纯电轿车 M6 采用纯视觉智驾，预计下月中上市
+  IT之家 · 2026-09-11 · https://www.ithome.com/1/001/445.htm
+• RT by @elonmusk: New pod with @SawyerMerritt diving into the Tesla Cybercab: Wha
+  x-elonmusk · 2026-09-10 · https://www.x.com/KevinOConnor/status/2098148756902355336
+• 美众议员呼吁 NHTSA 调查特斯拉：有司机故意开着辅助驾驶睡觉
+  IT之家 · 2026-09-10 · https://www.ithome.com/1/001/031.htm
+
+【AI 消费硬件与脑机】
+• 稳定版发布进入最后倒计时，苹果 iOS / iPadOS 27 RC 推送
+  IT之家 · 2026-09-09 · https://www.ithome.com/1/000/525.htm
+• 【IT之家实拍】苹果 iPhone 18 Pro 系列抢先看：新增可变光圈技术、首发 A20 Pro 芯片
+  IT之家 · 2026-09-09 · https://www.ithome.com/1/000/523.htm
+• 苹果首款折叠屏手机 iPhone Duo 外观正式亮相
+  IT之家 · 2026-09-09 · https://www.ithome.com/1/000/504.htm
+• The hinge for Apple’s new foldable phone was built with AI
+  techcrunch-ai · 2026-09-09 · https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/
+• How the new Apple Watches compare to the last-gen models
+  theverge · 2026-09-09 · https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison
+
+【AI Agent】
+• 字节、阿里、腾讯同时收兵：AI办公进入淘汰赛
+  36氪 · 2026-09-11 · https://www.36kr.com/p/3978718620269568
+• 智能体如何在企业“上岗”？一份来自制造业实践白皮书的启示
+  36氪 · 2026-09-10 · https://www.36kr.com/p/3977451451380224
+• 高通全球副总裁夏权：个人 AI 时代，每个人都拥有自己的智能体
+  IT之家 · 2026-09-10 · https://www.ithome.com/1/001/040.htm
+
+【💰 财经动态】
+• 这家小公司估值已达180亿美元：谷歌挑战英伟达的“秘密武器”
+  36氪 · 2026-09-11 · https://www.36kr.com/p/3978787152722944
+• DeepSeek的IPO，两个现实一个目标
+  36氪 · 2026-09-11 · https://www.36kr.com/p/3978850293077890
+• AI Firm Cohere in Talks for Up to $3 Billion Raise, Report Says
+  bloomberg-tech · 2026-09-11 · https://www.bloomberg.com/news/articles/2026-09-11/ai-firm-cohere-in-talks-for-up-to-3-billion-raise-report-says
+• Oracle Boosts Layoffs Plan by $700 Million
+  bloomberg-tech · 2026-09-11 · https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million
+• 和梁文锋师出同门，浙大00后做世界模型，将再融10亿元｜36氪首发
+  36氪 · 2026-09-11 · https://www.36kr.com/p/3978921197140998
+• Token首次写进险企财报，AI的经营回报怎么算
+  36氪 · 2026-09-11 · https://www.36kr.com/p/3978800125295368
+
+【🎙️ 关键人物：李梓楠】
+• 180｜具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速（总结与逐字稿）
+  知识库精读 · 2026-09-11 · https://www.xiaoyuzhoufm.com/episode/6a975cf93c03b556ab686b9d
+</description>
+      <pubDate>Sat, 12 Sep 2026 05:41:55 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-12</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-12.mp3" length="12226185" type="audio/mpeg"/>
+      <itunes:duration>12:44</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/11 AI日报｜Suno 更换音乐模型/苹果发布折叠屏手机/GPT-6 执行视频剪辑</title>
       <description>📋 今日要闻 · 2026-09-11
