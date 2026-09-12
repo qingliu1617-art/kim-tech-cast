@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 21:40:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:41:53 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -88,10 +88,10 @@
 • 谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板
   IT之家 · 2026-09-12 · https://www.ithome.com/1/001/653.htm
 </description>
-      <pubDate>Sun, 13 Sep 2026 05:40:21 +0800</pubDate>
+      <pubDate>Sun, 13 Sep 2026 05:41:53 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-09-13</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-13.mp3" length="11731739" type="audio/mpeg"/>
-      <itunes:duration>12:13</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-13.mp3" length="11720454" type="audio/mpeg"/>
+      <itunes:duration>12:12</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
