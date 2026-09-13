@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 21:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:39:52 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,85 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/14 AI日报｜OpenAI 推出 AI 实习生/中国移动发布 AITC/长飞光纤创损耗新低</title>
+      <description>📋 今日要闻 · 2026-09-14
+
+【AI 基础设施】
+• 黄仁勋：供应链上下游均面临挑战
+  知识库精读 · 2026-09-13 · https://mp.weixin.qq.com/s/iKHKJwTHl_PJDS4jkrD81Q
+• 中国移动发布 AI 可信计算：提供多形态机密算力和机密 Token
+  IT之家 · 2026-09-12 · https://www.ithome.com/1/001/650.htm
+• 创全球最低传输损耗新纪录，长飞反谐振空芯光纤衰减突破至 0.032dB / km
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/867.htm
+• 消息称富士通最早 2027 年开始向海外销售 FUJITSU-MONAKA 处理器
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/866.htm
+
+【大模型】
+• AI开始研究AI，OpenAI「研究实习生」上岗，奥特曼画的饼已兑现一半
+  36氪 · 2026-09-11 · https://www.36kr.com/p/3978922476125191
+• OpenAI just wants to win
+  theverge · 2026-09-12 · https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition
+• 官宣，OpenAI关停史上最快模型
+  36氪 · 2026-09-13 · https://www.36kr.com/p/3981223980923651
+• 谷歌 DeepMind 安全研究员离职，称 AI 五年内造成巨大危害的概率高得吓人
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/843.htm
+• AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher t
+  bbc-tech · 2026-09-13 · https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss
+
+【具身智能模型】
+• WBC 之后，我们发现一个更终局的方向才刚刚开始
+  知识库精读 · 2026-09-13
+• 蚂蚁灵波开源三款 LingBot-World 2.0 世界模型：Small 参数 1.3B 面向消费级单卡 GPU 设计
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/863.htm
+• China’s Data Regulator Plans Standards Push for Embodied AI
+  bloomberg-tech · 2026-09-13 · https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai
+
+【智能驾驶】
+• 华为乾崑智驾 ADS 5 加持，东风奕境安全技术讲解会明日举行
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/842.htm
+• Waymo 自动驾驶出租车监测到乘客携带枪支，协助警方逮捕两名未成年人
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/834.htm
+• Zürich Airport deploys L4 autonomous shuttle – WITHOUT a human monitor
+  electrek · 2026-09-13 · https://electrek.co/2026/09/13/zurich-airport-deploys-l4-autonomous-shuttle-without-a-human-monitor/
+
+【机器人硬件】
+• 英伟达员工离职创业，黄仁勋坦诚建言并投资
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/830.htm
+
+【AI 消费硬件与脑机】
+• 中国联通：支持国行所有 eSIM 手机业务办理，针对本月新发布的华为和苹果手机推出尝鲜季活动
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/849.htm
+• 惠普星 Desk Mini 迷你主机上架：Ultra 5 325/7 356H，9599 元起
+  IT之家 · 2026-09-12 · https://www.ithome.com/1/001/658.htm
+• 全球首款 AI 智能体手机，努比亚 NaviX Ultra 将搭载 2 亿像素主摄
+  IT之家 · 2026-09-11 · https://www.ithome.com/1/001/459.htm
+
+【AI Agent】
+• OpenAI把Codex“拆开卖了”
+  36氪 · 2026-09-12 · https://www.36kr.com/p/3979785466730377
+• 鸿蒙版腾讯视频首发端侧 A2A 能力，一句指令唤醒跨应用智能服务
+  IT之家 · 2026-09-12 · https://www.ithome.com/1/001/606.htm
+• AI Agents Are Thirsty for Power
+  wired-ai · 2026-09-13 · https://www.wired.com/story/ai-agents-are-thirsty-for-power/
+• vivo OriginOS 7 预热：全新蓝心小 V 一句话办事，搭载液态动效
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/857.htm
+
+【💰 财经动态】
+• 智谱宣布完成约 50 亿美元融资，用于下一代 GLM 基础模型研发等
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/833.htm
+• 算力词元贷加速全国推广，支持机房建设、GPU 服务器集群采购
+  IT之家 · 2026-09-12 · https://www.ithome.com/1/001/656.htm
+• 洛图科技：中国智能眼镜线上规模首次下跌，7 月销量同比下降 15%
+  IT之家 · 2026-09-12 · https://www.ithome.com/1/001/602.htm
+</description>
+      <pubDate>Mon, 14 Sep 2026 05:39:52 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-14</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-14.mp3" length="12682178" type="audio/mpeg"/>
+      <itunes:duration>13:13</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/13 AI日报｜思特威推车规传感器/优必选工厂投产/豆包发布工作Agent</title>
       <description>📋 今日要闻 · 2026-09-13
