@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 21:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:40:16 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -25,7 +25,7 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>09/14 AI日报｜OpenAI 推出 AI 实习生/中国移动发布 AITC/长飞光纤创损耗新低</title>
+      <title>09/14 AI日报｜OpenAI 推出 AI 实习生/中国移动发布可信计算/长飞光纤创损耗新低</title>
       <description>📋 今日要闻 · 2026-09-14
 
 【AI 基础设施】
@@ -96,10 +96,10 @@
 • 洛图科技：中国智能眼镜线上规模首次下跌，7 月销量同比下降 15%
   IT之家 · 2026-09-12 · https://www.ithome.com/1/001/602.htm
 </description>
-      <pubDate>Mon, 14 Sep 2026 05:39:52 +0800</pubDate>
+      <pubDate>Mon, 14 Sep 2026 05:40:16 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-09-14</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-14.mp3" length="12682178" type="audio/mpeg"/>
-      <itunes:duration>13:13</itunes:duration>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-14.mp3" length="14031768" type="audio/mpeg"/>
+      <itunes:duration>14:37</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
