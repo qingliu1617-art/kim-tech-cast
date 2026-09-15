@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 01:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:02:24 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,85 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/16 AI日报｜Meta 自研 AI 芯片/华为发布 3D 数据中心/特斯拉被查 Cybercab</title>
+      <description>📋 今日要闻 · 2026-09-16
+
+【AI 基础设施】
+• 将降本增效进行到底，Meta 计划明年上半年部署新一代自研 AI 芯片
+  IT之家 · 2026-09-15 · https://www.ithome.com/1/002/790.htm
+• 华为发布全球首个 3D 数据中心
+  IT之家 · 2026-09-15 · https://www.ithome.com/1/002/762.htm
+• AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy
+  NVIDIA Blog · 2026-09-15 · https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/
+• US data centers could consume more natural gas than Germany and Japan combined b
+  techcrunch-ai · 2026-09-15 · https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/
+
+【大模型】
+• OpenAI o1功臣预警：AI还没失控，我们已经快测不准它了
+  36氪 · 2026-09-15 · https://www.36kr.com/p/3984613817973769
+• Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking
+  Google DeepMind · 2026-09-15 · https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/
+• macOS 27 is available now
+  theverge · 2026-09-14 · https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now
+• Apple releases iOS 27 with Siri AI overhaul
+  theverge · 2026-09-14 · https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update
+• New York Seizes a Dozen Celebrity Deepfake Websites
+  wired-ai · 2026-09-14 · https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/
+
+【智能驾驶】
+• NHTSA orders Tesla to prove its Cybercab is legal to sell, under oath
+  electrek · 2026-09-15 · https://electrek.co/2026/09/15/nhtsa-tesla-cybercab-special-order-fmvss-certification/
+• Tesla’s record month: 4 fatal Autopilot and Full Self-Driving crashes
+  electrek · 2026-09-15 · https://electrek.co/2026/09/15/tesla-four-fatal-driver-assist-crashes-july-2026/
+• 比亚迪辅助驾驶车型保有量超 372 万辆，天神之眼每天生成数据超 2.3 亿公里
+  IT之家 · 2026-09-15 · https://www.ithome.com/1/002/772.htm
+• 消息称智界搭载主动悬架车型计划明年亮相，操稳性能开发项目采购公告曝光
+  IT之家 · 2026-09-15 · https://www.ithome.com/1/002/758.htm
+
+【机器人硬件】
+• Agility’s new humanoid robot will stop, squat to avoid harming human coworkers
+  arstechnica · 2026-09-15 · https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/
+
+【AI 消费硬件与脑机】
+• 红魔姜超：红魔 12 系列手机只升配不降配，搭载独家第九代屏下全面屏
+  IT之家 · 2026-09-15 · https://www.ithome.com/1/002/797.htm
+• Microsoft announces Windows and Surface event for October 7th
+  theverge · 2026-09-15 · https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco
+• This doorbell camera lets a human security guard watch your front door
+  theverge · 2026-09-15 · https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs
+• Steam Frame: The Ars Technica review
+  arstechnica · 2026-09-14 · https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/
+• 虹膜支付，何时才能跳出AI眼镜的演示噱头？
+  36氪 · 2026-09-15 · https://www.36kr.com/p/3984460992288642
+
+【AI Agent】
+• 豆包手机明日开卖，AI能帮你操作App了吗？
+  36氪 · 2026-09-15 · https://www.36kr.com/p/3984764117007111
+• OpenAI押注RSI，国产AI火速交卷，Flash叫板万亿大模型
+  36氪 · 2026-09-15 · https://www.36kr.com/p/3984425091152644
+• 荣耀 AgenticOS 亮相，10 月面向 Magic9 系列用户开放尝鲜招募与推送
+  IT之家 · 2026-09-15 · https://www.ithome.com/1/002/791.htm
+• Introducing Meta One: A Subscription Service With More Features and AI to Create
+  meta-newsroom · 2026-09-15 · https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/
+• 被AI代码“淹没”，微软也扛不住了？不到一个月两度“自曝家丑”：Bug修不过来，插件也审不过来
+  36氪 · 2026-09-15 · https://www.36kr.com/p/3984227046374403
+
+【💰 财经动态】
+• “全华班”打造的AI程序员，估值480亿美元
+  36氪 · 2026-09-13 · https://www.36kr.com/p/3981230650522630
+• 知名哲学家造AI芯片，融资超15亿，前ASML总裁加盟
+  36氪 · 2026-09-15 · https://www.36kr.com/p/3984446218943489
+• 京东建十万卡，字节借296亿：大厂为何还在加码AI？
+  36氪 · 2026-09-15 · https://www.36kr.com/p/3984300425582470
+</description>
+      <pubDate>Wed, 16 Sep 2026 07:02:24 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-16</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-16.mp3" length="12322315" type="audio/mpeg"/>
+      <itunes:duration>12:50</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/15 AI日报｜高通三星磋商2nm代工/AI-eSIM标准启动编制/Waymo无人车登陆拉斯维加斯</title>
       <description>📋 今日要闻 · 2026-09-15
