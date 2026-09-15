@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 21:40:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:00:33 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,71 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/15 AI日报｜黄仁勋拒放缓AI/OpenAI称已迈入AGI/苹果推Siri AI硬件</title>
+      <description>📋 今日要闻 · 2026-09-15
+
+【AI 基础设施】
+• Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] hap
+  techcrunch-ai · 2026-09-14 · https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/
+• AI推理大爆发，“悲催”闪迪真有凤凰涅槃？
+  36氪 · 2026-09-14 · https://www.36kr.com/p/3983256958614280
+
+【大模型】
+• OpenAI 联合创始人布罗克曼：人类已迈入通用人工智能时代
+  IT之家 · 2026-09-14 · https://www.ithome.com/1/002/341.htm
+• 前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了
+  36氪 · 2026-09-14 · https://www.36kr.com/p/3982939275639809
+• AI能解千禧难题，也能杀死人类？华尔街日报拉响末日警报
+  36氪 · 2026-09-14 · https://www.36kr.com/p/3982955988286465
+• 马斯克旗下 X 公司与 SpaceXAI 撤回对苹果的反垄断诉讼，针对 OpenAI 继续追责
+  IT之家 · 2026-09-14 · https://www.ithome.com/1/002/314.htm
+
+【智能驾驶】
+• 国家发改委：积极支持大型汽车企业集团开展改革，以市场化、法制化方式推进企业间兼并重组
+  IT之家 · 2026-09-12 · https://www.ithome.com/1/001/654.htm
+• 一句话加油、买电影票，理想汽车联合支付宝升级智舱全场景生态服务
+  IT之家 · 2026-09-12 · https://www.ithome.com/1/001/642.htm
+• 鸿蒙智行问界 M9 Ultimate 领世加长版开启全国交付，64.98 万元起
+  IT之家 · 2026-09-12 · https://www.ithome.com/1/001/632.htm
+• 赛力斯张兴海：只靠硬件堆砌难以造出豪华车
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/807.htm
+
+【AI 消费硬件与脑机】
+• 古尔曼盘点苹果 2026~2027 年后续新品：触屏 MacBook Pro 年底登场， iPad mini 首次采用 OLED 屏
+  IT之家 · 2026-09-14 · https://www.ithome.com/1/002/344.htm
+• 苹果为 AirPods Pro 3 等耳机推送 9A348 新固件
+  IT之家 · 2026-09-14 · https://www.ithome.com/1/002/336.htm
+• Apple Home’s new security camera features cost as much as $60 a month
+  theverge · 2026-09-14 · https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription
+
+【AI Agent】
+• Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick h
+  techcrunch-ai · 2026-09-14 · https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/
+• How Fyxer built an AI executive assistant people trust
+  OpenAI Blog · 2026-09-14 · https://openai.com/index/fyxer
+• 英国试点 AI 训练营，帮助待业青年破解就业难题
+  IT之家 · 2026-09-13 · https://www.ithome.com/1/001/822.htm
+• 上下文税：企业AI的隐形瓶颈
+  36氪 · 2026-09-14 · https://www.36kr.com/p/3982853180013313
+
+【💰 财经动态】
+• Chubu Electric Chiefs to Quit Over Nuclear Data Fraud, NHK Says
+  bloomberg-tech · 2026-09-13 · https://www.bloomberg.com/news/articles/2026-09-13/chubu-electric-chiefs-to-quit-over-nuclear-data-fraud-nhk-says
+• 消息称高瓴创投合伙人严文韬有望加入 DeepSeek，担任首席财务官
+  IT之家 · 2026-09-14 · https://www.ithome.com/1/002/284.htm
+• 杨植麟为何要“登月”？
+  36氪 · 2026-09-14 · https://www.36kr.com/p/3983046892567552
+• Superhuman acquires YC-backed notetaker Fathom as productivity platforms push fo
+  techcrunch-ai · 2026-09-14 · https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/
+</description>
+      <pubDate>Tue, 15 Sep 2026 08:00:33 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-15</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-15.mp3" length="10007239" type="audio/mpeg"/>
+      <itunes:duration>10:25</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/14 AI日报｜OpenAI 推出 AI 实习生/中国移动发布可信计算/长飞光纤创损耗新低</title>
       <description>📋 今日要闻 · 2026-09-14
