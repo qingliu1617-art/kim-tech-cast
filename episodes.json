@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-09-17",
+    "guid": "ai-daily-2026-09-17",
+    "title": "09/17 AI日报｜比亚迪量产4nm智驾芯片/Meta推无摄像头AI眼镜/OpenAI披露模型失准案例",
+    "description": "📋 今日要闻 · 2026-09-17\n\n【AI 基础设施】\n• 比亚迪董秘李黔：未来会继续在半导体领域投入和发力，中国首款车规级 4nm 智驾芯片璇玑 A3 已开启规模化量产\n  IT之家 · 2026-09-17 · https://www.ithome.com/1/003/363.htm\n• University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across th\n  NVIDIA Blog · 2026-09-16 · https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/\n\n【AI 消费硬件与脑机】\n• Meta is reportedly gearing up to launch new smart glasses without a camera\n  engadget · 2026-09-16 · https://www.engadget.com/2259838/meta-smart-glasses-without-a-camera/\n\n【AI Agent】\n• Our framework for reporting model misalignment\n  OpenAI Blog · 2026-09-16 · https://openai.com/index/model-misalignment-reporting-framework\n• Reimagining advertising with AI\n  OpenAI Blog · 2026-09-16 · https://openai.com/index/reimagining-advertising-with-ai\n• AI labs want in-house auditors — but maybe they should shut the front door first\n  techcrunch-ai · 2026-09-16 · https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/\n",
+    "pub_date": "Thu, 17 Sep 2026 08:23:01 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-17.mp3",
+    "audio_size": 3747883,
+    "audio_mime": "audio/mpeg",
+    "duration": "03:54",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-09-16",
     "guid": "ai-daily-2026-09-16",
     "title": "09/16 AI日报｜Meta 自研 AI 芯片/华为发布 3D 数据中心/特斯拉被查 Cybercab",

@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 23:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:23:01 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,35 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/17 AI日报｜比亚迪量产4nm智驾芯片/Meta推无摄像头AI眼镜/OpenAI披露模型失准案例</title>
+      <description>📋 今日要闻 · 2026-09-17
+
+【AI 基础设施】
+• 比亚迪董秘李黔：未来会继续在半导体领域投入和发力，中国首款车规级 4nm 智驾芯片璇玑 A3 已开启规模化量产
+  IT之家 · 2026-09-17 · https://www.ithome.com/1/003/363.htm
+• University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across th
+  NVIDIA Blog · 2026-09-16 · https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/
+
+【AI 消费硬件与脑机】
+• Meta is reportedly gearing up to launch new smart glasses without a camera
+  engadget · 2026-09-16 · https://www.engadget.com/2259838/meta-smart-glasses-without-a-camera/
+
+【AI Agent】
+• Our framework for reporting model misalignment
+  OpenAI Blog · 2026-09-16 · https://openai.com/index/model-misalignment-reporting-framework
+• Reimagining advertising with AI
+  OpenAI Blog · 2026-09-16 · https://openai.com/index/reimagining-advertising-with-ai
+• AI labs want in-house auditors — but maybe they should shut the front door first
+  techcrunch-ai · 2026-09-16 · https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/
+</description>
+      <pubDate>Thu, 17 Sep 2026 08:23:01 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-17</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-17.mp3" length="3747883" type="audio/mpeg"/>
+      <itunes:duration>03:54</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/16 AI日报｜Meta 自研 AI 芯片/华为发布 3D 数据中心/特斯拉被查 Cybercab</title>
       <description>📋 今日要闻 · 2026-09-16
