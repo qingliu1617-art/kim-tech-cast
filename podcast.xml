@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 00:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:44:46 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,93 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/19 AI日报｜Gemini 4 Pro空降/Claude被用于入侵/紫东太初开源具身模型</title>
+      <description>📋 今日要闻 · 2026-09-19
+
+【AI 基础设施】
+• 苹果 M5 Ultra 款 Mac Studio 性能再曝：Metal GPU 跑分较 M3 Ultra 快 56.2%
+  IT之家 · 2026-09-18 · https://www.ithome.com/1/003/912.htm
+• 144 Tesla Megapacks power Australia’s first 8-hour grid battery
+  electrek · 2026-09-18 · https://electrek.co/2026/09/18/tesla-megapack-australia-first-8-hour-battery-rwe-limondale/
+• These rapid improvement can be attributed to both AMD's amazing SGLang team as w
+  x-semianalysis · 2026-09-17 · https://www.x.com/SemiAnalysis_/status/2100661182369611849
+
+【大模型】
+• 谷歌终于支棱起来了，Gemini 4 Pro空降Arena榜单，13项跑分碾压GPT-6和Fable
+  36氪 · 2026-09-18 · https://www.36kr.com/p/3988438306388737
+• 88小时抵一个人思考4000年，OpenAI核心研究员：除了自我进化，更可怕的是AI正学会“隐藏自己”
+  36氪 · 2026-09-18 · https://www.36kr.com/p/3988815751805954
+• Researchers used Anthropic’s Claude to hack into OpenAI
+  techcrunch-ai · 2026-09-18 · https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/
+• 谷歌最强 AI 模型：Gemini 4 Pro 开测，SVG 生图表现惊艳
+  IT之家 · 2026-09-18 · https://www.ithome.com/1/003/902.htm
+• 谷歌最强数学推理 AI 模型曝光：100 万词元上下文，专攻数学难题
+  IT之家 · 2026-09-18 · https://www.ithome.com/1/003/922.htm
+
+【具身智能模型】
+• 物理AI拐点：国产空间具身智能底座，为什么是紫东太初被看见
+  36氪 · 2026-09-18 · https://www.36kr.com/p/3988709211159299
+• 千寻智能联合创始人高阳：人形机器人最快明年就能“听懂人话”，真正“帮人做事”仍需时日
+  IT之家 · 2026-09-18 · https://www.ithome.com/1/004/327.htm
+• 长安汽车首席专家谭欢：未来要用机器人造车、卖车，让机器人上车、造机器人
+  IT之家 · 2026-09-18 · https://www.ithome.com/1/004/337.htm
+• World model companies are keeping a lot of secrets
+  techcrunch-ai · 2026-09-18 · https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/
+
+【智能驾驶】
+• XPeng shops its self-driving tech to automakers — Tesla found no takers
+  electrek · 2026-09-18 · https://electrek.co/2026/09/18/xpeng-license-self-driving-tech-automakers-tesla-fsd/
+• Waymo is expanding to Singapore
+  engadget · 2026-09-18 · https://www.engadget.com/2262023/waymo-is-expanding-to-singapore/
+• STRONG SIGNAL 🇦🇺 🇳🇿 Tesla is hiring AI Vehicle Operators across Melbourne, Brisb
+  x-ming-tesla · 2026-09-18 · https://www.x.com/tslaming/status/2100880244907335848
+
+【机器人硬件】
+• 机器人，去养猪场摔猪
+  36氪 · 2026-09-18 · https://www.36kr.com/p/3987462269565958
+• AI进入物理世界，京东物流为什么选择了一条「不性感」的路
+  36氪 · 2026-09-18 · https://www.36kr.com/p/3988793109379845
+• 加州一县拟议新政：用机器人替代人力的企业，应提供同酬就业机会或遣散费、培训费
+  IT之家 · 2026-09-18 · https://www.ithome.com/1/004/285.htm
+
+【AI 消费硬件与脑机】
+• 豆包手机，先踩了一脚刹车
+  36氪 · 2026-09-18 · https://www.36kr.com/p/3988565069363972
+• 联想推出高通骁龙 C C11-0100 平台 WoA 笔电 IdeaPad Slim 3x (11)
+  IT之家 · 2026-09-18 · https://www.ithome.com/1/003/923.htm
+• Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy
+  theverge · 2026-09-18 · https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale
+• 体验：当 vivo 蓝心小 V 升级 Pro 之后，OriginOS 7 开始变得不一样了
+  IT之家 · 2026-09-16 · https://www.ithome.com/1/003/305.htm
+
+【AI Agent】
+• AI回答准确率仅21.2%，联合国联手谷歌救场，重构全球公开数据
+  36氪 · 2026-09-18 · https://www.36kr.com/p/3988730896160642
+• 智谱实现RSI最小闭环，A社：我来监督
+  36氪 · 2026-09-18 · https://www.36kr.com/p/3988417023071872
+• MiniMax Code CLI 正式开源，在评测中取得 76.7% 的任务通过率
+  IT之家 · 2026-09-18 · https://www.ithome.com/1/004/319.htm
+• A project builds over time. Every thread adds to and draws from its shared memor
+  x-claude · 2026-09-17 · https://www.x.com/claudeai/status/2100632684074549309
+
+【💰 财经动态】
+• 全面追赶 OpenAI，消息称 Anthropic 计划在今年年底前拥有约 5 吉瓦可用算力、明年年底翻倍
+  IT之家 · 2026-09-18 · https://www.ithome.com/1/004/322.htm
+• 6.5亿美元押注“AI研究AI”：一群顶级研究员想造出“自我进化”的超级智能
+  36氪 · 2026-09-18 · https://www.36kr.com/p/3988438350723844
+• Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops
+  techcrunch-ai · 2026-09-18 · https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/
+• 印度半导体新政出台两个月，吸引最高 120 亿美元投资承诺
+  IT之家 · 2026-09-18 · https://www.ithome.com/1/004/332.htm
+</description>
+      <pubDate>Sat, 19 Sep 2026 05:44:46 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-19</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-19.mp3" length="12913310" type="audio/mpeg"/>
+      <itunes:duration>13:27</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/17 AI日报｜比亚迪量产4nm智驾芯片/Meta推无摄像头AI眼镜/OpenAI披露模型失准案例</title>
       <description>📋 今日要闻 · 2026-09-17
