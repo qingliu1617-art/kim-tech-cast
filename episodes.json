@@ -12,6 +12,18 @@
     "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
   },
   {
+    "date": "2026-09-20",
+    "guid": "ai-daily-2026-09-20",
+    "title": "09/20 AI日报｜微软推NPU超分/Anthropic拟提前发模型/华为智驾上新车",
+    "description": "📋 今日要闻 · 2026-09-20\n\n【AI 基础设施】\n• 第 3 代英特尔酷睿 Ultra 处理器现已支持微软 NPU 超分辨率技术 Auto SR\n  IT之家 · 2026-09-20 · https://www.ithome.com/1/004/626.htm\n• 苹果 M6 芯片 GPU 跑分曝光，相比 M5 提升约 20%\n  IT之家 · 2026-09-19 · https://www.ithome.com/1/004/576.htm\n\n【大模型】\n• Astra两周抢走13%份额，Anthropic或提前发新模型\n  36氪 · 2026-09-19 · https://www.36kr.com/p/3989918704237314\n• Gemini went rogue, hacked three companies, and Google hid it\n  theverge · 2026-09-19 · https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack\n• 离谱，OpenAI被Opus 5黑了\n  36氪 · 2026-09-18 · https://www.36kr.com/p/3988655381298185\n• 美国 AI 巨头提议开发减速，欧洲同行和政界并不认同\n  IT之家 · 2026-09-18 · https://www.ithome.com/1/004/334.htm\n• “AI 教父”辛顿参与联署公开信：科技巨头应保证第三方评估人员工作无干预、受保护\n  IT之家 · 2026-09-18 · https://www.ithome.com/1/004/330.htm\n\n【具身智能模型】\n• Watch 4 straight hours of Helix 2.5 at work in 30 homes, with no additional trai\n  x-figure · 2026-09-18 · https://www.x.com/Figure_robot/status/2100987381373681785\n\n【智能驾驶】\n• 北汽星钽 5X 方盒子新车亮相，官宣搭载华为乾崑智驾\n  IT之家 · 2026-09-20 · https://www.ithome.com/1/004/619.htm\n• 鸿蒙智行智界 RX 轿跑 SUV 新增 81 度电池版本：保留最核心操控体验，预售价 26.98 万元起\n  IT之家 · 2026-09-20 · https://www.ithome.com/1/004/658.htm\n• 阿维塔 06T 猎装骑士版更多官图公布：896 线激光雷达、9 月 20 日上市\n  IT之家 · 2026-09-19 · https://www.ithome.com/1/004/567.htm\n\n【AI 消费硬件与脑机】\n• 小米 18 Pro 系列手机官宣 9 月 23 日发布：小米数字系列史上最大升级，全新百变背屏、首发搭载澎湃 OS4\n  IT之家 · 2026-09-20 · https://www.ithome.com/1/004/604.htm\n• 荣耀 Magic9 系列手机搭载第三代自研射频增强芯片 C3，支持 356 个频段组合智能切换\n  IT之家 · 2026-09-20 · https://www.ithome.com/1/004/645.htm\n• 🥹   So amazing\n  x-ashok · 2026-09-19 · https://www.x.com/aelluswamy/status/2101437359204274224\n• 苹果 iPhone 18 Pro DXOMARK 影像测试结果出炉：总分 172 位列全球第二，仅次华为 Pura 80 Ultra\n  IT之家 · 2026-09-19 · https://www.ithome.com/1/004/582.htm\n\n【AI Agent】\n• Fable 5.1超越人类却贵了2.5倍，NeoCognition给Agent进公司算了笔账\n  36氪 · 2026-09-19 · https://www.36kr.com/p/3990925961313283\n• Meta’s Muse hits Mac, letting the AI take actions on your computer\n  techcrunch-ai · 2026-09-18 · https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/\n• 智谱 ZCode 被质疑“偷传代码”：官方回应称问题已修复，将开源代码库、引入第三方审查\n  IT之家 · 2026-09-18 · https://www.ithome.com/1/004/310.htm\n• 腾讯 Chatterfly 输入法内测：能理解上下文，帮用户执行任务\n  IT之家 · 2026-09-18 · https://www.ithome.com/1/004/273.htm\n\n【💰 财经动态】\n• 中东土豪，扫货AI\n  36氪 · 2026-09-20 · https://www.36kr.com/p/3990895072099078\n• 美联邦航空管理局斥资 8.75 亿美元打造 AI 空管系统，治理空中交通问题\n  IT之家 · 2026-09-19 · https://www.ithome.com/1/004/569.htm\n",
+    "pub_date": "Sun, 20 Sep 2026 07:00:00 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-20.mp3",
+    "audio_size": 10042348,
+    "audio_mime": "audio/mpeg",
+    "duration": "10:28",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-09-19",
     "guid": "ai-daily-2026-09-19",
     "title": "09/19 AI日报｜Gemini 4 Pro 空降/Claude 被用于入侵/ZDTaichu5.0 开源",
