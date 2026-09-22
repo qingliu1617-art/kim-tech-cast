@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 00:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:27:09 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,83 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/22 AI日报｜Meta 建设拍比特海缆/OpenAI 新模型解千禧难题/特斯拉推进 Optimus 量产</title>
+      <description>📋 今日要闻 · 2026-09-22
+
+【AI 基础设施】
+• Meta 宣布建设全球首条拍比特级跨洋海底光缆，全长约 7000 公里
+  IT之家 · 2026-09-21 · https://www.ithome.com/1/005/446.htm
+• 浪潮信息发布元脑 SD200 Ultra 超节点：单机承载 2.8 万亿参数 Kimi K3，Token 时延首次突破 5.85 毫秒
+  IT之家 · 2026-09-21 · https://www.ithome.com/1/005/504.htm
+• 联发科技面向 Googlebook 推出天玑 CX C10 Max SoC
+  IT之家 · 2026-09-21 · https://www.ithome.com/1/005/448.htm
+• NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories
+  NVIDIA Blog · 2026-09-21 · https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/
+
+【大模型】
+• 突发：OpenAI官宣24天攻破100+世界级数学难题
+  36氪 · 2026-09-21 · https://www.36kr.com/p/3993741691566854
+• 全员恶人，忘拔网线，Gemini一口气连黑三家公司
+  36氪 · 2026-09-21 · https://www.36kr.com/p/3992394184866561
+• GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做
+  36氪 · 2026-09-21 · https://www.36kr.com/p/3992313595771648
+• 刚刚，马斯克交卷 Grok 4.7，但这次吹牛吹大了
+  36氪 · 2026-09-22 · https://www.36kr.com/p/3993727976389381
+• 中美AI模型开发周期缩短至1/3，平均44天
+  36氪 · 2026-09-21 · https://www.36kr.com/p/3992879748004864
+
+【智能驾驶】
+• RT by @elonmusk: “I’ve used FSD for like 90%+ of my miles since Saturday morning
+  x-elonmusk · 2026-09-21 · https://www.x.com/Tesla/status/2102107015422304419
+• 华为余承东官宣智界 RX 及鸿蒙智行新品发布会定档 9 月 28 日，享界 V8 同步开启预订
+  IT之家 · 2026-09-21 · https://www.ithome.com/1/005/044.htm
+• Why Deploying Physical AI at Scale Demands Safety at Every Layer
+  NVIDIA Blog · 2026-09-21 · https://blogs.nvidia.com/blog/physical-ai-halos-safety/
+• 日产第 14 代 Skyline 轿车将于 12 月亮相：利用 AI 缩短开发周期，预计搭载 3.0 升涡轮增压 V6 发动机
+  IT之家 · 2026-09-20 · https://www.ithome.com/1/005/015.htm
+
+【机器人硬件】
+• STRONG SIGNAL 🤖 Tesla is going to deploy Optimus globally 🔥  The company is open
+  x-ming-tesla · 2026-09-21 · https://www.x.com/tslaming/status/2102025941522534663
+• [ ANALYSIS ] 🇨🇳 A Tesla team reportedly began its China supplier sweep in Ningbo
+  x-ming-tesla · 2026-09-20 · https://www.x.com/tslaming/status/2101658464342982711
+
+【AI 消费硬件与脑机】
+• 2026 上半年全球 AI 眼镜出货量同比大增 263%，“无屏幕”产品占主流
+  IT之家 · 2026-09-21 · https://www.ithome.com/1/005/498.htm
+• 谷歌携五大 PC 厂商正式推出首批 Googlebook 笔记本，起售价 899 美元
+  IT之家 · 2026-09-21 · https://www.ithome.com/1/005/441.htm
+• Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini
+  techcrunch-ai · 2026-09-21 · https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/
+• 苹果 2026 款 Mac mini 发售：全新 M6 / M5 Pro 芯片，6999 元起
+  IT之家 · 2026-09-21 · https://www.ithome.com/1/005/479.htm
+
+【AI Agent】
+• 阿宝、小微和豆包：不同AI智能体的“同意”保险与尺度
+  36氪 · 2026-09-21 · https://www.36kr.com/p/3992990225913476
+• Meta’s Muse is outpacing ChatGPT’s early mobile launch
+  techcrunch-ai · 2026-09-21 · https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/
+• Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day
+  arstechnica · 2026-09-21 · https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/
+• Claude Code全面开放，接入AGENTS.md
+  36氪 · 2026-09-19 · https://www.36kr.com/p/3990050742107142
+• Kimi向左，Claude、GPT向右
+  36氪 · 2026-09-19 · https://www.36kr.com/p/3989620059143175
+
+【💰 财经动态】
+• AMD 盘中市值历史首次突破 1 万亿美元
+  IT之家 · 2026-09-21 · https://www.ithome.com/1/005/453.htm
+• 字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题
+  36氪 · 2026-09-22 · https://www.36kr.com/p/3993154068780679
+</description>
+      <pubDate>Tue, 22 Sep 2026 08:27:09 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-22</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-22.mp3" length="12373306" type="audio/mpeg"/>
+      <itunes:duration>12:53</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/21 AI日报｜英矽智能推进AI药Ⅲ期/Anthropic优化生物模型/比亚迪闪充站破万座</title>
       <description>📋 今日要闻 · 2026-09-21
