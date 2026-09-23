@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-09-23",
+    "guid": "ai-daily-2026-09-23",
+    "title": "09/23 AI日报｜AMD推四面体笼/Kimi接入Bedrock/Rabbit回归软件",
+    "description": "📋 今日要闻 · 2026-09-23\n\n【AI 基础设施】\n• AMD 展示新型“四面体笼”光线追踪技术，BVH 显存占用从 80GB 降至 1.7 GB\n  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/047.htm\n• 京东方：玻璃基封装载板试验线全线拉通，24 层产品已送客户验证\n  IT之家 · 2026-09-22 · https://www.ithome.com/1/006/028.htm\n• Qualcomm launches two new smartphone chips with emphasis on AI\n  techcrunch-ai · 2026-09-22 · https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/\n\n【大模型】\n• Better prompt caching for GPT-6\n  OpenAI Blog · 2026-09-22 · https://openai.com/index/better-prompt-caching-for-gpt-6\n• 亚马逊开始成为Kimi的印钞机\n  36氪 · 2026-09-22 · https://www.36kr.com/p/3993170599296007\n• OpenAI内部曝光：AI开始自己造AI，奥特曼急发全球暂停令\n  36氪 · 2026-09-22 · https://www.36kr.com/p/3994185833970689\n\n【智能驾驶】\n• Tesla’s active robotaxi fleet in Austin crashes back to 8 vehicles after Cyberca\n  electrek · 2026-09-22 · https://electrek.co/2026/09/22/tesla-robotaxi-active-fleet-austin-crashes-8-vehicles/\n• Waymo riders can now get $2.85 back when pairing a ride with public transit\n  electrek · 2026-09-22 · https://electrek.co/2026/09/22/waymo-riders-can-now-get-2-85-back-when-pairing-a-ride-with-public-transit/\n\n【AI 消费硬件与脑机】\n• 古尔曼称苹果酝酿 homeOS：整合 iOS / tvOS / watchOS 特性，服务智能家居中枢\n  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/033.htm\n• 华为 Mate XT 2 非凡大师三折叠手机手写笔套装今日开售：16GB+2TB、灵盾防窥屏，29999 元\n  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/034.htm\n• 2799 元起，华为 WATCH 6 系列鸿蒙 AI 手表今日开售\n  IT之家 · 2026-09-22 · https://www.ithome.com/1/006/019.htm\n• 华为 Mate XT 2 三折叠手机独占功能下放，Pura X View 新增桌面下滑自定义功能\n  IT之家 · 2026-09-22 · https://www.ithome.com/1/005/969.htm\n• 可当助听器，依视路发布 Nuance Audio Plus 智能眼镜\n  IT之家 · 2026-09-22 · https://www.ithome.com/1/005/956.htm\n\n【AI Agent】\n• Parallel cut research time and cost in half with GPT‑6 Astra\n  OpenAI Blog · 2026-09-22 · https://openai.com/index/parallel-cuts-time-and-cost-with-astra\n• Rabbit Is Back, This Time With an AI Agent App\n  wired-ai · 2026-09-22 · https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/\n• AI正在制造App过剩时代\n  36氪 · 2026-09-21 · https://www.36kr.com/p/3993031158889473\n• How V7 gives AI agents institutional memory\n  OpenAI Blog · 2026-09-21 · https://openai.com/index/v7\n\n【💰 财经动态】\n• Snorkel AI triples valuation to $3.5B as demand for AI training data booms\n  techcrunch-ai · 2026-09-22 · https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/\n• GOOD NEWS 🇺🇸 LG Energy Solution just officially kicked off full-scale mass produ\n  x-ming-tesla · 2026-09-21 · https://www.x.com/tslaming/status/2102051642481033480\n• Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once agai\n  techcrunch-ai · 2026-09-22 · https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/\n• 用AI“复活”家人，似乎不是个好生意\n  36氪 · 2026-09-20 · https://www.36kr.com/p/3991534927510276\n",
+    "pub_date": "Wed, 23 Sep 2026 09:19:01 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-23.mp3",
+    "audio_size": 8917620,
+    "audio_mime": "audio/mpeg",
+    "duration": "09:17",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-09-22",
     "guid": "ai-daily-2026-09-22",
     "title": "09/22 AI日报｜Meta 建设拍比特海缆/OpenAI 新模型解千禧难题/特斯拉推进 Optimus 量产",

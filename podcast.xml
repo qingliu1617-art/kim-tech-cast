@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 00:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 01:19:01 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,71 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/23 AI日报｜AMD推四面体笼/Kimi接入Bedrock/Rabbit回归软件</title>
+      <description>📋 今日要闻 · 2026-09-23
+
+【AI 基础设施】
+• AMD 展示新型“四面体笼”光线追踪技术，BVH 显存占用从 80GB 降至 1.7 GB
+  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/047.htm
+• 京东方：玻璃基封装载板试验线全线拉通，24 层产品已送客户验证
+  IT之家 · 2026-09-22 · https://www.ithome.com/1/006/028.htm
+• Qualcomm launches two new smartphone chips with emphasis on AI
+  techcrunch-ai · 2026-09-22 · https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/
+
+【大模型】
+• Better prompt caching for GPT-6
+  OpenAI Blog · 2026-09-22 · https://openai.com/index/better-prompt-caching-for-gpt-6
+• 亚马逊开始成为Kimi的印钞机
+  36氪 · 2026-09-22 · https://www.36kr.com/p/3993170599296007
+• OpenAI内部曝光：AI开始自己造AI，奥特曼急发全球暂停令
+  36氪 · 2026-09-22 · https://www.36kr.com/p/3994185833970689
+
+【智能驾驶】
+• Tesla’s active robotaxi fleet in Austin crashes back to 8 vehicles after Cyberca
+  electrek · 2026-09-22 · https://electrek.co/2026/09/22/tesla-robotaxi-active-fleet-austin-crashes-8-vehicles/
+• Waymo riders can now get $2.85 back when pairing a ride with public transit
+  electrek · 2026-09-22 · https://electrek.co/2026/09/22/waymo-riders-can-now-get-2-85-back-when-pairing-a-ride-with-public-transit/
+
+【AI 消费硬件与脑机】
+• 古尔曼称苹果酝酿 homeOS：整合 iOS / tvOS / watchOS 特性，服务智能家居中枢
+  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/033.htm
+• 华为 Mate XT 2 非凡大师三折叠手机手写笔套装今日开售：16GB+2TB、灵盾防窥屏，29999 元
+  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/034.htm
+• 2799 元起，华为 WATCH 6 系列鸿蒙 AI 手表今日开售
+  IT之家 · 2026-09-22 · https://www.ithome.com/1/006/019.htm
+• 华为 Mate XT 2 三折叠手机独占功能下放，Pura X View 新增桌面下滑自定义功能
+  IT之家 · 2026-09-22 · https://www.ithome.com/1/005/969.htm
+• 可当助听器，依视路发布 Nuance Audio Plus 智能眼镜
+  IT之家 · 2026-09-22 · https://www.ithome.com/1/005/956.htm
+
+【AI Agent】
+• Parallel cut research time and cost in half with GPT‑6 Astra
+  OpenAI Blog · 2026-09-22 · https://openai.com/index/parallel-cuts-time-and-cost-with-astra
+• Rabbit Is Back, This Time With an AI Agent App
+  wired-ai · 2026-09-22 · https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/
+• AI正在制造App过剩时代
+  36氪 · 2026-09-21 · https://www.36kr.com/p/3993031158889473
+• How V7 gives AI agents institutional memory
+  OpenAI Blog · 2026-09-21 · https://openai.com/index/v7
+
+【💰 财经动态】
+• Snorkel AI triples valuation to $3.5B as demand for AI training data booms
+  techcrunch-ai · 2026-09-22 · https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/
+• GOOD NEWS 🇺🇸 LG Energy Solution just officially kicked off full-scale mass produ
+  x-ming-tesla · 2026-09-21 · https://www.x.com/tslaming/status/2102051642481033480
+• Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once agai
+  techcrunch-ai · 2026-09-22 · https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/
+• 用AI“复活”家人，似乎不是个好生意
+  36氪 · 2026-09-20 · https://www.36kr.com/p/3991534927510276
+</description>
+      <pubDate>Wed, 23 Sep 2026 09:19:01 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-23</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-23.mp3" length="8917620" type="audio/mpeg"/>
+      <itunes:duration>09:17</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/22 AI日报｜Meta 建设拍比特海缆/OpenAI 新模型解千禧难题/特斯拉推进 Optimus 量产</title>
       <description>📋 今日要闻 · 2026-09-22
