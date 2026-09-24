@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 01:19:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 00:17:14 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,87 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/24 AI日报｜Supermicro 出货 Rubin/OpenAI 成立数学顾问组/亚马逊部署配送眼镜</title>
+      <description>📋 今日要闻 · 2026-09-24
+
+【AI 基础设施】
+• Supermicro 启动英伟达 Vera Rubin NVL72 机架出货
+  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/477.htm
+• 王超给超节点画了一条线
+  36氪 · 2026-09-23 · https://www.36kr.com/p/3995739738410884
+• ALERT ALERT ALERT 🚨 🚨 🚨 VLLM MAINTAINERS HAVE JUST SHOWN THAT TPUv7 CAN GET 700 
+  x-semianalysis · 2026-09-23 · https://www.x.com/SemiAnalysis_/status/2102833399475879977
+• So update from $LITE + Win Semi ( $SIVE ) foundry:    Lumentum in a meeting with
+  x-serenity · 2026-09-23 · https://www.x.com/aleabitoreddit/status/2102763548715753927
+
+【大模型】
+• OpenAI wants to consult elite mathematicians about how to not fumble again
+  theverge · 2026-09-23 · https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel
+• We want the OpenAI API to feature the best model at every price point and to be 
+  x-sama · 2026-09-22 · https://www.x.com/sama/status/2102466603111551187
+• (As a side note, getting ready for this DevDay is the first time I remember ever
+  x-sama · 2026-09-22 · https://www.x.com/sama/status/2102466607373004888
+• Building standards for the next phase of AI
+  OpenAI Blog · 2026-09-21 · https://openai.com/index/building-standards-next-phase-ai
+• RT by @elonmusk: BREAKING: Grok 4.7 dominates the Legal Agent Benchmark.   It sc
+  x-elonmusk · 2026-09-21 · https://www.x.com/cb_doge/status/2102105111187321280
+
+【具身智能模型】
+• Morgan Stanley’s Jonas: Physical AI Could Multiply Global GDP
+  bloomberg-tech · 2026-09-23 · https://www.bloomberg.com/news/videos/2026-09-23/physical-ai-could-multiply-gdp-morgan-stanley-s-jonas-video
+
+【智能驾驶】
+• After multiple deaths and injuries, NHTSA is investigating comma.ai
+  arstechnica · 2026-09-23 · https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/
+• 岚图汽车邵明峰：与华为最好的合作是强强联合，君子和而不同
+  IT之家 · 2026-09-22 · https://www.ithome.com/1/005/982.htm
+• GOOD NEWS 🇨🇿 Czechia has cleared @Tesla FSD (Supervised) for public road use via
+  x-ming-tesla · 2026-09-21 · https://www.x.com/tslaming/status/2101964238734623015
+
+【机器人硬件】
+• UPDATE 🇨🇳 Tesla has reportedly completed its first round of factory audits for O
+  x-ming-tesla · 2026-09-23 · https://www.x.com/tslaming/status/2102737684548714652
+• VERIFIED 🤖 Independently verified in Tesla’s Android app version 4.60.5-4573:  T
+  x-ming-tesla · 2026-09-23 · https://www.x.com/tslaming/status/2102661891957162092
+
+【AI 消费硬件与脑机】
+• Meta Connect 2026 live: Updates from Mark Zuckerberg's keynote on AI glasses, VR
+  engadget · 2026-09-23 · https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/
+• 亚马逊今年将为配送小哥部署 5000 台智能眼镜：不用手机就能看导航和送货指引
+  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/424.htm
+• 阿里千问平板 Qwen Book 现身 2026 骁龙峰会，定位原生 AI 智能体电脑
+  IT之家 · 2026-09-22 · https://www.ithome.com/1/006/002.htm
+• Googlebook’s built-in intelligence reinvents the way you use your laptop
+  google-blog · 2026-09-21 · https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/
+• Googlebooks launch October 4 starting at $899—here are the five models you can p
+  arstechnica · 2026-09-21 · https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/
+
+【AI Agent】
+• YouTube 推出全新 AI 智能体，能帮创作者“翻红”老视频
+  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/503.htm
+• ChatGPT mobile app gets voice-based agentic features
+  techcrunch-ai · 2026-09-23 · https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/
+• 吴敏芝接手支付宝，Agent要革它的命？
+  36氪 · 2026-09-23 · https://www.36kr.com/p/3995929988878211
+• 中国工厂生死分野：AI点燃的无声暴裂
+  36氪 · 2026-09-23 · https://www.36kr.com/p/3995798657306760
+
+【💰 财经动态】
+• OpenAI超3亿美元收购Glass，AI原生硬件的视觉感知将如何改变？
+  36氪 · 2026-09-23 · https://www.36kr.com/p/3995921828728966
+• Manus的增长曲线，如何画下去？
+  36氪 · 2026-09-23 · https://www.36kr.com/p/3995933413003140
+• Ema raises $77M as AI starts eating into enterprise software and services
+  techcrunch-ai · 2026-09-23 · https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/
+</description>
+      <pubDate>Thu, 24 Sep 2026 08:17:14 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-24</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-24.mp3" length="10943050" type="audio/mpeg"/>
+      <itunes:duration>11:24</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/23 AI日报｜AMD推四面体笼/Kimi接入Bedrock/Rabbit回归软件</title>
       <description>📋 今日要闻 · 2026-09-23
