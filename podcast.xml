@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 21:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:40:44 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,87 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/26 AI日报｜Colossus 部署 GB300/Muse 用户增长快/Optimus 量产遇阻</title>
+      <description>📋 今日要闻 · 2026-09-26
+
+【AI 基础设施】
+• 马斯克秀 AI 算力：计划年底前配 110 万张英伟达 GB300，目标约 6 个月跻身行业领先
+  IT之家 · 2026-09-25 · https://www.ithome.com/1/007/138.htm
+• The Chinese AI Infrastructure Boom:  Introducing the SemiAnalysis China Datacent
+  x-semianalysis · 2026-09-25 · https://www.x.com/SemiAnalysis_/status/2103524314444148856
+• 摩尔线程官宣：MTT S5000 适配字节跳动 Protenix-v2 开源生物分子结构预测模型
+  IT之家 · 2026-09-24 · https://www.ithome.com/1/006/989.htm
+• Google is sending a teensy-tiny AI data center to space
+  engadget · 2026-09-24 · https://www.engadget.com/2267975/google-is-sending-a-teensy-tiny-ai-data-center-to-space/
+
+【大模型】
+• 谷歌推出 Gemini 3.8 Flash / Flash-Lite 文本转语音模型，每一行台词都能精确控制
+  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/509.htm
+• 罗福莉官宣小米 MiMo-V3 采用全新架构，核心 HySparse 2 今日发布
+  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/502.htm
+• Advancing Private AI Compute with secure, server-side memory
+  Google DeepMind · 2026-09-23 · https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/
+• Anthropic&amp;#8217;s biolab made a discovery it&amp;#8217;s comparing to Crispr
+  theverge · 2026-09-23 · https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr
+• OpenAI gives cyber defence tools to Ukraine
+  bbc-tech · 2026-09-23 · https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&amp;at_campaign=rss
+
+【智能驾驶】
+• 奕境 X9 上市 24 小时大定 9157 台，满配华为乾崑全栈智能
+  IT之家 · 2026-09-25 · https://www.ithome.com/1/007/185.htm
+• EU delays Tesla ‘Full Self-Driving’ vote to December at the earliest
+  electrek · 2026-09-25 · https://electrek.co/2026/09/25/eu-delays-tesla-fsd-vote-december-tcmv-agenda/
+• Shield AI, Waabi, and General Motors on building AI when failure is not an optio
+  techcrunch-ai · 2026-09-24 · https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/
+
+【机器人硬件】
+• Tesla&amp;#8217;s Optimus robot is going through growing pains
+  theverge · 2026-09-25 · https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands
+• 宇树科技创始人王兴兴：机器人核心瓶颈是能否解决几毫米的工作误差
+  IT之家 · 2026-09-25 · https://www.ithome.com/1/007/143.htm
+
+【AI 消费硬件与脑机】
+• Meta Bets on AI, Devices for Its Next Chapter
+  bloomberg-tech · 2026-09-24 · https://www.bloomberg.com/news/videos/2026-09-24/meta-bets-on-ai-devices-for-its-next-chapter-video
+• Apple Explores Screenless Fitness Tracker to Rival Whoop
+  bloomberg-tech · 2026-09-23 · https://www.bloomberg.com/news/videos/2026-09-23/apple-explores-screenless-fitness-tracker-to-rival-whoop-video
+• Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus
+  theverge · 2026-09-23 · https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus
+• 荣耀 MagicPad 4 平板预售：12.1 英寸 165Hz 屏幕、第四代骁龙 8s，3299 元起
+  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/049.htm
+• 小米智能门锁 5 Max 今日开售：内外双摄版首发 UWB 近场无感开锁技术，国补价 2999.65 元起
+  IT之家 · 2026-09-23 · https://www.ithome.com/1/006/044.htm
+
+【AI Agent】
+• 聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”
+  IT之家 · 2026-09-25 · https://www.ithome.com/1/007/230.htm
+• Meta’s AI Tamagotchi bet is…working?
+  techcrunch-ai · 2026-09-25 · https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/
+• Muse will apparently let you download its entire filesystem
+  theverge · 2026-09-24 · https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem
+• 拆解Muse叙事：「新入口」逻辑并不成立
+  36氪 · 2026-09-23 · https://www.36kr.com/p/3995689972862848
+• Ando wants to take on Slack with a team messaging app that lets humans and agent
+  techcrunch-ai · 2026-09-24 · https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/
+
+【💰 财经动态】
+• Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financ
+  techcrunch-ai · 2026-09-25 · https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
+• Anthropic’s founders seek voting control ahead of IPO
+  techcrunch-ai · 2026-09-25 · https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/
+• AI Coding Startup Cognition Hits $1 Billion in Annualized Revenue
+  bloomberg-tech · 2026-09-25 · https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue
+• 又一家 AI 明星公司诞生：曝“医生版 ChatGPT”OpenEvidence 估值冲上 150 亿美元
+  IT之家 · 2026-09-25 · https://www.ithome.com/1/007/161.htm
+</description>
+      <pubDate>Sat, 26 Sep 2026 05:40:44 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-26</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-26.mp3" length="11610113" type="audio/mpeg"/>
+      <itunes:duration>12:06</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/25 AI日报｜谷歌发射AI卫星/AMD芯片流片完成/OpenAI语音可执行</title>
       <description>📋 今日要闻 · 2026-09-25
