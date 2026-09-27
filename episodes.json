@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-09-27",
+    "guid": "ai-daily-2026-09-27",
+    "title": "09/27 AI日报｜Intel 发布/EZ-60 上市/Copilot 整合",
+    "description": "📋 今日要闻 · 2026-09-27\n\n【AI 基础设施】\n• Intel Panther Lake Teardown Taking a look inside Intel’s latest  consumer chip a\n  x-semianalysis · 2026-09-26 · https://www.x.com/SemiAnalysis_/status/2103844415832023446\n• 索尼芯片子公司将收紧远程办公：要求约 8000 名员工全面返岗，加速物理 AI 研发\n  IT之家 · 2026-09-26 · https://www.ithome.com/1/007/413.htm\n• 一半的活已经不归 GPU 管了\n  36氪 · 2026-09-27 · https://www.36kr.com/p/4000900001878144\n\n【大模型】\n• 接连发生 AI 失控事件，OpenAI 再次暂停其最强模型训练\n  IT之家 · 2026-09-26 · https://www.ithome.com/1/007/445.htm\n• Claude取得理论物理突破，只用了一句话+几千美元\n  36氪 · 2026-09-26 · https://www.36kr.com/p/3999414374174598\n\n【智能驾驶】\n• 欧盟层面 FSD（监督版）投票推迟，特斯拉与爱尔兰展开审批磋商\n  IT之家 · 2026-09-27 · https://www.ithome.com/1/007/455.htm\n• 赛力斯回应问界专属专营后是否支持鸿蒙智行独家技术，称将持续应用华为智能化技术并不断迭代升级\n  IT之家 · 2026-09-26 · https://www.ithome.com/1/007/448.htm\n• 新款马自达 EZ-60 激光版上市，限时价 11.39 万元起\n  IT之家 · 2026-09-26 · https://www.ithome.com/1/007/431.htm\n\n【AI 消费硬件与脑机】\n• 荣耀 Magic9 Pro Max 手机搭载自研至臻黑钻屏：反射率 1.5%、峰值亮度 1 万尼特\n  IT之家 · 2026-09-26 · https://www.ithome.com/1/007/429.htm\n• 曼联联名微软 Surface Laptop 亮相：搭载高通骁龙 X2 Elite，仅限抽签赠送\n  IT之家 · 2026-09-26 · https://www.ithome.com/1/007/416.htm\n• Microsoft stops insisting you need a \"Copilot+ PC\"\n  arstechnica · 2026-09-25 · https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/\n\n【AI Agent】\n• 从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析\n  36氪 · 2026-09-26 · https://www.36kr.com/p/3998754973749376\n• Microsoft’s new Copilot app puts everything in one place – but the price is ‘evo\n  zdnet · 2026-09-25 · https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/\n• Everything new coming to Meta’s AI agent Muse\n  techcrunch-ai · 2026-09-24 · https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/\n• AI真正的“硬仗”，是对增长负责\n  36氪 · 2026-09-24 · https://www.36kr.com/p/3997245003370369\n\n【💰 财经动态】\n• According to Cox Automotive's latest forecast, Tesla is projected to deliver 123\n  x-ming-tesla · 2026-09-25 · https://www.x.com/tslaming/status/2103421853746475377\n• 长安汽车：行业进入存量博弈阶段，利润率降至历史低位\n  IT之家 · 2026-09-25 · https://www.ithome.com/1/007/168.htm\n• 美国将投入近 20 亿美元升级老化电网，有望为近 1 亿美国人降低用电成本\n  IT之家 · 2026-09-24 · https://www.ithome.com/1/007/019.htm\n• Crusoe abandons $1.25B plan to use Boom turbines at AI data centers\n  techcrunch-ai · 2026-09-25 · https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/\n",
+    "pub_date": "Sun, 27 Sep 2026 09:17:26 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-27.mp3",
+    "audio_size": 8446580,
+    "audio_mime": "audio/mpeg",
+    "duration": "08:48",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-09-26",
     "guid": "ai-daily-2026-09-26",
     "title": "09/26 AI日报｜Colossus 部署 GB300/Muse 用户增长快/Optimus 量产遇阻",
