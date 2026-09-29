@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 21:45:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:42:06 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,85 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>09/30 AI日报｜AMD 发布 EPYC 9006/OpenAI 推出 Dots/小米开源 MiMo-V2.6</title>
+      <description>📋 今日要闻 · 2026-09-30
+
+【AI 基础设施】
+• AMD 霄龙 9006 系列服务器 CPU 发布：旗舰 256 核 EPYC 9996 售 14904 美元
+  IT之家 · 2026-09-29 · https://www.ithome.com/1/008/502.htm
+• 拿 DSec 来套？Muse 如何真正撬动 CPU 需求
+  36氪 · 2026-09-29 · https://www.36kr.com/p/4004379506036617
+• In Semicon Taiwan, EVG had described the use of Nano-Imprint Lithography (NIL) i
+  x-semianalysis · 2026-09-29 · https://www.x.com/SemiAnalysis_/status/2105009975554674883
+
+【大模型】
+• AI研发自动化，或引发“智能爆炸”
+  36氪 · 2026-09-29 · https://www.36kr.com/p/4004206679969926
+• 消息称小米大模型负责人罗福莉晋升至 22 级，已是小米职级体系最高级别
+  IT之家 · 2026-09-28 · https://www.ithome.com/1/008/056.htm
+• 丘成桐弟子带AI狂写470万行，庞加莱猜想证明首次被机器完整验证
+  36氪 · 2026-09-28 · https://www.36kr.com/p/4002565371056257
+
+【智能驾驶】
+• GOOD NEWS 🚨 Tesla FSD (Supervised) just blasted past 15 billion miles—adding ano
+  x-ming-tesla · 2026-09-29 · https://www.x.com/tslaming/status/2104897225432195487
+• 奇瑞 2027 款纵横 G700 车型上市：限时 30.49 万元起，搭载华为乾崑智驾 ADS 5
+  IT之家 · 2026-09-29 · https://www.ithome.com/1/008/477.htm
+• 赛豆科技 AIVA 首款量产车 ME7 全球首秀：提供纯电与增程版本
+  IT之家 · 2026-09-29 · https://www.ithome.com/1/008/470.htm
+• BYD tests new ultra-luxury EV with coach doors and a solid-state battery
+  electrek · 2026-09-29 · https://electrek.co/2026/09/29/byd-tests-ultra-luxury-ev-coach-doors-solid-state-battery/
+• 第八代宝马 3 系 9 月 30 日全球首发，首次同时覆盖纯电和燃油动力
+  IT之家 · 2026-09-27 · https://www.ithome.com/1/007/610.htm
+
+【机器人硬件】
+• 奔赴南海科考，我国自主研发 4500 米级深海作业机器人启航
+  IT之家 · 2026-09-29 · https://www.ithome.com/1/008/485.htm
+• 减掉一个自由度，Sharpa拿下灵巧操作定义权
+  36氪 · 2026-09-29 · https://www.36kr.com/p/4004352807817351
+
+【AI 消费硬件与脑机】
+• 首销 5999 元起：iQOO Pad Ultra 小平板发布，第六代骁龙 8 超级至尊版芯片、五重风冷散热
+  IT之家 · 2026-09-29 · https://www.ithome.com/1/008/472.htm
+• 华为鸿蒙 HarmonyOS 7 系统公测转正，首批覆盖 Mate 80 等系列机型
+  IT之家 · 2026-09-28 · https://www.ithome.com/1/008/025.htm
+• 小米 18 标准版手机配置曝光：6.4 英寸 1.5K 直屏、骁龙 8E6 芯片
+  IT之家 · 2026-09-28 · https://www.ithome.com/1/008/038.htm
+• iQOO 16 手机配置汇总：6.85 英寸 2K 三星屏、高通第六代骁龙 8 超级至尊版处理器
+  IT之家 · 2026-09-28 · https://www.ithome.com/1/008/028.htm
+
+【AI Agent】
+• OpenAI DevDay 2026: The biggest news and announcements
+  theverge · 2026-09-29 · https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements
+• “比Codex还早”的肖弘杀回来了，Manus2.0迎击Meta Muse，不到1美元给AI办个手机号？
+  36氪 · 2026-09-29 · https://www.36kr.com/p/4004105721090179
+• 150 毫秒极速响应：OpenAI 推出 Decisions API，让 AI 从“聊天”走向“实时决策”
+  IT之家 · 2026-09-29 · https://www.ithome.com/1/008/531.htm
+• 用AI造的，刚刚，代季峰团队首个模型开源
+  36氪 · 2026-09-28 · https://www.36kr.com/p/4002641497509762
+• 刚刚，OpenAI又停训了：Agent逃出沙箱，更多越权事件被扒
+  36氪 · 2026-09-27 · https://www.36kr.com/p/4000844543561857
+
+【💰 财经动态】
+• 报道称 OpenAI 年化经常性收入接近 700 亿美元，较三季度初增长超 70%
+  IT之家 · 2026-09-29 · https://www.ithome.com/1/008/510.htm
+• OpenAI repotedly in talks to raise $30B round at $1.4T valuation
+  techcrunch-ai · 2026-09-29 · https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/
+• Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI c
+  techcrunch-ai · 2026-09-29 · https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/
+• Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix
+  samsung-newsroom · 2026-09-29 · https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix
+• 具身智能产业周报 | 帕西尼启动A股IPO，宇树发布量产灵巧手，理想发布触觉模型
+  知识库精读 · 2026-09-28 · https://mp.weixin.qq.com/s/QRoopI2VqSDnBOZZKs-coQ
+</description>
+      <pubDate>Wed, 30 Sep 2026 05:42:06 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-09-30</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-30.mp3" length="12949672" type="audio/mpeg"/>
+      <itunes:duration>13:29</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/29 AI日报｜台积电冲刺2nm扩产/月之暗面推K3.1模型/沃尔沃矿卡运矿300万吨</title>
       <description>📋 今日要闻 · 2026-09-29
