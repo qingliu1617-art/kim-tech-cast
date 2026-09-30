@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 21:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:45:41 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,97 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/01 AI日报｜DeepSeek 开源昇腾组件/OpenAI 阻断蒸馏攻击/Figure 机器人跳电弧炉</title>
+      <description>📋 今日要闻 · 2026-10-01
+
+【AI 基础设施】
+• DeepSeek加速向华为靠拢
+  36氪 · 2026-09-30 · https://www.36kr.com/p/4005634131349637
+• From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI
+  NVIDIA Blog · 2026-09-30 · https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/
+• 我最新的產業調查顯示，Nvidia 開始測試以碳氫樹脂（hydrocarbon resin，HC）為主的無布 CCL，取代先...
+  x-mingchi-kuo · 2026-09-30 · https://www.x.com/mingchikuo/status/2105199402759651704
+• AMD Helios (partial co-design): AMD revealed the TH6 scale up switch design publ
+  x-semianalysis · 2026-09-30 · https://www.x.com/SemiAnalysis_/status/2105331234838581702
+
+【大模型】
+• Disrupting a coordinated model-distillation campaign
+  OpenAI Blog · 2026-09-30 · https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+• 蚂蚁百灵发布 Ling-3.1-flash 模型：约 560B 总参数、25B 激活参数
+  IT之家 · 2026-09-30 · https://www.ithome.com/1/008/907.htm
+• Google announces Gemini 4 Argon AI model, but you can't use it yet
+  arstechnica · 2026-09-30 · https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/
+• AI找出数学反例推翻论文，作者确认，453篇手稿，AI开始自己出题了
+  36氪 · 2026-09-29 · https://www.36kr.com/p/4004219674185861
+• RT by @elonmusk: BREAKING: Grok is helping power America .gov, the U.S. governme
+  x-elonmusk · 2026-09-29 · https://www.x.com/cb_doge/status/2104956354423349493
+
+【具身智能模型】
+• Destro AI’s secret sauce is getting robots and humans on the same page
+  techcrunch-ai · 2026-09-30 · https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/
+• GPT-6 丝滑「上身」宇树 G1，斯坦福把机器人控制链封装成了一套「专属 API」
+  知识库精读 · 2026-09-28
+
+【智能驾驶】
+• 让人类交出方向盘：特斯拉FSD十三年的冒险、争议与进化
+  知识库精读 · 2026-09-30 · https://mp.weixin.qq.com/s/R4SbyWunzwVyfZVk-WFOGA
+• STRONG SIGNAL 🇹🇼 Tesla is making serious moves toward bringing FSD to Taiwan, of
+  x-ming-tesla · 2026-09-30 · https://www.x.com/tslaming/status/2105295424055832838
+• Rivian: LiDAR R2 reaches customers in 2027, employees get it this year
+  electrek · 2026-09-30 · https://electrek.co/2026/09/30/rivian-lidar-r2-customers-2027-autonomy-update/
+
+【机器人硬件】
+• It’s worth being clear: we really trained robots to jump autonomously, shipped t
+  x-figure · 2026-09-30 · https://www.x.com/Figure_robot/status/2105317708539830678
+• The story is crazy, started with Arnold on social and ended in Finland having F.
+  x-figure · 2026-09-30 · https://www.x.com/Figure_robot/status/2105316886846251208
+• RT by @Figure_robot: Goodbye F.02
+  x-figure · 2026-09-28 · https://www.x.com/adcock_brett/status/2104667981783670890
+
+【AI 消费硬件与脑机】
+• The AI Tamagotchis are coming
+  theverge · 2026-09-30 · https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices
+• Amazon&amp;#8217;s delivery driver smart glasses will reportedly take photos &amp;#8216;
+  theverge · 2026-09-30 · https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy
+• 8899 元起：三星 Galaxy Tab S12+/S12 Ultra 平板发布，天玑 9500 芯片、12.6/14.6 英寸 AMOLED 大屏
+  IT之家 · 2026-09-30 · https://www.ithome.com/1/008/918.htm
+• ACEMAGIC 推出 RX16 笔记本：酷睿 Ultra X7 358H 处理器、24GB 内存
+  IT之家 · 2026-09-30 · https://www.ithome.com/1/008/905.htm
+• iQOO 16 手机发布：首批搭载高通第六代骁龙 8 超级至尊版、2K 三星珠峰屏，5999 元起
+  IT之家 · 2026-09-29 · https://www.ithome.com/1/008/471.htm
+
+【AI Agent】
+• 个人Agent，人迈向硅基的第一步？
+  36氪 · 2026-09-30 · https://www.36kr.com/p/4005437206894471
+• OpenAI’s latest features take direct aim at the app store model
+  techcrunch-ai · 2026-09-29 · https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/
+• Qwen Intelligence负责人许主洪：Agent手机的竞争，不只在模型
+  36氪 · 2026-09-28 · https://www.36kr.com/p/4002889202569096
+
+【💰 财经动态】
+• 英伟达董事会追加 1500 亿美元创纪录股票回购授权，计划 2028 财年内完成 2350 亿美元回购
+  IT之家 · 2026-09-28 · https://www.ithome.com/1/008/022.htm
+• 估值2万亿，Anthropic招股文件曝光：420亿亏损、46亿营收、5180亿算力承诺
+  36氪 · 2026-09-29 · https://www.36kr.com/p/4004207554219912
+• 美光科技 2026 财年年报归母净利润 849.69 亿美元，同比增长 895.07%
+  IT之家 · 2026-09-30 · https://www.ithome.com/1/008/952.htm
+• Micron Forecast Tops Estimates on Booming AI Memory Demand
+  bloomberg-tech · 2026-09-30 · https://www.bloomberg.com/news/videos/2026-09-30/micron-forecast-beats-on-booming-ai-memory-demand-video
+• AI voice startup ElevenLabs doubles valuation to $22B
+  techcrunch-ai · 2026-09-30 · https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/
+• AI 初创公司 Instinct 完成 10 亿美元融资，投后估值达 100 亿美元
+  IT之家 · 2026-09-28 · https://www.ithome.com/1/008/060.htm
+• Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation
+  techcrunch-ai · 2026-09-30 · https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/
+</description>
+      <pubDate>Thu, 01 Oct 2026 05:45:41 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-01</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-01.mp3" length="12640800" type="audio/mpeg"/>
+      <itunes:duration>13:10</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>09/30 AI日报｜AMD 发布 EPYC 9006/OpenAI 推出 Dots/小米开源 MiMo-V2.6</title>
       <description>📋 今日要闻 · 2026-09-30
