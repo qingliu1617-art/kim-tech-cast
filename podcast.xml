@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 21:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:42:27 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,83 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/02 AI日报｜JERA 建数据中心/Anthropic 评 GLM-5.3/特斯拉扩 FSD 内测</title>
+      <description>📋 今日要闻 · 2026-10-02
+
+【AI 基础设施】
+• 日本电力巨头 JERA 牵手戴尔等伙伴，将在千叶建设该国最大 AI 数据中心
+  IT之家 · 2026-10-01 · https://www.ithome.com/1/009/119.htm
+• Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Invest
+  NVIDIA Blog · 2026-10-01 · https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/
+
+【大模型】
+• Anthropic，你是来给智谱打广告的吧
+  36氪 · 2026-09-30 · https://www.36kr.com/p/4005724285751169
+• B站开源 Index-Translate 多语言翻译模型家族，文本模型支持 150 种语言
+  IT之家 · 2026-09-30 · https://www.ithome.com/1/008/914.htm
+• Google figures out how to watermark AI-designed proteins
+  arstechnica · 2026-09-30 · https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/
+• The ugly economics of consumer AI
+  techcrunch-ai · 2026-09-30 · https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/
+• How Diffusion Controller unifies and simplifies AI image generation
+  google-research · 2026-09-29 · https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/
+
+【智能驾驶】
+• STRONG SIGNAL 🚖 Tesla isn't just building robotaxis anymore—they are quietly ass
+  x-ming-tesla · 2026-10-01 · https://www.x.com/tslaming/status/2105695604290777343
+• INTERESTING UPDATE 🇨🇳 A ton more frontline sales reps in China just signed on fo
+  x-ming-tesla · 2026-10-01 · https://www.x.com/tslaming/status/2105668054919086278
+• 华为余承东：享界 V8 开启预订 72 小时，订单突破 8200 台
+  IT之家 · 2026-10-01 · https://www.ithome.com/1/009/156.htm
+• 华为、赛力斯达成新五年合作：共同升级问界业务推动品牌向上，余承东与张兴海出席签约
+  IT之家 · 2026-10-01 · https://www.ithome.com/1/009/131.htm
+• Tesla patents ‘Electric Fan Car’ with 4 ducted fans ahead of Roadster reveal
+  electrek · 2026-09-29 · https://electrek.co/2026/09/29/tesla-electric-fan-car-patent-model-s-roadster/
+
+【AI 消费硬件与脑机】
+• 惠普战 99 锐龙版 AI 移动工作站发布：AMD R9-9955HX3D + RTX PRO 2000，21999 元
+  IT之家 · 2026-10-01 · https://www.ithome.com/1/009/161.htm
+• Hearing tech startup Legato launches its AI hearing glasses
+  techcrunch-ai · 2026-10-01 · https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/
+• Neurable launches its newest brain-scanning headphones
+  engadget · 2026-10-01 · https://www.engadget.com/2271652/neurable-one-eeg-headphones/
+• 余承东预热华为 Mate 90 系列旗舰新机：大家一次次选择我们，我们就得一次次拿出进步
+  IT之家 · 2026-09-30 · https://www.ithome.com/1/008/903.htm
+• 古尔曼：苹果计划于 10 月 13 日大举进军智能家居市场，首发家庭控制中枢及 2027 款 Apple TV、HomePod mini
+  IT之家 · 2026-09-30 · https://www.ithome.com/1/008/882.htm
+
+【AI Agent】
+• Shopify debuts Canvas, a way to build online stores by chatting with AI
+  techcrunch-ai · 2026-10-01 · https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/
+• 睡觉时也能炒股，“美国散户大本营”祭出新AI智能体工具
+  36氪 · 2026-09-30 · https://www.36kr.com/p/4005634721992580
+• 腾讯 Marvis做 Agent 的不同选择：把用户的电脑“管理起来”
+  36氪 · 2026-09-29 · https://www.36kr.com/p/4004514681016456
+• 小微能成为中国的Muse吗？
+  36氪 · 2026-09-29 · https://www.36kr.com/p/4004401917005955
+• 微软提出Agensh：去掉中心调度器，让1024个Agent自组织协作
+  36氪 · 2026-09-29 · https://www.36kr.com/p/4004188524842881
+
+【💰 财经动态】
+• 曝腾讯租用甲骨文东南亚数据中心：涉及约 10 万块先进 AI 芯片，交易估值约 70 亿美元
+  IT之家 · 2026-10-01 · https://www.ithome.com/1/009/100.htm
+• OpenAI delays IPO over AI safety concerns
+  arstechnica · 2026-09-30 · https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/
+• OpenAI’s $30B Bet, Trump’s AI Safety Shift and Apple’s Next Act
+  bloomberg-tech · 2026-09-30 · https://www.bloomberg.com/news/videos/2026-09-30/bloomberg-tech-9-30-2026-video
+• 新思科技与亚马逊签署多年期超 10 亿美元协议，推进定制芯片合作
+  IT之家 · 2026-09-30 · https://www.ithome.com/1/008/917.htm
+• HPE Boosts Forecast on Positive Networking Outlook
+  bloomberg-tech · 2026-09-30 · https://www.bloomberg.com/news/videos/2026-09-30/hpe-boosts-forecast-on-positive-networking-outlook-video
+</description>
+      <pubDate>Fri, 02 Oct 2026 05:42:27 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-02</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-02.mp3" length="9768167" type="audio/mpeg"/>
+      <itunes:duration>10:10</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/01 AI日报｜DeepSeek 开源昇腾组件/OpenAI 阻断蒸馏攻击/Figure 机器人跳电弧炉</title>
       <description>📋 今日要闻 · 2026-10-01
