@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 21:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 01:19:10 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,85 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/03 AI日报｜特斯拉优化E7M7格式/OpenAI发布GPT-6指南/湖北补贴家用机器人</title>
+      <description>📋 今日要闻 · 2026-10-03
+
+【AI 基础设施】
+• $LITE CEO: "Next year with the advent of CPO and NPO in 2027, our estimates are 
+  x-serenity · 2026-10-02 · https://www.x.com/aleabitoreddit/status/2105943565918703696
+• TL;DR 🕓 Tesla's E7M7 numeric format (Patent US 2026/0299533 A1)  Running multi-b
+  x-ming-tesla · 2026-10-02 · https://www.x.com/tslaming/status/2106026165378925055
+• BOOM 🚨 Just hours after announcing a massive memory cut, Elon Musk revealed a qu
+  x-ming-tesla · 2026-10-02 · https://www.x.com/tslaming/status/2105933117928140916
+• 亚马逊云科技 CEO 加尔曼强势回应数据中心反对声浪：后果或影响数代人
+  IT之家 · 2026-10-02 · https://www.ithome.com/1/009/377.htm
+
+【大模型】
+• A model guide for the GPT-6 family
+  OpenAI Blog · 2026-10-02 · https://openai.com/index/practical-guide-building-gpt-6
+• 生图模型 FLUX 3 Image 发布：支持 4K 生成，可精准排布 AI 元素
+  IT之家 · 2026-10-02 · https://www.ithome.com/1/009/315.htm
+• Lockheed Taps OpenAI to Solve F-35 Challenges
+  bloomberg-tech · 2026-10-02 · https://www.bloomberg.com/news/videos/2026-10-02/lockheed-taps-openai-to-solve-f-35-challenges-video
+• These AI Experts Want to Do High-Stakes Research Out in the Open
+  wired-ai · 2026-10-02 · https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/
+• 刚刚，十个Claude 5.5攻克百年物理猜想
+  36氪 · 2026-09-30 · https://www.36kr.com/p/4005646894157699
+
+【智能驾驶】
+• Tesla rolls out an emergency drive-away feature after Supercharger shooting
+  engadget · 2026-10-02 · https://www.engadget.com/2275509/tesla-supercharger-emergency-drive-away-feature/
+• Rivian 为 R2 车型推送 10 月车机系统更新：新增 Pet Cam 宠物摄像头、电动尾门开启高度调节功能
+  IT之家 · 2026-10-02 · https://www.ithome.com/1/009/338.htm
+• Tesla upgrades China Model 3 with 16-inch screen and V2L, US left out
+  electrek · 2026-10-01 · https://electrek.co/2026/09/30/tesla-model-3-china-16-inch-screen-v2l-us/
+
+【机器人硬件】
+• 湖北智能家居国补范围扩大，机器人、数码相机、无人机、血压仪等可补贴 15%
+  IT之家 · 2026-10-02 · https://www.ithome.com/1/009/349.htm
+
+【AI 消费硬件与脑机】
+• What to expect at Microsoft's Windows, Surface and AI event on October 7
+  engadget · 2026-10-02 · https://www.engadget.com/2275196/microsoft-surface-windows-event-october-7-preview/
+• 用户反馈升级微软 Win11 26H2 后内存用量减少约 1.5~2GB
+  IT之家 · 2026-10-01 · https://www.ithome.com/1/009/150.htm
+• 曝三星 Galaxy Glasses 智能眼镜通过美国 FCC 认证，有望 11 月上市
+  IT之家 · 2026-10-01 · https://www.ithome.com/1/009/102.htm
+
+【AI Agent】
+• Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks fr
+  techcrunch-ai · 2026-10-02 · https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
+• Brian Chesky interview: AI agents need their own operating system
+  techcrunch-ai · 2026-10-01 · https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/
+• OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust
+  bloomberg-tech · 2026-10-01 · https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust
+• 元宝将杀入个人智能体大战
+  36氪 · 2026-09-30 · https://www.36kr.com/p/4005697602228358
+• Manus 归来，能靠Cue赢回Agent战场吗？
+  36氪 · 2026-09-30 · https://www.36kr.com/p/4005431331246215
+
+【💰 财经动态】
+• Nscale Hires Meta’s Justin Osofsky to Be COO Ahead of IPO
+  bloomberg-tech · 2026-10-02 · https://www.bloomberg.com/news/articles/2026-10-02/nscale-hires-meta-s-justin-osofsky-to-be-coo-ahead-of-ipo
+• AI Infrastructure Firm Accelevation Edges Down 0.3% Post-IPO
+  bloomberg-tech · 2026-09-30 · https://www.bloomberg.com/news/articles/2026-09-30/ai-infrastructure-firm-accelevation-edges-down-2-5-after-ipo
+• 特斯拉 2026 年第三季度交付超 48.6 万辆，同比下降 2%
+  IT之家 · 2026-10-02 · https://www.ithome.com/1/009/367.htm
+• Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run
+  techcrunch-ai · 2026-10-01 · https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/
+• Restate lands $20M as the need for durable infrastructure increases with AI agen
+  techcrunch-ai · 2026-09-30 · https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/
+• Photon held a funeral for mobile apps. Now it has $4.5M to help replace them wit
+  techcrunch-ai · 2026-10-01 · https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/
+</description>
+      <pubDate>Sat, 03 Oct 2026 09:19:10 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-03</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-03.mp3" length="10438155" type="audio/mpeg"/>
+      <itunes:duration>10:52</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/02 AI日报｜JERA 建数据中心/Anthropic 评 GLM-5.3/特斯拉扩 FSD 内测</title>
       <description>📋 今日要闻 · 2026-10-02
