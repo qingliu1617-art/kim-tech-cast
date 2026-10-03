@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 01:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:40:15 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,79 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/04 AI日报｜StartLux 发布决策模型/AMD 收购 World Labs/Anthropic 揭露 AI 滥用</title>
+      <description>📋 今日要闻 · 2026-10-04
+
+【AI 基础设施】
+• （更新：埃隆 · 马斯克确认谈判）传台积电探索与 Terafab 合作事宜
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/413.htm
+• BIG MOMENT FOR AMD🚨THIS WEEK: AMD HAS REACHED ABOVE 90% PARITY ON UPSTREAM vLLM 
+  x-semianalysis · 2026-10-03 · https://www.x.com/SemiAnalysis_/status/2106414027064693164
+• RDNA 4 原生支持 FP8：开发者成功让 AMD 显卡用上英伟达 DLSS 4，但目前性能仍不及 FSR 4
+  IT之家 · 2026-10-01 · https://www.ithome.com/1/009/140.htm
+
+【大模型】
+• Jev被请下王座，StartLux中国开源决策模型冲上第一
+  36氪 · 2026-10-03 · https://www.36kr.com/p/4009510615027849
+• 刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观
+  36氪 · 2026-10-03 · https://www.36kr.com/p/4009475424063619
+• AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了
+  36氪 · 2026-10-03 · https://www.36kr.com/p/4009647948746628
+
+【智能驾驶】
+• California will fine robotaxi companies if their vehicles block first responders
+  engadget · 2026-10-03 · https://www.engadget.com/2276543/california-fine-robotaxi-companies-vehicles-block-first-responders/
+• 余承东：华为星河通信团队驾驶享界 G9 实测独库公路，98.7% 路段信号都很好
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/575.htm
+• 小米 Vision GT 十月入驻，GT 系列游戏将首次推出电车驾驶教学
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/537.htm
+
+【机器人硬件】
+• Hasta la vista, baby – Figure F.02 humanoid robots decommissioned, T2-style
+  electrek · 2026-10-03 · https://electrek.co/2026/10/03/hasta-la-vista-baby-figure-f-02-humanoid-robots-decommissioned-t2-style/
+
+【AI 消费硬件与脑机】
+• The dawn of the age of the exoskeleton
+  arstechnica · 2026-10-03 · https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/
+• Google’s new Guided Vision feature can help you read the fine print
+  theverge · 2026-10-01 · https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision
+• Can VR glasses save VR?
+  theverge · 2026-10-01 · https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality
+• Newsom vetoes smart glasses privacy bill
+  engadget · 2026-10-01 · https://www.engadget.com/2274526/newsom-vetoes-smart-glasses-privacy-bill/
+• Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in Ind
+  meta-newsroom · 2026-10-01 · https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/
+
+【AI Agent】
+• 杀猪盘用上了AI，骗局开始批量生产
+  36氪 · 2026-10-03 · https://www.36kr.com/p/4009610454093960
+• Muse Creates Detailed Profiles of All Your Friends and Family
+  wired-ai · 2026-10-03 · https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/
+• Meta open sources code to let you make Muse AI gadgets
+  theverge · 2026-10-02 · https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link
+• OpenAI’s Dot agent is enterprise software that can also order your dinner
+  theverge · 2026-10-02 · https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent
+• OpenAI’s new agent is a shot at Meta — but can it compete with free?
+  theverge · 2026-10-01 · https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle
+
+【💰 财经动态】
+• 苏姿丰抬头，李飞飞低头
+  36氪 · 2026-10-03 · https://www.36kr.com/p/4009381083600769
+• 消息称大众 CARIAD 拟进一步裁员 1000 人，未来 5 年削减 61 亿欧元投资
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/515.htm
+• Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”
+  IT之家 · 2026-10-02 · https://www.ithome.com/1/009/376.htm
+• LG 电子将在美国新建 AI 数据中心冷水机组工厂，韩国本土同步扩产
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/505.htm
+</description>
+      <pubDate>Sun, 04 Oct 2026 05:40:15 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-04</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-04.mp3" length="8997032" type="audio/mpeg"/>
+      <itunes:duration>09:22</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/03 AI日报｜特斯拉优化E7M7格式/OpenAI发布GPT-6指南/湖北补贴家用机器人</title>
       <description>📋 今日要闻 · 2026-10-03
