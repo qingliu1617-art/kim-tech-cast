@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 21:40:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:37:39 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,79 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/05 AI日报｜英伟达推DGX新机/阿里平头哥发V900/特斯拉Robotaxi上架</title>
+      <description>📋 今日要闻 · 2026-10-05
+
+【AI 基础设施】
+• 桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元
+  IT之家 · 2026-10-02 · https://www.ithome.com/1/009/359.htm
+• 英伟达与鸿海展示自动化成果，机器人组装 GB300 的母线成功率超 95%
+  IT之家 · 2026-10-04 · https://www.ithome.com/1/009/665.htm
+• Recently, Alibaba T-Head unveiled the Zhenwu V900 during the Apsara Conference 2
+  x-semianalysis · 2026-10-04 · https://www.x.com/SemiAnalysis_/status/2106821919622279225
+• We previously covered the Zhenwu M890 during our WAIC 2026 takeaways, where we t
+  x-semianalysis · 2026-10-04 · https://www.x.com/SemiAnalysis_/status/2106821921102823570
+
+【大模型】
+• Claude满分、GPT 99分，何恺明团队把AGI考试打穿了
+  36氪 · 2026-10-04 · https://www.36kr.com/p/4011070893871238
+• Jev 之后，中国团队开始深挖 AI 的“直觉层”
+  36氪 · 2026-10-04 · https://www.36kr.com/p/4011046457872258
+• 腾讯 WorkBuddy 内置模型独家支持 Space Bunny
+  IT之家 · 2026-10-02 · https://www.ithome.com/1/009/335.htm
+
+【智能驾驶】
+• You can now download the app from the Australian iOS App Store as well, signalin
+  x-ming-tesla · 2026-10-04 · https://www.x.com/tslaming/status/2106756212289384613
+• GOOD NEWS 🇸🇬 The official Tesla Robotaxi app is now available on the Singapore i
+  x-ming-tesla · 2026-10-04 · https://www.x.com/tslaming/status/2106752315709645054
+• Musk explains why Tesla Robotaxi is not running at night, and lidar is the answe
+  electrek · 2026-10-03 · https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/
+• GOOD NEWS 🚖 Tesla’s robotaxi fleet just reached 169 licensed Cybercabs, fueled b
+  x-ming-tesla · 2026-10-03 · https://www.x.com/tslaming/status/2106187477279187311
+
+【机器人硬件】
+• 机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动
+  IT之家 · 2026-10-04 · https://www.ithome.com/1/009/736.htm
+
+【AI 消费硬件与脑机】
+• 天津大学获批全国首个“脑机接口”一级交叉学科博士点
+  IT之家 · 2026-10-04 · https://www.ithome.com/1/009/684.htm
+• 海马云推出 haimacloud GEAR 端云混合掌机：高通骁龙 865，硬件首发价 3149 元
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/576.htm
+• V社 Steam Frame 头显第三方摄像头模块 Arcturus Vision 上市：可提供高分辨率彩透效果，售 150 美元
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/531.htm
+
+【AI Agent】
+• SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety
+  bloomberg-tech · 2026-10-04 · https://www.bloomberg.com/news/articles/2026-10-04/softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety
+• Please check out @DeepSeekHarness. We just released packaged desktop versions fo
+  x-deepseek · 2026-10-02 · https://www.x.com/deepseek_ai/status/2105915715241062644
+• Lots of inventive things made with Claude these past few weeks. A few of our fav
+  x-claude · 2026-10-02 · https://www.x.com/claudeai/status/2106125468365918268
+• Poems, illustrated in Claude Code.
+  x-claude · 2026-10-02 · https://www.x.com/claudeai/status/2106125473432707412
+• Claude Code and a camera, left running overnight on Old Street.
+  x-claude · 2026-10-02 · https://www.x.com/claudeai/status/2106125474900701633
+
+【💰 财经动态】
+• Nvidia Falls Short of May Record as Value Nears $6 Trillion
+  bloomberg-tech · 2026-10-02 · https://www.bloomberg.com/news/articles/2026-10-02/nvidia-hits-first-record-since-may-as-value-nears-6-trillion
+• Nike Slides on Job Cuts; Broadcom Gathers AI Chip Funding | Stock Movers
+  bloomberg-tech · 2026-10-02 · https://www.bloomberg.com/news/videos/2026-10-02/nike-down-on-job-cuts-broadcom-gathers-ai-chip-funding-video
+• 小鹏 MONA L03 车型 9 月交付超 14,000 台，年轻用户占比过半
+  IT之家 · 2026-10-02 · https://www.ithome.com/1/009/317.htm
+• Tesla Sales Top Estimates for Third Quarter
+  bloomberg-tech · 2026-10-02 · https://www.bloomberg.com/news/videos/2026-10-02/tesla-sales-top-estimates-for-third-quarter-video
+</description>
+      <pubDate>Mon, 05 Oct 2026 05:37:39 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-05</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-05.mp3" length="9813724" type="audio/mpeg"/>
+      <itunes:duration>10:13</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/04 AI日报｜StartLux 发布决策模型/AMD 收购 World Labs/Anthropic 揭露 AI 滥用</title>
       <description>📋 今日要闻 · 2026-10-04
