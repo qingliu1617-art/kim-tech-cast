@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 04 Oct 2026 21:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:43:39 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,81 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/06 AI日报｜台积电洽谈Terafab/特斯拉量化AI注意力/高通获LogicFolding许可</title>
+      <description>📋 今日要闻 · 2026-10-06
+
+【AI 基础设施】
+• TSMC in Talks to Join Musk’s Texas Terafab Project
+  bloomberg-tech · 2026-10-05 · https://www.bloomberg.com/news/videos/2026-10-05/tsmc-in-talks-to-join-musk-s-texas-terafab-project-video
+• SMART ENGINEERING 🧠 Tesla has figured out a "quantized" way to run AI attention 
+  x-ming-tesla · 2026-10-05 · https://www.x.com/tslaming/status/2106971393048862790
+• SMART ENGINEERING II 🧠 Tesla has done AI's toughest math the way you turn cents 
+  x-ming-tesla · 2026-10-05 · https://www.x.com/tslaming/status/2107016691427537330
+• 高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海
+  IT之家 · 2026-10-05 · https://www.ithome.com/1/009/852.htm
+• AMD 出样 Versal AI Core XQRVC1902 自适应 SoC，满足 15 年太空任务要求
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/521.htm
+
+【大模型】
+• 刚刚，Tibo承诺「连续28天发布或重置」，OpenAI遭遇信任危机
+  36氪 · 2026-10-05 · https://www.36kr.com/p/4012179282874240
+• OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印
+  IT之家 · 2026-10-05 · https://www.ithome.com/1/009/903.htm
+• Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower
+  techcrunch-ai · 2026-10-05 · https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/
+• All the drama around AI&amp;#8217;s takeover of mathematics
+  theverge · 2026-10-05 · https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution
+
+【具身智能模型】
+• Can Safeworld convince people that GenAI robots won’t hurt them?
+  techcrunch-ai · 2026-10-05 · https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/
+
+【智能驾驶】
+• SMART ENGINEERING III 🧠 The cheapest table is the one you never build: Tesla swa
+  x-ming-tesla · 2026-10-05 · https://www.x.com/tslaming/status/2107060006978011591
+• 小马智行回应乘客被夹手事件：已配合交警调查，属意外而非交通事故
+  IT之家 · 2026-10-04 · https://www.ithome.com/1/009/657.htm
+• Autonomous Orange: YMX adds self-driving tech to its electric yard trucks
+  electrek · 2026-10-04 · https://electrek.co/2026/10/04/autonomous-orange-ymx-adds-outrider-self-driving-tech-to-its-electric-yard-trucks/
+• GOOD NEWS 🗞️ Tesla has taught its charging pad how to tell heat from metal 🔥  Wi
+  x-ming-tesla · 2026-10-04 · https://www.x.com/tslaming/status/2106702383640445338
+
+【AI 消费硬件与脑机】
+• 阿里千问 AI 耳夹式耳机上架预约：Bose 调音，支持 89 种语言翻译
+  IT之家 · 2026-10-05 · https://www.ithome.com/1/009/846.htm
+• AI glasses face their first major government crackdown
+  arstechnica · 2026-10-05 · https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/
+• Meta 开启 2026 年度 VR Start 开发者竞赛：奖金池百万美元、鼓励为 VR Glasses 全新头显打造手部追踪应用
+  IT之家 · 2026-10-04 · https://www.ithome.com/1/009/677.htm
+• 经典永不过时：智感旋转功能在 Mate 90 系列手机回归，华为智慧感知能力再补关键一环
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/568.htm
+
+【AI Agent】
+• Rabbit 创始人吕骋：人不该为 Agent 改变思考方式
+  36氪 · 2026-10-05 · https://www.36kr.com/p/4012726523957380
+• Researchers are tracking a Chinese AI ‘agent fleet’
+  techcrunch-ai · 2026-10-05 · https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/
+• 微软 CEO 纳德拉重申 Copilot AI 定位：面向工作的新操作系统
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/386.htm
+• AI 自动识别后厨违规行为，浙江 19.5 万家外卖商家接入系统
+  IT之家 · 2026-10-03 · https://www.ithome.com/1/009/527.htm
+• All the AI agents that can live in your text messages
+  techcrunch-ai · 2026-10-03 · https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/
+
+【💰 财经动态】
+• Singapore’s DayOne Files for US IPO Joining AI Data Center Rush
+  bloomberg-tech · 2026-10-05 · https://www.bloomberg.com/news/articles/2026-10-05/singapore-s-dayone-files-for-us-ipo-joining-ai-data-center-rush
+• CH Robinson to Buy RXO for $5.8B in Bet on AI Model
+  bloomberg-tech · 2026-10-05 · https://www.bloomberg.com/news/videos/2026-10-05/ch-robinson-to-buy-rxo-for-5-8b-in-bet-on-ai-model-video
+</description>
+      <pubDate>Tue, 06 Oct 2026 05:43:39 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-06</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-06.mp3" length="9662005" type="audio/mpeg"/>
+      <itunes:duration>10:04</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/05 AI日报｜英伟达推DGX新机/阿里平头哥发V900/特斯拉Robotaxi上架</title>
       <description>📋 今日要闻 · 2026-10-05
