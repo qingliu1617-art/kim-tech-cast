@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 15:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:56:20 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,33 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：VAST Data：喂给 GPU 的 AI 数据基础设施</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data
+频道: The MAD Podcast with Matt Turck
+原视频时间: 2026-09-24
+主持人: Matt Turck
+嘉宾: Renen Hallak
+主题: VAST Data：喂给 GPU 的 AI 数据基础设施
+
+核心观点:
+• 五层蛋糕的"中间层"，是 AI 时代真正没人抢的肥差
+• 打破"快或大"的二选一：DAYS 架构就是它的护城河
+• 模型正在从"神坛"变成"资源"，需要被像 GPU 一样管理 ️
+• Confidential Computing（机密计算）终于"时机到了"，用它撬开受监管行业
+• 每个组织都会把自己的 IP 蒸馏成 weights，未来需要"智能市场"
+• 需求在"加速到让人害怕"，物理约束才是天花板
+
+原视频: https://www.youtube.com/watch?v=awoR908Yu5Y</description>
+      <pubDate>Thu, 08 Oct 2026 15:56:20 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-awoR908Yu5Y</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-10-08-awoR908Yu5Y.mp3?v=202610082356" length="13768872" type="audio/mpeg"/>
+      <itunes:duration>14:20</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-10-08-awoR908Yu5Y.jpg?v=202610082356"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：消费级 AI 应用现状与个人智能体</title>
       <description>YouTube 长访谈中文精华改编。
@@ -854,33 +881,6 @@
       <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-09-29.mp3" length="13322910" type="audio/mpeg"/>
       <itunes:duration>13:53</itunes:duration>
       <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>特别篇：VAST Data：喂给 GPU 的 AI 数据基础设施</title>
-      <description>YouTube 长访谈中文精华改编。
-
-原始标题: Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data
-频道: The MAD Podcast with Matt Turck
-原视频时间: 2026-09-24
-主持人: Matt Turck
-嘉宾: Renen Hallak
-主题: VAST Data：喂给 GPU 的 AI 数据基础设施
-
-核心观点:
-• 五层蛋糕的"中间层"，是 AI 时代真正没人抢的肥差
-• 打破"快或大"的二选一：DAYS 架构就是它的护城河
-• 模型正在从"神坛"变成"资源"，需要被像 GPU 一样管理 ️
-• Confidential Computing（机密计算）终于"时机到了"，用它撬开受监管行业
-• 每个组织都会把自己的 IP 蒸馏成 weights，未来需要"智能市场"
-• 需求在"加速到让人害怕"，物理约束才是天花板
-
-原视频: https://www.youtube.com/watch?v=awoR908Yu5Y</description>
-      <pubDate>Mon, 28 Sep 2026 03:52:11 +0000</pubDate>
-      <guid isPermaLink="false">youtube-special-awoR908Yu5Y</guid>
-      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-09-28-awoR908Yu5Y.mp3?v=202609281151" length="13768872" type="audio/mpeg"/>
-      <itunes:duration>14:20</itunes:duration>
-      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-09-28-awoR908Yu5Y.jpg?v=202609281151"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
