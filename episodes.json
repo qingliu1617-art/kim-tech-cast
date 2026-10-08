@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-08T23:50:30",
+    "guid": "youtube-special-aCvrzhwUxg0",
+    "title": "特别篇：消费级 AI 应用现状与个人智能体",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: The Current State of Consumer AI\n频道: a16z\n原视频时间: 2026-10-05\n主持人: Elena Burgerer\n嘉宾: Olivia Moore、Josh Elman\n主题: 消费级 AI 应用现状与个人智能体\n\n核心观点:\n• 消费级 AI 是一场\"重度用户的游戏\"\n• 消费级 AI 营收结构出现了\"不自然的倒挂\"\n• 平台跑得比用户的信任更快\n• 助手产品贵的真相——大头仍是 coding\n• \"省时间\"是少数人的需求，\"花时间\"才是大生意 ⏳\n• OpenAI 广告年化 10 亿美元，但这是一场\"信任的走钢丝\"\n\n原视频: https://www.youtube.com/watch?v=aCvrzhwUxg0",
+    "pub_date": "Thu, 08 Oct 2026 15:50:30 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-10-08-aCvrzhwUxg0.mp3?v=202610082350",
+    "audio_size": 18454612,
+    "audio_mime": "audio/mpeg",
+    "duration": "19:13",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-10-08-aCvrzhwUxg0.jpg?v=202610082350"
+  },
+  {
     "date": "2026-10-08T21:05:00",
     "guid": "youtube-special-bGph8GwB3Sk",
     "title": "特别篇：Google AI 基建操盘手 Amin Vahdat：flops 是虚荣，goodput 才是真相",

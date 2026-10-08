@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 13:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:50:30 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,33 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：消费级 AI 应用现状与个人智能体</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: The Current State of Consumer AI
+频道: a16z
+原视频时间: 2026-10-05
+主持人: Elena Burgerer
+嘉宾: Olivia Moore、Josh Elman
+主题: 消费级 AI 应用现状与个人智能体
+
+核心观点:
+• 消费级 AI 是一场"重度用户的游戏"
+• 消费级 AI 营收结构出现了"不自然的倒挂"
+• 平台跑得比用户的信任更快
+• 助手产品贵的真相——大头仍是 coding
+• "省时间"是少数人的需求，"花时间"才是大生意 ⏳
+• OpenAI 广告年化 10 亿美元，但这是一场"信任的走钢丝"
+
+原视频: https://www.youtube.com/watch?v=aCvrzhwUxg0</description>
+      <pubDate>Thu, 08 Oct 2026 15:50:30 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-aCvrzhwUxg0</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-10-08-aCvrzhwUxg0.mp3?v=202610082350" length="18454612" type="audio/mpeg"/>
+      <itunes:duration>19:13</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-10-08-aCvrzhwUxg0.jpg?v=202610082350"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：Google AI 基建操盘手 Amin Vahdat：flops 是虚荣，goodput 才是真相</title>
       <description>YouTube 长访谈中文精华改编。
