@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 15:56:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:41:21 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,104 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/09 AI日报｜Anthropic 推 Haiku 5.5/华为乾崑月活 94.6%/特斯拉更名 FSD</title>
+      <description>📋 今日要闻 · 2026-10-09
+
+【AI 基础设施】
+• Memory suppliers are finally acknowledging our HBM de-spec call. SK Hynix public
+  x-semianalysis · 2026-10-08 · https://www.x.com/SemiAnalysis_/status/2108256589559865346
+• Few weeks ago, Samsung is reportedly building D0a, its first sub-10nm-class DRAM
+  x-semianalysis · 2026-10-08 · https://www.x.com/SemiAnalysis_/status/2108256591027765658
+• 余承东称华为自 2019 年以来为生存克服了许多困难，基本摆脱美国技术依赖
+  IT之家 · 2026-10-07 · https://www.ithome.com/1/010/304.htm
+• Optical backplanes are gaining traction and so is the ecosystem surrounding it. 
+  x-semianalysis · 2026-10-06 · https://www.x.com/SemiAnalysis_/status/2107548597331837342
+• US gas plant plans jump 44% in just 8 months – here’s why
+  electrek · 2026-10-06 · https://electrek.co/2026/10/06/us-gas-plant-plans-jump-44-in-just-8-months-heres-why/
+
+【大模型】
+• Claude新Haiku发布！暴击GPT-6 Luna，比梁文谷还便宜，OpenAI只能送重置卡挽尊
+  知识库精读 · 2026-10-08 · https://www.anthropic.com/claude-haiku-5-5
+• 数学大爆炸，OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明
+  36氪 · 2026-10-07 · https://www.36kr.com/p/4015128916676736
+• 谷歌深夜偷袭OpenAI，白菜价打赢Pro
+  36氪 · 2026-10-07 · https://www.36kr.com/p/4015347171233921
+
+【具身智能模型】
+• PI联合创始人Chelsea Finn团队最新盘点：机器人基础模型之后，还缺什么？
+  知识库精读 · 2026-10-08 · https://egopipaper.github.io/）
+• Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots
+  arstechnica · 2026-10-08 · https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/
+
+【智能驾驶】
+• 华为乾崑 9 月安全出行报告发布，辅助驾驶月活用户占比达 94.6%
+  IT之家 · 2026-10-08 · https://www.ithome.com/1/010/718.htm
+• Tesla leaned on Dutch regulator to ease its FSD review, emails show
+  electrek · 2026-10-08 · https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/
+• 德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批
+  IT之家 · 2026-10-06 · https://www.ithome.com/1/010/124.htm
+• FSD NEWS 🇪🇺 Following talks with German regulators, Tesla has offered to drop th
+  x-ming-tesla · 2026-10-06 · https://www.x.com/tslaming/status/2107480523039977860
+• FSD NEWS 🇩🇪 Germany is considering approving Tesla’s FSD Supervised on its own n
+  x-ming-tesla · 2026-10-06 · https://www.x.com/tslaming/status/2107423783095345519
+
+【机器人硬件】
+• ENGINEERING NEWS 🗞️ Tesla has cracked the stiff-or-flimsy problem in robot touch
+  x-ming-tesla · 2026-10-08 · https://www.x.com/tslaming/status/2108163672048869562
+• California is trying to shut down robot vs. human cage matches
+  theverge · 2026-10-08 · https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human
+• 自动驾驶数据团队集体转岗Optimus：特斯拉的数据慌到底有多严重？
+  知识库精读 · 2026-10-06
+
+【AI 消费硬件与脑机】
+• Natura’s $99 smart ring puts AI agents on your finger
+  techcrunch-ai · 2026-10-08 · https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/
+• Google releases a new local-first Granola competitor
+  techcrunch-ai · 2026-10-08 · https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/
+• Apple will reportedly debut its first touchscreen MacBook in three weeks
+  theverge · 2026-10-08 · https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor
+
+【AI Agent】
+• Google brings agentic AI to Gemini, starting with businesses
+  techcrunch-ai · 2026-10-08 · https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/
+• AI办公增长复盘：免费、买量、生态捆绑
+  36氪 · 2026-10-08 · https://www.36kr.com/p/4017114681053063
+• Cisco is bringing a new agentic framework to its Webex enterprise platform
+  engadget · 2026-10-07 · https://www.engadget.com/2278872/cisco-is-bringing-a-new-agentic-framework-to-its-webex-enterprise-platform/
+• Dazzle Wants to Turn Your Camera Roll Into an AI Assistant
+  bloomberg-tech · 2026-10-07 · https://www.bloomberg.com/news/videos/2026-10-07/dazzle-wants-to-turn-your-photos-into-an-ai-assistant-video
+• Google experiments with an AI-powered gaming platform
+  techcrunch-ai · 2026-10-07 · https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/
+
+【💰 财经动态】
+• 对话影身智能创始人闵伟：AMD 82亿美元收购李飞飞World Labs背后，4D世界模型的拐点已现
+  36氪 · 2026-10-07 · https://www.36kr.com/p/4014488588717954
+• 格芯与台积电签署 20 亿美元协议，在美国建立首个硅中介层生产基地
+  IT之家 · 2026-10-08 · https://www.ithome.com/1/010/716.htm
+• Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 m
+  techcrunch-ai · 2026-10-08 · https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/
+• OpenAI’s revenue is reportedly $20 billion less than previously projected
+  techcrunch-ai · 2026-10-08 · https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/
+• Waymo 获 50 亿美元贷款：未来将推动无人驾驶出租车扩张，入局欧洲、日本等市场
+  IT之家 · 2026-10-08 · https://www.ithome.com/1/010/734.htm
+
+【🎙️ 关键人物：Henry Yin】
+• 晚点聊 LateTalk 183｜与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增
+  知识库精读 · 2026-10-08 · https://www.xiaoyuzhoufm.com/episode/6abf021e238179133493798c
+</description>
+      <pubDate>Fri, 09 Oct 2026 05:41:21 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-09</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-09.mp3" length="13897185" type="audio/mpeg"/>
+      <itunes:duration>14:29</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：VAST Data：喂给 GPU 的 AI 数据基础设施</title>
       <description>YouTube 长访谈中文精华改编。
