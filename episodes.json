@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-08T21:05:00",
+    "guid": "youtube-special-bGph8GwB3Sk",
+    "title": "特别篇：Google AI 基建操盘手 Amin Vahdat：flops 是虚荣，goodput 才是真相",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: Google's AI Infrastructure Chief, Amin Vahdat, on the Physics & Economics of Frontier AI\n频道: Sequoia Capital\n原视频时间: 2026-10-06\n主持人: 红杉资本（Sequoia Capital）播客主持人\n嘉宾: Amin Vahdat（Google AI 基础设施负责人）\n主题: 前沿 AI 的物理与经济——Google 一年 capex 超 2000 亿美元全砸数据中心，操盘手亲述真实账本\n\n核心观点:\n• flops 是虚荣指标，goodput（有效产出）才是问责的尺子\n• 十万颗加速器规模下，故障是日常不是意外\n• 软件才是每瓦智能（intelligence per watt）的主引擎\n• TPU 是「芯片版 bitter lesson」的反例，一笔极其成功的赌注\n• 专门化是一场规模算账，专太狠反而自缚手脚\n• co-design 的赌注是性能 vs 可迁移性，每层省 10–20% 相乘就是巨大机会\n• Gemini 正在为未来的 Gemini 设计硬件\n• 电力是最根本的硬约束，轨道数据中心是认真的 moonshot\n\n原视频: https://www.youtube.com/watch?v=bGph8GwB3Sk",
+    "pub_date": "Thu, 08 Oct 2026 13:18:12 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-10-08-bGph8GwB3Sk.mp3?v=202610082118",
+    "audio_size": 16769401,
+    "audio_mime": "audio/mpeg",
+    "duration": "17:28",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-10-08-bGph8GwB3Sk.jpg?v=202610082118"
+  },
+  {
     "date": "2026-10-08",
     "guid": "ai-daily-2026-10-08",
     "title": "10/08 AI日报｜英伟达推DGX Station/三星HBM4E过验证/CoreWeave进军印度",

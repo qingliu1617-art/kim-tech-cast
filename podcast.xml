@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 21:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:18:12 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,40 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：Google AI 基建操盘手 Amin Vahdat：flops 是虚荣，goodput 才是真相</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI
+频道: Sequoia Capital
+原视频时间: 2026-10-06
+主持人: 红杉资本（Sequoia Capital）播客主持人
+嘉宾: Amin Vahdat（Google AI 基础设施负责人）
+主题: 前沿 AI 的物理与经济——Google 一年 capex 超 2000 亿美元全砸数据中心，操盘手亲述真实账本
+
+核心观点:
+• flops 是虚荣指标，goodput（有效产出）才是问责的尺子
+• 十万颗加速器规模下，故障是日常不是意外
+• 软件才是每瓦智能（intelligence per watt）的主引擎
+• TPU 是「芯片版 bitter lesson」的反例，一笔极其成功的赌注
+• 专门化是一场规模算账，专太狠反而自缚手脚
+• co-design 的赌注是性能 vs 可迁移性，每层省 10–20% 相乘就是巨大机会
+• Gemini 正在为未来的 Gemini 设计硬件
+• 电力是最根本的硬约束，轨道数据中心是认真的 moonshot
+
+原视频: https://www.youtube.com/watch?v=bGph8GwB3Sk</description>
+      <pubDate>Thu, 08 Oct 2026 13:18:12 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-bGph8GwB3Sk</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-10-08-bGph8GwB3Sk.mp3?v=202610082118" length="16769401" type="audio/mpeg"/>
+      <itunes:duration>17:28</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-10-08-bGph8GwB3Sk.jpg?v=202610082118"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/08 AI日报｜英伟达推DGX Station/三星HBM4E过验证/CoreWeave进军印度</title>
       <description>📋 今日要闻 · 2026-10-08
