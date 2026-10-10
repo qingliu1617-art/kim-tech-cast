@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 21:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:21:06 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,87 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>近日 AI日报｜格罗方德推7nm平台/谷歌芬兰建数中心被叫停/OpenAI发722篇数学手稿</title>
+      <description>📋 今日要闻 · 近日
+
+【AI 基础设施】
+• 10nm 以下迎来新玩家！格罗方德目标 2028 年量产 7nm 级 FD-SOI 工艺
+  IT之家 · 2026-10-09 · https://www.ithome.com/1/011/149.htm
+• 谷歌在芬兰栽跟头：两座数据中心被当局勒令停工，环评成拦路虎
+  IT之家 · 2026-10-07 · https://www.ithome.com/1/010/287.htm
+• San Francisco Passes Data Center Moratorium in Hometown of AI
+  bloomberg-tech · 2026-10-07 · https://www.bloomberg.com/news/articles/2026-10-07/san-francisco-passes-data-center-moratorium-in-hometown-of-ai
+• National Compute Takes On AI Gatekeepers
+  bloomberg-tech · 2026-10-07 · https://www.bloomberg.com/news/videos/2026-10-07/national-compute-takes-on-ai-gatekeepers-video
+• Congrats to @AnjneyMidha for launching National Compute! Accessible &amp; subsidized
+  x-semianalysis · 2026-10-07 · https://www.x.com/SemiAnalysis_/status/2107910452474786148
+
+【大模型】
+• AI平均3小时完成一个数学证明，科研进入大通胀时代？
+  36氪 · 2026-10-09 · https://www.36kr.com/p/4018448977631107
+• &amp;#8216;Pure insanity&amp;#8217;: Mathematicians will need years to make sense of Ope
+  theverge · 2026-10-09 · https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos
+• MAI Code 1.1 Flash 模型将整合到微软 Win11：上下文窗口 256K、130B 参数
+  IT之家 · 2026-10-07 · https://www.ithome.com/1/010/308.htm
+• 谷歌 SynthID 面向全球用户开放，可检测 AI 生成内容
+  IT之家 · 2026-10-07 · https://www.ithome.com/1/010/293.htm
+
+【智能驾驶】
+• 猛士 X700 首台量产车将于 10 月 10 日正式下线，预售价 24.98 万元起
+  IT之家 · 2026-10-09 · https://www.ithome.com/1/011/150.htm
+• 小鹏 G9L 汽车官宣将亮相巴黎车展：正式开启全球上市，登陆 64 个国家和地区
+  IT之家 · 2026-10-09 · https://www.ithome.com/1/011/147.htm
+• BYD reveals tech-savvy 5-seat SUV interior with two massive 30-inch+ screens
+  electrek · 2026-10-08 · https://electrek.co/2026/10/08/byd-reveals-tech-savvy-5-seat-suv-interior-with-two-30-screens/
+• Ready for service, rain or shine!
+  x-ashok · 2026-10-08 · https://www.x.com/aelluswamy/status/2108234411800215712
+• 赛豆 AIVA ME7 量产路测车无伪谍照曝光，定位介于轿车与 SUV 之间的跨界车
+  IT之家 · 2026-10-07 · https://www.ithome.com/1/010/294.htm
+
+【机器人硬件】
+• Danu Robotics’ fight to build a better recycling robot
+  techcrunch-ai · 2026-10-09 · https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/
+
+【AI 消费硬件与脑机】
+• 评论｜Rokid全彩显示AI眼镜真的要来了
+  知识库精读 · 2026-10-09
+• Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October
+  bloomberg-tech · 2026-10-08 · https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october
+• 小米 18 Fold 中折叠手机登顶安兔兔 9 月 Android 旗舰性能榜，搭玄戒 O3 芯片平均跑分超 462 万
+  IT之家 · 2026-10-09 · https://www.ithome.com/1/011/128.htm
+• 消息称华为 Pura X View 阔直板手机销量已破 40 万台，网友反映该机仍处缺货溢价状态
+  IT之家 · 2026-10-09 · https://www.ithome.com/1/011/123.htm
+
+【AI Agent】
+• 对标Photoshop，开发者用Claude Opus 5.5连造7款开源软件，只因受够了Adobe订阅制，甚至放话：软件已终结
+  36氪 · 2026-10-09 · https://www.36kr.com/p/4018489962565769
+• 太震撼了，Claude画出首张紫外全天图，1.19亿颗星逐颗叠上
+  36氪 · 2026-10-09 · https://www.36kr.com/p/4018549788168066
+• 微软描绘 Autopilot 全新蓝图：让 Windows AI 从“回答问题”走向“执行任务”
+  IT之家 · 2026-10-07 · https://www.ithome.com/1/010/321.htm
+• NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI
+  NVIDIA Blog · 2026-10-07 · https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/
+
+【💰 财经动态】
+• OpenAI ARR大幅低于预期，这个事情有多重要？
+  36氪 · 2026-10-09 · https://www.36kr.com/p/4018498568605574
+• OpenAI’s Revenue Run Rate Nears $50 Billion, Less Than Reported
+  bloomberg-tech · 2026-10-08 · https://www.bloomberg.com/news/articles/2026-10-08/openai-s-annualized-revenue-nears-50-billion-ft-says
+• 世界模型赛道：谁在收编，谁在突围？
+  36氪 · 2026-10-08 · https://www.36kr.com/p/4016791764866949
+• Andreessen Horowitz Backs Jev Maker at $7.5 Billion Value
+  bloomberg-tech · 2026-10-09 · https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value
+• Sequoia, Nvidia Back Mecka AI’s Robotics Push
+  bloomberg-tech · 2026-10-07 · https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video
+</description>
+      <pubDate>Sat, 10 Oct 2026 08:21:06 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-10</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-10.mp3" length="12133816" type="audio/mpeg"/>
+      <itunes:duration>12:38</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/09 AI日报｜Anthropic 推 Haiku 5.5/华为乾崑月活 94.6%/特斯拉更名 FSD</title>
       <description>📋 今日要闻 · 2026-10-09
