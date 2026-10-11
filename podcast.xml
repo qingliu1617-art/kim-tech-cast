@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 00:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:21:52 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,38 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：硬件复兴与 AI 基础设施瓶颈</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: Former Intel CEO: Why This is the Best Time to Build Hardware
+频道: a16z
+原视频时间: 2026-10-09
+主持人: Raj 与 Guido
+嘉宾: Pat Gelsinger
+主题: 硬件复兴与 AI 基础设施瓶颈
+
+核心观点:
+• 能源容量 = 经济容量，AI 的第一个天花板是电
+• 设计的瓶颈被 AI 解决了，然后瓶颈就搬家了
+• HBM 是"糟糕的内存"，却已经是我们最好的那个
+• 内存行业从"五年赚一年"到三家进全球市值前二十
+• 别去堆 16 层，2–4 层堆叠才是"速度甜蜜点" ️
+• 光学进 compute complex，铜管当波导的日子到头了
+
+原视频: https://www.youtube.com/watch?v=1Q_7yU7FZ1k</description>
+      <pubDate>Sun, 11 Oct 2026 13:21:52 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-1Q_7yU7FZ1k</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-10-11-1Q_7yU7FZ1k.mp3?v=202610112121" length="12879455" type="audio/mpeg"/>
+      <itunes:duration>13:25</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-10-11-1Q_7yU7FZ1k.jpg?v=202610112121"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>近日 AI日报｜格罗方德推7nm平台/谷歌芬兰建数中心被叫停/OpenAI发722篇数学手稿</title>
       <description>📋 今日要闻 · 近日

@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-11T21:21:52",
+    "guid": "youtube-special-1Q_7yU7FZ1k",
+    "title": "特别篇：硬件复兴与 AI 基础设施瓶颈",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: Former Intel CEO: Why This is the Best Time to Build Hardware\n频道: a16z\n原视频时间: 2026-10-09\n主持人: Raj 与 Guido\n嘉宾: Pat Gelsinger\n主题: 硬件复兴与 AI 基础设施瓶颈\n\n核心观点:\n• 能源容量 = 经济容量，AI 的第一个天花板是电\n• 设计的瓶颈被 AI 解决了，然后瓶颈就搬家了\n• HBM 是\"糟糕的内存\"，却已经是我们最好的那个\n• 内存行业从\"五年赚一年\"到三家进全球市值前二十\n• 别去堆 16 层，2–4 层堆叠才是\"速度甜蜜点\" ️\n• 光学进 compute complex，铜管当波导的日子到头了\n\n原视频: https://www.youtube.com/watch?v=1Q_7yU7FZ1k",
+    "pub_date": "Sun, 11 Oct 2026 13:21:52 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-10-11-1Q_7yU7FZ1k.mp3?v=202610112121",
+    "audio_size": 12879455,
+    "audio_mime": "audio/mpeg",
+    "duration": "13:25",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-10-11-1Q_7yU7FZ1k.jpg?v=202610112121"
+  },
+  {
     "date": "2026-10-10",
     "guid": "ai-daily-2026-10-10",
     "title": "近日 AI日报｜格罗方德推7nm平台/谷歌芬兰建数中心被叫停/OpenAI发722篇数学手稿",
