@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 00:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:48:08 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,91 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/13 AI日报｜AMD 展示 Verano/英伟达开放 Rubin/Meta 发布 Muse</title>
+      <description>📋 今日要闻 · 2026-10-13
+
+【AI 基础设施】
+• AMD 首次展示 Verano 霄龙处理器：计划 2027 年上市，支持 LPDDR5X
+  IT之家 · 2026-10-13 · https://www.ithome.com/1/012/535.htm
+• OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture
+  NVIDIA Blog · 2026-10-12 · https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/
+• Power and Talent Biggest AI Bottlenecks, Say Data Center Firms
+  bloomberg-tech · 2026-10-13 · https://www.bloomberg.com/news/articles/2026-10-13/power-and-talent-biggest-ai-bottlenecks-say-data-center-firms
+• 8GB显存就够，Strata 让普通电脑也能运行千亿参数大模型
+  小众软件 · 2026-10-10 · https://www.appinn.com/strata/
+
+【大模型】
+• Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕
+  36氪 · 2026-10-13 · https://www.36kr.com/p/4023781480501128
+• AI破解56年数学难题登Science，还是DeepMind讲究，成果交给同行评审
+  36氪 · 2026-10-13 · https://www.36kr.com/p/4023949477515143
+• 陶哲轩在“害怕”什么？
+  36氪 · 2026-10-11 · https://www.36kr.com/p/4020823823290499
+• Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
+  techcrunch-ai · 2026-10-10 · https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
+
+【具身智能模型】
+• 越来越火的世界模型，到底是个啥？
+  36氪 · 2026-10-13 · https://www.36kr.com/p/4024102190813315
+
+【智能驾驶】
+• NHTSA weighs probe into claims Tesla Robotaxis speed in school zones
+  electrek · 2026-10-12 · https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/
+• Huawei-backed AITO sets Europe launch for fall 2027 with 4 luxury SUVs
+  electrek · 2026-10-12 · https://electrek.co/2026/10/12/aito-europe-launch-2027-paris-motor-show/
+• ENGINEERING NEWS 🗞️ Tesla has found a brilliant way to fight wireless charging's
+  x-ming-tesla · 2026-10-11 · https://www.x.com/tslaming/status/2109240995548426363
+• Every Robotaxi and Optimus bot needs memory to turn AI models into real-world ac
+  x-ming-tesla · 2026-10-11 · https://www.x.com/tslaming/status/2109206118039986540
+
+【机器人硬件】
+• Amazon has over 1 million robot workers. What’s next for human employees?
+  arstechnica · 2026-10-12 · https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/
+
+【AI 消费硬件与脑机】
+• 阶跃终端首款大模型原生智能体手机 STEPX Neo 先行版发布：骁龙 8 系芯片，全栈价 3999 元起
+  IT之家 · 2026-10-13 · https://www.ithome.com/1/012/556.htm
+• Apple discloses deal to hire team and license tech from personalized podcast sta
+  techcrunch-ai · 2026-10-10 · https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/
+• Apple Smart Home Launch Oct. 13 Plans; HomeView Has Mid-November Release
+  bloomberg-tech · 2026-10-11 · https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release
+
+【AI Agent】
+• 先行探索智能体未来终端，STEPX Neo打开人机共生新形态
+  36氪 · 2026-10-13 · https://www.36kr.com/p/4024176632713350
+• Claude团队又搞事：实测AI全自主复制进智能家电
+  36氪 · 2026-10-13 · https://www.36kr.com/p/4024118704181385
+• “我的整个C盘被删光了，”超100万人围观Claude“闯祸”，开发者差点崩溃：幸亏每天都有备份
+  36氪 · 2026-10-13 · https://www.36kr.com/p/4023946254651264
+• 阿里千问办公电商版曝光：近百人团队开发中，预计双十一预售前夕发布
+  IT之家 · 2026-10-13 · https://www.ithome.com/1/012/558.htm
+• Amex introduces a framework to prevent AI agents from making unauthorized purcha
+  techcrunch-ai · 2026-10-13 · https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/
+
+【💰 财经动态】
+• 自动驾驶公司 Applied Intuition 获得投资邀约，估值达 300 亿美元
+  IT之家 · 2026-10-13 · https://www.ithome.com/1/012/584.htm
+• 开始下场？梁文锋密集接触具身创业者，DeepSeek 或入局具身
+  知识库精读 · 2026-10-13
+• 梁文锋和Winverse之间，早就搭好了一座桥
+  36氪 · 2026-10-13 · https://www.36kr.com/p/4023763215341447
+• 英伟达盯上250亿美元AI独角兽
+  36氪 · 2026-10-11 · https://www.36kr.com/p/4021149486928008
+• 国内“AI六小龙”营收合计仅为OpenAI+Anthropic的10%？赚钱虽难，但拐点已现
+  36氪 · 2026-10-13 · https://www.36kr.com/p/4023963815760001
+• Chip Selloff Deepens as Investors Question AI Trade
+  bloomberg-tech · 2026-10-13 · https://www.bloomberg.com/news/videos/2026-10-13/chip-selloff-deepens-as-investors-question-ai-trade-video
+• China’s CXMT Claims Memory Advances Ahead of Samsung, Hynix
+  bloomberg-tech · 2026-10-13 · https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix
+</description>
+      <pubDate>Tue, 13 Oct 2026 23:48:08 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-13</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-13.mp3" length="17173985" type="audio/mpeg"/>
+      <itunes:duration>17:53</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/12 AI日报｜中科曙光完成火箭尾焰模拟/亚马逊停用数据中心NDA/阿维塔T09概念版首秀</title>
       <description>📋 今日要闻 · 2026-10-12
