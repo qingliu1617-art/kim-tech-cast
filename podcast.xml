@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 15:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:52:21 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,77 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/14 AI日报｜麒麟 9050 安全升级/Gemini 4 Argon 发布/Shopify 开放 Agent 下单</title>
+      <description>📋 今日要闻 · 2026-10-14
+
+【AI 基础设施】
+• 华为：麒麟 9050 系列安全、音视频全面升级，是首批获权威检测的抗量子攻击移动 SoC
+  IT之家 · 2026-10-13 · https://www.ithome.com/1/012/596.htm
+• 英伟达 DLSS 5 最新模型 10 月 16 日推送：性能相比 9 月翻倍，4K 显存占用降低 20%
+  IT之家 · 2026-10-13 · https://www.ithome.com/1/012/564.htm
+• How is a lightning-fast pace of 10 chip designs a year even possible? 🤯  💡 Here’
+  x-ming-tesla · 2026-10-11 · https://www.x.com/tslaming/status/2109286785851465739
+• In traditional semiconductor manufacturing, taking a chip design from initial co
+  x-ming-tesla · 2026-10-11 · https://www.x.com/tslaming/status/2109278055311220738
+• Copper is starting to hit its limits in advanced packaging. Pure Cu is ~400 W/m·
+  x-semianalysis · 2026-10-11 · https://www.x.com/SemiAnalysis_/status/2109358639030952117
+
+【大模型】
+• Developing Gemini 4 Argon responsibly and safely
+  Google DeepMind · 2026-10-13 · https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/
+• Gemini 4 Argon: Built to solve your hardest problems
+  Google DeepMind · 2026-10-13 · https://deepmind.google/blog/introducing-gemini-4-argon/
+• Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you
+  arstechnica · 2026-10-13 · https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/
+• Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search
+  engadget · 2026-10-13 · https://www.engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/
+• 陶哲轩博客爆上热搜！25万数学博士临绝境，必须放缓AI
+  36氪 · 2026-10-11 · https://www.36kr.com/p/4020827950403712
+
+【具身智能模型】
+• Gemini 4 Argon for Robotics
+  Google DeepMind · 2026-10-13 · https://deepmind.google/blog/gemini-4-argon-for-robotics/
+
+【智能驾驶】
+• Laplace Intelligence red-teams robots and self-driving cars before they hit the 
+  techcrunch-ai · 2026-10-13 · https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/
+• BYD launches luxury Han EV with more than 1,000 km of range, starting at $35,000
+  electrek · 2026-10-13 · https://electrek.co/2026/10/13/byd-launches-luxury-han-ev-1000-km-range-for-35000/
+
+【AI Agent】
+• Shopify opens its catalog up to more AI agents
+  theverge · 2026-10-13 · https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents
+• Moderna Founder Calls for Urgent Regulation of AI Agents
+  bloomberg-tech · 2026-10-13 · https://www.bloomberg.com/news/articles/2026-10-13/moderna-founder-calls-for-urgent-regulation-of-ai-agents
+• Linus Torvalds is using AI to develop Linux kernel code now
+  zdnet · 2026-10-13 · https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/
+
+【💰 财经动态】
+• Nvidia CEO Announces $2 Billion in Europe Deals During Tour
+  bloomberg-tech · 2026-10-13 · https://www.bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week
+• Tencent Sells Nearly $5.7 Billion of Bonds to Fund AI Efforts
+  bloomberg-tech · 2026-10-13 · https://www.bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending
+• Zuckerberg Admits Meta Lacked AI Certainty on $200 Billion Bet
+  bloomberg-tech · 2026-10-13 · https://www.bloomberg.com/news/articles/2026-10-13/zuckerberg-admits-meta-lacked-ai-certainty-on-200-billion-bet
+• Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy
+  techcrunch-ai · 2026-10-13 · https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/
+• Character.AI just filed for bankruptcy, and former foe Disney may buy it for par
+  engadget · 2026-10-13 · https://www.engadget.com/2285177/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts/
+• AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发
+  36氪 · 2026-10-11 · https://www.36kr.com/p/3990015565708035
+• 23岁00后押中AI风口，14人干到670亿
+  36氪 · 2026-10-11 · https://www.36kr.com/p/4020761977262211
+• AI赛道，最缺接盘人
+  36氪 · 2026-10-11 · https://www.36kr.com/p/4020928893243523
+</description>
+      <pubDate>Wed, 14 Oct 2026 09:52:21 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-14</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-14.mp3" length="12148862" type="audio/mpeg"/>
+      <itunes:duration>12:39</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/13 AI日报｜AMD 展示 Verano/英伟达开放 Rubin/Meta 发布 Muse</title>
       <description>📋 今日要闻 · 2026-10-13
