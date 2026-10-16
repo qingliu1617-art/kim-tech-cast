@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 15:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:42:14 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,87 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/17 AI日报｜Ling-3.1-flash 发布/FP8 部署/Supervised 批准</title>
+      <description>📋 今日要闻 · 2026-10-17
+
+【AI 基础设施】
+• A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops
+  theverge · 2026-10-16 · https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions
+• Taiwan to Curb China AI Chip Exports to Align With US
+  bloomberg-tech · 2026-10-16 · https://www.bloomberg.com/news/videos/2026-10-16/taiwan-to-curb-china-ai-chip-exports-to-align-with-us-video
+• 中国八大算力中心，都握着什么王牌？
+  36氪 · 2026-10-16 · https://www.36kr.com/p/4028489291945862
+
+【大模型】
+• American open weights are back. 🇺🇸 Huge credit to @finkd, @alexandr_wang and the
+  x-semianalysis · 2026-10-16 · https://www.x.com/SemiAnalysis_/status/2110939555096306067
+• Meta built a huge open-weight AI model for Macs, but you'll need 1TB of RAM to r
+  engadget · 2026-10-15 · https://www.engadget.com/2287833/meta-built-a-huge-open-weight-ai-model-for-macs-but-youll-need-1tb-of-ram-to-run-it/
+• 蚂蚁把560B大模型开源了：MXFP4一刀切掉一半显存、4卡就能跑，但"百万上下文"先打个问号？
+  36氪 · 2026-10-16 · https://www.36kr.com/p/4028331874899844
+• Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI
+  zdnet · 2026-10-15 · https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/
+
+【智能驾驶】
+• Tesla driver says he was asleep and using FSD when he crashed into highway patro
+  theverge · 2026-10-16 · https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash
+• Kia launches first-of-its-kind remote driving car-sharing service with the PV5 E
+  electrek · 2026-10-16 · https://electrek.co/2026/10/16/kia-launches-first-remote-driving-car-sharing-service-with-pv5/
+• GOOD NEWS 🇸🇰 Slovakia has formally recognized the Dutch provisional approval for
+  x-ming-tesla · 2026-10-16 · https://www.x.com/tslaming/status/2111101747163017313
+
+【机器人硬件】
+• An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet
+  techcrunch-ai · 2026-10-16 · https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
+• Physical AI is more than robots, says the Nvidia veteran now investing in it
+  techcrunch-ai · 2026-10-16 · https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/
+
+【AI 消费硬件与脑机】
+• 15999 元起，苹果首款折叠屏手机 iPhone Duo 开启预购
+  IT之家 · 2026-10-16 · https://www.ithome.com/1/014/142.htm
+• The iPhone Duo is now available to preorder at $1,999
+  theverge · 2026-10-16 · https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable
+• XREAL One Pro Plus 智能眼镜发布：峰值亮度提升至 1200 尼特、鼻托结构重新设计，599 美元
+  IT之家 · 2026-10-16 · https://www.ithome.com/1/014/137.htm
+• 三星携手 Reality Defender，面向新加坡企业用户开发端侧 AI 深度伪造检测方案
+  IT之家 · 2026-10-16 · https://www.ithome.com/1/014/144.htm
+• Surface Laptop Ultra review: a different kind of MacBook Pro
+  theverge · 2026-10-16 · https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review
+
+【AI Agent】
+• OpenAI突袭Chrome，ChatGPT长出「双手」，自动打工了
+  36氪 · 2026-10-16 · https://www.36kr.com/p/4028402312679817
+• Replit’s CEO says the future of work is the ‘self-driving company’
+  techcrunch-ai · 2026-10-16 · https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/
+• An OpenAI research agent 'stole' test Ethereum to finish a coding task
+  engadget · 2026-10-16 · https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/
+
+【💰 财经动态】
+• $TSM released earnings today. I was more curious about commentary given recent t
+  x-serenity · 2026-10-15 · https://www.x.com/aleabitoreddit/status/2110645575469461611
+• TSMC’s wafer ASP gap with UMC, GlobalFoundries and Samsung keeps widening. TSMC 
+  x-semianalysis · 2026-10-14 · https://www.x.com/SemiAnalysis_/status/2110406886126174399
+• AI giant Anthropic woos potential investors ahead of stock market debut
+  bbc-tech · 2026-10-15 · https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&amp;at_campaign=rss
+• CoreWeave’s Brazen Dream Crashes Into Reality as Yields Top 15%
+  bloomberg-tech · 2026-10-14 · https://www.bloomberg.com/news/articles/2026-10-14/coreweave-s-brazen-dream-crashes-into-reality-as-yields-top-15
+• CoreWeave, Nscale Put Neocloud Economics in Focus
+  bloomberg-tech · 2026-10-16 · https://www.bloomberg.com/news/videos/2026-10-16/coreweave-nscale-put-neocloud-economics-in-focus-video
+• Nscale’s $35 Billion IPO Plans Muddied by AI Data Center Delays
+  bloomberg-tech · 2026-10-15 · https://www.bloomberg.com/news/features/2026-10-15/nscale-s-35-billion-ipo-plans-muddied-by-ai-data-center-delays
+• 德明利 2026 年前三季度预计归母净利润 86.5~89.5 亿元，预计同比增长 32046.52%~33154.49%
+  IT之家 · 2026-10-16 · https://www.ithome.com/1/014/153.htm
+• 3个月估值40亿，清华特奖得主创业世界模型，蚂蚁美团押注
+  36氪 · 2026-10-16 · https://www.36kr.com/p/4028359886557568
+</description>
+      <pubDate>Sat, 17 Oct 2026 05:42:14 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-17</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-17.mp3" length="13747974" type="audio/mpeg"/>
+      <itunes:duration>14:19</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/16 AI日报｜Apple 发布/Cybercab 发布/Bee 推出</title>
       <description>📋 今日要闻 · 2026-10-16
