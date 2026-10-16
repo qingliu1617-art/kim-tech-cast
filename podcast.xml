@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 01:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:52:44 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,95 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/15 AI日报｜Superintelligence 推出/HomeView 发布/Anthropic 发布</title>
+      <description>📋 今日要闻 · 2026-10-15
+
+【AI 基础设施】
+• 全球大厂的“去英伟达”实验
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4025615061555075
+• 全球都在寻找“下一个乌兰察布”
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4025480588744576
+• All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark
+  NVIDIA Blog · 2026-10-13 · https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/
+
+【大模型】
+• 刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4025582831423360
+• 小扎打赢AI翻身仗？空降新模型长程编程夺冠，3D实测却惨遭打脸
+  36氪 · 2026-10-13 · https://www.36kr.com/p/4024113759867017
+• 一场“龙虾”改变的豪赌：Meta的第二次翻身仗失败？
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4024441658036357
+• Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents
+  meta-newsroom · 2026-10-12 · https://about.fb.com/news/2026/10/introducing-muse-wonder-models/
+• Meta releases its first frontier model, Muse Wonder
+  techcrunch-ai · 2026-10-12 · https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/
+
+【具身智能模型】
+• 当世界模型实现实时推理，能给AI应用带来什么创业机会？
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4025492182241154
+
+【智能驾驶】
+• The feds are looking into reports of Tesla’s robotaxis speeding through school z
+  theverge · 2026-10-13 · https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation
+• 无标线、无信号灯、车流激进：小鹏 NGP 官宣成功挑战被称为“全球最难环岛”的凯旋门环岛
+  IT之家 · 2026-10-14 · https://www.ithome.com/1/013/118.htm
+• US, Chinese Robotaxi Rivals Race for Europe
+  bloomberg-tech · 2026-10-14 · https://www.bloomberg.com/news/videos/2026-10-14/us-chinese-robotaxi-rivals-race-for-europe-video
+
+【机器人硬件】
+• STRONG SIGNAL 🤖 Tesla is seeking an Optimus Fleet Coordinator, and it’s a much b
+  x-ming-tesla · 2026-10-14 · https://www.x.com/tslaming/status/2110330037056700533
+• Why China Wants to Master the Robotic Hand
+  bloomberg-tech · 2026-10-13 · https://www.bloomberg.com/news/videos/2026-10-13/why-china-wants-to-master-the-robotic-hand-video
+• China's Robotic Hands Key to $5 Trillion AI Humanoid Development Race
+  bloomberg-tech · 2026-10-13 · https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race
+
+【AI 消费硬件与脑机】
+• Science Corporation implants its vision-restoring chip in its first Stargardt di
+  techcrunch-ai · 2026-10-13 · https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/
+• 苹果智能家庭中枢 HomeView 细节：壁挂版不含支架得另买，可选 USB-C / 交流电 / PoE 版
+  IT之家 · 2026-10-13 · https://www.ithome.com/1/012/586.htm
+• Apple announces the HomePod Mini 2, but it isn&amp;#8217;t ready for Siri AI at laun
+  theverge · 2026-10-13 · https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai
+• Apple HomeView hands-on: Siri AI is your new roommate
+  engadget · 2026-10-13 · https://www.engadget.com/2285178/apple-homeview-hands-on-siri-ai/
+• 千问 AI 耳夹式耳机开售：Bose 调音，到手价 1099 元
+  IT之家 · 2026-10-13 · https://www.ithome.com/1/012/532.htm
+
+【AI Agent】
+• Claude写代码太快，Anthropic先扛不住了：连Git都要重做
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4025609055588233
+• 刚刚，Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4025593567203200
+• Claude写代码太快，Anthropic连源码系统都重造了，7人只用5个月
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4025660661911682
+• Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4025329229631363
+
+【💰 财经动态】
+• Chip Stocks Erase $1 Trillion in Value as Rout Deepens
+  bloomberg-tech · 2026-10-14 · https://www.bloomberg.com/news/articles/2026-10-14/chip-stocks-set-to-erase-1-trillion-in-value-as-rout-deepens
+• 格芯获选在纽约建设两座晶圆厂，与美国商务部达成协议调整 9.55 亿美元资助并为其额外分配约 4% 股权
+  IT之家 · 2026-10-14 · https://www.ithome.com/1/013/091.htm
+• GlobalFoundries Gets $21 Billion for Plants in US-Japan Deal
+  bloomberg-tech · 2026-10-14 · https://www.bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal
+• Modal CEO: AI Has Entered a ‘New Era of Software’
+  bloomberg-tech · 2026-10-14 · https://www.bloomberg.com/news/videos/2026-10-14/modal-ceo-ai-has-entered-a-new-era-of-software-video
+• AI陪伴一哥破产，Transformer作者创业公司，2000万贱卖迪士尼
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4025580880187523
+• Disney offers $20M for Character.AI’s scandal-plagued chatbot tech
+  arstechnica · 2026-10-13 · https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/
+• Anthropic尽调后放弃，亚马逊为何还在追Decart？
+  36氪 · 2026-10-14 · https://www.36kr.com/p/4025630372992642
+</description>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-15</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-15.mp3" length="17107530" type="audio/mpeg"/>
+      <itunes:duration>17:49</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/14 AI日报｜麒麟 9050 安全升级/Gemini 4 Argon 发布/Shopify 开放 Agent 下单</title>
       <description>📋 今日要闻 · 2026-10-14
