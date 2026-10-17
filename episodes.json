@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-18",
+    "guid": "ai-daily-2026-10-18",
+    "title": "10/18 AI日报｜PLUS 上市/HEV 上市/Every 发布",
+    "description": "📋 今日要闻 · 2026-10-18\n\n【AI 基础设施】\n• 边建设边运营：“鹏城云脑 Ⅲ”10000P 国产算力上线试运行\n  IT之家 · 2026-10-17 · https://www.ithome.com/1/014/387.htm\n• 国产GPU竞逐超节点，谁来买单？\n  36氪 · 2026-10-16 · https://www.36kr.com/p/4028460994777479\n\n【大模型】\n• DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner\n  bloomberg-tech · 2026-10-17 · https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner\n• 🚀 DeepSeek-V4.1-Flash-1017 is here!  Stronger benchmark performance, faster task\n  x-deepseek · 2026-10-17 · https://www.x.com/deepseek_ai/status/2111375640717033777\n• 刚刚，Mythos 5破解量子计算重大难题\n  36氪 · 2026-10-17 · https://www.36kr.com/p/4029231447446152\n• 苦熬三年的刘庆峰，“孤勇者”等待翻盘\n  36氪 · 2026-10-16 · https://www.36kr.com/p/4028387030454660\n\n【智能驾驶】\n• 10.97 万元起吉利星瑞 L PLUS 正式上市，国内首款搭载激光雷达的燃油轿车\n  IT之家 · 2026-10-17 · https://www.ithome.com/1/014/394.htm\n• 联合征服巴黎“最难魔鬼环岛”：奇瑞 JAECOO 联合 Momenta 完成首个无接管凯旋门智驾挑战\n  IT之家 · 2026-10-17 · https://www.ithome.com/1/014/343.htm\n\n【AI Agent】\n• Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT\n  36氪 · 2026-10-17 · https://www.36kr.com/p/4029486628327811\n• Websites are closing their doors to AI agents\n  theverge · 2026-10-17 · https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web\n• The agent access war has started！  Meta's Muse recently hit #1 on the App Store.\n  x-semianalysis · 2026-10-16 · https://www.x.com/SemiAnalysis_/status/2111223778373935465\n• Replit is no longer working with Anthropic, CEO says\n  techcrunch-ai · 2026-10-16 · https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/\n\n【💰 财经动态】\n• EverWind To Build Nova Scotia Data Center, Lease to AI Developer\n  bloomberg-tech · 2026-10-16 · https://www.bloomberg.com/news/articles/2026-10-16/everwind-to-build-nova-scotia-data-center-lease-to-ai-developer\n• Longest Chip Selloff Since 2006 Mints Short Sellers $32 Billion\n  bloomberg-tech · 2026-10-16 · https://www.bloomberg.com/news/articles/2026-10-16/longest-chip-selloff-since-2006-mints-short-sellers-32-billion\n• 当烧钱不再是通行证：微软、Meta踩刹车，苹果成了AI赢家\n  36氪 · 2026-10-17 · https://www.36kr.com/p/4029392960280192\n• Nvidia Partner GMI Cloud Calls CoreWeave 15% Yield ‘Insane’\n  bloomberg-tech · 2026-10-16 · https://www.bloomberg.com/news/articles/2026-10-16/nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane\n• 专门陪骗子聊天的 AI 公司 Apate 拿下近千万美元融资，已累计消耗诈骗者 17 年时间\n  IT之家 · 2026-10-16 · https://www.ithome.com/1/014/118.htm\n",
+    "pub_date": "Sun, 18 Oct 2026 05:38:54 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-18.mp3",
+    "audio_size": 10558527,
+    "audio_mime": "audio/mpeg",
+    "duration": "11:00",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-10-17",
     "guid": "ai-daily-2026-10-17",
     "title": "10/17 AI日报｜Ling-3.1-flash 发布/FP8 部署/Supervised 批准",
