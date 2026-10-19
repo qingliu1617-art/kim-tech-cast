@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 21:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:44:24 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -25,7 +25,7 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>10/20 AI日报｜美政府禁用DeepSeek/Anthropic估值下调/亚马逊瞄准PyTorch</title>
+      <title>10/20 AI日报｜DeepSeek 发布/OpenAI 发布/Manus 推出</title>
       <description>📋 今日要闻 · 2026-10-20
 
 【AI 基础设施】
@@ -112,7 +112,7 @@
 • #777. All-in｜AI 算力融资：判断风险，先看回本周期
   知识库精读 · 2026-10-19 · https://www.xiaoyuzhoufm.com/episode/6ad325f4641ef406308cfd8a
 </description>
-      <pubDate>Tue, 20 Oct 2026 05:44:00 +0800</pubDate>
+      <pubDate>Tue, 20 Oct 2026 05:44:24 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-10-20</guid>
       <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-20.mp3" length="19879435" type="audio/mpeg"/>
       <itunes:duration>20:42</itunes:duration>
