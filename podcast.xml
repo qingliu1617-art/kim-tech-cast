@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 21:38:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:14:01 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,51 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/19 AI日报｜DeepSeek 新模型登顶/RTX Spark 开卖/FSD 撞入封闭车道</title>
+      <description>📋 今日要闻 · 2026-10-19
+
+【大模型】
+• 无敌了，DeepSeek-V4.1-Flash-1017 发布，性价比直接干到全球第一！
+  知识库精读 · 2026-10-18 · https://mp.weixin.qq.com/s/WAD7lIHb3obkdzsyzYPV2g
+• 许愿式编程发布，谁说梁文锋不宠“小白”？
+  36氪 · 2026-10-18 · https://www.36kr.com/p/4030781004502915
+
+【智能驾驶】
+• Cities want to put the boot on robotaxis
+  theverge · 2026-10-18 · https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws
+• Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt
+  electrek · 2026-10-16 · https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/
+• 特斯拉司机自称开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤
+  IT之家 · 2026-10-17 · https://www.ithome.com/1/014/348.htm
+
+【AI 消费硬件与脑机】
+• RTX Spark Ignites Global Celebration as New Windows PCs Arrive
+  NVIDIA Blog · 2026-10-17 · https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/
+
+【AI Agent】
+• 龙虾凉了，Muse凭什么火？当初天价挖人合理吗？亚历山大王最新访谈回应一切
+  36氪 · 2026-10-18 · https://www.36kr.com/p/4030863615431041
+
+【💰 财经动态】
+• 还没IPO，OpenAI 600名员工已套现66亿美元
+  36氪 · 2026-10-18 · https://www.36kr.com/p/4030896887387784
+• 美光崛起背后：美国内存“独苗”的生存战、资本博弈与AI重生
+  36氪 · 2026-10-18 · https://www.36kr.com/p/4031049472579208
+• 奇瑞智界将获批独立造车资质，内部人士确认计划独立上市
+  IT之家 · 2026-10-17 · https://www.ithome.com/1/014/352.htm
+• Disney agrees to hire the majority of Character.AI’s workforce
+  techcrunch-ai · 2026-10-18 · https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
+• 前华为车BU世界模型基模负责人创业，杭州具身大脑公司获近亿元融资｜硬氪首发
+  36氪 · 2026-10-18 · https://www.36kr.com/p/4025325566054529
+</description>
+      <pubDate>Mon, 19 Oct 2026 20:14:01 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-19</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-19.mp3" length="8468314" type="audio/mpeg"/>
+      <itunes:duration>08:49</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/18 AI日报｜PLUS 上市/HEV 上市/Every 发布</title>
       <description>📋 今日要闻 · 2026-10-18

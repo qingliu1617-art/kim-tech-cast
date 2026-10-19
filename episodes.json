@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-19",
+    "guid": "ai-daily-2026-10-19",
+    "title": "10/19 AI日报｜DeepSeek 新模型登顶/RTX Spark 开卖/FSD 撞入封闭车道",
+    "description": "📋 今日要闻 · 2026-10-19\n\n【大模型】\n• 无敌了，DeepSeek-V4.1-Flash-1017 发布，性价比直接干到全球第一！\n  知识库精读 · 2026-10-18 · https://mp.weixin.qq.com/s/WAD7lIHb3obkdzsyzYPV2g\n• 许愿式编程发布，谁说梁文锋不宠“小白”？\n  36氪 · 2026-10-18 · https://www.36kr.com/p/4030781004502915\n\n【智能驾驶】\n• Cities want to put the boot on robotaxis\n  theverge · 2026-10-18 · https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws\n• Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt\n  electrek · 2026-10-16 · https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/\n• 特斯拉司机自称开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤\n  IT之家 · 2026-10-17 · https://www.ithome.com/1/014/348.htm\n\n【AI 消费硬件与脑机】\n• RTX Spark Ignites Global Celebration as New Windows PCs Arrive\n  NVIDIA Blog · 2026-10-17 · https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/\n\n【AI Agent】\n• 龙虾凉了，Muse凭什么火？当初天价挖人合理吗？亚历山大王最新访谈回应一切\n  36氪 · 2026-10-18 · https://www.36kr.com/p/4030863615431041\n\n【💰 财经动态】\n• 还没IPO，OpenAI 600名员工已套现66亿美元\n  36氪 · 2026-10-18 · https://www.36kr.com/p/4030896887387784\n• 美光崛起背后：美国内存“独苗”的生存战、资本博弈与AI重生\n  36氪 · 2026-10-18 · https://www.36kr.com/p/4031049472579208\n• 奇瑞智界将获批独立造车资质，内部人士确认计划独立上市\n  IT之家 · 2026-10-17 · https://www.ithome.com/1/014/352.htm\n• Disney agrees to hire the majority of Character.AI’s workforce\n  techcrunch-ai · 2026-10-18 · https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/\n• 前华为车BU世界模型基模负责人创业，杭州具身大脑公司获近亿元融资｜硬氪首发\n  36氪 · 2026-10-18 · https://www.36kr.com/p/4025325566054529\n",
+    "pub_date": "Mon, 19 Oct 2026 20:14:01 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-19.mp3",
+    "audio_size": 8468314,
+    "audio_mime": "audio/mpeg",
+    "duration": "08:49",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-10-18",
     "guid": "ai-daily-2026-10-18",
     "title": "10/18 AI日报｜PLUS 上市/HEV 上市/Every 发布",
