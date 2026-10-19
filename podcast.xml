@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 12:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:14:23 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -25,7 +25,7 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>10/19 AI日报｜DeepSeek 新模型登顶/RTX Spark 开卖/FSD 撞入封闭车道</title>
+      <title>10/19 AI日报｜DeepSeek V4.1-Flash 登顶/RTX Spark 笔记本开卖/Muse 22天500万下载</title>
       <description>📋 今日要闻 · 2026-10-19
 
 【大模型】
@@ -62,7 +62,7 @@
 • 前华为车BU世界模型基模负责人创业，杭州具身大脑公司获近亿元融资｜硬氪首发
   36氪 · 2026-10-18 · https://www.36kr.com/p/4025325566054529
 </description>
-      <pubDate>Mon, 19 Oct 2026 20:14:01 +0800</pubDate>
+      <pubDate>Mon, 19 Oct 2026 20:14:23 +0800</pubDate>
       <guid isPermaLink="false">ai-daily-2026-10-19</guid>
       <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-19.mp3" length="8468314" type="audio/mpeg"/>
       <itunes:duration>08:49</itunes:duration>
