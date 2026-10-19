@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 12:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:44:00 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,101 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/20 AI日报｜美政府禁用DeepSeek/Anthropic估值下调/亚马逊瞄准PyTorch</title>
+      <description>📋 今日要闻 · 2026-10-20
+
+【AI 基础设施】
+• Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool
+  techcrunch-ai · 2026-10-19 · https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/
+• Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help
+  NVIDIA Blog · 2026-10-19 · https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/
+• AI逼出一场“从电到光”的计算革命
+  36氪 · 2026-10-19 · https://www.36kr.com/p/4032696975758472
+• BREAKING NEWS🚨: NVIDIA has just achieved 423 tok/s/user 🚀 on the 2.8T Parameter 
+  x-semianalysis · 2026-10-18 · https://www.x.com/SemiAnalysis_/status/2111627094878790023
+
+【大模型】
+• DeepSeek新模型升级，梁文锋正在为具身智能铺路？
+  36氪 · 2026-10-19 · https://www.36kr.com/p/4032656829290118
+• US Moves to Bar China’s DeepSeek From Federal Agency Systems
+  bloomberg-tech · 2026-10-19 · https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts
+• US bans DeepSeek AI from government use as tech tension with China continues
+  bbc-tech · 2026-10-19 · https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss
+• Nvidia launches new open models to run agents in the enterprise and on PCs
+  techcrunch-ai · 2026-10-19 · https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
+
+【具身智能模型】
+• GPT-6-Astra具身能力遭大考，传统基准拿满分，真机频碰壁
+  36氪 · 2026-10-19 · https://www.36kr.com/p/4032720866349953
+• 跨越20类机器人，世界基础模型GreenWAM既能预测行动后果，也能作出决策
+  36氪 · 2026-10-19 · https://www.36kr.com/p/4032717904909185
+
+【智能驾驶】
+• 华为车BU与宁德时代合作换电
+  知识库精读 · 2026-10-19
+• 华为乾崑智能汽车解决方案：引望与宁德时代、时代电服达成战略合作，拥抱智能换电生态
+  IT之家 · 2026-10-19 · https://www.ithome.com/1/015/014.htm
+• GOOD NEWS 🇯🇵 Tesla is still pushing hard to roll out FSD (Supervised) in Japan b
+  x-ming-tesla · 2026-10-19 · https://www.x.com/tslaming/status/2112047787626119277
+• 梅赛德斯-奔驰与英伟达深化战略合作，共同推动下一代辅助驾驶系统开发
+  IT之家 · 2026-10-19 · https://www.ithome.com/1/014/990.htm
+
+【机器人硬件】
+• OpenAI确认下场做机器人！19个岗位缺人，年薪最高48.5万刀
+  知识库精读 · 2026-10-19
+• OpenAI下场造人形机器人，奥尔特曼：AI大脑是关键
+  36氪 · 2026-10-19 · https://www.36kr.com/p/4032635804275075
+• 今年上半年我国人形机器人产量超 4 万台，预计全年将突破 10 万台
+  IT之家 · 2026-10-19 · https://www.ithome.com/1/015/002.htm
+
+【AI 消费硬件与脑机】
+• 古尔曼：苹果正研发室内摄像头，依靠 AI 分析环境
+  IT之家 · 2026-10-19 · https://www.ithome.com/1/015/023.htm
+• Even Realities G2 review: Smart glasses, stupid controls
+  engadget · 2026-10-19 · https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/
+
+【AI Agent】
+• Google Gemini 4 agents just beat Minecraft with no human intervention
+  engadget · 2026-10-19 · https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/
+• 千次5元、搜不到不收钱：DeepSeek给Agent装上自研搜索，价格只有Tavily的零头
+  36氪 · 2026-10-19 · https://www.36kr.com/p/4032549827876480
+• 不改权重也能变强：谷歌开源Harness²，让智能体自己改自己的“外壳”
+  36氪 · 2026-10-19 · https://www.36kr.com/p/4032549736568712
+• Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts
+  techcrunch-ai · 2026-10-19 · https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/
+• 出走、回购与Cue，Manus的Personal AI“本土化”大考
+  36氪 · 2026-10-19 · https://www.36kr.com/p/4032555073771393
+
+【💰 财经动态】
+• “2026年最荒谬IPO”背后，藏着AI科技股的估值裂缝
+  36氪 · 2026-10-19 · https://www.36kr.com/p/4032696666313863
+• Anthropic 估值打折，下一个轮到谁？
+  知识库精读 · 2026-10-19 · https://mp.weixin.qq.com/s/6slCO0Q8oYz5d_kz1crBrA
+• Tenstorrent 完成 15 亿美元 E 轮融资，投后估值 62 亿美元
+  IT之家 · 2026-10-19 · https://www.ithome.com/1/015/045.htm
+• Tenstorrent hits $6.2B valuation to scale open-weight AI chips
+  techcrunch-ai · 2026-10-19 · https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/
+• 海光信息 2026 年第三季度归母净利润 10.48 亿元，同比增长 37.9%
+  IT之家 · 2026-10-19 · https://www.ithome.com/1/014/992.htm
+• Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal
+  bloomberg-tech · 2026-10-19 · https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal
+• AI Firm Nscale Faces Investor Pushback Over IPO Valuation
+  bloomberg-tech · 2026-10-19 · https://www.bloomberg.com/news/videos/2026-10-19/ai-firm-nscale-faces-investor-pushback-on-ipo-valuation-video
+• SK 海力士与多家银行联手出资 2 万亿韩元，扶持韩国半导体产业
+  IT之家 · 2026-10-19 · https://www.ithome.com/1/014/993.htm
+
+【🎙️ 关键人物：AI 算力融资】
+• #777. All-in｜AI 算力融资：判断风险，先看回本周期
+  知识库精读 · 2026-10-19 · https://www.xiaoyuzhoufm.com/episode/6ad325f4641ef406308cfd8a
+</description>
+      <pubDate>Tue, 20 Oct 2026 05:44:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-20</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-20.mp3" length="19879435" type="audio/mpeg"/>
+      <itunes:duration>20:42</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/19 AI日报｜DeepSeek V4.1-Flash 登顶/RTX Spark 笔记本开卖/Muse 22天500万下载</title>
       <description>📋 今日要闻 · 2026-10-19
