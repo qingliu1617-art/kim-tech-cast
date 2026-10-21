@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 21:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:41:29 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,79 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/22 AI日报｜英伟达发布 DSX POD/OpenAI 模型上谷歌云/DeepSeek 搜索将收费</title>
+      <description>📋 今日要闻 · 2026-10-22
+
+【AI 基础设施】
+• 黄仁勋发布 AI“预制工厂”DSX POD：最快 14 天部署投产，英伟达计划 2027 年初全球交付
+  IT之家 · 2026-10-21 · https://www.ithome.com/1/016/138.htm
+• Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers
+  wired-ai · 2026-10-21 · https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/
+• Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infra
+  NVIDIA Blog · 2026-10-21 · https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/
+• 关于AI算力，马斯克、皮查伊与格里芬接连发声，硅谷愁眼下不够，华尔街开始精算长期回报
+  36氪 · 2026-10-21 · https://www.36kr.com/p/4035334518526850
+
+【大模型】
+• 夯爆，DeepSeek又拿下全球第一
+  36氪 · 2026-10-19 · https://www.36kr.com/p/4032719542260866
+• 梁文锋把赚钱的秘密开源了
+  36氪 · 2026-10-21 · https://www.36kr.com/p/4035275515598721
+• OpenAI 宣布入驻谷歌云平台：进一步拓展其在微软以外的业务，Gemini Agent 和 Antigravity 用户可用最新前沿模型
+  IT之家 · 2026-10-21 · https://www.ithome.com/1/016/105.htm
+• OpenAI models are coming to Google Cloud
+  OpenAI Blog · 2026-10-21 · https://openai.com/index/openai-models-google-cloud
+• OpenAI’s most powerful AI models turned off safety monitoring – then lied about 
+  zdnet · 2026-10-21 · https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/
+
+【智能驾驶】
+• Lucid’s 25,000 Bolt robotaxis will run on Nvidia’s self-driving software
+  electrek · 2026-10-21 · https://electrek.co/2026/10/21/lucid-bolt-robotaxi-nvidia-alpamayo-madrid-2027/
+• 李斌：基于世界模型架构 + 闭环强化学习的蔚来智能辅助驾驶系统，已部署超 95 万辆智能电动汽车
+  IT之家 · 2026-10-21 · https://www.ithome.com/1/016/123.htm
+• 首批 L3 级自动驾驶“证”规军，深蓝 SL03 汽车“小蓝灯”持证上岗
+  IT之家 · 2026-10-21 · https://www.ithome.com/1/016/102.htm
+
+【机器人硬件】
+• 英伟达联合思灵推出人形机器人参考平台 Agile ONE SN，计划 2027 年初上市
+  IT之家 · 2026-10-21 · https://www.ithome.com/1/016/128.htm
+
+【AI Agent】
+• Anthropic takes on Muse with Claude Duet, its new AI agent
+  theverge · 2026-10-21 · https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent
+• We’re opening a research preview of Claude Duet, a new app where Claude works as
+  x-claude · 2026-10-21 · https://www.x.com/claudeai/status/2112984664256241837
+• Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots
+  engadget · 2026-10-21 · https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/
+• Walmart is inviting AI agents to shop for you
+  theverge · 2026-10-21 · https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents
+• OpenAI's agents disabled their own safety monitoring systems
+  engadget · 2026-10-21 · https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/
+
+【💰 财经动态】
+• Anthropic的“被迫上市” ：营收160亿亏损800亿，现金仅剩200亿
+  36氪 · 2026-10-21 · https://www.36kr.com/p/4035151703873152
+• Anthropic上半年平均每天亏30亿
+  36氪 · 2026-10-21 · https://www.36kr.com/p/4035266768343943
+• Meta Boosts Bet on AI With Spending Outlook, New Stock Class
+  bloomberg-tech · 2026-10-21 · https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering
+• Meta Plans to Issue New Non-Voting Stock for Capital Raising
+  bloomberg-tech · 2026-10-21 · https://www.bloomberg.com/news/articles/2026-10-21/meta-plans-to-issue-new-non-voting-stock-semafor-reports
+• Flying Roadsters can’t lift Tesla’s flat Q3 revenues
+  theverge · 2026-10-21 · https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger
+• Tesla FSD ‘subscriptions’ hit 1.74M, counted the way Musk’s pay package wants
+  electrek · 2026-10-21 · https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/
+• CoreWeave引爆AI融资恐慌
+  36氪 · 2026-10-20 · https://www.36kr.com/p/4034069349651332
+</description>
+      <pubDate>Thu, 22 Oct 2026 05:41:29 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-22</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-22.mp3" length="12124621" type="audio/mpeg"/>
+      <itunes:duration>12:38</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/21 AI日报｜DeepSeek 开源推理框架/MiniMax 新模型上线/Waymo 落地马德里</title>
       <description>📋 今日要闻 · 2026-10-21
