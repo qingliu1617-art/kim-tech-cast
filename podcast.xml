@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 21:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:42:06 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,67 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/24 AI日报｜OpenAI 融资 300 亿/英伟达发布 Minerva/MiniMax 开源 M3.1</title>
+      <description>📋 今日要闻 · 2026-10-24
+
+【AI 基础设施】
+• NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories
+  NVIDIA Blog · 2026-10-22 · https://blogs.nvidia.com/blog/minerva-platform-infrastructure/
+
+【大模型】
+• Gemini 4 Argon Token消耗量暴涨3倍，谷歌CEO首谈砍掉3.5 Pro内幕，还剧透了5.0
+  36氪 · 2026-10-22 · https://www.36kr.com/p/4036933567288968
+• MiniMax重磅模型开源，华为昇腾将接入，3天处理超100万亿Token
+  36氪 · 2026-10-23 · https://www.36kr.com/p/4038403667760257
+• DeepSeek搜索引擎上线，百度的王座已经不稳
+  36氪 · 2026-10-23 · https://www.36kr.com/p/4038359402763145
+• Kimi K3.1藏不住了
+  36氪 · 2026-10-23 · https://www.36kr.com/p/4038228708578944
+• Moonshot Debuts First AI Upgrade Since Its Own DeepSeek Moment
+  bloomberg-tech · 2026-10-23 · https://www.bloomberg.com/news/articles/2026-10-23/moonshot-debuts-first-ai-upgrade-since-its-own-deepseek-moment
+
+【智能驾驶】
+• 特斯拉自研AI地图，供应商懵了
+  知识库精读 · 2026-10-23 · https://mp.weixin.qq.com/s/2MSGNVi60LeyCQpfk5BIPg
+• Tesla now says it needs its own maps for FSD after years of dismissing maps
+  electrek · 2026-10-22 · https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/
+• Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvi
+  techcrunch-ai · 2026-10-23 · https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/
+• 东风风神 L8+ 上市：全球首搭天元智驾 T800，限时置换价 12.99 万元起
+  IT之家 · 2026-10-23 · https://www.ithome.com/1/017/254.htm
+• Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights
+  theverge · 2026-10-23 · https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss
+
+【AI Agent】
+• 刚刚，你每天在用的Skills发生了一件大事
+  36氪 · 2026-10-23 · https://www.36kr.com/p/4038357510116225
+• OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间
+  IT之家 · 2026-10-23 · https://www.ithome.com/1/017/274.htm
+• Claude Duet app is Anthropic’s bet on agents
+  techcrunch-ai · 2026-10-22 · https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/
+
+【💰 财经动态】
+• OpenAI working on new $30B raise at $1.25T valuation ahead of IPO
+  techcrunch-ai · 2026-10-22 · https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
+• OpenAI Moves Toward a $1.25 Trillion Value
+  bloomberg-tech · 2026-10-23 · https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-tech-10-23-2026-video
+• Big Paydays Ahead for Anthropic's Early Backers
+  bloomberg-tech · 2026-10-23 · https://www.bloomberg.com/news/videos/2026-10-23/big-paydays-ahead-for-anthropic-s-early-backers-video
+• DeepSeek 具身投资版图：躯干、底座、运控三张底牌
+  知识库精读 · 2026-10-23 · https://mp.weixin.qq.com/s/hq6h6ymSa5-fDEwqy2Y61g
+• AI Debt Fears Push Global Credit Spreads to 17-Month High
+  bloomberg-tech · 2026-10-23 · https://www.bloomberg.com/news/articles/2026-10-23/ai-tech-fears-push-global-credit-spreads-to-17-month-high
+• 消息称华为获 150 亿元离岸贷款：自 2020 年以来首次获得离岸银团贷款
+  IT之家 · 2026-10-22 · https://www.ithome.com/1/016/687.htm
+</description>
+      <pubDate>Sat, 24 Oct 2026 05:42:06 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-24</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-24.mp3" length="10208278" type="audio/mpeg"/>
+      <itunes:duration>10:38</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/23 AI日报｜英伟达锁定产能/宇树转向建生态/Flint 开源本地跑</title>
       <description>📋 今日要闻 · 2026-10-23
