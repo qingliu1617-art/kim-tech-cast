@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-26",
+    "guid": "ai-daily-2026-10-26",
+    "title": "10/26 AI日报｜Kimi 发布 K3.1 Pro/启元机器人五千台下线/银行制定 AI 灾备预案",
+    "description": "📋 今日要闻 · 2026-10-26\n\n【AI 基础设施】\n• I guess what I've seen from Chinese laser capacity expansion:   1. Dongshan/Sour\n  x-serenity · 2026-10-24 · https://www.x.com/aleabitoreddit/status/2114030117416755494\n\n【大模型】\n• Kimi商业和模型都想要，但卡是有限的\n  知识库精读 · 2026-10-25 · https://mp.weixin.qq.com/s/UaT6PdmiWlM_zw1SqOTE9w\n\n【智能驾驶】\n• Science Robotics｜只靠一只前视摄像头，时速100公里！AI无人机跑赢世界冠军\n  知识库精读 · 2026-10-25 · https://mp.weixin.qq.com/s/3FT7xJAUr_BPSDy4RaG2oQ\n• TL;DR ⏳ How can a Tesla drive using nothing but cameras? Four of Tesla's AI inve\n  x-ming-tesla · 2026-10-25 · https://www.x.com/tslaming/status/2114379955161497750\n\n【机器人硬件】\n• 启元机器人第 5000 台个人机器人下线，日产能提升至 200 余台\n  IT之家 · 2026-10-25 · https://www.ithome.com/1/017/672.htm\n\n【AI 消费硬件与脑机】\n• Ray-Ban Meta Audio AI Glasses Cost More While Ditching a Key Feature: Review\n  bloomberg-tech · 2026-10-25 · https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review\n• The hottest AI wearables and gadgets you should know about\n  techcrunch-ai · 2026-10-25 · https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/\n\n【AI Agent】\n• AI 智能体闯进银行，美国大行开始准备“灾后预案”\n  IT之家 · 2026-10-25 · https://www.ithome.com/1/017/562.htm\n• 硅谷的天才们怎么天天研究让 AI 在《我的世界》里砍树？\n  36氪 · 2026-10-25 · https://www.36kr.com/p/4040657112208512\n• 双11购物车里的AI暗战\n  36氪 · 2026-10-24 · https://www.36kr.com/p/4039237422175872\n\n【💰 财经动态】\n• 力积电 2026Q3 净利润环比几乎翻倍，新产能将与客户共同投资\n  IT之家 · 2026-10-25 · https://www.ithome.com/1/017/690.htm\n• Chinese Manufacturer Dongshan Raises $1.3 Billion in HK Listing\n  bloomberg-tech · 2026-10-25 · https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing\n• SoftBank’s Son Plans $50 Billion Malaysia Tech Outlay, PM Says\n  bloomberg-tech · 2026-10-25 · https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says\n• 拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题\n  36氪 · 2026-10-24 · https://www.36kr.com/p/4039749830120583\n• AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings\n  bloomberg-tech · 2026-10-25 · https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings\n",
+    "pub_date": "Mon, 26 Oct 2026 01:03:49 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-26.mp3",
+    "audio_size": 12918325,
+    "audio_mime": "audio/mpeg",
+    "duration": "13:27",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-10-25",
     "guid": "ai-daily-2026-10-25",
     "title": "10/25 AI日报｜AWS 容量基本售罄/三星芯片跑分超骁龙/DeepSeek 招产品经理",
