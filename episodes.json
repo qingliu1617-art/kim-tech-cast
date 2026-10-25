@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-25",
+    "guid": "ai-daily-2026-10-25",
+    "title": "10/25 AI日报｜AWS 容量基本售罄/三星芯片跑分超骁龙/DeepSeek 招产品经理",
+    "description": "📋 今日要闻 · 2026-10-25\n\n【AI 基础设施】\n• 亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年\n  IT之家 · 2026-10-25 · https://www.ithome.com/1/017/549.htm\n• $NVDA Jensen Huang on photonics: adding scale-up to optical domain, “is going to\n  x-serenity · 2026-10-25 · https://www.x.com/aleabitoreddit/status/2114213351060554010\n• 曝三星开展内部测试：Exynos 2700 跑分优于搭载高通旗舰芯片的机型\n  IT之家 · 2026-10-25 · https://www.ithome.com/1/017/556.htm\n• Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)\n  OpenAI Blog · 2026-10-23 · https://openai.com/index/scaling-storage-one-billion-users-part-two\n\n【大模型】\n• Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行\n  IT之家 · 2026-10-25 · https://www.ithome.com/1/017/557.htm\n• RSI两大里程碑发布，单人手搓千亿模型，英伟达大佬教「保命」法则\n  36氪 · 2026-10-23 · https://www.36kr.com/p/4038381657756805\n\n【具身智能模型】\n• Astra 们，到底会不会降维打击具身？\n  知识库精读 · 2026-10-24 · https://mp.weixin.qq.com/s/7Xxi6_5-LwX83dVk0UEMaQ\n\n【智能驾驶】\n• 从 2026 WICV 演讲看：文远、元戎、智驾新程把智驾的下一轮押在哪？\n  知识库精读 · 2026-10-24 · https://mp.weixin.qq.com/s/AmlxedYZgGV3_sUgS9Rpig\n• NHTSA proposes cyan lights for robotaxis, following Mercedes/China\n  electrek · 2026-10-24 · https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/\n• GOOD NEWS 🚖 According to the latest Texas DMV filings, Tesla has registered an a\n  x-ming-tesla · 2026-10-24 · https://www.x.com/tslaming/status/2114128842042544580\n\n【AI Agent】\n• 突发，Claude Code 灵魂人物 Thariq Shihipar 宣布离职！\n  知识库精读 · 2026-10-24 · https://mp.weixin.qq.com/s/2mkO2QKRg_dRfVnxZKswlQ\n• 现在，梁文锋需要一个自己的“Tibo”\n  36氪 · 2026-10-23 · https://www.36kr.com/p/4038013589640072\n\n【💰 财经动态】\n• 具身智能狂潮背后的国资们：抢项目、抬上轿、跟着文件猜未来\n  知识库精读 · 2026-10-24 · https://mp.weixin.qq.com/s/qcl-a0QE4CIaFpMeq-qyfg\n• 资本开抢AI 3D，「御三家」半年吸纳超80亿元\n  36氪 · 2026-10-22 · https://www.36kr.com/p/4036980139153288\n• AI信徒王兴兴一段话，宇树涨了54%，但考验在后面\n  36氪 · 2026-10-23 · https://www.36kr.com/p/4038265538581382\n• 闻泰科技 2026 年三季度归母净亏损 2.17 亿元，同比下降 120.83%\n  IT之家 · 2026-10-23 · https://www.ithome.com/1/017/191.htm\n• Investors Aren’t Wild About Big Tech’s AI Forecasts\n  bloomberg-tech · 2026-10-22 · https://www.bloomberg.com/news/videos/2026-10-22/investors-aren-t-wild-about-big-tech-s-ai-forecasts-video\n• Meta Makes Share Deal to Keep Zuckerberg in California\n  bloomberg-tech · 2026-10-22 · https://www.bloomberg.com/news/videos/2026-10-22/meta-makes-share-deal-to-keep-zuckerberg-in-california-video\n• Rivian buys startup to turn 400,000 daily clips into 3D sims\n  electrek · 2026-10-23 · https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/\n",
+    "pub_date": "Sun, 25 Oct 2026 13:39:08 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-25.mp3",
+    "audio_size": 12778309,
+    "audio_mime": "audio/mpeg",
+    "duration": "13:19",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-10-24",
     "guid": "ai-daily-2026-10-24",
     "title": "10/24 AI日报｜OpenAI 融资 300 亿/英伟达发布 Minerva/MiniMax 开源 M3.1",
