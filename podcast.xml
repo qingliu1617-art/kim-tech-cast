@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 17:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:06:31 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,85 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/27 AI日报｜Anthropic 拟上市/Meta 融资 950 亿/DeepSeek 登顶调用榜</title>
+      <description>📋 今日要闻 · 2026-10-27
+
+【AI 基础设施】
+• 英特尔 CEO 陈立武：已经和 AMD CEO 苏姿丰就潜在合作展开对话
+  IT之家 · 2026-10-26 · https://www.ithome.com/1/018/155.htm
+• 传三星电子、SK 海力士 2027Q2 全面量产并向英伟达出货 8Hi HBM4 内存
+  IT之家 · 2026-10-26 · https://www.ithome.com/1/018/125.htm
+• 马斯克最新判断：看衰AI算力，200家云厂商即将面临终局
+  36氪 · 2026-10-26 · https://www.36kr.com/p/4042259258873728
+• NeoLab第一个商业模式：转售GPU
+  36氪 · 2026-10-26 · https://www.36kr.com/p/4042542962513031
+• AI教科书全错，底层公式惊天Bug曝光，Gemini率先自我修复
+  36氪 · 2026-10-26 · https://www.36kr.com/p/4042646038139777
+
+【大模型】
+• ChatGPT攻克26年猜想，千位数学家宣战AI，数学界彻底撕裂了
+  36氪 · 2026-10-26 · https://www.36kr.com/p/4042643106075778
+• DeepSeek新版模型单周调用量登顶全球首位，环比暴增801%
+  36氪 · 2026-10-26 · https://www.36kr.com/p/4042510353257347
+• 三名被解雇的 OpenAI 安全研究员否认泄密，怀疑因推动 AI 透明度被针对
+  IT之家 · 2026-10-25 · https://www.ithome.com/1/017/563.htm
+
+【智能驾驶】
+• BOOM 🚨 Houston just got a major Robotaxi upgrade 🔥  Tesla officially blew open i
+  x-ming-tesla · 2026-10-26 · https://www.x.com/tslaming/status/2114719108055146932
+• Also a very useful geofence
+  x-ashok · 2026-10-26 · https://www.x.com/aelluswamy/status/2114733659894981112
+• Tesla gave up the EV crown. Now it wants to win the autonomy race
+  arstechnica · 2026-10-26 · https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/
+• Tesla turns to car rental platform Turo for Full Self-Driving test drives
+  electrek · 2026-10-26 · https://electrek.co/2026/10/26/tesla-turo-full-self-driving-test-drives/
+• Volkswagen gets L3 autonomous driving test permit in China, eyes 2027
+  electrek · 2026-10-26 · https://electrek.co/2026/10/26/volkswagen-l3-autonomous-driving-test-permit-china/
+
+【机器人硬件】
+• 去了趟宇树大会，王兴兴发言爆了
+  知识库精读 · 2026-10-26 · https://mp.weixin.qq.com/s/obApBjNFQ7dMy53ycD-ABA
+
+【AI 消费硬件与脑机】
+• Google Beam is being deployed at 20 USO locations
+  engadget · 2026-10-26 · https://www.engadget.com/2295586/google-beam-is-being-deployed-at-20-uso-locations/
+
+【AI Agent】
+• “每月只给29美元用Claude”？曝埃森哲有人单月烧掉1000美元，官方紧急回应：不是硬性上限
+  36氪 · 2026-10-26 · https://www.36kr.com/p/4042371810431881
+• 帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状
+  36氪 · 2026-10-26 · https://www.36kr.com/p/4042561225757573
+
+【💰 财经动态】
+• Anthropic officially files for its public debut
+  techcrunch-ai · 2026-10-26 · https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/
+• Anthropic’s IPO filing lays out a plan to &amp;#8216;revolutionize every area of hum
+  theverge · 2026-10-26 · https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec
+• Anthropic Flags ‘Existential Risks’ in Long-Awaited IPO Filing
+  bloomberg-tech · 2026-10-26 · https://www.bloomberg.com/news/videos/2026-10-26/anthropic-flags-existential-risks-in-ipo-filing-video
+• Anthropic Files for IPO, Plans to Trade on Nasdaq
+  bloomberg-tech · 2026-10-26 · https://www.bloomberg.com/news/videos/2026-10-26/anthropic-files-for-ipo-plans-to-trade-on-nasdaq-video
+• Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hoo
+  techcrunch-ai · 2026-10-26 · https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/
+• Anthropic Highlights Disruptions to TSMC Operations as a Risk
+  bloomberg-tech · 2026-10-26 · https://www.bloomberg.com/news/articles/2026-10-26/anthropic-highlights-disruptions-to-tsmc-operations-as-a-risk
+• SpaceX 达成史上最大规模 GPU 融资安排，协议总额约 400 亿美元
+  IT之家 · 2026-10-26 · https://www.ithome.com/1/018/150.htm
+• SpaceX locks in $40B GPU financing deal with Apollo
+  techcrunch-ai · 2026-10-26 · https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/
+• Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金
+  IT之家 · 2026-10-26 · https://www.ithome.com/1/018/144.htm
+• Microsoft offers buyouts to 60,000 employees
+  theverge · 2026-10-26 · https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible
+</description>
+      <pubDate>Tue, 27 Oct 2026 01:06:31 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-27</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-27.mp3" length="14259556" type="audio/mpeg"/>
+      <itunes:duration>14:51</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/26 AI日报｜Kimi 发布 K3.1 Pro/启元机器人五千台下线/银行制定 AI 灾备预案</title>
       <description>📋 今日要闻 · 2026-10-26
