@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 17:06:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:07:46 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,99 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/28 AI日报｜GPT-6.1 价格减半/Anthropic 拟上市/三星中低端减产</title>
+      <description>📋 今日要闻 · 2026-10-28
+
+【AI 基础设施】
+• Oracle to Offer Cerebras Computers in AI Cloud Service
+  bloomberg-tech · 2026-10-27 · https://www.bloomberg.com/news/articles/2026-10-27/oracle-to-offer-cerebras-systems-computers-in-ai-cloud-service
+• 受内存涨价影响，曝三星计划减产 20% Galaxy A 系中低端手机
+  IT之家 · 2026-10-26 · https://www.ithome.com/1/018/165.htm
+
+【大模型】
+• OpenAI新模型降价，中国大模型的“便宜”要失灵了？
+  36氪 · 2026-10-27 · https://www.36kr.com/p/4043827057186438
+• Introducing GPT-6.1 Terra
+  OpenAI Blog · 2026-10-26 · https://openai.com/index/introducing-gpt-6-1-terra
+• 6.1 Terra is here! It is good at a lot of things, but we are especially excited 
+  x-sama · 2026-10-26 · https://www.x.com/sama/status/2114818620782248024
+• Anthropic内部系统被AI攻破，员工薪酬全曝光了
+  36氪 · 2026-10-27 · https://www.36kr.com/p/4043870024258436
+• OpenAI掀翻计算机科学30年基石，还解决了挂谷猜想
+  36氪 · 2026-10-27 · https://www.36kr.com/p/4043779895628933
+
+【具身智能模型】
+• Genie 4: A new generation of world simulation
+  Google DeepMind · 2026-10-27 · https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
+• Google’s Genie 4 world model adds audio, more realistic worlds, and real-time st
+  techcrunch-ai · 2026-10-27 · https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/
+• Google Upgrades AI World Model That Rattled Video Game Stocks
+  bloomberg-tech · 2026-10-27 · https://www.bloomberg.com/news/articles/2026-10-27/google-upgrades-ai-world-model-that-rattled-video-game-stocks
+
+【智能驾驶】
+• Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more
+  electrek · 2026-10-27 · https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/
+• 文远知行启动全球保险合作计划，为 L4 级自动驾驶护航
+  IT之家 · 2026-10-27 · https://www.ithome.com/1/018/651.htm
+• 深蓝 S09 车型 OTA V5.4 版本上线：首批搭载华为乾崑 ADS Max V5.0.2
+  IT之家 · 2026-10-27 · https://www.ithome.com/1/018/650.htm
+• GOOD NEWS 🇱🇻 Latvia has approved Tesla FSD (Supervised), becoming the 10th EU co
+  x-ming-tesla · 2026-10-26 · https://www.x.com/tslaming/status/2114677514769752170
+
+【机器人硬件】
+• BOOM 🚨 @elonmusk is cooking up some insane scenarios for the next Optimus demo—f
+  x-ming-tesla · 2026-10-27 · https://www.x.com/tslaming/status/2114955502849233220
+• ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employ
+  arstechnica · 2026-10-26 · https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/
+
+【AI 消费硬件与脑机】
+• XREAL 1 Pro+ 智能眼镜国行发售：峰值亮度提升至 1200 尼特、鼻托结构重新设计，3499 元
+  IT之家 · 2026-10-27 · https://www.ithome.com/1/018/636.htm
+• 高通联手 Anduril 推出 BlueChip 笔记本电脑：约 90% 零部件来自美国及其盟友，瞄准军方与政府客户
+  IT之家 · 2026-10-27 · https://www.ithome.com/1/018/662.htm
+• Anduril and Qualcomm Plan US Supply Chain Laptop
+  bloomberg-tech · 2026-10-27 · https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-us-supply-chain-laptop-video
+• Apple's iMac with M6 arrives promising a 'huge leap' in AI performance
+  engadget · 2026-10-27 · https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/
+• Apple has updated the 14-inch MacBook Pro with an M6 chip
+  engadget · 2026-10-27 · https://www.engadget.com/2298120/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/
+
+【AI Agent】
+• 中国版Muse来了！蚂蚁灵光2.0领跑Personal Agent赛道
+  36氪 · 2026-10-27 · https://www.36kr.com/p/4043978243953537
+• 顶刊给“ AI医生”正名：会诊准确率高出人类一大截
+  36氪 · 2026-10-27 · https://www.36kr.com/p/4043921905751688
+• How OpenAI turned its coding tools into dots, an always-on personal assistant
+  techcrunch-ai · 2026-10-27 · https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/
+• Agent下半场生死局：“上下文”成为新的价值衡量基线
+  36氪 · 2026-10-27 · https://www.36kr.com/p/4043941181265541
+• Meta AI 负责人罗希特 · 帕特尔离职创业，打造微软 Office 替代方案 Ndoc
+  IT之家 · 2026-10-27 · https://www.ithome.com/1/018/696.htm
+
+【💰 财经动态】
+• Anthropic：甩掉 “吞金兽”；转身成 “房奴”，万亿长征路还远
+  36氪 · 2026-10-27 · https://www.36kr.com/p/4043793903228034
+• 从Anthropic招股书，再看智谱和MiniMax的增长、估值和长期叙事
+  36氪 · 2026-10-27 · https://www.36kr.com/p/4043698696066180
+• Anthropic IPO Filing Reveals $417 Billion in Future AI Spending
+  bloomberg-tech · 2026-10-27 · https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-ipo-filing-reveals-417-billion-in-future-ai-spending
+• 继英伟达 30 亿美元之后：AMD 也宣布向 Meta 投资 10 亿美元深化 AI 基础设施合作，覆盖 EPYC、Instinct GPU、ROCm 软件
+  IT之家 · 2026-10-27 · https://www.ithome.com/1/018/676.htm
+• Intel to Buy Quantum Startup Classiq for About $2.3 Billion
+  bloomberg-tech · 2026-10-26 · https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push
+• 同一门"卖Token"的生意：一家自述已跨过成本线，头部的毛利率是-24%
+  36氪 · 2026-10-27 · https://www.36kr.com/p/4043709773059971
+• 中微半导体 2026 年前三季度归母净利润 1.62 亿元，营收 10.99 亿元同比增长 42.23%
+  IT之家 · 2026-10-27 · https://www.ithome.com/1/018/665.htm
+</description>
+      <pubDate>Wed, 28 Oct 2026 01:07:46 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-28</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-28.mp3" length="16974201" type="audio/mpeg"/>
+      <itunes:duration>17:41</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/27 AI日报｜Anthropic 拟上市/Meta 融资 950 亿/DeepSeek 登顶调用榜</title>
       <description>📋 今日要闻 · 2026-10-27
