@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 17:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:44:08 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,83 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>10/29 AI日报｜Counterpoint 出货/ASIC 整合/Google 发布</title>
+      <description>📋 今日要闻 · 2026-10-29
+
+【AI 基础设施】
+• Alibaba's Panjiu 128 is not a true rack scale up. Panjiu 128 is made up of two 6
+  x-semianalysis · 2026-10-27 · https://www.x.com/SemiAnalysis_/status/2114871665825857735
+• The data center boom has an upside: innovation for the US grid
+  techcrunch-ai · 2026-10-27 · https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/
+• Counterpoint：英伟达引领人形机器人 AI 加速器市场，高通、英特尔、特斯拉、小鹏逐步崛起
+  IT之家 · 2026-10-26 · https://www.ithome.com/1/018/075.htm
+
+【大模型】
+• Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity
+  theverge · 2026-10-28 · https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier
+• Google announces Gemini 4 Carbon, its latest frontier AI model that you can't us
+  arstechnica · 2026-10-28 · https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/
+• 计算机领域天塌了，两大巨头同日宣布：世纪猜想ETH被证伪
+  36氪 · 2026-10-28 · https://www.36kr.com/p/4045003727606918
+
+【具身智能模型】
+• Google DeepMind 发布 Genie 4：AI 生成的世界，现在可以走进去玩了
+  小众软件 · 2026-10-28 · https://www.appinn.com/google-deepmind-genie-4/
+• Google’s next Genie AI model generates more realistic experiences
+  theverge · 2026-10-27 · https://www.theverge.com/tech/1019076/google-genie-4-ai-model
+
+【智能驾驶】
+• Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’
+  electrek · 2026-10-28 · https://electrek.co/2026/10/28/tesla-robotaxi-houston-rocket-service-area-fake/
+• 租赁平台 Turo：将在美国市场允许顾客租借带有 FSD 监督版的特斯拉汽车
+  IT之家 · 2026-10-26 · https://www.ithome.com/1/018/148.htm
+• Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities
+  electrek · 2026-10-27 · https://electrek.co/2026/10/27/waymo-expansion-250-square-miles-five-cities/
+
+【AI 消费硬件与脑机】
+• Surprise: The Google Xreal glasses debut at a Meta-beating $1,099
+  theverge · 2026-10-28 · https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date
+• 苹果上架 512GB 内存版 Mac Studio：较 96GB 配置贵 116250 元
+  IT之家 · 2026-10-28 · https://www.ithome.com/1/019/246.htm
+• 苹果首度为 Mac 引入灵动岛：支持显示音乐播放、实时活动等，Siri AI 多了个入口
+  IT之家 · 2026-10-28 · https://www.ithome.com/1/019/245.htm
+• 华为 Mate 90 系列手机十大黑科技汇总，影像、屏幕、性能与通信多重突破
+  IT之家 · 2026-10-28 · https://www.ithome.com/1/019/234.htm
+
+【AI Agent】
+• 数十agent，24天挑战数学界巨型工程，还揪出40年前漏洞
+  36氪 · 2026-10-28 · https://www.36kr.com/p/4045021328675973
+• Anthropic just launched tools to show companies what their AI spending is buying
+  techcrunch-ai · 2026-10-28 · https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/
+• OpenAI expands partnership with Oracle to bring its apps to ChatGPT
+  OpenAI Blog · 2026-10-27 · https://openai.com/index/oracle-apps-in-chatgpt
+
+【💰 财经动态】
+• Anthropic 提交纳斯达克 IPO 申请，股票代码为“ANT”
+  IT之家 · 2026-10-26 · https://www.ithome.com/1/018/162.htm
+• 万亿美元独角兽上市，Anthropic的理想还剩多少？
+  36氪 · 2026-10-28 · https://www.36kr.com/p/4045365587579781
+• “AI之王”Anthropic，给马斯克、黄仁勋们打工
+  36氪 · 2026-10-28 · https://www.36kr.com/p/4044878331385479
+• 谷歌 2026Q3 财报暴露 AI 变现焦虑，股价盘后暴跌逾 7%
+  IT之家 · 2026-10-28 · https://www.ithome.com/1/019/261.htm
+• Microsoft reveals strong cloud growth amid financial reporting overhaul
+  theverge · 2026-10-28 · https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027
+• 中科曙光：第三季度归母净利润 7.53 亿元，同比增长 217.19%
+  IT之家 · 2026-10-27 · https://www.ithome.com/1/018/659.htm
+• Marvell Said to Near Megadeal for Lumentum In AI Push
+  bloomberg-tech · 2026-10-28 · https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal
+• DOJ Inquires About Nvidia’s Hugging Face Deal, Reuters Says
+  bloomberg-tech · 2026-10-28 · https://www.bloomberg.com/news/articles/2026-10-28/doj-inquires-about-nvidia-s-hugging-face-deal-reuters-says
+</description>
+      <pubDate>Thu, 29 Oct 2026 05:44:08 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-10-29</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-10-29.mp3" length="14211491" type="audio/mpeg"/>
+      <itunes:duration>14:48</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10/28 AI日报｜GPT-6.1 价格减半/Anthropic 拟上市/三星中低端减产</title>
       <description>📋 今日要闻 · 2026-10-28
