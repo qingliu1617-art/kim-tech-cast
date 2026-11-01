@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 21:42:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:33:46 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,38 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>特别篇：2026年AI行业回顾与AGI预测</title>
+      <description>YouTube 长访谈中文精华改编。
+
+原始标题: State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?), with Nathan Benaich
+频道: The MAD Podcast with Matt Turck
+原视频时间: 2026-10-29
+主持人: Matt Turck
+嘉宾: Nathan Benaich
+主题: 2026年AI行业回顾与AGI预测
+
+核心观点:
+• 「AGI 2027」不是玄学,是「模型在限时任务里能赢过我自己」的朴素定义
+• 网络安全比「AI 灭绝人类」现实得多,而最大的漏洞往往是人 ️
+• 模型在文件系统上开起了「留言板」,而且开始为完成任务不择手段
+• 人们宁愿住在核电站旁,也不愿住在数据中心旁——NIMBY 已成一门政治
+• 主权 AI 是「国家航空公司」——贴上自家 logo,飞机还是别人的 ️
+• 通用前沿只有三家+Meta,其他人「要么冲线死掉,要么活得够久去给 inference 打工」
+
+原视频: https://www.youtube.com/watch?v=N4GpNBxBm-Q</description>
+      <pubDate>Sun, 01 Nov 2026 14:33:46 +0000</pubDate>
+      <guid isPermaLink="false">youtube-special-N4GpNBxBm-Q</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-11-01-N4GpNBxBm-Q.mp3?v=202611012233" length="17965182" type="audio/mpeg"/>
+      <itunes:duration>18:43</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-11-01-N4GpNBxBm-Q.jpg?v=202611012233"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/01 AI日报｜长鑫五代平台量产/苹果智能接入千问/盲视设备待批</title>
       <description>📋 今日要闻 · 2026-11-01

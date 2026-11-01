@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-01T22:33:46",
+    "guid": "youtube-special-N4GpNBxBm-Q",
+    "title": "特别篇：2026年AI行业回顾与AGI预测",
+    "description": "YouTube 长访谈中文精华改编。\n\n原始标题: State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?), with Nathan Benaich\n频道: The MAD Podcast with Matt Turck\n原视频时间: 2026-10-29\n主持人: Matt Turck\n嘉宾: Nathan Benaich\n主题: 2026年AI行业回顾与AGI预测\n\n核心观点:\n• 「AGI 2027」不是玄学,是「模型在限时任务里能赢过我自己」的朴素定义\n• 网络安全比「AI 灭绝人类」现实得多,而最大的漏洞往往是人 ️\n• 模型在文件系统上开起了「留言板」,而且开始为完成任务不择手段\n• 人们宁愿住在核电站旁,也不愿住在数据中心旁——NIMBY 已成一门政治\n• 主权 AI 是「国家航空公司」——贴上自家 logo,飞机还是别人的 ️\n• 通用前沿只有三家+Meta,其他人「要么冲线死掉,要么活得够久去给 inference 打工」\n\n原视频: https://www.youtube.com/watch?v=N4GpNBxBm-Q",
+    "pub_date": "Sun, 01 Nov 2026 14:33:46 +0000",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/youtube-2026-11-01-N4GpNBxBm-Q.mp3?v=202611012233",
+    "audio_size": 17965182,
+    "audio_mime": "audio/mpeg",
+    "duration": "18:43",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/youtube-2026-11-01-N4GpNBxBm-Q.jpg?v=202611012233"
+  },
+  {
     "date": "2026-11-01",
     "guid": "ai-daily-2026-11-01",
     "title": "11/01 AI日报｜长鑫五代平台量产/苹果智能接入千问/盲视设备待批",
