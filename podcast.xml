@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 01 Nov 2026 14:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:41:29 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -19,11 +19,78 @@
       <itunes:name>Kim</itunes:name>
       <itunes:email>qingliu1617@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/brand.jpg"/>
+    <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>11/02 AI日报｜OpenAI 下调融资目标/谷歌卫星回传推理/Claude 取消用量限制</title>
+      <description>📋 今日要闻 · 2026-11-02
+
+【AI 基础设施】
+• 一颗大模型芯片，藏着 Momenta 三年前的判断
+  知识库精读 · 2026-11-01 · https://mp.weixin.qq.com/s/ReTqLMbZWTEVAFteyc-tAw
+• 史上首次！谷歌TPU在轨运行Gemma 4
+  36氪 · 2026-11-01 · https://www.36kr.com/p/4049789434156166
+• Cool
+  x-elonmusk · 2026-10-30 · https://www.x.com/elonmusk/status/2116215659214561518
+• NVIDIA has revised Vera Rubin NVL72’s NVLink bandwidth from 3.6 TB/s to 3.0 TB/s
+  x-semianalysis · 2026-10-30 · https://www.x.com/SemiAnalysis_/status/2116003079950602611
+
+【大模型】
+• OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准
+  IT之家 · 2026-11-01 · https://www.ithome.com/1/020/837.htm
+• Claude套餐大升级！Max 20x 升级为 Ultra，5 小时限额直接取消
+  36氪 · 2026-10-31 · https://www.36kr.com/p/4049021975886084
+
+【智能驾驶】
+• 马斯克访华后，特斯拉获初步批准在华推出完全自动驾驶FSD
+  知识库精读 · 2026-11-01 · https://mp.weixin.qq.com/s/Y0BfQ8jmJkBYATyXC8Z2uQ
+• 新势力汽车品牌10月销量公布
+  知识库精读 · 2026-11-01 · https://mp.weixin.qq.com/s/5eQ3NdQn0dvsZmT4-tB-qw
+
+【机器人硬件】
+• Meta reportedly built a humanoid robot prototype that can do household chores
+  engadget · 2026-11-01 · https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/
+• 首届 CMG 世界机器人登泰山大赛明日进行，央视揭秘机器人如何认路、探路、见招拆招
+  IT之家 · 2026-11-01 · https://www.ithome.com/1/020/773.htm
+
+【AI 消费硬件与脑机】
+• 阿里千问 AI 眼镜 OTA 升级：新增通话翻译、媒体翻译等
+  IT之家 · 2026-11-01 · https://www.ithome.com/1/020/768.htm
+
+【AI Agent】
+• 新入口和旧城墙之下，“中国版Muse”有多远？
+  36氪 · 2026-11-01 · https://www.36kr.com/p/4051143495603336
+• 汤道生谈WorkBuddy商业化：不靠收入数字催团队
+  36氪 · 2026-11-01 · https://www.36kr.com/p/4051138782860421
+• Claude紧急叫停！暗改Harness禁止逆向游戏
+  36氪 · 2026-11-01 · https://www.36kr.com/p/4050722097828740
+
+【💰 财经动态】
+• AI“烧钱叙事”遇冷？OpenAI融资目标砍掉100亿！
+  36氪 · 2026-11-01 · https://www.36kr.com/p/4050660776317825
+• OpenAI reportedly lowers funding target for new round
+  techcrunch-ai · 2026-10-31 · https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
+• Meta拟筹近千亿美元，甲骨文报出了“最后一笔”
+  36氪 · 2026-11-01 · https://www.36kr.com/p/4050674386048132
+• MaaS，成了
+  36氪 · 2026-10-30 · https://www.36kr.com/p/4048184891308293
+• Anthropic expected to receive high ‘junk’ rating from credit agencies following 
+  techcrunch-ai · 2026-10-30 · https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+• AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元
+  IT之家 · 2026-10-31 · https://www.ithome.com/1/020/632.htm
+• Big Tech Holds $3 Trillion in Spending Commitments for AI Boom
+  bloomberg-tech · 2026-10-30 · https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom
+</description>
+      <pubDate>Mon, 02 Nov 2026 05:41:29 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-11-02</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-02.mp3" length="13832402" type="audio/mpeg"/>
+      <itunes:duration>14:24</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>特别篇：2026年AI行业回顾与AGI预测</title>
       <description>YouTube 长访谈中文精华改编。
