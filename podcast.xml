@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 01 Nov 2026 21:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:43:32 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,89 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>11/03 AI日报｜X7 Ultra 芯片量产/字节自研芯片传落地/Claude 限制复刻游戏</title>
+      <description>📋 今日要闻 · 2026-11-03
+
+【AI 基础设施】
+• Momenta 造芯｜为何先被地平线"算了笔账"？
+  知识库精读 · 2026-11-02 · https://mp.weixin.qq.com/s/D5KIf58D03bLY-GfhlIdew
+• 字节自研 AI 芯片被曝，对标 H200（传闻）
+  知识库精读 · 2026-11-02 · https://mp.weixin.qq.com/s/DZrcTJHVTp6p1j68i5NlRQ
+
+【大模型】
+• The New York Times sues Brave web browser for AI scraping and bypassing paywalls
+  theverge · 2026-11-02 · https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times
+• Anthropic updates Claude to stop it from recreating existing video games
+  engadget · 2026-11-01 · https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/
+
+【具身智能模型】
+• 英伟达/谷歌/英特尔接连出手，物理AI打响基础设施之争
+  36氪 · 2026-11-02 · https://www.36kr.com/p/4052396709106560
+• LeCun证明了：规模从未起作用，下一token路线效率低
+  36氪 · 2026-11-02 · https://www.36kr.com/p/4052468000904327
+
+【智能驾驶】
+• STRONG SIGNAL 🚨 Robotaxi rides in Fort Worth have officially begun 🔥 And they ar
+  x-ming-tesla · 2026-11-02 · https://www.x.com/tslaming/status/2117257439355781297
+• Ming+马斯克 Tesla 动态 2026-11-02
+  知识库精读 · 2026-11-02 · https://x.com/tslaming/status/2117057872630849892
+• BOOM 🚖 Tesla's new Cybercab tour runs right through the biggest FSD decision Eur
+  x-ming-tesla · 2026-11-02 · https://www.x.com/tslaming/status/2117273431032913989
+• BMW is taking on Tesla’s FSD with urban driver assist starting in 2027
+  theverge · 2026-11-02 · https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027
+• 上汽大众 ID.ERA 5X 将于 11 月 12 日上市，家族首款纯电 SUV
+  IT之家 · 2026-11-02 · https://www.ithome.com/1/021/261.htm
+
+【机器人硬件】
+• Apple&amp;#8217;s ‘Ultra’ smart home robot might have to wait until 2028
+  theverge · 2026-11-02 · https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay
+• Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights
+  arstechnica · 2026-11-02 · https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/
+• 消息称 HomeView Ultra 硬件已定型两年，但苹果内部仍存在“分歧”
+  IT之家 · 2026-11-02 · https://www.ithome.com/1/021/280.htm
+• 道通发布AAGI空地智能解决方案，以AIP平台打通无人集群协同作业｜最前线
+  36氪 · 2026-11-02 · https://www.36kr.com/p/4052501649789825
+
+【AI 消费硬件与脑机】
+• AI眼镜，找寻下一个隘口
+  36氪 · 2026-11-02 · https://www.36kr.com/p/4052374382761096
+
+【AI Agent】
+• DeepSeek Boosts AI Agent Offering With New Creator Mode
+  bloomberg-tech · 2026-11-02 · https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode
+• RT by @deepseek_ai: Your Harness. You Define It.  Meet Creator Mode in DeepSeek 
+  x-deepseek · 2026-11-02 · https://www.x.com/DeepSeekHarness/status/2117256196227019194
+• 腾讯混元发布 Hyra 2.0：为模型研发打造可复用工具
+  IT之家 · 2026-11-02 · https://www.ithome.com/1/021/266.htm
+• 8B逆袭32B，开源首个长程交互SQL Agent框架，面向真实数据库
+  36氪 · 2026-11-02 · https://www.36kr.com/p/4052424433619843
+• Tibo 28连更后，OpenAI合并额度池，计费聊天开始了
+  36氪 · 2026-11-01 · https://www.36kr.com/p/4050682558714755
+
+【💰 财经动态】
+• Marvell to Acquire Lumentum in Historic $115 Billion Deal
+  bloomberg-tech · 2026-11-02 · https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings
+• 隔夜美股：英特尔暴雷引爆半导体抛售潮，AI 资本开支信仰动摇
+  知识库精读 · 2026-11-02 · https://mp.weixin.qq.com/s/WNe-jxPKbY0IhgjHNDGvbw
+• Oracle Kicks Off $20 Billion Capital Raise
+  bloomberg-tech · 2026-11-02 · https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-tech-11-02-2026-video
+• Meta Eyes at Least $20 Billion From Potential Bond Offerings
+  bloomberg-tech · 2026-11-02 · https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering
+• 谷歌母公司 Alphabet 年内第二次发行欧元债券，检验市场对其 AI 投入信心
+  IT之家 · 2026-11-02 · https://www.ithome.com/1/021/230.htm
+• Lumentum 2027 财年第一财季归母净利润 3.6 亿美元，同比增长 8478.57%
+  IT之家 · 2026-11-02 · https://www.ithome.com/1/021/260.htm
+• Character.AI破产，AI陪伴是假风口？
+  36氪 · 2026-11-02 · https://www.36kr.com/p/4052556500652935
+</description>
+      <pubDate>Tue, 03 Nov 2026 05:43:32 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-11-03</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-03.mp3" length="16493130" type="audio/mpeg"/>
+      <itunes:duration>17:11</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/02 AI日报｜OpenAI 下调融资目标/谷歌卫星回传推理/Claude 取消用量限制</title>
       <description>📋 今日要闻 · 2026-11-02
