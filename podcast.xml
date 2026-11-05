@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 21:43:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:46:26 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,95 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>11/06 AI日报｜OpenAI 发布/Cosmos 发布/EM-P 上市</title>
+      <description>📋 今日要闻 · 2026-11-06
+
+【AI 基础设施】
+• Google Plans to Spend $17 Billion on Wyoming Data Center
+  bloomberg-tech · 2026-11-05 · https://www.bloomberg.com/news/articles/2026-11-05/google-plans-to-spend-17-billion-on-wyoming-data-center
+• $GOOGL formally announces a new $17 Billion DC in Wyoming.  Google also announce
+  x-serenity · 2026-11-05 · https://www.x.com/aleabitoreddit/status/2118422637320007721
+• The Iron(wood) Throne:  Google's TPU Stakes Its Claim on Inference Viable Altern
+  x-semianalysis · 2026-11-05 · https://www.x.com/SemiAnalysis_/status/2118419869091713083
+• Top Democrats call to rein in AI buildout after midterms sweep: 'National data c
+  cnbc-top-news · 2026-11-05 · https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html
+
+【大模型】
+• GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
+  OpenAI Blog · 2026-11-05 · https://openai.com/index/introducing-gpt-6-cyber
+• Gemini 正在成为美国师生「不得不用」的 AI
+  36氪 · 2026-11-05 · https://www.36kr.com/p/4056805917873029
+• ChatGPT will now make you animated GIFs
+  theverge · 2026-11-04 · https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6
+
+【具身智能模型】
+• New NVIDIA Cosmos 3 Open Models for Interactive World Simulation
+  Hugging Face · 2026-11-05 · https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
+
+【智能驾驶】
+• 2027 款领克 08 EM-P 上市：标配 192 线激光雷达、至高千里浩瀚 H7，限时 15.98 万元起
+  IT之家 · 2026-11-05 · https://www.ithome.com/1/022/980.htm
+• 比亚迪第二代海豹 07 上市：搭载云辇-M 智能磁流变车身控制系统，超级置换价 13.59 万元起
+  IT之家 · 2026-11-05 · https://www.ithome.com/1/022/972.htm
+• Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret
+  electrek · 2026-11-05 · https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/
+
+【机器人硬件】
+• 人形机器人将过万台关口，最难的事才刚刚开始
+  知识库精读 · 2026-11-05 · https://mp.weixin.qq.com/s/4GBtAtR-ltcCwm_tsUuCyA
+
+【AI 消费硬件与脑机】
+• Warby Parker seemingly spilled the beans on Google's Android XR smart glasses la
+  engadget · 2026-11-05 · https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/
+• AI影像功能要收费了？手机厂商云端Token成本攀升，强化端侧算力是正道
+  36氪 · 2026-11-05 · https://www.36kr.com/p/4056583549392772
+• 苹果 iOS 27.3 代码暗示，HomeView 有望支持 ChatGPT、Claude 等第三方 AI 应用
+  IT之家 · 2026-11-05 · https://www.ithome.com/1/022/984.htm
+• 大疆发布 Matrice 5T 无人机：标配激光雷达、毫米波雷达、全彩全向视觉感知系统，57488 元
+  IT之家 · 2026-11-05 · https://www.ithome.com/1/022/976.htm
+• Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agen
+  techcrunch-ai · 2026-11-05 · https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/
+
+【AI Agent】
+• DeepSeek Harness：日活跃用户达 154 万、日消耗 Token 约 92 万亿，将建设官方插件市场
+  IT之家 · 2026-11-05 · https://www.ithome.com/1/023/011.htm
+• 阿里内测AI创作平台“Looogen”，一个阿里版即梦AI？
+  36氪 · 2026-11-04 · https://www.36kr.com/p/4054988150478473
+• 苹果 iOS 27.3 扩展 Siri AI：支持繁体中文、覆盖 15 款 App 操作，能管理文件 / 定时发送信息等
+  IT之家 · 2026-11-03 · https://www.ithome.com/1/021/866.htm
+
+【股市动态】
+• Jim Cramer says the AI trade is not going away as Nasdaq enters correction
+  cnbc-markets · 2026-11-05 · https://www.cnbc.com/investingclub/2026/11/05/cramer-says-the-ai-trade-is-not-going-away-as-nasdaq-enters-correction.html
+• AI Companies Brace for New Challenges After Democrats’ Win
+  bloomberg-tech · 2026-11-05 · https://www.bloomberg.com/news/articles/2026-11-05/ai-companies-brace-for-new-challenges-after-democrats-win
+
+【💰 财经动态】
+• 美国人形机器人第一股：Agility Robotics 本周登陆纳斯达克，获富士康、英伟达投资
+  IT之家 · 2026-11-05 · https://www.ithome.com/1/022/978.htm
+• Agility Robotics Makes Public Debut as Humanoids Scale
+  bloomberg-tech · 2026-11-05 · https://www.bloomberg.com/news/videos/2026-11-05/agility-robotics-makes-public-debut-as-humanoids-scale-video
+• Agility is the first pure humanoid robot company on the stock market. Are you bu
+  techcrunch-ai · 2026-11-05 · https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/
+• Shield AI To Hit $28.8 Billion Value With $5.3 Billion Radar Acquisition
+  bloomberg-tech · 2026-11-05 · https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition
+• Defense Tech Boom Fuels Shield AI’s Expansion
+  bloomberg-tech · 2026-11-05 · https://www.bloomberg.com/news/videos/2026-11-05/defense-tech-boom-fuels-shield-ai-s-expansion-video
+• Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure
+  techcrunch-ai · 2026-11-05 · https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/
+• 云存储服务提供商 Dropbox 计划收购 Tigris Data，拓展企业开发者 AI 存储服务
+  IT之家 · 2026-11-05 · https://www.ithome.com/1/023/004.htm
+• 拿下数亿元杭州国资投资， 李开复要把AI送进企业决策层
+  36氪 · 2026-11-05 · https://www.36kr.com/p/4056534105183105
+</description>
+      <pubDate>Fri, 06 Nov 2026 05:46:26 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-11-06</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-06.mp3" length="18717927" type="audio/mpeg"/>
+      <itunes:duration>19:30</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/05 AI日报｜得州暂停数据中心审批/小米机器人连干8小时/长鑫回购上限50亿</title>
       <description>📋 今日要闻 · 2026-11-05
