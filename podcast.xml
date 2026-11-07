@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 21:45:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:49:56 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,91 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>11/08 AI日报｜OpenAI 完成首批融资/Anthropic 模型曝光/GitHub 存储架构内测</title>
+      <description>📋 今日要闻 · 2026-11-08
+
+【AI 基础设施】
+• 风口浪尖的数据中心，开始放低姿态
+  36氪 · 2026-11-07 · https://www.36kr.com/p/4059211837003656
+• There is no end in sight for the GPU supply problem
+  engadget · 2026-11-07 · https://www.engadget.com/2309554/gpu-supply-problem-no-end-in-sight/
+• Brightspeed 与英伟达洽谈，计划将 130 多座老旧电信建筑改造为小型数据中心
+  IT之家 · 2026-11-06 · https://www.ithome.com/1/023/543.htm
+
+【大模型】
+• Anthropic最强Model 4首次曝光：RSI狂飙2倍速
+  36氪 · 2026-11-07 · https://www.36kr.com/p/4058973865825161
+• A\三大内部模型曝光，领先Opus5.5三个月，RSI缩短80%实验时间
+  36氪 · 2026-11-06 · https://www.36kr.com/p/4058140801373065
+• 谷歌在美国遭家长起诉：Gemini 被指协助 13 岁女孩制定轻生计划
+  IT之家 · 2026-11-07 · https://www.ithome.com/1/023/765.htm
+• 刚刚，Gemini Omini 1.2登顶了，360p视频每秒0.07美元，还能升4K
+  36氪 · 2026-11-06 · https://www.36kr.com/p/4058140931822721
+• After DeepSeek V4.1 Flash, Xiaomi MiMo is moving to a causal encoder-decoder for
+  x-semianalysis · 2026-11-07 · https://www.x.com/SemiAnalysis_/status/2119142144749293863
+
+【具身智能模型】
+• 苹果披露人形机器人 HALO 系统：调用千问模型在宇树 G1 上验证，单项任务平均成功率 91%
+  IT之家 · 2026-11-07 · https://www.ithome.com/1/023/767.htm
+
+【智能驾驶】
+• 全新红旗 H9 预售：华为乾崑 ADS 5 高阶版加持，32.98 万-41.98 万元
+  IT之家 · 2026-11-07 · https://www.ithome.com/1/023/796.htm
+• 回顾特斯拉 Cybertruck 坎坷旅程：车窗破裂、长期跳票、11 次召回……
+  IT之家 · 2026-11-07 · https://www.ithome.com/1/023/795.htm
+• Good riddance, Cybertruck!
+  theverge · 2026-11-07 · https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash
+• RT by @elonmusk: There are efficiency improvements coming that will allow for a 
+  x-elonmusk · 2026-11-07 · https://www.x.com/elonmusk/status/2119152839813456261
+
+【机器人硬件】
+• Optimus Gen 3 将在硅谷峰会正式首秀：首秀门票超万元
+  知识库精读 · 2026-11-06 · https://mp.weixin.qq.com/s/2rwMLVhisGtvQz2ExKYssg
+
+【AI 消费硬件与脑机】
+• Google's eyewear partners can't keep a lid on its smart glasses plans
+  engadget · 2026-11-06 · https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/
+
+【AI Agent】
+• GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送
+  IT之家 · 2026-11-07 · https://www.ithome.com/1/023/823.htm
+• 爱彼迎 Airbnb 计划明年推出 AI 智能体，帮助用户规划旅行
+  IT之家 · 2026-11-06 · https://www.ithome.com/1/023/498.htm
+• Airbnb says it’s launching an AI travel agent in the first half of 2027
+  techcrunch-ai · 2026-11-05 · https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/
+• Airbnb is threatening to launch an AI travel agent next year
+  engadget · 2026-11-06 · https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/
+
+【股市动态】
+• OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off
+  cnbc-top-news · 2026-11-06 · https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html
+
+【💰 财经动态】
+• 刚刚，OpenAI被曝完成110亿美元融资，CFO：数据中心还会继续建
+  36氪 · 2026-11-07 · https://www.36kr.com/p/4058879839359873
+• OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation
+  techcrunch-ai · 2026-11-06 · https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+• OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO
+  theverge · 2026-11-06 · https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
+• Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'
+  cnbc-top-news · 2026-11-06 · https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html
+• Anthropic IPO meets AI backlash after midterms show stinging rebuke of data cent
+  cnbc-top-news · 2026-11-07 · https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html
+• Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market
+  arstechnica · 2026-11-05 · https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/
+• Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup
+  cnbc-top-news · 2026-11-07 · https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html
+• AI资本投入接近3000亿，互联网大厂抢着买“赛博永生的门票”
+  36氪 · 2026-11-06 · https://www.36kr.com/p/4058156403234691
+</description>
+      <pubDate>Sun, 08 Nov 2026 05:49:55 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-11-08</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-08.mp3" length="15720323" type="audio/mpeg"/>
+      <itunes:duration>16:22</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/07 AI日报｜OpenAI完成110亿融资/特斯拉改产无人出租车/摩尔线程适配Kimi</title>
       <description>📋 今日要闻 · 2026-11-07
