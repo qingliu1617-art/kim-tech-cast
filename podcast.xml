@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 21:49:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:44:59 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,75 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>11/09 AI日报｜马斯克披露 Terafab/Anthropic 采购发电/苹果加速 Siri 改造</title>
+      <description>📋 今日要闻 · 2026-11-09
+
+【AI 基础设施】
+• 马斯克：Terafab 把芯片制造测试从一年压缩到一个月；350 亿建算力、一年租 500 亿
+  知识库精读 · 2026-11-08 · https://mp.weixin.qq.com/s/PTPkkCrTFDFxOq1L67s98g
+• Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese sp
+  techcrunch-ai · 2026-11-08 · https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+• Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity
+  bloomberg-tech · 2026-11-08 · https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity
+
+【具身智能模型】
+• World Models Will Soon Be Inescapable. Here’s What You Need to Know
+  wired-ai · 2026-11-08 · https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/
+• GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了
+  36氪 · 2026-11-08 · https://www.36kr.com/p/4060707751826311
+
+【智能驾驶】
+• 马斯克：特斯拉将进一步改进 Cybercab，提升能效、新增配色
+  IT之家 · 2026-11-08 · https://www.ithome.com/1/024/011.htm
+• GOOD NEWS 🚖 Tesla Robotaxi just picked up another hour 🔥  Rides now start at 5 A
+  x-ming-tesla · 2026-11-08 · https://www.x.com/tslaming/status/2119347844968767770
+
+【机器人硬件】
+• 亚马逊成立新团队专攻家用机器人，剑指“前所未有”的新产品
+  IT之家 · 2026-11-08 · https://www.ithome.com/1/024/012.htm
+• French carmaker Renault wants to get into the military robot business
+  electrek · 2026-11-08 · https://electrek.co/2026/11/08/french-carmaker-renault-wants-to-get-into-the-military-robot-business/
+
+【AI Agent】
+• Apple is racing to make Siri more agentic
+  theverge · 2026-11-08 · https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
+• Apple Explores Turning Siri AI Into ChatGPT Dots-Like Agent; iOS 28 Shake-Up
+  bloomberg-tech · 2026-11-08 · https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up
+• 蚂蚁集团：旗下 AI 助手灵光用户数量已突破 2000 万，2.0 版本上线一周已帮助用户管理超 116 万项事务
+  IT之家 · 2026-11-08 · https://www.ithome.com/1/024/010.htm
+• 上海交大构建 AI 原生科学实验室 AutoDNA 装置：实现自主分子生物学实验操作，成果登《自然》
+  IT之家 · 2026-11-08 · https://www.ithome.com/1/024/001.htm
+
+【股市动态】
+• Asia Markets Brace for More AI Volatility
+  bloomberg-tech · 2026-11-08 · https://www.bloomberg.com/news/videos/2026-11-08/asia-markets-brace-for-more-ai-volatility-video
+• This market signal called the tech selloff. Now it’s sending another warning.
+  marketwatch-top · 2026-11-08 · https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories
+• Stocks are moving in sync again for the first time in a while. There’s just one 
+  marketwatch-top · 2026-11-08 · https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories
+
+【💰 财经动态】
+• AI 公司迄今最大发电设备采购订单：曝 Anthropic 砸 34 亿美元买燃气发电机
+  IT之家 · 2026-11-08 · https://www.ithome.com/1/023/989.htm
+• Anthropic Buys Power for AI Data Centers in $3.4B Deal, FT Says
+  bloomberg-tech · 2026-11-08 · https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says
+• Neocloud Groq Aims to Double Value to $8 Billion Amid AI Selloff
+  bloomberg-tech · 2026-11-06 · https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff
+• Crusoe sells troubled Wyoming data center project to Google
+  techcrunch-ai · 2026-11-07 · https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/
+• 成都具身智能公司获千万级天使轮融资，基于开源鸿蒙开发机器人大脑｜硬氪首发
+  36氪 · 2026-11-07 · https://www.36kr.com/p/4052696726328452
+• 资本正在撤离"世界模型"：概念溢价消失，钱只给"小天才 + 硬证据"
+  知识库精读 · 2026-11-08 · https://mp.weixin.qq.com/s/8U3Lwbq2q0klDUTIy7LWNQ
+</description>
+      <pubDate>Mon, 09 Nov 2026 05:44:59 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-11-09</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-09.mp3" length="14322250" type="audio/mpeg"/>
+      <itunes:duration>14:55</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/08 AI日报｜OpenAI 完成首批融资/Anthropic 模型曝光/GitHub 存储架构内测</title>
       <description>📋 今日要闻 · 2026-11-08
