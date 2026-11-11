@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 21:49:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:47:35 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,97 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>11/12 AI日报｜字节芯片参数曝光/OpenAI 营收破百亿/谷歌机器人模型进厂</title>
+      <description>📋 今日要闻 · 2026-11-12
+
+【AI 基础设施】
+• 突发！字节自研芯片曝光，首富张一鸣拿下"AI帝国"最后拼图
+  知识库精读 · 2026-11-11 · https://mp.weixin.qq.com/s/bljyhf3AI2w33ilhRwcXSQ
+• Google has unveiled TPU 8i Max, aka Whalefish. One interesting detail is that th
+  x-semianalysis · 2026-11-11 · https://www.x.com/SemiAnalysis_/status/2120578135594791297
+
+【大模型】
+• 谷歌 DeepMind 发布 AlphaGenome 2 基因序列模型：识别致病变异能力提升近一倍
+  IT之家 · 2026-11-11 · https://www.ithome.com/1/025/822.htm
+• AlphaGenome 2: Deciphering how cells read DNA to better understand disease
+  Google DeepMind · 2026-11-11 · https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
+• Google’s AlphaGenome 2 zooms in on the cellular roots of disease
+  theverge · 2026-11-11 · https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model
+• 马斯克旗下 Grok 被指生成儿童色情图像，xAI 面临多起集体诉讼
+  IT之家 · 2026-11-11 · https://www.ithome.com/1/025/809.htm
+• Introducing AlphaProof Code: a breakthrough in verifying complex software at dep
+  Google DeepMind · 2026-11-10 · https://deepmind.google/blog/introducing-alphaproof-code/
+
+【具身智能模型】
+• 蚂蚁灵波开源 LingBot-Touch：把触觉从"传感器选型问题"变成"底座能力问题"
+  知识库精读 · 2026-11-11 · https://mp.weixin.qq.com/s/4wkFimJGvBarCSpdpj0Gxw
+• Fable、Astra走向物理世界，蚂蚁灵波选择从指尖扎根
+  36氪 · 2026-11-11 · https://www.36kr.com/p/4065382332568450
+• Gemini具身RSI发布，御三家连续暴击垂直具身模型，太惨了
+  36氪 · 2026-11-11 · https://www.36kr.com/p/4065200594867076
+• 华人科学家李曼玲团队新作：coding agent的第一场具身考试
+  36氪 · 2026-11-11 · https://www.36kr.com/p/4065008771355778
+
+【智能驾驶】
+• GOOD NEWS 🇫🇮 Finland just greenlit Tesla FSD (Supervised), becoming the 11th EU 
+  x-ming-tesla · 2026-11-11 · https://www.x.com/tslaming/status/2120410989355237646
+• Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker 
+  cnbc-top-news · 2026-11-10 · https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html
+
+【AI 消费硬件与脑机】
+• Talk it through with Gemini, now on Apple CarPlay
+  google-blog · 2026-11-11 · https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/
+• Pixel users are getting a major Android Auto update – and it rivals Siri AI
+  zdnet · 2026-11-11 · https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/
+• Ring cameras go mobile as Amazon debuts AI-powered security drone and robot
+  arstechnica · 2026-11-10 · https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/
+
+【AI Agent】
+• Grok Build coding agent leaks oodles of confidential info, some belonging to Spa
+  arstechnica · 2026-11-10 · https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/
+• A Grok vibe-coding agent leaked sensitive SpaceXSI data
+  engadget · 2026-11-11 · https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/
+• Hire Grok @Bot as a colleague and give it your hardest tasks!
+  x-elonmusk · 2026-11-11 · https://www.x.com/elonmusk/status/2120584535423565889
+• Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth
+  techcrunch-ai · 2026-11-11 · https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/
+
+【💰 财经动态】
+• AI巨头：估值冲刺10万亿元
+  36氪 · 2026-11-11 · https://www.36kr.com/p/4065011380196488
+• Anthropic sets IPO price range of $70 to $78 per share to reach an implied valua
+  techcrunch-ai · 2026-11-10 · https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/
+• What’s Next for Anthropic’s Mega-IPO: Five Things to Watch
+  bloomberg-tech · 2026-11-11 · https://www.bloomberg.com/news/articles/2026-11-11/what-s-next-for-anthropic-s-mega-ipo-five-things-to-watch
+• Anthropic IPO Demand Surges as CoreWeave Calms AI Fears
+  bloomberg-tech · 2026-11-11 · https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-tech-11-10-2026-video
+• 高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列
+  IT之家 · 2026-11-10 · https://www.ithome.com/1/025/190.htm
+• CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns
+  cnbc-top-news · 2026-11-10 · https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html
+• $CRWV ER and read through for $NBIS and other Neoclouds:  “We have 10x as much q
+  x-serenity · 2026-11-11 · https://www.x.com/aleabitoreddit/status/2120391635737649423
+• CoreWeave turns to customer prepayments, shorter contracts to fund AI growth
+  techcrunch-ai · 2026-11-11 · https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/
+• CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program
+  cnbc-markets · 2026-11-11 · https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html
+• OpenAI’s quarterly revenue reportedly crosses $10B for the first time
+  techcrunch-ai · 2026-11-11 · https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+• OpenAI Acquires Odessia, travel startup created by Sonder founder
+  techcrunch-ai · 2026-11-10 · https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
+• 沐曦和优必选联姻造具身芯片，消息称合资公司曦选创智融资 5 亿元
+  IT之家 · 2026-11-11 · https://www.ithome.com/1/025/807.htm
+• With $720M round, Britain’s Fractile gets a leg up in the race for AI chips
+  techcrunch-ai · 2026-11-11 · https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
+</description>
+      <pubDate>Thu, 12 Nov 2026 05:47:35 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-11-12</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-12.mp3" length="12744036" type="audio/mpeg"/>
+      <itunes:duration>13:16</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/11 AI日报｜阿里分拆平头哥上市/Google 扩充 TPU 线/美国数据中心遭取消</title>
       <description>📋 今日要闻 · 2026-11-11
