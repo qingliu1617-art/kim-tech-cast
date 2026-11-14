@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 21:44:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 23:27:21 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,57 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>11/15 AI日报｜黄仁勋辞任英伟达CEO/千问发布 Qwen4 预览版/Kitesurf 浏览器开源</title>
+      <description>📋 今日要闻 · 2026-11-15
+
+【大模型】
+• 姚顺雨之后，该刘大一恒交作业了
+  36氪 · 2026-11-13 · https://www.36kr.com/p/4067903659808642
+• BAT 新旗舰杀回第一阵营，压力来到字节这边
+  36氪 · 2026-11-12 · https://www.36kr.com/p/4066600283445122
+• MiniMax，狂卷字节、OpenAI
+  36氪 · 2026-11-13 · https://www.36kr.com/p/4068067240334466
+• 科大讯飞星火语音基座大模型 SparkAudio 1.0 上线 API 服务，支持 99 种语言、202 种方言
+  IT之家 · 2026-11-12 · https://www.ithome.com/1/026/386.htm
+• AI能从DNA锁定致病细胞了，谷歌AlphaGenome 2帮助糖尿病癌症寻找新药靶点
+  36氪 · 2026-11-12 · https://www.36kr.com/p/4066677385515911
+
+【智能驾驶】
+• BOOM 🚖  Elon Musk just replied to MKBHD’s Cybercab post, and future owners are g
+  x-ming-tesla · 2026-11-14 · https://www.x.com/tslaming/status/2121512386301772250
+
+【AI 消费硬件与脑机】
+• Why Apple's HomeView relies so heavily on your iPhone
+  engadget · 2026-11-13 · https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/
+
+【AI Agent】
+• Cloudflare 开源为 AI 智能体打造的浏览器 Kitesurf，消耗资源低于 Chromium
+  IT之家 · 2026-11-14 · https://www.ithome.com/1/027/197.htm
+
+【💰 财经动态】
+• 黄仁勋离职，有家公司做梦都能笑醒
+  36氪 · 2026-11-14 · https://www.36kr.com/p/4069303772222345
+• 97%支持率，最怕黄仁勋离开的，为何是员工？
+  36氪 · 2026-11-13 · https://www.36kr.com/p/4068057502831493
+• Nvidia board urged to consider 'potential return of Jensen Huang' by two major i
+  cnbc-top-news · 2026-11-14 · https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html
+• Anthropic CEO Calls Computing Power Deepest Business Dilemma
+  bloomberg-tech · 2026-11-13 · https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma
+• Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is i
+  cnbc-top-news · 2026-11-13 · https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html
+• 新云“靓仔”Nebius：光鲜外面下也满是“虱子”
+  36氪 · 2026-11-13 · https://www.36kr.com/p/4067679007413377
+• AI agent startup LangChain hits $3B valuation
+  techcrunch-ai · 2026-11-13 · https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
+</description>
+      <pubDate>Sun, 15 Nov 2026 07:27:21 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-11-15</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-15.mp3" length="9623553" type="audio/mpeg"/>
+      <itunes:duration>10:01</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/14 AI日报｜黄仁勋辞去 CEO/Claude 提示词外泄/ChatGPT 上线钱包</title>
       <description>📋 今日要闻 · 2026-11-14

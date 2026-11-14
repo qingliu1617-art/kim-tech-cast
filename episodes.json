@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-15",
+    "guid": "ai-daily-2026-11-15",
+    "title": "11/15 AI日报｜黄仁勋辞任英伟达CEO/千问发布 Qwen4 预览版/Kitesurf 浏览器开源",
+    "description": "📋 今日要闻 · 2026-11-15\n\n【大模型】\n• 姚顺雨之后，该刘大一恒交作业了\n  36氪 · 2026-11-13 · https://www.36kr.com/p/4067903659808642\n• BAT 新旗舰杀回第一阵营，压力来到字节这边\n  36氪 · 2026-11-12 · https://www.36kr.com/p/4066600283445122\n• MiniMax，狂卷字节、OpenAI\n  36氪 · 2026-11-13 · https://www.36kr.com/p/4068067240334466\n• 科大讯飞星火语音基座大模型 SparkAudio 1.0 上线 API 服务，支持 99 种语言、202 种方言\n  IT之家 · 2026-11-12 · https://www.ithome.com/1/026/386.htm\n• AI能从DNA锁定致病细胞了，谷歌AlphaGenome 2帮助糖尿病癌症寻找新药靶点\n  36氪 · 2026-11-12 · https://www.36kr.com/p/4066677385515911\n\n【智能驾驶】\n• BOOM 🚖  Elon Musk just replied to MKBHD’s Cybercab post, and future owners are g\n  x-ming-tesla · 2026-11-14 · https://www.x.com/tslaming/status/2121512386301772250\n\n【AI 消费硬件与脑机】\n• Why Apple's HomeView relies so heavily on your iPhone\n  engadget · 2026-11-13 · https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/\n\n【AI Agent】\n• Cloudflare 开源为 AI 智能体打造的浏览器 Kitesurf，消耗资源低于 Chromium\n  IT之家 · 2026-11-14 · https://www.ithome.com/1/027/197.htm\n\n【💰 财经动态】\n• 黄仁勋离职，有家公司做梦都能笑醒\n  36氪 · 2026-11-14 · https://www.36kr.com/p/4069303772222345\n• 97%支持率，最怕黄仁勋离开的，为何是员工？\n  36氪 · 2026-11-13 · https://www.36kr.com/p/4068057502831493\n• Nvidia board urged to consider 'potential return of Jensen Huang' by two major i\n  cnbc-top-news · 2026-11-14 · https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html\n• Anthropic CEO Calls Computing Power Deepest Business Dilemma\n  bloomberg-tech · 2026-11-13 · https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma\n• Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is i\n  cnbc-top-news · 2026-11-13 · https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html\n• 新云“靓仔”Nebius：光鲜外面下也满是“虱子”\n  36氪 · 2026-11-13 · https://www.36kr.com/p/4067679007413377\n• AI agent startup LangChain hits $3B valuation\n  techcrunch-ai · 2026-11-13 · https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/\n",
+    "pub_date": "Sun, 15 Nov 2026 07:27:21 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-15.mp3",
+    "audio_size": 9623553,
+    "audio_mime": "audio/mpeg",
+    "duration": "10:01",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-11-14",
     "guid": "ai-daily-2026-11-14",
     "title": "11/14 AI日报｜黄仁勋辞去 CEO/Claude 提示词外泄/ChatGPT 上线钱包",
