@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-16",
+    "guid": "ai-daily-2026-11-16",
+    "title": "11/16 AI日报｜盟国共护AI供应链/华为云上线开源盘古/苹果眼镜定档WWDC",
+    "description": "📋 今日要闻 · 2026-11-16\n\n【AI 基础设施】\n• US, Allies Agree to Guard AI Supply Chains From China, FT Says\n  bloomberg-tech · 2026-11-15 · https://www.bloomberg.com/news/articles/2026-11-15/us-allies-agree-to-guard-ai-supply-chains-from-china-ft-says\n\n【大模型】\n• 开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级\n  IT之家 · 2026-11-15 · https://www.ithome.com/1/027/450.htm\n\n【智能驾驶】\n• 2026-11-15 Ming+马斯克 Tesla 动态\n  知识库精读 · 2026-11-15 · https://x.com/tslaming）、马斯克（https://x.com/elonmusk）的\n• High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine\n  electrek · 2026-11-15 · https://electrek.co/2026/11/15/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-tibetan-mine/\n• GOOD NEWS 🚖 While everyone was glued to Starship Flight 15, Tesla snuck 4 more M\n  x-ming-tesla · 2026-11-15 · https://www.x.com/tslaming/status/2121938287430623393\n\n【AI 消费硬件与脑机】\n• Apple’s first smart glasses are coming together\n  theverge · 2026-11-15 · https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together\n• Apple Siri AI App Integrations Power Smart Glasses, iPhone Duo 2 Face ID Plan\n  bloomberg-tech · 2026-11-15 · https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan\n\n【AI Agent】\n• Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户\n  IT之家 · 2026-11-14 · https://www.ithome.com/1/027/215.htm\n• 开源欧拉 openEuler 发布面向 Agentic Infra 的操作系统，国内累计装机量预计超 2200 万套\n  IT之家 · 2026-11-13 · https://www.ithome.com/1/026/911.htm\n\n【💰 财经动态】\n• 英伟达，还有比黄仁勋离任更大的麻烦\n  36氪 · 2026-11-13 · https://www.36kr.com/p/4068070220257154\n• 华尔街：算力生态下一轮融资将更难、更贵……\n  36氪 · 2026-11-13 · https://www.36kr.com/p/4068135542199175\n• 国产芯片融资潮，来势凶猛\n  知识库精读 · 2026-11-15 · https://mp.weixin.qq.com/s/AT0E4rU5UA2yEe96WzpKVQ\n• SpaceXAI 资源向 AI 编程工具与 Grok Bot 倾斜，消息称裁减约 60 名 Grok Imagine 员工\n  IT之家 · 2026-11-13 · https://www.ithome.com/1/026/961.htm\n• Firmus Plans to Raise $3 Billion After IPO Collapse, AFR Says\n  bloomberg-tech · 2026-11-15 · https://www.bloomberg.com/news/articles/2026-11-15/firmus-plans-to-raise-3-billion-after-ipo-collapse-afr-says\n• VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake\n  bloomberg-tech · 2026-11-15 · https://www.bloomberg.com/news/articles/2026-11-15/vc-firm-run-by-madonna-s-manager-has-7-billion-anthropic-stake\n\n【🎙️ 关键人物：Todd】\n• 188 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖\n  知识库精读 · 2026-11-15 · https://www.xiaoyuzhoufm.com/episode/6af929a13259e0f6e2c2c84d\n",
+    "pub_date": "Mon, 16 Nov 2026 05:41:15 +0800",
+    "audio_url": "https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-16.mp3",
+    "audio_size": 11720036,
+    "audio_mime": "audio/mpeg",
+    "duration": "12:12",
+    "cover_url": "https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"
+  },
+  {
     "date": "2026-11-15",
     "guid": "ai-daily-2026-11-15",
     "title": "11/15 AI日报｜黄仁勋辞任英伟达CEO/千问发布 Qwen4 预览版/Kitesurf 浏览器开源",
