@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 21:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:21:04 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,105 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>11/18 AI日报｜OpenAI 出货/GPT-6 发布/Cybercab 交付</title>
+      <description>📋 今日要闻 · 2026-11-18
+
+【AI 基础设施】
+• 微软自研芯片 Maia 200 投入生产：每瓦 token 性能提升 1.7 倍
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/597.htm
+• 黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/566.htm
+• Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO
+  techcrunch-ai · 2026-11-17 · https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/
+• Nvidia is abandoning China after Jensen Huang’s ouster
+  techcrunch-ai · 2026-11-17 · https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/
+• Google TPU update: New OpenAI and Anthropic orders extend shipment visibility to
+  x-mingchi-kuo · 2026-11-16 · https://www.x.com/mingchikuo/status/2122133109630194098
+
+【大模型】
+• Introducing GPT-6.2 Astra and Sol
+  OpenAI Blog · 2026-11-17 · https://openai.com/index/introducing-gpt-6-2-astra-sol
+• Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/577.htm
+• GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤
+  36氪 · 2026-11-17 · https://www.36kr.com/p/4074475449062281
+• 6.2 Sol and Astra are out.  These models can do amazing things and are very toke
+  x-sama · 2026-11-17 · https://www.x.com/sama/status/2122798039899263456
+• OpenAI sued by California after admitting to 80 loss-of-control incidents
+  arstechnica · 2026-11-17 · https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/
+
+【具身智能模型】
+• GPT控制机械臂太危险，把菜刀悬在人手上，手机丢进水里
+  36氪 · 2026-11-17 · https://www.36kr.com/p/4073723651495043
+
+【智能驾驶】
+• Waymo halts highway operation nationwide after CA DMV pause
+  electrek · 2026-11-17 · https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/
+• Waymo is pausing all freeway rides after California DMV says the robotaxis are '
+  engadget · 2026-11-17 · https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/
+• Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home
+  electrek · 2026-11-17 · https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/
+• Tesla Cybercab has crashed 8 times, and the data shows a speed problem
+  electrek · 2026-11-16 · https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/
+
+【机器人硬件】
+• 靠机器人缓解成本压力，通用汽车计划到 2028 年将北美工厂自动化规模提升 20%
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/561.htm
+
+【AI 消费硬件与脑机】
+• 华为 Mate 90 系列手机 AI 快捷栏全新交互体验曝光，与星芒 OSTA O1 Pro 风格完全不同
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/571.htm
+• 小米 18 Pro 系列手机国际版正式发布：把背屏带向海外，1399 欧元起
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/564.htm
+• 强脑科技 CEO 韩璧丞：未来人们有望用大脑直接控制手机、电脑
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/538.htm
+
+【AI Agent】
+• Google expands access to Gemini Tasks, which can help with calls, purchases
+  techcrunch-ai · 2026-11-17 · https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/
+• Grok Bot took unapproved actions, ignored orders to stop, and then denied it
+  arstechnica · 2026-11-17 · https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/
+• Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace upd
+  zdnet · 2026-11-17 · https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/
+• Microsoft wants to put a dollar value on AI’s work – but can you trust the math?
+  zdnet · 2026-11-17 · https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/
+• More ways to move care forward with ChatGPT for Healthcare
+  OpenAI Blog · 2026-11-16 · https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare
+
+【💰 财经动态】
+• 英伟达 Q3 电话会议：公司业务一切照常，不会急于寻找黄仁勋继任者
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/594.htm
+• 英伟达公布黄仁勋离职后的首份财报：2027 财年前三季度归母净利润 1832.97 亿美元同比增长 137.72%，Q3 营收 1158.44 亿美元同比增长 
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/575.htm
+• 英伟达董事会主席明确表态：无意让黄仁勋回归重新担任 CEO
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/580.htm
+• Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit
+  techcrunch-ai · 2026-11-17 · https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/
+• Nvidia Does Not Intend to Bring Back Huang as CEO, Chair Says
+  bloomberg-tech · 2026-11-17 · https://www.bloomberg.com/news/videos/2026-11-17/nvidia-chair-says-huang-isn-t-coming-back-as-ceo-video
+• Anthropic likely to price IPO above the current range of $70 to $78, sources tel
+  cnbc-top-news · 2026-11-17 · https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html
+• Amazon and Google will together own nearly 30% of Anthropic after its IPO
+  techcrunch-ai · 2026-11-17 · https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/
+• Alphabet 旗下药物 AI 企业 Isomorphic Labs 完成 50 亿美元 C 轮融资
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/533.htm
+• Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trial
+  techcrunch-ai · 2026-11-17 · https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/
+• Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year
+  electrek · 2026-11-16 · https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/
+
+【🎙️ 关键人物：刘松铭】
+• 187 对话 LiberAI 刘松铭：Astra 来袭，00 后物理 AI 创始人看到的胜率
+  知识库精读 · 2026-11-15 · https://www.xiaoyuzhoufm.com/episode/6af5e82d3caef3b52f54e5d0
+</description>
+      <pubDate>Wed, 18 Nov 2026 08:21:04 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-11-18</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-18.mp3" length="18204673" type="audio/mpeg"/>
+      <itunes:duration>18:58</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/16 AI日报｜盟国共护AI供应链/华为云上线开源盘古/苹果眼镜定档WWDC</title>
       <description>📋 今日要闻 · 2026-11-16
