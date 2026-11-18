@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 00:21:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:52:05 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,105 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>11/19 AI日报｜英伟达上修营收指引/Anthropic 挂牌上市/WorkBuddy 日活破千万</title>
+      <description>📋 今日要闻 · 2026-11-19
+
+【AI 基础设施】
+• Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity
+  wired-ai · 2026-11-18 · https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/
+• Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands
+  cnbc-top-news · 2026-11-18 · https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html
+• Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm
+  bloomberg-tech · 2026-11-18 · https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm
+• Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents
+  NVIDIA Blog · 2026-11-17 · https://blogs.nvidia.com/blog/ian-buck-sc26/
+
+【大模型】
+• 拖更两个月的GPT-6.2，居然是一个“汇报狂魔”？
+  36氪 · 2026-11-18 · https://www.36kr.com/p/4074882625590151
+• GPT-6.2 实测：强得离谱，但又难用得要死
+  36氪 · 2026-11-18 · https://www.36kr.com/p/4075007825450116
+• 微软首款语音对语音模型：MAI Realtime 1 登场，起价每分钟 0.01 美元
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/588.htm
+• “全球第一修图 AI 模型”：微软 MAI Image 2.7 登场，用 1/5 价格击败 GPT Image 2.6 登顶
+  IT之家 · 2026-11-17 · https://www.ithome.com/1/028/582.htm
+• Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost
+  zdnet · 2026-11-17 · https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/
+
+【具身智能模型】
+• Genie 4 is now available
+  Google DeepMind · 2026-11-18 · https://deepmind.google/blog/genie-4-is-now-available/
+
+【智能驾驶】
+• Tesla’s $30,000 Cybercab comes with a $299 monthly catch
+  arstechnica · 2026-11-18 · https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/
+• Waymo pulls driverless taxis from all US freeways
+  bbc-tech · 2026-11-18 · https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&amp;at_campaign=rss
+• APP NEWS 🚨 Tesla Robotaxi app iOS 26.11.1 is out, and a look inside the app reve
+  x-ming-tesla · 2026-11-17 · https://www.x.com/tslaming/status/2122677019611709594
+
+【机器人硬件】
+• 消息称三星电子计划在 CES 2027 发布 2 款人形机器人
+  IT之家 · 2026-11-18 · https://www.ithome.com/1/029/087.htm
+
+【AI 消费硬件与脑机】
+• 微星 RTX Spark 迷你主机 EdgeMesa N AI+ 上市：64GB + 1TB 售 33999 元
+  IT之家 · 2026-11-18 · https://www.ithome.com/1/029/111.htm
+• NVIDIA RTX Spark Compact Desktops Out Now
+  NVIDIA Blog · 2026-11-18 · https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/
+• Snapchat now lets developers build AR Lenses with AI assistants like Claude Code
+  techcrunch-ai · 2026-11-18 · https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/
+• Xreal Aura review: Solid AR glasses hampered by Google's half-baked Android XR
+  engadget · 2026-11-18 · https://www.engadget.com/2320945/xreal-aura-review/
+
+【AI Agent】
+• 腾讯 WorkBuddy 日活破千万，一个什么信号？
+  36氪 · 2026-11-18 · https://www.36kr.com/p/4075162266735752
+• Copilot is "the new OS for work," and now Office runs inside of it
+  arstechnica · 2026-11-18 · https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/
+• 一年卖了5000万，第一批明星AI产品还是下线了
+  36氪 · 2026-11-18 · https://www.36kr.com/p/4075177978909826
+• Lovable Wants You to Vibe Code Your Dream Job
+  wired-ai · 2026-11-18 · https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/
+
+【股市动态】
+• Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick pro
+  cnbc-top-news · 2026-11-18 · https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html
+
+【💰 财经动态】
+• 英伟达 NVIDIA (NVDA) FY2027 Q3 财报中文总结
+  知识库精读 · 2026-11-18 · https://xcn43uxn9onn.feishu.cn/wiki/SRfOwf2tLi1kYdkIiOvceQjVncV
+• 英伟达澄清新云厂商融资担保规则：担保有生效条件，后续筛选对象将更加审慎
+  IT之家 · 2026-11-18 · https://www.ithome.com/1/029/079.htm
+• Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live upda
+  cnbc-top-news · 2026-11-17 · https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html
+• Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren
+  cnbc-top-news · 2026-11-18 · https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html
+• Anthropic prices IPO at $83 per share, above expected range, source tells CNBC
+  cnbc-top-news · 2026-11-18 · https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html
+• Anthropic 上市，三个预测
+  36氪 · 2026-11-18 · https://www.36kr.com/p/4074702021252740
+• 腾讯：更多企业转向国产芯片，将助推国内供应链建设提速
+  IT之家 · 2026-11-18 · https://www.ithome.com/1/029/124.htm
+• 腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是第二季度的 5 倍以上
+  IT之家 · 2026-11-18 · https://www.ithome.com/1/029/110.htm
+• 腾讯高管：预计 2028 年 AI 投入产出效率改善，得益于基础设施复用、硬件降价与算力效率提升
+  IT之家 · 2026-11-18 · https://www.ithome.com/1/029/080.htm
+• 腾讯：受芯片限制影响，训练下一代模型将需要更长时间
+  IT之家 · 2026-11-18 · https://www.ithome.com/1/029/066.htm
+• 刚刚，诺奖得主的AI公司融了333亿
+  36氪 · 2026-11-17 · https://www.36kr.com/p/4074448317305984
+• Palo Alto Networks to Buy Applied Compute in $4.5 Billion Deal
+  bloomberg-tech · 2026-11-18 · https://www.bloomberg.com/news/articles/2026-11-18/palo-alto-networks-to-buy-applied-compute-in-4-5-billion-deal
+</description>
+      <pubDate>Thu, 19 Nov 2026 05:52:05 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-11-19</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-19.mp3" length="18006560" type="audio/mpeg"/>
+      <itunes:duration>18:45</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/18 AI日报｜OpenAI 出货/GPT-6 发布/Cybercab 交付</title>
       <description>📋 今日要闻 · 2026-11-18
