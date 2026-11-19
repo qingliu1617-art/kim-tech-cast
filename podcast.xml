@@ -9,7 +9,7 @@
     <description>AI 一日,人间一年。每日 10 分钟,纵览模型、产品、算力、应用、投融资与前沿趋势,AI 从业者精心挑选,多板块梳理,一站式掌握 AI 行业关键动态。</description>
     <language>zh-CN</language>
     <copyright>© 2026 Kim</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 21:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:46:36 +0000</lastBuildDate>
     <atom:link href="https://qingliu1617-art.github.io/kim-tech-cast/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Kim</itunes:author>
@@ -24,6 +24,105 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>11/20 AI日报｜Anthropic 敲钟上市/OpenAI 称闭环成型/人形机器人标准实施</title>
+      <description>📋 今日要闻 · 2026-11-20
+
+【AI 基础设施】
+• AMD 推出 Instinct MI450X 显卡加速器：MI455X 同核心规格，显存降至 288GB HBM4
+  IT之家 · 2026-11-18 · https://www.ithome.com/1/029/084.htm
+
+【大模型】
+• Introducing Gemini 4 Neon
+  Google DeepMind · 2026-11-18 · https://deepmind.google/blog/introducing-gemini-4-neon/
+• 「北美大豆包」谷歌，终于杀回 AI 牌桌中央
+  36氪 · 2026-11-19 · https://www.36kr.com/p/4076058991219589
+• $GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO.
+  x-serenity · 2026-11-18 · https://www.x.com/aleabitoreddit/status/2123173088598938033
+• 思维链之父Jason Wei离开Meta，加盟200亿美元AI独角兽
+  36氪 · 2026-11-18 · https://www.36kr.com/p/4074803713954695
+
+【具身智能模型】
+• OpenAI印证了梁文锋的“预言”
+  36氪 · 2026-11-19 · https://www.36kr.com/p/4076518957979271
+• 世界模型，猛攻一生爱出片的中国人
+  36氪 · 2026-11-19 · https://www.36kr.com/p/4076130906919814
+
+【智能驾驶】
+• BOOM 🚖 Tesla is inviting more customers in Texas to order Cybercabs for personal
+  x-ming-tesla · 2026-11-19 · https://www.x.com/tslaming/status/2123328731792191599
+• BOOM 🚖 Tesla’s upcoming Cybercab launch in Dallas looks set to feature vehicles 
+  x-ming-tesla · 2026-11-19 · https://www.x.com/tslaming/status/2123445800395276427
+• 哈啰调整 Robotaxi 组织架构：整合成立“模型开发与数据闭环部”，由 CEO 杨磊直接负责
+  IT之家 · 2026-11-18 · https://www.ithome.com/1/029/117.htm
+
+【机器人硬件】
+• 工业和信息化部发布5项人形机器人领域行业标准——智能化能力分级、训练场构建标准解读
+  36氪 · 2026-11-19 · https://www.36kr.com/p/4076568022537350
+
+【AI 消费硬件与脑机】
+• Nothing 首款 AI 设备外观流出：无屏设计，形似录音笔
+  IT之家 · 2026-11-19 · https://www.ithome.com/1/029/705.htm
+• Meta’s Muse Charm might cost $300
+  theverge · 2026-11-19 · https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price
+• Dutch watchdog tells people not to buy AI smart glasses
+  bbc-tech · 2026-11-19 · https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&amp;at_campaign=rss
+• Pebble Index 01 AI ring review: When a single feature becomes the product
+  engadget · 2026-11-19 · https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/
+
+【AI Agent】
+• OpenAI自曝递归自我提升，智能体指数级爆发，人类已成瓶颈
+  36氪 · 2026-11-19 · https://www.36kr.com/p/4076622726714244
+• Google gives Gemini the ability to use your Mac for you
+  techcrunch-ai · 2026-11-19 · https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/
+• Google’s Gemini Can Now Control Mac Devices on Users’ Behalf
+  bloomberg-tech · 2026-11-19 · https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf
+• Claude 杀疯了，催生了一场海外租电脑的狂欢
+  36氪 · 2026-11-19 · https://www.36kr.com/p/4076354458802050
+
+【💰 财经动态】
+• We’ve priced our IPO at $83 per share, with trading expected to begin on Nasdaq 
+  x-anthropic · 2026-11-18 · https://www.x.com/AnthropicAI/status/2123196808675405860
+• Anthropic raises $81bn in record-breaking stock market debut
+  bbc-tech · 2026-11-19 · https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss
+• Anthropic Makes Trading Debut With Record Breaking IPO
+  bloomberg-tech · 2026-11-19 · https://www.bloomberg.com/news/videos/2026-11-19/anthropic-makes-trading-debut-with-record-breaking-ipo-video
+• Anthropic Begins Trading on Nasdaq at $111.50
+  bloomberg-tech · 2026-11-19 · https://www.bloomberg.com/news/videos/2026-11-19/anthropic-begins-trading-on-nasdaq-at-111-50-video
+• Anthropic Shares Soar Above IPO Price, Then Fall
+  bloomberg-tech · 2026-11-19 · https://www.bloomberg.com/news/videos/2026-11-19/anthropic-shares-soar-above-ipo-price-then-fall-video
+• Anthropic closes first day at $97.17 per share in landmark moment for AI: IPO li
+  cnbc-top-news · 2026-11-19 · https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html
+• 当智能开始量产，从Anthropic上市看大模型的六个趋势
+  36氪 · 2026-11-19 · https://www.36kr.com/p/4076425441416067
+• Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thi
+  theverge · 2026-11-17 · https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang
+• Nvidia reports bumper results as firm says it's not reinstating Huang
+  bbc-tech · 2026-11-17 · https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss
+• Nvidia Boosts Forecast While Quashing Idea of Huang’s Return
+  bloomberg-tech · 2026-11-17 · https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings
+• SEC reportedly investigating Nvidia amid Huang exit
+  techcrunch-ai · 2026-11-17 · https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/
+• Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals i
+  techcrunch-ai · 2026-11-18 · https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/
+• 吴泳铭：阿里“2032 年全球数据中心规模超 20GW”目标或下调
+  IT之家 · 2026-11-19 · https://www.ithome.com/1/029/702.htm
+• 商汤 2026 年前三季度营收 37.92 亿元，同比增长 30.4%
+  IT之家 · 2026-11-18 · https://www.ithome.com/1/029/088.htm
+• 三个月四轮，估值近百亿，浙大、阿里系具身大脑公司再获新融资｜硬氪首发
+  36氪 · 2026-11-19 · https://www.36kr.com/p/4075109837149321
+• Model ML raises $250M to automate investment banking grunt work
+  techcrunch-ai · 2026-11-17 · https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/
+• Science Corporation’s brain tech is worth $3.5 billion after new funding
+  techcrunch-ai · 2026-11-17 · https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/
+</description>
+      <pubDate>Fri, 20 Nov 2026 05:46:36 +0800</pubDate>
+      <guid isPermaLink="false">ai-daily-2026-11-20</guid>
+      <enclosure url="https://qingliu1617-art.github.io/kim-tech-cast/audio/2026-11-20.mp3" length="16916105" type="audio/mpeg"/>
+      <itunes:duration>17:37</itunes:duration>
+      <itunes:image href="https://qingliu1617-art.github.io/kim-tech-cast/covers/cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11/19 AI日报｜英伟达上修营收指引/Anthropic 挂牌上市/WorkBuddy 日活破千万</title>
       <description>📋 今日要闻 · 2026-11-19
